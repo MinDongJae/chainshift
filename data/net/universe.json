@@ -1,0 +1,8589 @@
+{
+"companies": {
+"AFLAC INC": {
+"issuer": "AFLAC INC",
+"tickers": [
+[
+"AFL",
+27961546.0
+]
+],
+"value": 27961546.0,
+"type": "Common Stock",
+"ticker": "AFL",
+"w": 0.053098264435065164
+},
+"AT&amp;T INC": {
+"issuer": "AT&amp;T INC",
+"tickers": [
+[
+"T",
+83990147.0
+]
+],
+"value": 83990147.0,
+"type": "Common Stock",
+"ticker": "T",
+"w": 0.15949515221175523
+},
+"AST SPACEMOBILE INC": {
+"issuer": "AST SPACEMOBILE INC",
+"tickers": [
+[
+"ASTS",
+6027463.0
+]
+],
+"value": 6027463.0,
+"type": "Common Stock",
+"ticker": "ASTS",
+"w": 0.011445998881698859
+},
+"ABBOTT LABORATORIES": {
+"issuer": "ABBOTT LABORATORIES",
+"tickers": [
+[
+"ABT",
+79616456.0
+]
+],
+"value": 79616456.0,
+"type": "Common Stock",
+"ticker": "ABT",
+"w": 0.15118962428153046
+},
+"ABBVIE INC": {
+"issuer": "ABBVIE INC",
+"tickers": [
+[
+"ABBV",
+324892907.0
+]
+],
+"value": 324892907.0,
+"type": "Common Stock",
+"ticker": "ABBV",
+"w": 0.6169633642203844
+},
+"ADOBE INC": {
+"issuer": "ADOBE INC",
+"tickers": [
+[
+"ADBE",
+48745145.0
+]
+],
+"value": 48745145.0,
+"type": "Common Stock",
+"ticker": "ADBE",
+"w": 0.09256579014392104
+},
+"ADVANCED MICRO DEVICES INC": {
+"issuer": "ADVANCED MICRO DEVICES INC",
+"tickers": [
+[
+"AMD",
+671968804.0
+]
+],
+"value": 671968804.0,
+"type": "Common Stock",
+"ticker": "AMD",
+"w": 1.276051662054254
+},
+"AEROVIRONMENT INC": {
+"issuer": "AEROVIRONMENT INC",
+"tickers": [
+[
+"AVAV",
+54901457.0
+]
+],
+"value": 54901457.0,
+"type": "Common Stock",
+"ticker": "AVAV",
+"w": 0.10425646999834556
+},
+"AFFIRM HLDGS INC": {
+"issuer": "AFFIRM HLDGS INC",
+"tickers": [
+[
+"AFRM",
+8865382.0
+]
+],
+"value": 8865382.0,
+"type": "Common Stock",
+"ticker": "AFRM",
+"w": 0.016835134858203725
+},
+"AGILENT TECHNOLOGIES INC": {
+"issuer": "AGILENT TECHNOLOGIES INC",
+"tickers": [
+[
+"A",
+15433518.0
+]
+],
+"value": 15433518.0,
+"type": "Common Stock",
+"ticker": "A",
+"w": 0.02930785801068861
+},
+"AGNICO EAGLE MINES LTD": {
+"issuer": "AGNICO EAGLE MINES LTD",
+"tickers": [
+[
+"AEM",
+73041477.0
+]
+],
+"value": 73041477.0,
+"type": "Common Stock",
+"ticker": "AEM",
+"w": 0.13870390644615038
+},
+"AIRBNB INC": {
+"issuer": "AIRBNB INC",
+"tickers": [
+[
+"ABNB",
+50560235.0
+]
+],
+"value": 50560235.0,
+"type": "Common Stock",
+"ticker": "ABNB",
+"w": 0.09601259987301979
+},
+"AIR PRODUCTS AND CHEMICALS I": {
+"issuer": "AIR PRODUCTS AND CHEMICALS I",
+"tickers": [
+[
+"APD",
+24613634.0
+]
+],
+"value": 24613634.0,
+"type": "Common Stock",
+"ticker": "APD",
+"w": 0.046740664727190365
+},
+"ALAMOS GOLD INC": {
+"issuer": "ALAMOS GOLD INC",
+"tickers": [
+[
+"AGI",
+7736515.0
+]
+],
+"value": 7736515.0,
+"type": "Common Stock",
+"ticker": "AGI",
+"w": 0.014691445146697117
+},
+"ALBERTSONS COMPANIES INC": {
+"issuer": "ALBERTSONS COMPANIES INC",
+"tickers": [
+[
+"ACI",
+6192519.0
+]
+],
+"value": 6192519.0,
+"type": "Common Stock",
+"ticker": "ACI",
+"w": 0.011759436026218484
+},
+"ALIBABA GROUP HLDG LTD": {
+"issuer": "ALIBABA GROUP HLDG LTD",
+"tickers": [
+[
+"BABA",
+1053476.0
+]
+],
+"value": 1053476.0,
+"type": "Depositary Receipt",
+"ticker": "BABA",
+"w": 0.0020005241206618087
+},
+"ALLIANT ENERGY CORP": {
+"issuer": "ALLIANT ENERGY CORP",
+"tickers": [
+[
+"LNT",
+9737045.0
+]
+],
+"value": 9737045.0,
+"type": "Common Stock",
+"ticker": "LNT",
+"w": 0.018490400717690255
+},
+"ALLSTATE CORP": {
+"issuer": "ALLSTATE CORP",
+"tickers": [
+[
+"ALL",
+21741768.0
+]
+],
+"value": 21741768.0,
+"type": "Common Stock",
+"ticker": "ALL",
+"w": 0.04128706426139091
+},
+"ALNYLAM PHARMACEUTICALS INC": {
+"issuer": "ALNYLAM PHARMACEUTICALS INC",
+"tickers": [
+[
+"ALNY",
+74553090.0
+]
+],
+"value": 74553090.0,
+"type": "Common Stock",
+"ticker": "ALNY",
+"w": 0.14157442107354193
+},
+"ALPHABET INC": {
+"issuer": "ALPHABET INC",
+"tickers": [
+[
+"GOOG",
+1169167910.0
+],
+[
+"GOOGL",
+1476132867.0
+]
+],
+"value": 2645300777.0,
+"type": "Common Stock",
+"ticker": "GOOGL",
+"w": 5.023358871767296
+},
+"OKLO INC": {
+"issuer": "OKLO INC",
+"tickers": [
+[
+"OKLO",
+700751.0
+]
+],
+"value": 700751.0,
+"type": "Common Stock",
+"ticker": "OKLO",
+"w": 0.0013307083199597172
+},
+"ALTRIA GROUP INC": {
+"issuer": "ALTRIA GROUP INC",
+"tickers": [
+[
+"MO",
+53499142.0
+]
+],
+"value": 53499142.0,
+"type": "Common Stock",
+"ticker": "MO",
+"w": 0.1015935094921111
+},
+"AMAZON COM INC": {
+"issuer": "AMAZON COM INC",
+"tickers": [
+[
+"AMZN",
+1666166060.0
+]
+],
+"value": 1666166060.0,
+"type": "Common Stock",
+"ticker": "AMZN",
+"w": 3.164006956074984
+},
+"AMEREN CORP": {
+"issuer": "AMEREN CORP",
+"tickers": [
+[
+"AEE",
+17951091.0
+]
+],
+"value": 17951091.0,
+"type": "Common Stock",
+"ticker": "AEE",
+"w": 0.03408866508368023
+},
+"AMENTUM HOLDINGS INC": {
+"issuer": "AMENTUM HOLDINGS INC",
+"tickers": [
+[
+"AMTM",
+16143.0
+]
+],
+"value": 16143.0,
+"type": "Common Stock",
+"ticker": "AMTM",
+"w": 3.065514627750758e-05
+},
+"AMERICAN ELEC PWR CO INC": {
+"issuer": "AMERICAN ELEC PWR CO INC",
+"tickers": [
+[
+"AEP",
+50493561.0
+]
+],
+"value": 50493561.0,
+"type": "Common Stock",
+"ticker": "AEP",
+"w": 0.09588598764339044
+},
+"AMERICAN EXPRESS CO": {
+"issuer": "AMERICAN EXPRESS CO",
+"tickers": [
+[
+"AXP",
+218982035.0
+]
+],
+"value": 218982035.0,
+"type": "Common Stock",
+"ticker": "AXP",
+"w": 0.41584131295739857
+},
+"AMERICAN FINANCIAL GROUP INC": {
+"issuer": "AMERICAN FINANCIAL GROUP INC",
+"tickers": [
+[
+"AFG",
+271763.0
+]
+],
+"value": 271763.0,
+"type": "Common Stock",
+"ticker": "AFG",
+"w": 0.0005160710225989155
+},
+"AMERICAN INTL GROUP INC": {
+"issuer": "AMERICAN INTL GROUP INC",
+"tickers": [
+[
+"AIG",
+43058590.0
+]
+],
+"value": 43058590.0,
+"type": "Common Stock",
+"ticker": "AIG",
+"w": 0.08176716688058137
+},
+"AMERICAN TOWER CORP": {
+"issuer": "AMERICAN TOWER CORP",
+"tickers": [
+[
+"AMT",
+71660508.0
+]
+],
+"value": 71660508.0,
+"type": "REIT",
+"ticker": "AMT",
+"w": 0.13608148145081472
+},
+"AMERICAN WTR WKS CO INC NEW": {
+"issuer": "AMERICAN WTR WKS CO INC NEW",
+"tickers": [
+[
+"AWK",
+1394880.0
+]
+],
+"value": 1394880.0,
+"type": "Common Stock",
+"ticker": "AWK",
+"w": 0.0026488416304013985
+},
+"CENCORA INC": {
+"issuer": "CENCORA INC",
+"tickers": [
+[
+"COR",
+8246603.0
+]
+],
+"value": 8246603.0,
+"type": "Common Stock",
+"ticker": "COR",
+"w": 0.015660089280649995
+},
+"AMERIPRISE FINL INC": {
+"issuer": "AMERIPRISE FINL INC",
+"tickers": [
+[
+"AMP",
+23179767.0
+]
+],
+"value": 23179767.0,
+"type": "Common Stock",
+"ticker": "AMP",
+"w": 0.04401778777572589
+},
+"AMETEK INC": {
+"issuer": "AMETEK INC",
+"tickers": [
+[
+"AME",
+44202922.0
+]
+],
+"value": 44202922.0,
+"type": "Common Stock",
+"ticker": "AME",
+"w": 0.08394022423361569
+},
+"AMGEN INC": {
+"issuer": "AMGEN INC",
+"tickers": [
+[
+"AMGN",
+97745603.0
+]
+],
+"value": 97745603.0,
+"type": "Common Stock",
+"ticker": "AMGN",
+"w": 0.1856164131789744
+},
+"AMPHENOL CORP": {
+"issuer": "AMPHENOL CORP",
+"tickers": [
+[
+"APH",
+156300980.0
+]
+],
+"value": 156300980.0,
+"type": "Common Stock",
+"ticker": "APH",
+"w": 0.29681158429150634
+},
+"ANALOG DEVICES INC": {
+"issuer": "ANALOG DEVICES INC",
+"tickers": [
+[
+"ADI",
+142732969.0
+]
+],
+"value": 142732969.0,
+"type": "Common Stock",
+"ticker": "ADI",
+"w": 0.2710462766101688
+},
+"ANNALY CAPITAL MANAGEMENT IN": {
+"issuer": "ANNALY CAPITAL MANAGEMENT IN",
+"tickers": [
+[
+"NLY",
+2101616.0
+]
+],
+"value": 2101616.0,
+"type": "REIT",
+"ticker": "NLY",
+"w": 0.003990915313086191
+},
+"ELEVANCE HEALTH INC FORMERLY": {
+"issuer": "ELEVANCE HEALTH INC FORMERLY",
+"tickers": [
+[
+"ELV",
+68952025.0
+]
+],
+"value": 68952025.0,
+"type": "Common Stock",
+"ticker": "ELV",
+"w": 0.13093814114510063
+},
+"APOLLO GLOBAL MGMT INC": {
+"issuer": "APOLLO GLOBAL MGMT INC",
+"tickers": [
+[
+"APO",
+22192353.0
+]
+],
+"value": 22192353.0,
+"type": "Common Stock",
+"ticker": "APO",
+"w": 0.0421427137122644
+},
+"APPLE INC": {
+"issuer": "APPLE INC",
+"tickers": [
+[
+"AAPL",
+2998806377.0
+]
+],
+"value": 2998806377.0,
+"type": "Common Stock",
+"ticker": "AAPL",
+"w": 5.6946570120087685
+},
+"APPLIED MATLS INC": {
+"issuer": "APPLIED MATLS INC",
+"tickers": [
+[
+"AMAT",
+419961057.0
+]
+],
+"value": 419961057.0,
+"type": "Common Stock",
+"ticker": "AMAT",
+"w": 0.797495362274156
+},
+"APPLOVIN CORP": {
+"issuer": "APPLOVIN CORP",
+"tickers": [
+[
+"APP",
+93339582.0
+]
+],
+"value": 93339582.0,
+"type": "Common Stock",
+"ticker": "APP",
+"w": 0.1772494914013141
+},
+"ARCHER DANIELS MIDLAND CO": {
+"issuer": "ARCHER DANIELS MIDLAND CO",
+"tickers": [
+[
+"ADM",
+19759408.0
+]
+],
+"value": 19759408.0,
+"type": "Common Stock",
+"ticker": "ADM",
+"w": 0.037522613058102804
+},
+"ARES MANAGEMENT CORPORATION": {
+"issuer": "ARES MANAGEMENT CORPORATION",
+"tickers": [
+[
+"ARES",
+10004654.0
+]
+],
+"value": 10004654.0,
+"type": "Common Stock",
+"ticker": "ARES",
+"w": 0.0189985833999784
+},
+"ARISTA NETWORKS INC": {
+"issuer": "ARISTA NETWORKS INC",
+"tickers": [
+[
+"ANET",
+138361654.0
+]
+],
+"value": 138361654.0,
+"type": "Common Stock",
+"ticker": "ANET",
+"w": 0.262745260643492
+},
+"ASSURANT INC": {
+"issuer": "ASSURANT INC",
+"tickers": [
+[
+"AIZ",
+390711.0
+]
+],
+"value": 390711.0,
+"type": "Common Stock",
+"ticker": "AIZ",
+"w": 0.0007419502482333683
+},
+"ASTERA LABS INC": {
+"issuer": "ASTERA LABS INC",
+"tickers": [
+[
+"ALAB",
+40865907.0
+]
+],
+"value": 40865907.0,
+"type": "Common Stock",
+"ticker": "ALAB",
+"w": 0.0776033176514911
+},
+"ATLASSIAN CORPORATION": {
+"issuer": "ATLASSIAN CORPORATION",
+"tickers": [
+[
+"TEAM",
+1266343.0
+]
+],
+"value": 1266343.0,
+"type": "Common Stock",
+"ticker": "TEAM",
+"w": 0.0024047531377375817
+},
+"ATMOS ENERGY CORP": {
+"issuer": "ATMOS ENERGY CORP",
+"tickers": [
+[
+"ATO",
+27169735.0
+]
+],
+"value": 27169735.0,
+"type": "Common Stock",
+"ticker": "ATO",
+"w": 0.05159463549192328
+},
+"AUTODESK INC": {
+"issuer": "AUTODESK INC",
+"tickers": [
+[
+"ADSK",
+43865235.0
+]
+],
+"value": 43865235.0,
+"type": "Common Stock",
+"ticker": "ADSK",
+"w": 0.08329896521230534
+},
+"AUTOMATIC DATA PROCESSING IN": {
+"issuer": "AUTOMATIC DATA PROCESSING IN",
+"tickers": [
+[
+"ADP",
+41345873.0
+]
+],
+"value": 41345873.0,
+"type": "Common Stock",
+"ticker": "ADP",
+"w": 0.07851476087383084
+},
+"AUTOZONE INC": {
+"issuer": "AUTOZONE INC",
+"tickers": [
+[
+"AZO",
+36491243.0
+]
+],
+"value": 36491243.0,
+"type": "Common Stock",
+"ticker": "AZO",
+"w": 0.06929594201902216
+},
+"AVALONBAY CMNTYS INC": {
+"issuer": "AVALONBAY CMNTYS INC",
+"tickers": [
+[
+"AVB",
+3976453.0
+]
+],
+"value": 3976453.0,
+"type": "REIT",
+"ticker": "AVB",
+"w": 0.0075511830750563
+},
+"AVERY DENNISON CORP": {
+"issuer": "AVERY DENNISON CORP",
+"tickers": [
+[
+"AVY",
+9400390.0
+]
+],
+"value": 9400390.0,
+"type": "Common Stock",
+"ticker": "AVY",
+"w": 0.017851101438122994
+},
+"AXON ENTERPRISE INC": {
+"issuer": "AXON ENTERPRISE INC",
+"tickers": [
+[
+"AXON",
+21561621.0
+]
+],
+"value": 21561621.0,
+"type": "Common Stock",
+"ticker": "AXON",
+"w": 0.04094496969182799
+},
+"BCE INC": {
+"issuer": "BCE INC",
+"tickers": [
+[
+"BCE",
+8287227.0
+]
+],
+"value": 8287227.0,
+"type": "Common Stock",
+"ticker": "BCE",
+"w": 0.01573723322306327
+},
+"BWX TECHNOLOGIES INC": {
+"issuer": "BWX TECHNOLOGIES INC",
+"tickers": [
+[
+"BWXT",
+5257302.0
+]
+],
+"value": 5257302.0,
+"type": "Common Stock",
+"ticker": "BWXT",
+"w": 0.009983482737721188
+},
+"BAKER HUGHES COMPANY": {
+"issuer": "BAKER HUGHES COMPANY",
+"tickers": [
+[
+"BKR",
+63469856.0
+]
+],
+"value": 63469856.0,
+"type": "Common Stock",
+"ticker": "BKR",
+"w": 0.1205276416956168
+},
+"BALL CORP": {
+"issuer": "BALL CORP",
+"tickers": [
+[
+"BALL",
+17862749.0
+]
+],
+"value": 17862749.0,
+"type": "Common Stock",
+"ticker": "BALL",
+"w": 0.03392090587334463
+},
+"BANK OF AMER CORP": {
+"issuer": "BANK OF AMER CORP",
+"tickers": [
+[
+"BAC",
+223084791.0
+]
+],
+"value": 223084791.0,
+"type": "Common Stock",
+"ticker": "BAC",
+"w": 0.4236323422159578
+},
+"BANK MONTREAL MEDIUM": {
+"issuer": "BANK MONTREAL MEDIUM",
+"tickers": [
+[
+"BMO",
+72270171.0
+]
+],
+"value": 72270171.0,
+"type": "Common Stock",
+"ticker": "BMO",
+"w": 0.13723921597630467
+},
+"BANK OF NY MELLON CORP": {
+"issuer": "BANK OF NY MELLON CORP",
+"tickers": [
+[
+"BNY",
+99353288.0
+]
+],
+"value": 99353288.0,
+"type": "Common Stock",
+"ticker": "BNY",
+"w": 0.18866936609002902
+},
+"BANK NOVA SCOTIA B C": {
+"issuer": "BANK NOVA SCOTIA B C",
+"tickers": [
+[
+"BNS",
+79699800.0
+]
+],
+"value": 79699800.0,
+"type": "Common Stock",
+"ticker": "BNS",
+"w": 0.15134789241702898
+},
+"BARRICK MNG CORP": {
+"issuer": "BARRICK MNG CORP",
+"tickers": [
+[
+"B",
+76579431.0
+]
+],
+"value": 76579431.0,
+"type": "Common Stock",
+"ticker": "B",
+"w": 0.145422391076832
+},
+"BECTON DICKINSON &amp; CO": {
+"issuer": "BECTON DICKINSON &amp; CO",
+"tickers": [
+[
+"BDX",
+15575489.0
+]
+],
+"value": 15575489.0,
+"type": "Common Stock",
+"ticker": "BDX",
+"w": 0.029577457327554374
+},
+"BERKLEY W R CORP": {
+"issuer": "BERKLEY W R CORP",
+"tickers": [
+[
+"WRB",
+11291994.0
+]
+],
+"value": 11291994.0,
+"type": "Common Stock",
+"ticker": "WRB",
+"w": 0.021443209306494328
+},
+"BERKSHIRE HATHAWAY INC DEL": {
+"issuer": "BERKSHIRE HATHAWAY INC DEL",
+"tickers": [
+[
+"BRK-B",
+460906727.0
+]
+],
+"value": 460906727.0,
+"type": "Common Stock",
+"ticker": "BRK-B",
+"w": 0.875250147833256
+},
+"BEST BUY INC": {
+"issuer": "BEST BUY INC",
+"tickers": [
+[
+"BBY",
+3982562.0
+]
+],
+"value": 3982562.0,
+"type": "Common Stock",
+"ticker": "BBY",
+"w": 0.007562783910626473
+},
+"BIOGEN INC": {
+"issuer": "BIOGEN INC",
+"tickers": [
+[
+"BIIB",
+7253998.0
+]
+],
+"value": 7253998.0,
+"type": "Common Stock",
+"ticker": "BIIB",
+"w": 0.013775157640261874
+},
+"BLACKSTONE INC": {
+"issuer": "BLACKSTONE INC",
+"tickers": [
+[
+"BX",
+34595333.0
+]
+],
+"value": 34595333.0,
+"type": "Common Stock",
+"ticker": "BX",
+"w": 0.06569565716620734
+},
+"BLACKROCK INC": {
+"issuer": "BLACKROCK INC",
+"tickers": [
+[
+"BLK",
+61070599.0
+]
+],
+"value": 61070599.0,
+"type": "Common Stock",
+"ticker": "BLK",
+"w": 0.11597151369633948
+},
+"BLOOM ENERGY CORP": {
+"issuer": "BLOOM ENERGY CORP",
+"tickers": [
+[
+"BE",
+56567971.0
+]
+],
+"value": 56567971.0,
+"type": "Common Stock",
+"ticker": "BE",
+"w": 0.10742113768362799
+},
+"BOEING CO": {
+"issuer": "BOEING CO",
+"tickers": [
+[
+"BA",
+89278289.0
+]
+],
+"value": 89278289.0,
+"type": "Common Stock",
+"ticker": "BA",
+"w": 0.16953719932482164
+},
+"BOOKING HOLDINGS INC": {
+"issuer": "BOOKING HOLDINGS INC",
+"tickers": [
+[
+"BKNG",
+103746553.0
+]
+],
+"value": 103746553.0,
+"type": "Common Stock",
+"ticker": "BKNG",
+"w": 0.19701206454823716
+},
+"BOSTON SCIENTIFIC CORP": {
+"issuer": "BOSTON SCIENTIFIC CORP",
+"tickers": [
+[
+"BSX",
+23541434.0
+]
+],
+"value": 23541434.0,
+"type": "Common Stock",
+"ticker": "BSX",
+"w": 0.044704584206918814
+},
+"BRISTOL-MYERS SQUIBB CO": {
+"issuer": "BRISTOL-MYERS SQUIBB CO",
+"tickers": [
+[
+"BMY",
+86518389.0
+]
+],
+"value": 86518389.0,
+"type": "Common Stock",
+"ticker": "BMY",
+"w": 0.164296219444298
+},
+"BROADRIDGE FINL SOLUTIONS IN": {
+"issuer": "BROADRIDGE FINL SOLUTIONS IN",
+"tickers": [
+[
+"BR",
+4750522.0
+]
+],
+"value": 4750522.0,
+"type": "Common Stock",
+"ticker": "BR",
+"w": 0.00902112041160366
+},
+"BROADCOM INC": {
+"issuer": "BROADCOM INC",
+"tickers": [
+[
+"AVGO",
+1211452938.0
+]
+],
+"value": 1211452938.0,
+"type": "Common Stock",
+"ticker": "AVGO",
+"w": 2.300518306554316
+},
+"BROOKFIELD CORP": {
+"issuer": "BROOKFIELD CORP",
+"tickers": [
+[
+"BN",
+48220382.0
+]
+],
+"value": 48220382.0,
+"type": "Common Stock",
+"ticker": "BN",
+"w": 0.09156927855834068
+},
+"BROOKFIELD RENEWABLE CORP": {
+"issuer": "BROOKFIELD RENEWABLE CORP",
+"tickers": [
+[
+"BEPC",
+1196089.0
+]
+],
+"value": 1196089.0,
+"type": "Common Stock",
+"ticker": "BEPC",
+"w": 0.00227134257919332
+},
+"BROOKFIELD ASSET MANAGMT LTD": {
+"issuer": "BROOKFIELD ASSET MANAGMT LTD",
+"tickers": [
+[
+"BAM",
+6364915.0
+]
+],
+"value": 6364915.0,
+"type": "Common Stock",
+"ticker": "BAM",
+"w": 0.01208681164398824
+},
+"BROWN &amp; BROWN INC": {
+"issuer": "BROWN &amp; BROWN INC",
+"tickers": [
+[
+"BRO",
+9925673.0
+]
+],
+"value": 9925673.0,
+"type": "Common Stock",
+"ticker": "BRO",
+"w": 0.018848600490473117
+},
+"BUILDERS FIRSTSOURCE INC": {
+"issuer": "BUILDERS FIRSTSOURCE INC",
+"tickers": [
+[
+"BLDR",
+3773014.0
+]
+],
+"value": 3773014.0,
+"type": "Common Stock",
+"ticker": "BLDR",
+"w": 0.007164857590106174
+},
+"BURLINGTON STORES INC": {
+"issuer": "BURLINGTON STORES INC",
+"tickers": [
+[
+"BURL",
+15787728.0
+]
+],
+"value": 15787728.0,
+"type": "Common Stock",
+"ticker": "BURL",
+"w": 0.029980493788608203
+},
+"CAE INC": {
+"issuer": "CAE INC",
+"tickers": [
+[
+"CAE",
+9617322.0
+]
+],
+"value": 9617322.0,
+"type": "Common Stock",
+"ticker": "CAE",
+"w": 0.01826304978677394
+},
+"CBOE GLOBAL MKTS INC": {
+"issuer": "CBOE GLOBAL MKTS INC",
+"tickers": [
+[
+"CBOE",
+6046608.0
+]
+],
+"value": 6046608.0,
+"type": "Common Stock",
+"ticker": "CBOE",
+"w": 0.011482354749597197
+},
+"CBRE GROUP INC": {
+"issuer": "CBRE GROUP INC",
+"tickers": [
+[
+"CBRE",
+25515000.0
+]
+],
+"value": 25515000.0,
+"type": "Common Stock",
+"ticker": "CBRE",
+"w": 0.04845233582795056
+},
+"CDW CORP": {
+"issuer": "CDW CORP",
+"tickers": [
+[
+"CDW",
+1915798.0
+]
+],
+"value": 1915798.0,
+"type": "Common Stock",
+"ticker": "CDW",
+"w": 0.003638051658809172
+},
+"CF INDUSTRIES HOLD": {
+"issuer": "CF INDUSTRIES HOLD",
+"tickers": [
+[
+"CF",
+8838238.0
+]
+],
+"value": 8838238.0,
+"type": "Common Stock",
+"ticker": "CF",
+"w": 0.01678358909282203
+},
+"CGI INC": {
+"issuer": "CGI INC",
+"tickers": [
+[
+"GIB",
+2012379.0
+]
+],
+"value": 2012379.0,
+"type": "Common Stock",
+"ticker": "GIB",
+"w": 0.003821456520521862
+},
+"C H ROBINSON WORLDWIDE IN": {
+"issuer": "C H ROBINSON WORLDWIDE IN",
+"tickers": [
+[
+"CHRW",
+16054478.0
+]
+],
+"value": 16054478.0,
+"type": "Common Stock",
+"ticker": "CHRW",
+"w": 0.03048704525175168
+},
+"THE CIGNA GROUP": {
+"issuer": "THE CIGNA GROUP",
+"tickers": [
+[
+"CI",
+64741794.0
+]
+],
+"value": 64741794.0,
+"type": "Common Stock",
+"ticker": "CI",
+"w": 0.12294301959600215
+},
+"CME GROUP INC": {
+"issuer": "CME GROUP INC",
+"tickers": [
+[
+"CME",
+38973845.0
+]
+],
+"value": 38973845.0,
+"type": "Common Stock",
+"ticker": "CME",
+"w": 0.07401034005277256
+},
+"CMS ENERGY CORP": {
+"issuer": "CMS ENERGY CORP",
+"tickers": [
+[
+"CMS",
+4296011.0
+]
+],
+"value": 4296011.0,
+"type": "Common Stock",
+"ticker": "CMS",
+"w": 0.00815801558661845
+},
+"CSX CORP": {
+"issuer": "CSX CORP",
+"tickers": [
+[
+"CSX",
+40901942.0
+]
+],
+"value": 40901942.0,
+"type": "Common Stock",
+"ticker": "CSX",
+"w": 0.07767174719966122
+},
+"CVS HEALTH CORP": {
+"issuer": "CVS HEALTH CORP",
+"tickers": [
+[
+"CVS",
+97590385.0
+]
+],
+"value": 97590385.0,
+"type": "Common Stock",
+"ticker": "CVS",
+"w": 0.1853216581461489
+},
+"CADENCE DESIGN SYSTEM INC": {
+"issuer": "CADENCE DESIGN SYSTEM INC",
+"tickers": [
+[
+"CDNS",
+72363948.0
+]
+],
+"value": 72363948.0,
+"type": "Common Stock",
+"ticker": "CDNS",
+"w": 0.13741729611335887
+},
+"CAMECO CORP": {
+"issuer": "CAMECO CORP",
+"tickers": [
+[
+"CCJ",
+95835279.0
+]
+],
+"value": 95835279.0,
+"type": "Common Stock",
+"ticker": "CCJ",
+"w": 0.18198875650689156
+},
+"CANADIAN IMPERIAL BANK OF CO": {
+"issuer": "CANADIAN IMPERIAL BANK OF CO",
+"tickers": [
+[
+"CM",
+75635895.0
+]
+],
+"value": 75635895.0,
+"type": "Common Stock",
+"ticker": "CM",
+"w": 0.143630640218993
+},
+"CANADIAN NATL RY CO": {
+"issuer": "CANADIAN NATL RY CO",
+"tickers": [
+[
+"CNI",
+26610812.0
+]
+],
+"value": 26610812.0,
+"type": "Common Stock",
+"ticker": "CNI",
+"w": 0.05053325493546764
+},
+"CANADIAN NAT RES LTD MED TER": {
+"issuer": "CANADIAN NAT RES LTD MED TER",
+"tickers": [
+[
+"CNQ",
+39840631.0
+]
+],
+"value": 39840631.0,
+"type": "Common Stock",
+"ticker": "CNQ",
+"w": 0.07565634461334343
+},
+"CANADIAN PACIFIC KANSAS CITY": {
+"issuer": "CANADIAN PACIFIC KANSAS CITY",
+"tickers": [
+[
+"CP",
+25961525.0
+]
+],
+"value": 25961525.0,
+"type": "Common Stock",
+"ticker": "CP",
+"w": 0.04930027544212166
+},
+"CAPITAL ONE FINL CORP": {
+"issuer": "CAPITAL ONE FINL CORP",
+"tickers": [
+[
+"COF",
+65551381.0
+]
+],
+"value": 65551381.0,
+"type": "Common Stock",
+"ticker": "COF",
+"w": 0.1244804047108735
+},
+"CARDINAL HEALTH INC": {
+"issuer": "CARDINAL HEALTH INC",
+"tickers": [
+[
+"CAH",
+34623182.0
+]
+],
+"value": 34623182.0,
+"type": "Common Stock",
+"ticker": "CAH",
+"w": 0.0657485417086519
+},
+"CARLISLE COS INC": {
+"issuer": "CARLISLE COS INC",
+"tickers": [
+[
+"CSL",
+17491805.0
+]
+],
+"value": 17491805.0,
+"type": "Common Stock",
+"ticker": "CSL",
+"w": 0.03321649265518419
+},
+"CARLYLE GROUP INC": {
+"issuer": "CARLYLE GROUP INC",
+"tickers": [
+[
+"CG",
+1554070.0
+]
+],
+"value": 1554070.0,
+"type": "Common Stock",
+"ticker": "CG",
+"w": 0.002951139390168259
+},
+"CARRIER GLOBAL CORPORATION": {
+"issuer": "CARRIER GLOBAL CORPORATION",
+"tickers": [
+[
+"CARR",
+49649148.0
+]
+],
+"value": 49649148.0,
+"type": "Common Stock",
+"ticker": "CARR",
+"w": 0.09428246884058868
+},
+"CARVANA CO": {
+"issuer": "CARVANA CO",
+"tickers": [
+[
+"CVNA",
+16607373.0
+]
+],
+"value": 16607373.0,
+"type": "Common Stock",
+"ticker": "CVNA",
+"w": 0.03153697878957628
+},
+"CASEYS GEN STORES INC": {
+"issuer": "CASEYS GEN STORES INC",
+"tickers": [
+[
+"CASY",
+41476116.0
+]
+],
+"value": 41476116.0,
+"type": "Common Stock",
+"ticker": "CASY",
+"w": 0.0787620890170893
+},
+"CATERPILLAR INC": {
+"issuer": "CATERPILLAR INC",
+"tickers": [
+[
+"CAT",
+359364349.0
+]
+],
+"value": 359364349.0,
+"type": "Common Stock",
+"ticker": "CAT",
+"w": 0.682423755529721
+},
+"CELESTICA INC": {
+"issuer": "CELESTICA INC",
+"tickers": [
+[
+"CLS",
+33074559.0
+]
+],
+"value": 33074559.0,
+"type": "Common Stock",
+"ticker": "CLS",
+"w": 0.06280774603289692
+},
+"CELSIUS HLDGS INC": {
+"issuer": "CELSIUS HLDGS INC",
+"tickers": [
+[
+"CELH",
+5283488.0
+]
+],
+"value": 5283488.0,
+"type": "Common Stock",
+"ticker": "CELH",
+"w": 0.010033209285477048
+},
+"CENTENE CORP DEL": {
+"issuer": "CENTENE CORP DEL",
+"tickers": [
+[
+"CNC",
+64394509.0
+]
+],
+"value": 64394509.0,
+"type": "Common Stock",
+"ticker": "CNC",
+"w": 0.12228353421689143
+},
+"CENOVUS ENERGY INC": {
+"issuer": "CENOVUS ENERGY INC",
+"tickers": [
+[
+"CVE",
+26656025.0
+]
+],
+"value": 26656025.0,
+"type": "Common Stock",
+"ticker": "CVE",
+"w": 0.05061911327212408
+},
+"CENTERPOINT ENERGY INC": {
+"issuer": "CENTERPOINT ENERGY INC",
+"tickers": [
+[
+"CNP",
+8087770.0
+]
+],
+"value": 8087770.0,
+"type": "Common Stock",
+"ticker": "CNP",
+"w": 0.015358469454800067
+},
+"CHARTER COMMUNICATIONS INC": {
+"issuer": "CHARTER COMMUNICATIONS INC",
+"tickers": [
+[
+"CHTR",
+7051483.0
+]
+],
+"value": 7051483.0,
+"type": "Common Stock",
+"ticker": "CHTR",
+"w": 0.013390586807802637
+},
+"CHENIERE ENERGY INC": {
+"issuer": "CHENIERE ENERGY INC",
+"tickers": [
+[
+"LNG",
+60876086.0
+]
+],
+"value": 60876086.0,
+"type": "Common Stock",
+"ticker": "LNG",
+"w": 0.11560213845828726
+},
+"EXPAND ENERGY CORPORATION": {
+"issuer": "EXPAND ENERGY CORPORATION",
+"tickers": [
+[
+"EXE",
+15683677.0
+]
+],
+"value": 15683677.0,
+"type": "Common Stock",
+"ticker": "EXE",
+"w": 0.029782903586952934
+},
+"CHEVRON CORPORATION": {
+"issuer": "CHEVRON CORPORATION",
+"tickers": [
+[
+"CVX",
+187819838.0
+]
+],
+"value": 187819838.0,
+"type": "Common Stock",
+"ticker": "CVX",
+"w": 0.35666509370673216
+},
+"CHIPOTLE MEXICAN GRILL INC": {
+"issuer": "CHIPOTLE MEXICAN GRILL INC",
+"tickers": [
+[
+"CMG",
+24535352.0
+]
+],
+"value": 24535352.0,
+"type": "Common Stock",
+"ticker": "CMG",
+"w": 0.046592009200900585
+},
+"CHURCH &amp; DWIGHT CO INC": {
+"issuer": "CHURCH &amp; DWIGHT CO INC",
+"tickers": [
+[
+"CHD",
+11142266.0
+]
+],
+"value": 11142266.0,
+"type": "Common Stock",
+"ticker": "CHD",
+"w": 0.021158879643988063
+},
+"CIENA CORP": {
+"issuer": "CIENA CORP",
+"tickers": [
+[
+"CIEN",
+59798283.0
+]
+],
+"value": 59798283.0,
+"type": "Common Stock",
+"ticker": "CIEN",
+"w": 0.11355541798357151
+},
+"CINCINNATI FINL CORP": {
+"issuer": "CINCINNATI FINL CORP",
+"tickers": [
+[
+"CINF",
+25783707.0
+]
+],
+"value": 25783707.0,
+"type": "Common Stock",
+"ticker": "CINF",
+"w": 0.04896260358430256
+},
+"CIRCLE INTERNET GROUP INC": {
+"issuer": "CIRCLE INTERNET GROUP INC",
+"tickers": [
+[
+"CRCL",
+4098695.0
+]
+],
+"value": 4098695.0,
+"type": "Common Stock",
+"ticker": "CRCL",
+"w": 0.007783317522882297
+},
+"CISCO SYS INC": {
+"issuer": "CISCO SYS INC",
+"tickers": [
+[
+"CSCO",
+322162123.0
+]
+],
+"value": 322162123.0,
+"type": "Common Stock",
+"ticker": "CSCO",
+"w": 0.6117776748830693
+},
+"CINTAS CORP": {
+"issuer": "CINTAS CORP",
+"tickers": [
+[
+"CTAS",
+21715474.0
+]
+],
+"value": 21715474.0,
+"type": "Common Stock",
+"ticker": "CTAS",
+"w": 0.04123713262438287
+},
+"CITIGROUP INC": {
+"issuer": "CITIGROUP INC",
+"tickers": [
+[
+"C",
+179671691.0
+]
+],
+"value": 179671691.0,
+"type": "Common Stock",
+"ticker": "C",
+"w": 0.34119196986508965
+},
+"CITIZENS FINL GROUP INC": {
+"issuer": "CITIZENS FINL GROUP INC",
+"tickers": [
+[
+"CFG",
+66149023.0
+]
+],
+"value": 66149023.0,
+"type": "Common Stock",
+"ticker": "CFG",
+"w": 0.12561531166321088
+},
+"CLOROX CO DEL": {
+"issuer": "CLOROX CO DEL",
+"tickers": [
+[
+"CLX",
+13344325.0
+]
+],
+"value": 13344325.0,
+"type": "Common Stock",
+"ticker": "CLX",
+"w": 0.025340533658526995
+},
+"CLOUDFLARE INC": {
+"issuer": "CLOUDFLARE INC",
+"tickers": [
+[
+"NET",
+58457092.0
+]
+],
+"value": 58457092.0,
+"type": "Common Stock",
+"ticker": "NET",
+"w": 0.11100853039817371
+},
+"COCA COLA CO": {
+"issuer": "COCA COLA CO",
+"tickers": [
+[
+"KO",
+200171911.0
+]
+],
+"value": 200171911.0,
+"type": "Common Stock",
+"ticker": "KO",
+"w": 0.3801213660628897
+},
+"COEUR MNG INC": {
+"issuer": "COEUR MNG INC",
+"tickers": [
+[
+"CDE",
+9821262.0
+]
+],
+"value": 9821262.0,
+"type": "Common Stock",
+"ticker": "CDE",
+"w": 0.018650326657977244
+},
+"COGNIZANT TECHNOLOGY SOLUTIO": {
+"issuer": "COGNIZANT TECHNOLOGY SOLUTIO",
+"tickers": [
+[
+"CTSH",
+7976521.0
+]
+],
+"value": 7976521.0,
+"type": "Common Stock",
+"ticker": "CTSH",
+"w": 0.015147210434281796
+},
+"COHERENT CORP": {
+"issuer": "COHERENT CORP",
+"tickers": [
+[
+"COHR",
+46228334.0
+]
+],
+"value": 46228334.0,
+"type": "Common Stock",
+"ticker": "COHR",
+"w": 0.08778643008954204
+},
+"COINBASE GLOBAL INC": {
+"issuer": "COINBASE GLOBAL INC",
+"tickers": [
+[
+"COIN",
+36930225.0
+]
+],
+"value": 36930225.0,
+"type": "Common Stock",
+"ticker": "COIN",
+"w": 0.070129557668108
+},
+"COLGATE PALMOLIVE CO": {
+"issuer": "COLGATE PALMOLIVE CO",
+"tickers": [
+[
+"CL",
+68070841.0
+]
+],
+"value": 68070841.0,
+"type": "Common Stock",
+"ticker": "CL",
+"w": 0.12926479514885464
+},
+"COMFORT SYS USA INC": {
+"issuer": "COMFORT SYS USA INC",
+"tickers": [
+[
+"FIX",
+91976354.0
+]
+],
+"value": 91976354.0,
+"type": "Common Stock",
+"ticker": "FIX",
+"w": 0.17466075611359844
+},
+"COMCAST CORP NEW": {
+"issuer": "COMCAST CORP NEW",
+"tickers": [
+[
+"CMCSA",
+52418792.0
+]
+],
+"value": 52418792.0,
+"type": "Common Stock",
+"ticker": "CMCSA",
+"w": 0.09954195232919805
+},
+"COMPANIA DE MINAS BUENAVENTU": {
+"issuer": "COMPANIA DE MINAS BUENAVENTU",
+"tickers": [
+[
+"BVN",
+2003436.0
+]
+],
+"value": 2003436.0,
+"type": "Depositary Receipt",
+"ticker": "BVN",
+"w": 0.0038044739910564752
+},
+"CONOCOPHILLIPS": {
+"issuer": "CONOCOPHILLIPS",
+"tickers": [
+[
+"COP",
+65333246.0
+]
+],
+"value": 65333246.0,
+"type": "Common Stock",
+"ticker": "COP",
+"w": 0.1240661718958302
+},
+"CONSOLIDATED EDISON INC": {
+"issuer": "CONSOLIDATED EDISON INC",
+"tickers": [
+[
+"ED",
+29671077.0
+]
+],
+"value": 29671077.0,
+"type": "Common Stock",
+"ticker": "ED",
+"w": 0.056344620308876346
+},
+"CONSTELLATION BRANDS INC": {
+"issuer": "CONSTELLATION BRANDS INC",
+"tickers": [
+[
+"STZ",
+4786087.0
+]
+],
+"value": 4786087.0,
+"type": "Common Stock",
+"ticker": "STZ",
+"w": 0.00908865744173186
+},
+"CONSTELLATION ENERGY CORP": {
+"issuer": "CONSTELLATION ENERGY CORP",
+"tickers": [
+[
+"CEG",
+65598243.0
+]
+],
+"value": 65598243.0,
+"type": "Common Stock",
+"ticker": "CEG",
+"w": 0.12456939445657485
+},
+"COOPER COS INC": {
+"issuer": "COOPER COS INC",
+"tickers": [
+[
+"COO",
+11143375.0
+]
+],
+"value": 11143375.0,
+"type": "Common Stock",
+"ticker": "COO",
+"w": 0.02116098560677204
+},
+"COPART INC": {
+"issuer": "COPART INC",
+"tickers": [
+[
+"CPRT",
+25284795.0
+]
+],
+"value": 25284795.0,
+"type": "Common Stock",
+"ticker": "CPRT",
+"w": 0.04801518239000138
+},
+"COREBRIDGE FINL INC": {
+"issuer": "COREBRIDGE FINL INC",
+"tickers": [
+[
+"CRBG",
+760814.0
+]
+],
+"value": 760814.0,
+"type": "Common Stock",
+"ticker": "CRBG",
+"w": 0.0014447664287911572
+},
+"COREWEAVE INC": {
+"issuer": "COREWEAVE INC",
+"tickers": [
+[
+"CRWV",
+7498348.0
+]
+],
+"value": 7498348.0,
+"type": "Common Stock",
+"ticker": "CRWV",
+"w": 0.014239172073323201
+},
+"CORNING INC": {
+"issuer": "CORNING INC",
+"tickers": [
+[
+"GLW",
+156244998.0
+]
+],
+"value": 156244998.0,
+"type": "Common Stock",
+"ticker": "GLW",
+"w": 0.296705275897843
+},
+"CORPAY INC": {
+"issuer": "CORPAY INC",
+"tickers": [
+[
+"CPAY",
+13278477.0
+]
+],
+"value": 13278477.0,
+"type": "Common Stock",
+"ticker": "CPAY",
+"w": 0.02521548998188193
+},
+"CORTEVA INC": {
+"issuer": "CORTEVA INC",
+"tickers": [
+[
+"CTVA",
+23700751.0
+]
+],
+"value": 23700751.0,
+"type": "Common Stock",
+"ticker": "CTVA",
+"w": 0.04500712313645444
+},
+"COSTCO WHOLESALE CORPORATION": {
+"issuer": "COSTCO WHOLESALE CORPORATION",
+"tickers": [
+[
+"COST",
+262533107.0
+]
+],
+"value": 262533107.0,
+"type": "Common Stock",
+"ticker": "COST",
+"w": 0.4985436906258781
+},
+"COSTAR GROUP INC": {
+"issuer": "COSTAR GROUP INC",
+"tickers": [
+[
+"CSGP",
+19779169.0
+]
+],
+"value": 19779169.0,
+"type": "Common Stock",
+"ticker": "CSGP",
+"w": 0.0375601386943284
+},
+"CROWDSTRIKE HLDGS INC": {
+"issuer": "CROWDSTRIKE HLDGS INC",
+"tickers": [
+[
+"CRWD",
+132207137.0
+]
+],
+"value": 132207137.0,
+"type": "Common Stock",
+"ticker": "CRWD",
+"w": 0.25105798944839774
+},
+"CROWN CASTLE INC": {
+"issuer": "CROWN CASTLE INC",
+"tickers": [
+[
+"CCI",
+29026779.0
+]
+],
+"value": 29026779.0,
+"type": "REIT",
+"ticker": "CCI",
+"w": 0.055121114799596437
+},
+"CUMMINS INC": {
+"issuer": "CUMMINS INC",
+"tickers": [
+[
+"CMI",
+92812157.0
+]
+],
+"value": 92812157.0,
+"type": "Common Stock",
+"ticker": "CMI",
+"w": 0.1762479247454624
+},
+"CURTISS WRIGHT CORP": {
+"issuer": "CURTISS WRIGHT CORP",
+"tickers": [
+[
+"CW",
+20144292.0
+]
+],
+"value": 20144292.0,
+"type": "Common Stock",
+"ticker": "CW",
+"w": 0.03825349798159114
+},
+"D R HORTON INC": {
+"issuer": "D R HORTON INC",
+"tickers": [
+[
+"DHI",
+30483155.0
+]
+],
+"value": 30483155.0,
+"type": "Common Stock",
+"ticker": "DHI",
+"w": 0.0578867357693698
+},
+"DTE ENERGY CO": {
+"issuer": "DTE ENERGY CO",
+"tickers": [
+[
+"DTE",
+6941977.0
+]
+],
+"value": 6941977.0,
+"type": "Common Stock",
+"ticker": "DTE",
+"w": 0.013182637699937636
+},
+"DANAHER CORP DEL": {
+"issuer": "DANAHER CORP DEL",
+"tickers": [
+[
+"DHR",
+79057010.0
+]
+],
+"value": 79057010.0,
+"type": "Common Stock",
+"ticker": "DHR",
+"w": 0.15012725056138138
+},
+"DARDEN RESTAURANTS INC": {
+"issuer": "DARDEN RESTAURANTS INC",
+"tickers": [
+[
+"DRI",
+9943485.0
+]
+],
+"value": 9943485.0,
+"type": "Common Stock",
+"ticker": "DRI",
+"w": 0.018882425025286653
+},
+"DATADOG INC": {
+"issuer": "DATADOG INC",
+"tickers": [
+[
+"DDOG",
+78958596.0
+]
+],
+"value": 78958596.0,
+"type": "Common Stock",
+"ticker": "DDOG",
+"w": 0.1499403648793053
+},
+"DECKERS OUTDOOR CORP": {
+"issuer": "DECKERS OUTDOOR CORP",
+"tickers": [
+[
+"DECK",
+24141867.0
+]
+],
+"value": 24141867.0,
+"type": "Common Stock",
+"ticker": "DECK",
+"w": 0.04584479119724544
+},
+"DEERE &amp; CO": {
+"issuer": "DEERE &amp; CO",
+"tickers": [
+[
+"DE",
+107421248.0
+]
+],
+"value": 107421248.0,
+"type": "Common Stock",
+"ticker": "DE",
+"w": 0.2039902168588502
+},
+"DELL TECHNOLOGIES INC": {
+"issuer": "DELL TECHNOLOGIES INC",
+"tickers": [
+[
+"DELL",
+117032231.0
+]
+],
+"value": 117032231.0,
+"type": "Common Stock",
+"ticker": "DELL",
+"w": 0.2222412290459058
+},
+"DELTA AIR LINES INC": {
+"issuer": "DELTA AIR LINES INC",
+"tickers": [
+[
+"DAL",
+24959266.0
+]
+],
+"value": 24959266.0,
+"type": "Common Stock",
+"ticker": "DAL",
+"w": 0.04739701110135795
+},
+"DESCARTES SYS GROUP INC": {
+"issuer": "DESCARTES SYS GROUP INC",
+"tickers": [
+[
+"DSGX",
+923137.0
+]
+],
+"value": 923137.0,
+"type": "Common Stock",
+"ticker": "DSGX",
+"w": 0.0017530136758458473
+},
+"DEVON ENERGY CORP NEW": {
+"issuer": "DEVON ENERGY CORP NEW",
+"tickers": [
+[
+"DVN",
+36478784.0
+]
+],
+"value": 36478784.0,
+"type": "Common Stock",
+"ticker": "DVN",
+"w": 0.06927228269501351
+},
+"DEXCOM INC": {
+"issuer": "DEXCOM INC",
+"tickers": [
+[
+"DXCM",
+42608237.0
+]
+],
+"value": 42608237.0,
+"type": "Common Stock",
+"ticker": "DXCM",
+"w": 0.08091195799180516
+},
+"DIAMONDBACK ENERGY INC": {
+"issuer": "DIAMONDBACK ENERGY INC",
+"tickers": [
+[
+"FANG",
+21988144.0
+]
+],
+"value": 21988144.0,
+"type": "Common Stock",
+"ticker": "FANG",
+"w": 0.041754926016905204
+},
+"DICKS SPORTING GOODS INC": {
+"issuer": "DICKS SPORTING GOODS INC",
+"tickers": [
+[
+"DKS",
+1496039.0
+]
+],
+"value": 1496039.0,
+"type": "Common Stock",
+"ticker": "DKS",
+"w": 0.0028409399976371285
+},
+"DIGITAL RLTY TR INC": {
+"issuer": "DIGITAL RLTY TR INC",
+"tickers": [
+[
+"DLR",
+41925645.0
+]
+],
+"value": 41925645.0,
+"type": "REIT",
+"ticker": "DLR",
+"w": 0.07961573315083034
+},
+"DISNEY WALT CO": {
+"issuer": "DISNEY WALT CO",
+"tickers": [
+[
+"DIS",
+106387435.0
+]
+],
+"value": 106387435.0,
+"type": "Common Stock",
+"ticker": "DIS",
+"w": 0.20202703227490737
+},
+"DOLLAR GEN CORP": {
+"issuer": "DOLLAR GEN CORP",
+"tickers": [
+[
+"DG",
+15573347.0
+]
+],
+"value": 15573347.0,
+"type": "Common Stock",
+"ticker": "DG",
+"w": 0.02957338972405277
+},
+"DOLLAR TREE INC": {
+"issuer": "DOLLAR TREE INC",
+"tickers": [
+[
+"DLTR",
+20565249.0
+]
+],
+"value": 20565249.0,
+"type": "Common Stock",
+"ticker": "DLTR",
+"w": 0.03905288461428275
+},
+"DOMINION ENERGY INC": {
+"issuer": "DOMINION ENERGY INC",
+"tickers": [
+[
+"D",
+40789344.0
+]
+],
+"value": 40789344.0,
+"type": "Common Stock",
+"ticker": "D",
+"w": 0.07745792646246523
+},
+"DOMINOS PIZZA INC": {
+"issuer": "DOMINOS PIZZA INC",
+"tickers": [
+[
+"DPZ",
+1111038.0
+]
+],
+"value": 1111038.0,
+"type": "Common Stock",
+"ticker": "DPZ",
+"w": 0.002109832894125594
+},
+"DOORDASH INC": {
+"issuer": "DOORDASH INC",
+"tickers": [
+[
+"DASH",
+46368329.0
+]
+],
+"value": 46368329.0,
+"type": "Common Stock",
+"ticker": "DASH",
+"w": 0.0880522770326827
+},
+"DOVER CORP": {
+"issuer": "DOVER CORP",
+"tickers": [
+[
+"DOV",
+12367696.0
+]
+],
+"value": 12367696.0,
+"type": "Common Stock",
+"ticker": "DOV",
+"w": 0.02348594003566533
+},
+"DOW HLDGS INC": {
+"issuer": "DOW HLDGS INC",
+"tickers": [
+[
+"DOW",
+18257985.0
+]
+],
+"value": 18257985.0,
+"type": "Common Stock",
+"ticker": "DOW",
+"w": 0.0346714489814495
+},
+"DRAFTKINGS INC NEW": {
+"issuer": "DRAFTKINGS INC NEW",
+"tickers": [
+[
+"DKNG",
+3099579.0
+]
+],
+"value": 3099579.0,
+"type": "Common Stock",
+"ticker": "DKNG",
+"w": 0.005886021659151996
+},
+"DUKE ENERGY CORP NEW": {
+"issuer": "DUKE ENERGY CORP NEW",
+"tickers": [
+[
+"DUK",
+72083513.0
+]
+],
+"value": 72083513.0,
+"type": "Common Stock",
+"ticker": "DUK",
+"w": 0.13688475718339957
+},
+"DUPONT DE NEMOURS INC": {
+"issuer": "DUPONT DE NEMOURS INC",
+"tickers": [
+[
+"DD",
+7287395.0
+]
+],
+"value": 7287395.0,
+"type": "Common Stock",
+"ticker": "DD",
+"w": 0.01383857769354998
+},
+"EOG RES INC": {
+"issuer": "EOG RES INC",
+"tickers": [
+[
+"EOG",
+38981919.0
+]
+],
+"value": 38981919.0,
+"type": "Common Stock",
+"ticker": "EOG",
+"w": 0.0740256723733477
+},
+"EQT CORP": {
+"issuer": "EQT CORP",
+"tickers": [
+[
+"EQT",
+20114371.0
+]
+],
+"value": 20114371.0,
+"type": "Common Stock",
+"ticker": "EQT",
+"w": 0.03819667876386399
+},
+"EBAY INC.": {
+"issuer": "EBAY INC.",
+"tickers": [
+[
+"EBAY",
+31773878.0
+]
+],
+"value": 31773878.0,
+"type": "Common Stock",
+"ticker": "EBAY",
+"w": 0.06033778590681286
+},
+"ECHOSTAR CORP": {
+"issuer": "ECHOSTAR CORP",
+"tickers": [
+[
+"ECHO",
+13342683.0
+]
+],
+"value": 13342683.0,
+"type": "Common Stock",
+"ticker": "ECHO",
+"w": 0.02533741554230401
+},
+"ECOLAB INC": {
+"issuer": "ECOLAB INC",
+"tickers": [
+[
+"ECL",
+42490532.0
+]
+],
+"value": 42490532.0,
+"type": "Common Stock",
+"ticker": "ECL",
+"w": 0.08068843919154535
+},
+"EDISON INTL": {
+"issuer": "EDISON INTL",
+"tickers": [
+[
+"EIX",
+20407564.0
+]
+],
+"value": 20407564.0,
+"type": "Common Stock",
+"ticker": "EIX",
+"w": 0.03875344481122454
+},
+"EDWARDS LIFESCIENCES CORP": {
+"issuer": "EDWARDS LIFESCIENCES CORP",
+"tickers": [
+[
+"EW",
+40486097.0
+]
+],
+"value": 40486097.0,
+"type": "Common Stock",
+"ticker": "EW",
+"w": 0.07688206812490621
+},
+"ELECTRONIC ARTS INC": {
+"issuer": "ELECTRONIC ARTS INC",
+"tickers": [
+[
+"EA",
+25050557.0
+]
+],
+"value": 25050557.0,
+"type": "Common Stock",
+"ticker": "EA",
+"w": 0.047570370387662854
+},
+"EMCOR GROUP INC": {
+"issuer": "EMCOR GROUP INC",
+"tickers": [
+[
+"EME",
+42629276.0
+]
+],
+"value": 42629276.0,
+"type": "Common Stock",
+"ticker": "EME",
+"w": 0.08095191051751492
+},
+"EMERSON ELEC CO": {
+"issuer": "EMERSON ELEC CO",
+"tickers": [
+[
+"EMR",
+64914660.0
+]
+],
+"value": 64914660.0,
+"type": "Common Stock",
+"ticker": "EMR",
+"w": 0.1232712877318138
+},
+"ENBRIDGE INC": {
+"issuer": "ENBRIDGE INC",
+"tickers": [
+[
+"ENB",
+56539678.0
+]
+],
+"value": 56539678.0,
+"type": "Common Stock",
+"ticker": "ENB",
+"w": 0.10736740999648005
+},
+"ENTEGRIS INC": {
+"issuer": "ENTEGRIS INC",
+"tickers": [
+[
+"ENTG",
+18150212.0
+]
+],
+"value": 18150212.0,
+"type": "Common Stock",
+"ticker": "ENTG",
+"w": 0.03446679079649219
+},
+"ENTERGY CORP NEW": {
+"issuer": "ENTERGY CORP NEW",
+"tickers": [
+[
+"ETR",
+56324358.0
+]
+],
+"value": 56324358.0,
+"type": "Common Stock",
+"ticker": "ETR",
+"w": 0.10695852279481535
+},
+"EQUIFAX INC": {
+"issuer": "EQUIFAX INC",
+"tickers": [
+[
+"EFX",
+4691128.0
+]
+],
+"value": 4691128.0,
+"type": "Common Stock",
+"ticker": "EFX",
+"w": 0.00890833271675101
+},
+"EQUINIX INC": {
+"issuer": "EQUINIX INC",
+"tickers": [
+[
+"EQIX",
+89592378.0
+]
+],
+"value": 89592378.0,
+"type": "REIT",
+"ticker": "EQIX",
+"w": 0.17013364634453026
+},
+"EQUINOX GOLD CORP": {
+"issuer": "EQUINOX GOLD CORP",
+"tickers": [
+[
+"EQX",
+1823646.0
+]
+],
+"value": 1823646.0,
+"type": "Common Stock",
+"ticker": "EQX",
+"w": 0.003463057355410493
+},
+"EQUITY RESIDENTIAL": {
+"issuer": "EQUITY RESIDENTIAL",
+"tickers": [
+[
+"VMRK",
+3843344.0
+]
+],
+"value": 3843344.0,
+"type": "REIT",
+"ticker": "VMRK",
+"w": 0.0072984124707167865
+},
+"ERIE INDTY CO": {
+"issuer": "ERIE INDTY CO",
+"tickers": [
+[
+"ERIE",
+770077.0
+]
+],
+"value": 770077.0,
+"type": "Common Stock",
+"ticker": "ERIE",
+"w": 0.0014623566301148613
+},
+"ESSEX PPTY TR INC": {
+"issuer": "ESSEX PPTY TR INC",
+"tickers": [
+[
+"ESS",
+1900292.0
+]
+],
+"value": 1900292.0,
+"type": "REIT",
+"ticker": "ESS",
+"w": 0.003608606159324626
+},
+"EVERSOURCE ENERGY": {
+"issuer": "EVERSOURCE ENERGY",
+"tickers": [
+[
+"ES",
+24066055.0
+]
+],
+"value": 24066055.0,
+"type": "Common Stock",
+"ticker": "ES",
+"w": 0.04570082613811204
+},
+"EXELON CORP": {
+"issuer": "EXELON CORP",
+"tickers": [
+[
+"EXC",
+27044915.0
+]
+],
+"value": 27044915.0,
+"type": "Common Stock",
+"ticker": "EXC",
+"w": 0.051357605487688716
+},
+"F&amp;G ANNUITIES &amp; LIFE INC": {
+"issuer": "F&amp;G ANNUITIES &amp; LIFE INC",
+"tickers": [
+[
+"FG",
+159327.0
+]
+],
+"value": 159327.0,
+"type": "Common Stock",
+"ticker": "FG",
+"w": 0.0003025579192812024
+},
+"EXPEDIA GROUP INC": {
+"issuer": "EXPEDIA GROUP INC",
+"tickers": [
+[
+"EXPE",
+35845717.0
+]
+],
+"value": 35845717.0,
+"type": "Common Stock",
+"ticker": "EXPE",
+"w": 0.06807010456898595
+},
+"EXPEDITORS INTL WASH INC": {
+"issuer": "EXPEDITORS INTL WASH INC",
+"tickers": [
+[
+"EXPD",
+12200846.0
+]
+],
+"value": 12200846.0,
+"type": "Common Stock",
+"ticker": "EXPD",
+"w": 0.023169096130790018
+},
+"EXTRA SPACE STORAGE INC": {
+"issuer": "EXTRA SPACE STORAGE INC",
+"tickers": [
+[
+"EXR",
+13317181.0
+]
+],
+"value": 13317181.0,
+"type": "REIT",
+"ticker": "EXR",
+"w": 0.025288987893145307
+},
+"EXXON MOBIL CORP": {
+"issuer": "EXXON MOBIL CORP",
+"tickers": [
+[
+"XOM",
+341504548.0
+]
+],
+"value": 341504548.0,
+"type": "Common Stock",
+"ticker": "XOM",
+"w": 0.648508447833371
+},
+"META PLATFORMS INC": {
+"issuer": "META PLATFORMS INC",
+"tickers": [
+[
+"META",
+883082125.0
+]
+],
+"value": 883082125.0,
+"type": "Common Stock",
+"ticker": "META",
+"w": 1.676950487327463
+},
+"FACTSET RESH SYS INC": {
+"issuer": "FACTSET RESH SYS INC",
+"tickers": [
+[
+"FDS",
+11504.0
+]
+],
+"value": 11504.0,
+"type": "Common Stock",
+"ticker": "FDS",
+"w": 2.184580330647632e-05
+},
+"FAIR ISAAC CORP": {
+"issuer": "FAIR ISAAC CORP",
+"tickers": [
+[
+"FICO",
+13297901.0
+]
+],
+"value": 13297901.0,
+"type": "Common Stock",
+"ticker": "FICO",
+"w": 0.02525237566368174
+},
+"FASTENAL CO": {
+"issuer": "FASTENAL CO",
+"tickers": [
+[
+"FAST",
+35466697.0
+]
+],
+"value": 35466697.0,
+"type": "Common Stock",
+"ticker": "FAST",
+"w": 0.06735035523230126
+},
+"FEDEX CORP": {
+"issuer": "FEDEX CORP",
+"tickers": [
+[
+"FDX",
+64801314.0
+]
+],
+"value": 64801314.0,
+"type": "Common Stock",
+"ticker": "FDX",
+"w": 0.123056046561649
+},
+"FEDEX FGHT HLDG CO INC": {
+"issuer": "FEDEX FGHT HLDG CO INC",
+"tickers": [
+[
+"FDXF",
+16174969.0
+]
+],
+"value": 16174969.0,
+"type": "Common Stock",
+"ticker": "FDXF",
+"w": 0.030715854595127948
+},
+"FERGUSON ENTERPRISES INC": {
+"issuer": "FERGUSON ENTERPRISES INC",
+"tickers": [
+[
+"FERG",
+28497874.0
+]
+],
+"value": 28497874.0,
+"type": "Common Stock",
+"ticker": "FERG",
+"w": 0.05411673766139999
+},
+"F5 INC": {
+"issuer": "F5 INC",
+"tickers": [
+[
+"FFIV",
+14927972.0
+]
+],
+"value": 14927972.0,
+"type": "Common Stock",
+"ticker": "FFIV",
+"w": 0.02834783901917471
+},
+"FIDELITY NATL INFORMATION SV": {
+"issuer": "FIDELITY NATL INFORMATION SV",
+"tickers": [
+[
+"FIS",
+10859106.0
+]
+],
+"value": 10859106.0,
+"type": "Common Stock",
+"ticker": "FIS",
+"w": 0.020621166008360295
+},
+"FIDELITY NATL FINL INC": {
+"issuer": "FIDELITY NATL FINL INC",
+"tickers": [
+[
+"FNF",
+9922983.0
+]
+],
+"value": 9922983.0,
+"type": "Common Stock",
+"ticker": "FNF",
+"w": 0.018843492248914143
+},
+"FIFTH THIRD BANCORP": {
+"issuer": "FIFTH THIRD BANCORP",
+"tickers": [
+[
+"FITB",
+33953624.0
+]
+],
+"value": 33953624.0,
+"type": "Common Stock",
+"ticker": "FITB",
+"w": 0.06447706810205613
+},
+"FIRST CTZNS BANCSHARES INC D": {
+"issuer": "FIRST CTZNS BANCSHARES INC D",
+"tickers": [
+[
+"FCNCA",
+10077266.0
+]
+],
+"value": 10077266.0,
+"type": "Common Stock",
+"ticker": "FCNCA",
+"w": 0.019136471740528634
+},
+"FIRST SOLAR INC": {
+"issuer": "FIRST SOLAR INC",
+"tickers": [
+[
+"FSLR",
+15821590.0
+]
+],
+"value": 15821590.0,
+"type": "Common Stock",
+"ticker": "FSLR",
+"w": 0.030044796865065424
+},
+"FISERV INC": {
+"issuer": "FISERV INC",
+"tickers": [
+[
+"FISV",
+11934012.0
+]
+],
+"value": 11934012.0,
+"type": "Common Stock",
+"ticker": "FISV",
+"w": 0.022662385153783732
+},
+"FIRSTENERGY CORP": {
+"issuer": "FIRSTENERGY CORP",
+"tickers": [
+[
+"FE",
+17851413.0
+]
+],
+"value": 17851413.0,
+"type": "Common Stock",
+"ticker": "FE",
+"w": 0.03389937909776376
+},
+"FORD MTR CO": {
+"issuer": "FORD MTR CO",
+"tickers": [
+[
+"F",
+26197803.0
+]
+],
+"value": 26197803.0,
+"type": "Common Stock",
+"ticker": "F",
+"w": 0.04974896135255696
+},
+"FORTIS INC": {
+"issuer": "FORTIS INC",
+"tickers": [
+[
+"FTS",
+32082568.0
+]
+],
+"value": 32082568.0,
+"type": "Common Stock",
+"ticker": "FTS",
+"w": 0.060923980362886945
+},
+"FORTINET INC": {
+"issuer": "FORTINET INC",
+"tickers": [
+[
+"FTNT",
+60209823.0
+]
+],
+"value": 60209823.0,
+"type": "Common Stock",
+"ticker": "FTNT",
+"w": 0.11433692197285761
+},
+"FORTIVE CORP": {
+"issuer": "FORTIVE CORP",
+"tickers": [
+[
+"FTV",
+8288019.0
+]
+],
+"value": 8288019.0,
+"type": "Common Stock",
+"ticker": "FTV",
+"w": 0.0157387372109126
+},
+"FOX CORP": {
+"issuer": "FOX CORP",
+"tickers": [
+[
+"FOXA",
+1201193.0
+],
+[
+"FOX",
+3972735.0
+]
+],
+"value": 5173928.0,
+"type": "Common Stock",
+"ticker": "FOX",
+"w": 0.009825157632985953
+},
+"FRANCO NEV CORP": {
+"issuer": "FRANCO NEV CORP",
+"tickers": [
+[
+"FNV",
+20050652.0
+]
+],
+"value": 20050652.0,
+"type": "Common Stock",
+"ticker": "FNV",
+"w": 0.03807567800405129
+},
+"FREEPORT MCMORAN INC": {
+"issuer": "FREEPORT MCMORAN INC",
+"tickers": [
+[
+"FCX",
+77009119.0
+]
+],
+"value": 77009119.0,
+"type": "Common Stock",
+"ticker": "FCX",
+"w": 0.14623835765638285
+},
+"FULL TRUCK ALLIANCE CO LTD": {
+"issuer": "FULL TRUCK ALLIANCE CO LTD",
+"tickers": [
+[
+"YMM",
+1601264.0
+]
+],
+"value": 1601264.0,
+"type": "Depositary Receipt",
+"ticker": "YMM",
+"w": 0.003040759595422592
+},
+"FUTU HLDGS LTD": {
+"issuer": "FUTU HLDGS LTD",
+"tickers": [
+[
+"FUTU",
+1986632.0
+]
+],
+"value": 1986632.0,
+"type": "Depositary Receipt",
+"ticker": "FUTU",
+"w": 0.0037725636225966327
+},
+"LIBERTY CAP CORP": {
+"issuer": "LIBERTY CAP CORP",
+"tickers": [
+[
+"GLIBK",
+281466.0
+]
+],
+"value": 281466.0,
+"type": "Common Stock",
+"ticker": "GLIBK",
+"w": 0.0005344967727278046
+},
+"GFL ENVIRONMENTAL INC": {
+"issuer": "GFL ENVIRONMENTAL INC",
+"tickers": [
+[
+"GFL",
+1536399.0
+]
+],
+"value": 1536399.0,
+"type": "Common Stock",
+"ticker": "GFL",
+"w": 0.0029175826107672906
+},
+"GE HEALTHCARE TECHNOLOGIES I": {
+"issuer": "GE HEALTHCARE TECHNOLOGIES I",
+"tickers": [
+[
+"GEHC",
+5391050.0
+]
+],
+"value": 5391050.0,
+"type": "Common Stock",
+"ticker": "GEHC",
+"w": 0.010237466786802778
+},
+"GALLAGHER ARTHUR J &amp; CO": {
+"issuer": "GALLAGHER ARTHUR J &amp; CO",
+"tickers": [
+[
+"AJG",
+26686824.0
+]
+],
+"value": 26686824.0,
+"type": "Common Stock",
+"ticker": "AJG",
+"w": 0.05067759978951248
+},
+"GAMING &amp; LEISURE P": {
+"issuer": "GAMING &amp; LEISURE P",
+"tickers": [
+[
+"GLPI",
+14417656.0
+]
+],
+"value": 14417656.0,
+"type": "REIT",
+"ticker": "GLPI",
+"w": 0.027378761919022783
+},
+"GE VERNOVA INC": {
+"issuer": "GE VERNOVA INC",
+"tickers": [
+[
+"GEV",
+278300837.0
+]
+],
+"value": 278300837.0,
+"type": "Common Stock",
+"ticker": "GEV",
+"w": 0.5284862087212906
+},
+"GENERAL DYNAMICS CORP": {
+"issuer": "GENERAL DYNAMICS CORP",
+"tickers": [
+[
+"GD",
+71425411.0
+]
+],
+"value": 71425411.0,
+"type": "Common Stock",
+"ticker": "GD",
+"w": 0.13563503822933154
+},
+"GE AEROSPACE": {
+"issuer": "GE AEROSPACE",
+"tickers": [
+[
+"GE",
+267854907.0
+]
+],
+"value": 267854907.0,
+"type": "Common Stock",
+"ticker": "GE",
+"w": 0.508649653424592
+},
+"GENERAL MILLS INC": {
+"issuer": "GENERAL MILLS INC",
+"tickers": [
+[
+"GIS",
+1890719.0
+]
+],
+"value": 1890719.0,
+"type": "Common Stock",
+"ticker": "GIS",
+"w": 0.003590427275888178
+},
+"GENERAL MTRS CO": {
+"issuer": "GENERAL MTRS CO",
+"tickers": [
+[
+"GM",
+64617629.0
+]
+],
+"value": 64617629.0,
+"type": "Common Stock",
+"ticker": "GM",
+"w": 0.12270723342010259
+},
+"GENUINE PARTS CO": {
+"issuer": "GENUINE PARTS CO",
+"tickers": [
+[
+"GPC",
+11763196.0
+]
+],
+"value": 11763196.0,
+"type": "Common Stock",
+"ticker": "GPC",
+"w": 0.022338009915814413
+},
+"GILEAD SCIENCES INC": {
+"issuer": "GILEAD SCIENCES INC",
+"tickers": [
+[
+"GILD",
+126736076.0
+]
+],
+"value": 126736076.0,
+"type": "Common Stock",
+"ticker": "GILD",
+"w": 0.24066858380829573
+},
+"GILDAN ACTIVEWEAR INC": {
+"issuer": "GILDAN ACTIVEWEAR INC",
+"tickers": [
+[
+"GIL",
+10099038.0
+]
+],
+"value": 10099038.0,
+"type": "Common Stock",
+"ticker": "GIL",
+"w": 0.01917781621458884
+},
+"GLOBAL PMTS INC": {
+"issuer": "GLOBAL PMTS INC",
+"tickers": [
+[
+"GPN",
+3026115.0
+]
+],
+"value": 3026115.0,
+"type": "Common Stock",
+"ticker": "GPN",
+"w": 0.005746515392278997
+},
+"GOLDMAN SACHS GROUP INC": {
+"issuer": "GOLDMAN SACHS GROUP INC",
+"tickers": [
+[
+"GS",
+203981193.0
+]
+],
+"value": 203981193.0,
+"type": "Common Stock",
+"ticker": "GS",
+"w": 0.38735509566223786
+},
+"GRACO INC": {
+"issuer": "GRACO INC",
+"tickers": [
+[
+"GGG",
+9286193.0
+]
+],
+"value": 9286193.0,
+"type": "Common Stock",
+"ticker": "GGG",
+"w": 0.017634244240609984
+},
+"WW GRAINGER INC": {
+"issuer": "WW GRAINGER INC",
+"tickers": [
+[
+"GWW",
+38280296.0
+]
+],
+"value": 38280296.0,
+"type": "Common Stock",
+"ticker": "GWW",
+"w": 0.07269330814757408
+},
+"HCA HEALTHCARE INC": {
+"issuer": "HCA HEALTHCARE INC",
+"tickers": [
+[
+"HCA",
+38844351.0
+]
+],
+"value": 38844351.0,
+"type": "Common Stock",
+"ticker": "HCA",
+"w": 0.07376443424145747
+},
+"HP INC": {
+"issuer": "HP INC",
+"tickers": [
+[
+"HPQ",
+5870244.0
+]
+],
+"value": 5870244.0,
+"type": "Common Stock",
+"ticker": "HPQ",
+"w": 0.011147444000784316
+},
+"HALLIBURTON CO": {
+"issuer": "HALLIBURTON CO",
+"tickers": [
+[
+"HAL",
+26344996.0
+]
+],
+"value": 26344996.0,
+"type": "Common Stock",
+"ticker": "HAL",
+"w": 0.05002847711456062
+},
+"HARTFORD INSURANCE GROUP INC": {
+"issuer": "HARTFORD INSURANCE GROUP INC",
+"tickers": [
+[
+"HIG",
+23595981.0
+]
+],
+"value": 23595981.0,
+"type": "Common Stock",
+"ticker": "HIG",
+"w": 0.04480816757209252
+},
+"HEICO CORP NEW": {
+"issuer": "HEICO CORP NEW",
+"tickers": [
+[
+"HEI",
+10461656.0
+],
+[
+"HEI-A",
+7593644.0
+]
+],
+"value": 18055300.0,
+"type": "Common Stock",
+"ticker": "HEI",
+"w": 0.03428655532331553
+},
+"HERSHEY CO": {
+"issuer": "HERSHEY CO",
+"tickers": [
+[
+"HSY",
+19342134.0
+]
+],
+"value": 19342134.0,
+"type": "Common Stock",
+"ticker": "HSY",
+"w": 0.036730220348705496
+},
+"HEWLETT PACKARD ENTERPRISE C": {
+"issuer": "HEWLETT PACKARD ENTERPRISE C",
+"tickers": [
+[
+"HPE",
+54725557.0
+]
+],
+"value": 54725557.0,
+"type": "Common Stock",
+"ticker": "HPE",
+"w": 0.10392244037372723
+},
+"HILTON WORLDWIDE HLDGS INC": {
+"issuer": "HILTON WORLDWIDE HLDGS INC",
+"tickers": [
+[
+"HLT",
+38375328.0
+]
+],
+"value": 38375328.0,
+"type": "Common Stock",
+"ticker": "HLT",
+"w": 0.07287377149769761
+},
+"HOME DEPOT INC": {
+"issuer": "HOME DEPOT INC",
+"tickers": [
+[
+"HD",
+217384193.0
+]
+],
+"value": 217384193.0,
+"type": "Common Stock",
+"ticker": "HD",
+"w": 0.41280705165291076
+},
+"HONEYWELL AEROSPACE INC": {
+"issuer": "HONEYWELL AEROSPACE INC",
+"tickers": [
+[
+"HONA",
+40048642.0
+]
+],
+"value": 40048642.0,
+"type": "Common Stock",
+"ticker": "HONA",
+"w": 0.07605135220996925
+},
+"HONEYWELL INTL INC": {
+"issuer": "HONEYWELL INTL INC",
+"tickers": [
+[
+"HON",
+40559485.0
+]
+],
+"value": 40559485.0,
+"type": "Common Stock",
+"ticker": "HON",
+"w": 0.07702143006971285
+},
+"HORMEL FOODS CORP": {
+"issuer": "HORMEL FOODS CORP",
+"tickers": [
+[
+"HRL",
+346115.0
+]
+],
+"value": 346115.0,
+"type": "Common Stock",
+"ticker": "HRL",
+"w": 0.0006572635788787422
+},
+"HOWMET AEROSPACE INC": {
+"issuer": "HOWMET AEROSPACE INC",
+"tickers": [
+[
+"HWM",
+78406298.0
+]
+],
+"value": 78406298.0,
+"type": "Common Stock",
+"ticker": "HWM",
+"w": 0.14889156502929135
+},
+"H WORLD GROUP LTD": {
+"issuer": "H WORLD GROUP LTD",
+"tickers": [
+[
+"HTHT",
+9232678.0
+]
+],
+"value": 9232678.0,
+"type": "Depositary Receipt",
+"ticker": "HTHT",
+"w": 0.017532620617179345
+},
+"HUBBELL INC": {
+"issuer": "HUBBELL INC",
+"tickers": [
+[
+"HUBB",
+37431298.0
+]
+],
+"value": 37431298.0,
+"type": "Common Stock",
+"ticker": "HUBB",
+"w": 0.07108108254642737
+},
+"HUMANA INC": {
+"issuer": "HUMANA INC",
+"tickers": [
+[
+"HUM",
+34579193.0
+]
+],
+"value": 34579193.0,
+"type": "Common Stock",
+"ticker": "HUM",
+"w": 0.0656650077168535
+},
+"HUNT J B TRANS SVCS INC": {
+"issuer": "HUNT J B TRANS SVCS INC",
+"tickers": [
+[
+"JBHT",
+21506096.0
+]
+],
+"value": 21506096.0,
+"type": "Common Stock",
+"ticker": "JBHT",
+"w": 0.0408395291295373
+},
+"HUNTINGTON BANCSHARES INC": {
+"issuer": "HUNTINGTON BANCSHARES INC",
+"tickers": [
+[
+"HBAN",
+106452126.0
+]
+],
+"value": 106452126.0,
+"type": "Common Stock",
+"ticker": "HBAN",
+"w": 0.2021498788379897
+},
+"HYATT HOTELS CORP": {
+"issuer": "HYATT HOTELS CORP",
+"tickers": [
+[
+"H",
+403575.0
+]
+],
+"value": 403575.0,
+"type": "Common Stock",
+"ticker": "H",
+"w": 0.0007663786569376895
+},
+"IDEX CORP": {
+"issuer": "IDEX CORP",
+"tickers": [
+[
+"IEX",
+7562882.0
+]
+],
+"value": 7562882.0,
+"type": "Common Stock",
+"ticker": "IEX",
+"w": 0.014361720497400055
+},
+"IDEXX LABS INC": {
+"issuer": "IDEXX LABS INC",
+"tickers": [
+[
+"IDXX",
+13431064.0
+]
+],
+"value": 13431064.0,
+"type": "Common Stock",
+"ticker": "IDXX",
+"w": 0.025505248812647346
+},
+"ILLINOIS TOOL WKS INC": {
+"issuer": "ILLINOIS TOOL WKS INC",
+"tickers": [
+[
+"ITW",
+47010120.0
+]
+],
+"value": 47010120.0,
+"type": "Common Stock",
+"ticker": "ITW",
+"w": 0.08927102181274761
+},
+"ILLUMINA INC": {
+"issuer": "ILLUMINA INC",
+"tickers": [
+[
+"ILMN",
+16148755.0
+]
+],
+"value": 16148755.0,
+"type": "Common Stock",
+"ticker": "ILMN",
+"w": 0.030666074876084488
+},
+"IMPERIAL OIL LTD": {
+"issuer": "IMPERIAL OIL LTD",
+"tickers": [
+[
+"IMO",
+6951201.0
+]
+],
+"value": 6951201.0,
+"type": "Common Stock",
+"ticker": "IMO",
+"w": 0.013200153841253608
+},
+"INCYTE CORP": {
+"issuer": "INCYTE CORP",
+"tickers": [
+[
+"INCY",
+22164827.0
+]
+],
+"value": 22164827.0,
+"type": "Common Stock",
+"ticker": "INCY",
+"w": 0.04209044253860184
+},
+"INGERSOLL RAND INC": {
+"issuer": "INGERSOLL RAND INC",
+"tickers": [
+[
+"IR",
+24469178.0
+]
+],
+"value": 24469178.0,
+"type": "Common Stock",
+"ticker": "IR",
+"w": 0.046466346458549856
+},
+"INSMED INC": {
+"issuer": "INSMED INC",
+"tickers": [
+[
+"INSM",
+3777440.0
+]
+],
+"value": 3777440.0,
+"type": "Common Stock",
+"ticker": "INSM",
+"w": 0.007173262451496514
+},
+"INSULET CORP": {
+"issuer": "INSULET CORP",
+"tickers": [
+[
+"PODD",
+22175365.0
+]
+],
+"value": 22175365.0,
+"type": "Common Stock",
+"ticker": "PODD",
+"w": 0.042110453932486025
+},
+"INTEL CORP": {
+"issuer": "INTEL CORP",
+"tickers": [
+[
+"INTC",
+434757972.0
+]
+],
+"value": 434757972.0,
+"type": "Common Stock",
+"ticker": "INTC",
+"w": 0.8255943273847827
+},
+"INTERACTIVE BROKERS GROUP IN": {
+"issuer": "INTERACTIVE BROKERS GROUP IN",
+"tickers": [
+[
+"IBKR",
+9276027.0
+]
+],
+"value": 9276027.0,
+"type": "Common Stock",
+"ticker": "IBKR",
+"w": 0.017614939265261094
+},
+"INTERCONTINENTAL EXCHANGE IN": {
+"issuer": "INTERCONTINENTAL EXCHANGE IN",
+"tickers": [
+[
+"ICE",
+48597796.0
+]
+],
+"value": 48597796.0,
+"type": "Common Stock",
+"ticker": "ICE",
+"w": 0.09228597814188644
+},
+"INTERNATIONAL BUSINESS MACHS": {
+"issuer": "INTERNATIONAL BUSINESS MACHS",
+"tickers": [
+[
+"IBM",
+177630515.0
+]
+],
+"value": 177630515.0,
+"type": "Common Stock",
+"ticker": "IBM",
+"w": 0.33731582857424297
+},
+"INTERNATIONAL FLAVORS&amp;FRAGRA": {
+"issuer": "INTERNATIONAL FLAVORS&amp;FRAGRA",
+"tickers": [
+[
+"IFF",
+3169830.0
+]
+],
+"value": 3169830.0,
+"type": "Common Stock",
+"ticker": "IFF",
+"w": 0.006019426520772586
+},
+"INTERNATIONAL PAPER CO": {
+"issuer": "INTERNATIONAL PAPER CO",
+"tickers": [
+[
+"IP",
+8213865.0
+]
+],
+"value": 8213865.0,
+"type": "Common Stock",
+"ticker": "IP",
+"w": 0.015597920651595105
+},
+"INTUIT": {
+"issuer": "INTUIT",
+"tickers": [
+[
+"INTU",
+50575797.0
+]
+],
+"value": 50575797.0,
+"type": "Common Stock",
+"ticker": "INTU",
+"w": 0.09604215171507954
+},
+"INTUITIVE SURGICAL INC": {
+"issuer": "INTUITIVE SURGICAL INC",
+"tickers": [
+[
+"ISRG",
+86664414.0
+]
+],
+"value": 86664414.0,
+"type": "Common Stock",
+"ticker": "ISRG",
+"w": 0.16457351720401883
+},
+"INVITATION HOMES INC": {
+"issuer": "INVITATION HOMES INC",
+"tickers": [
+[
+"INVH",
+15912936.0
+]
+],
+"value": 15912936.0,
+"type": "REIT",
+"ticker": "INVH",
+"w": 0.03021826059497097
+},
+"IONQ INC": {
+"issuer": "IONQ INC",
+"tickers": [
+[
+"IONQ",
+7051358.0
+]
+],
+"value": 7051358.0,
+"type": "Common Stock",
+"ticker": "IONQ",
+"w": 0.013390349435982983
+},
+"IQVIA HLDGS INC": {
+"issuer": "IQVIA HLDGS INC",
+"tickers": [
+[
+"IQV",
+13917637.0
+]
+],
+"value": 13917637.0,
+"type": "Common Stock",
+"ticker": "IQV",
+"w": 0.026429238559886745
+},
+"IRON MTN INC DEL": {
+"issuer": "IRON MTN INC DEL",
+"tickers": [
+[
+"IRM",
+27610608.0
+]
+],
+"value": 27610608.0,
+"type": "REIT",
+"ticker": "IRM",
+"w": 0.05243184210189686
+},
+"JPMORGAN CHASE &amp; CO": {
+"issuer": "JPMORGAN CHASE &amp; CO",
+"tickers": [
+[
+"JPM",
+534768841.0
+]
+],
+"value": 534768841.0,
+"type": "Common Stock",
+"ticker": "JPM",
+"w": 1.0155124230631352
+},
+"JABIL INC": {
+"issuer": "JABIL INC",
+"tickers": [
+[
+"JBL",
+23521604.0
+]
+],
+"value": 23521604.0,
+"type": "Common Stock",
+"ticker": "JBL",
+"w": 0.04466692754144877
+},
+"JACOBS SOLUTIONS INC": {
+"issuer": "JACOBS SOLUTIONS INC",
+"tickers": [
+[
+"J",
+3349962.0
+]
+],
+"value": 3349962.0,
+"type": "Common Stock",
+"ticker": "J",
+"w": 0.006361492605717144
+},
+"JOHNSON &amp; JOHNSON": {
+"issuer": "JOHNSON &amp; JOHNSON",
+"tickers": [
+[
+"JNJ",
+469771865.0
+]
+],
+"value": 469771865.0,
+"type": "Common Stock",
+"ticker": "JNJ",
+"w": 0.8920848193416678
+},
+"KLA CORP": {
+"issuer": "KLA CORP",
+"tickers": [
+[
+"KLAC",
+281563013.0
+]
+],
+"value": 281563013.0,
+"type": "Common Stock",
+"ticker": "KLAC",
+"w": 0.534680997946526
+},
+"KKR &amp; CO INC": {
+"issuer": "KKR &amp; CO INC",
+"tickers": [
+[
+"KKR",
+20644810.0
+]
+],
+"value": 20644810.0,
+"type": "Common Stock",
+"ticker": "KKR",
+"w": 0.03920396892903124
+},
+"KANZHUN LIMITED": {
+"issuer": "KANZHUN LIMITED",
+"tickers": [
+[
+"BZ",
+3621489.0
+]
+],
+"value": 3621489.0,
+"type": "Depositary Receipt",
+"ticker": "BZ",
+"w": 0.006877115470320551
+},
+"KENVUE INC": {
+"issuer": "KENVUE INC",
+"tickers": [
+[
+"KVUE",
+25931486.0
+]
+],
+"value": 25931486.0,
+"type": "Common Stock",
+"ticker": "KVUE",
+"w": 0.04924323214539676
+},
+"KEURIG DR PEPPER INC": {
+"issuer": "KEURIG DR PEPPER INC",
+"tickers": [
+[
+"KDP",
+15276989.0
+]
+],
+"value": 15276989.0,
+"type": "Common Stock",
+"ticker": "KDP",
+"w": 0.02901061342221856
+},
+"KEYCORP": {
+"issuer": "KEYCORP",
+"tickers": [
+[
+"KEY",
+56146919.0
+]
+],
+"value": 56146919.0,
+"type": "Common Stock",
+"ticker": "KEY",
+"w": 0.10662157064835344
+},
+"KEYSIGHT TECHNOLOGIES INC": {
+"issuer": "KEYSIGHT TECHNOLOGIES INC",
+"tickers": [
+[
+"KEYS",
+72576512.0
+]
+],
+"value": 72576512.0,
+"type": "Common Stock",
+"ticker": "KEYS",
+"w": 0.1378209497411438
+},
+"KIMBERLY-CLARK CORP": {
+"issuer": "KIMBERLY-CLARK CORP",
+"tickers": [
+[
+"KMB",
+5950632.0
+]
+],
+"value": 5950632.0,
+"type": "Common Stock",
+"ticker": "KMB",
+"w": 0.011300098767491636
+},
+"KIMCO REALTY CORP": {
+"issuer": "KIMCO REALTY CORP",
+"tickers": [
+[
+"KIM",
+32836869.0
+]
+],
+"value": 32836869.0,
+"type": "REIT",
+"ticker": "KIM",
+"w": 0.0623563787703868
+},
+"KINDER MORGAN INC DEL": {
+"issuer": "KINDER MORGAN INC DEL",
+"tickers": [
+[
+"KMI",
+40983462.0
+]
+],
+"value": 40983462.0,
+"type": "Common Stock",
+"ticker": "KMI",
+"w": 0.07782655160556734
+},
+"KINROSS GOLD CORP": {
+"issuer": "KINROSS GOLD CORP",
+"tickers": [
+[
+"KGC",
+33685302.0
+]
+],
+"value": 33685302.0,
+"type": "Common Stock",
+"ticker": "KGC",
+"w": 0.06396753145090867
+},
+"KRAFT HEINZ CO": {
+"issuer": "KRAFT HEINZ CO",
+"tickers": [
+[
+"KHC",
+2054468.0
+]
+],
+"value": 2054468.0,
+"type": "Common Stock",
+"ticker": "KHC",
+"w": 0.0039013824606614904
+},
+"KROGER CO": {
+"issuer": "KROGER CO",
+"tickers": [
+[
+"KR",
+24298151.0
+]
+],
+"value": 24298151.0,
+"type": "Common Stock",
+"ticker": "KR",
+"w": 0.046141570536948964
+},
+"LPL FINL HLDGS INC": {
+"issuer": "LPL FINL HLDGS INC",
+"tickers": [
+[
+"LPLA",
+10369204.0
+]
+],
+"value": 10369204.0,
+"type": "Common Stock",
+"ticker": "LPLA",
+"w": 0.01969085457481984
+},
+"L3HARRIS TECHNOLOGIES INC": {
+"issuer": "L3HARRIS TECHNOLOGIES INC",
+"tickers": [
+[
+"LHX",
+43053524.0
+]
+],
+"value": 43053524.0,
+"type": "Common Stock",
+"ticker": "LHX",
+"w": 0.0817575466754744
+},
+"LABCORP HOLDINGS INC": {
+"issuer": "LABCORP HOLDINGS INC",
+"tickers": [
+[
+"LH",
+10094840.0
+]
+],
+"value": 10094840.0,
+"type": "Common Stock",
+"ticker": "LH",
+"w": 0.01916984431939755
+},
+"LAM RESEARCH CORP": {
+"issuer": "LAM RESEARCH CORP",
+"tickers": [
+[
+"LRCX",
+394543932.0
+]
+],
+"value": 394543932.0,
+"type": "Common Stock",
+"ticker": "LRCX",
+"w": 0.7492288885809951
+},
+"LAS VEGAS SANDS CORP": {
+"issuer": "LAS VEGAS SANDS CORP",
+"tickers": [
+[
+"LVS",
+20307434.0
+]
+],
+"value": 20307434.0,
+"type": "Common Stock",
+"ticker": "LVS",
+"w": 0.038563300488808204
+},
+"LAUDER ESTEE COS INC": {
+"issuer": "LAUDER ESTEE COS INC",
+"tickers": [
+[
+"EL",
+33619279.0
+]
+],
+"value": 33619279.0,
+"type": "Common Stock",
+"ticker": "EL",
+"w": 0.06384215545371609
+},
+"LEGEND BIOTECH CORP": {
+"issuer": "LEGEND BIOTECH CORP",
+"tickers": [
+[
+"LEGN",
+103968.0
+]
+],
+"value": 103968.0,
+"type": "Depositary Receipt",
+"ticker": "LEGN",
+"w": 0.00019743258676701406
+},
+"LEIDOS HOLDINGS INC": {
+"issuer": "LEIDOS HOLDINGS INC",
+"tickers": [
+[
+"LDOS",
+5901417.0
+]
+],
+"value": 5901417.0,
+"type": "Common Stock",
+"ticker": "LDOS",
+"w": 0.011206640734657124
+},
+"LENNAR CORP": {
+"issuer": "LENNAR CORP",
+"tickers": [
+[
+"LEN",
+8182015.0
+]
+],
+"value": 8182015.0,
+"type": "Common Stock",
+"ticker": "LEN",
+"w": 0.015537438311947049
+},
+"LENNOX INTL INC": {
+"issuer": "LENNOX INTL INC",
+"tickers": [
+[
+"LII",
+1825992.0
+]
+],
+"value": 1825992.0,
+"type": "Common Stock",
+"ticker": "LII",
+"w": 0.0034675123497217757
+},
+"LIBERTY BROADBAND CORP": {
+"issuer": "LIBERTY BROADBAND CORP",
+"tickers": [
+[
+"LBRDK",
+844737.0
+]
+],
+"value": 844737.0,
+"type": "Common Stock",
+"ticker": "LBRDK",
+"w": 0.0016041340705583176
+},
+"LIBERTY LIVE HOLDINGS INC": {
+"issuer": "LIBERTY LIVE HOLDINGS INC",
+"tickers": [
+[
+"LLYVK",
+3810540.0
+]
+],
+"value": 3810540.0,
+"type": "Common Stock",
+"ticker": "LLYVK",
+"w": 0.007236118509341123
+},
+"LIBERTY MEDIA CORP DEL": {
+"issuer": "LIBERTY MEDIA CORP DEL",
+"tickers": [
+[
+"FWONK",
+7562583.0
+]
+],
+"value": 7562583.0,
+"type": "Common Stock",
+"ticker": "FWONK",
+"w": 0.01436115270400744
+},
+"ELI LILLY &amp; CO": {
+"issuer": "ELI LILLY &amp; CO",
+"tickers": [
+[
+"LLY",
+790364399.0
+]
+],
+"value": 790364399.0,
+"type": "Common Stock",
+"ticker": "LLY",
+"w": 1.500881884648415
+},
+"LIVE NATION ENTERTAINMENT IN": {
+"issuer": "LIVE NATION ENTERTAINMENT IN",
+"tickers": [
+[
+"LYV",
+8461513.0
+]
+],
+"value": 8461513.0,
+"type": "Common Stock",
+"ticker": "LYV",
+"w": 0.016068197902746204
+},
+"LOCKHEED MARTIN CORP": {
+"issuer": "LOCKHEED MARTIN CORP",
+"tickers": [
+[
+"LMT",
+83552459.0
+]
+],
+"value": 83552459.0,
+"type": "Common Stock",
+"ticker": "LMT",
+"w": 0.15866399383574645
+},
+"LOEWS CORP": {
+"issuer": "LOEWS CORP",
+"tickers": [
+[
+"L",
+9315711.0
+]
+],
+"value": 9315711.0,
+"type": "Common Stock",
+"ticker": "L",
+"w": 0.01769029817159056
+},
+"LOWES COS INC": {
+"issuer": "LOWES COS INC",
+"tickers": [
+[
+"LOW",
+59548837.0
+]
+],
+"value": 59548837.0,
+"type": "Common Stock",
+"ticker": "LOW",
+"w": 0.1130817263761665
+},
+"LULULEMON ATHLETICA INC": {
+"issuer": "LULULEMON ATHLETICA INC",
+"tickers": [
+[
+"LULU",
+2909078.0
+]
+],
+"value": 2909078.0,
+"type": "Common Stock",
+"ticker": "LULU",
+"w": 0.005524265107023428
+},
+"LUMENTUM HLDGS INC": {
+"issuer": "LUMENTUM HLDGS INC",
+"tickers": [
+[
+"LITE",
+41757490.0
+]
+],
+"value": 41757490.0,
+"type": "Common Stock",
+"ticker": "LITE",
+"w": 0.07929641108415784
+},
+"M &amp; T BK CORP": {
+"issuer": "M &amp; T BK CORP",
+"tickers": [
+[
+"MTB",
+107696669.0
+]
+],
+"value": 107696669.0,
+"type": "Common Stock",
+"ticker": "MTB",
+"w": 0.2045132343303795
+},
+"MSCI INC": {
+"issuer": "MSCI INC",
+"tickers": [
+[
+"MSCI",
+23689692.0
+]
+],
+"value": 23689692.0,
+"type": "Common Stock",
+"ticker": "MSCI",
+"w": 0.044986122376825935
+},
+"MAGNA INTL INC": {
+"issuer": "MAGNA INTL INC",
+"tickers": [
+[
+"MGA",
+25867152.0
+]
+],
+"value": 25867152.0,
+"type": "Common Stock",
+"ticker": "MGA",
+"w": 0.049121063516231356
+},
+"MANULIFE FINL CORP": {
+"issuer": "MANULIFE FINL CORP",
+"tickers": [
+[
+"MFC",
+69211510.0
+]
+],
+"value": 69211510.0,
+"type": "Common Stock",
+"ticker": "MFC",
+"w": 0.1314308965580858
+},
+"MARATHON PETE CORP": {
+"issuer": "MARATHON PETE CORP",
+"tickers": [
+[
+"MPC",
+55227277.0
+]
+],
+"value": 55227277.0,
+"type": "Common Stock",
+"ticker": "MPC",
+"w": 0.10487519388858516
+},
+"MARKEL GROUP INC": {
+"issuer": "MARKEL GROUP INC",
+"tickers": [
+[
+"MKL",
+11864536.0
+]
+],
+"value": 11864536.0,
+"type": "Common Stock",
+"ticker": "MKL",
+"w": 0.022530451997445005
+},
+"MARSH &amp; MCLENNAN COS INC": {
+"issuer": "MARSH &amp; MCLENNAN COS INC",
+"tickers": [
+[
+"MRSH",
+46856104.0
+]
+],
+"value": 46856104.0,
+"type": "Common Stock",
+"ticker": "MRSH",
+"w": 0.0889785493473399
+},
+"MARRIOTT INTL INC NEW": {
+"issuer": "MARRIOTT INTL INC NEW",
+"tickers": [
+[
+"MAR",
+39977396.0
+]
+],
+"value": 39977396.0,
+"type": "Common Stock",
+"ticker": "MAR",
+"w": 0.07591605786866422
+},
+"MARTIN MARIETTA MATLS INC": {
+"issuer": "MARTIN MARIETTA MATLS INC",
+"tickers": [
+[
+"MLM",
+15083012.0
+]
+],
+"value": 15083012.0,
+"type": "Common Stock",
+"ticker": "MLM",
+"w": 0.028642256034529034
+},
+"MARVELL TECHNOLOGY INC": {
+"issuer": "MARVELL TECHNOLOGY INC",
+"tickers": [
+[
+"MRVL",
+192057428.0
+]
+],
+"value": 192057428.0,
+"type": "Common Stock",
+"ticker": "MRVL",
+"w": 0.36471216930074213
+},
+"MASCO CORP": {
+"issuer": "MASCO CORP",
+"tickers": [
+[
+"MAS",
+7639504.0
+]
+],
+"value": 7639504.0,
+"type": "Common Stock",
+"ticker": "MAS",
+"w": 0.014507223725924813
+},
+"MASTEC INC": {
+"issuer": "MASTEC INC",
+"tickers": [
+[
+"MTZ",
+19012278.0
+]
+],
+"value": 19012278.0,
+"type": "Common Stock",
+"ticker": "MTZ",
+"w": 0.0361038321971529
+},
+"MASTERCARD INCORPORATED": {
+"issuer": "MASTERCARD INCORPORATED",
+"tickers": [
+[
+"MA",
+237512779.0
+]
+],
+"value": 237512779.0,
+"type": "Common Stock",
+"ticker": "MA",
+"w": 0.45103072434010594
+},
+"MCCORMICK &amp; CO INC": {
+"issuer": "MCCORMICK &amp; CO INC",
+"tickers": [
+[
+"MKC",
+12283018.0
+]
+],
+"value": 12283018.0,
+"type": "Common Stock",
+"ticker": "MKC",
+"w": 0.023325138668107454
+},
+"MCDONALDS CORP": {
+"issuer": "MCDONALDS CORP",
+"tickers": [
+[
+"MCD",
+80738353.0
+]
+],
+"value": 80738353.0,
+"type": "Common Stock",
+"ticker": "MCD",
+"w": 0.1533200781403731
+},
+"MCKESSON CORP": {
+"issuer": "MCKESSON CORP",
+"tickers": [
+[
+"MCK",
+41508130.0
+]
+],
+"value": 41508130.0,
+"type": "Common Stock",
+"ticker": "MCK",
+"w": 0.07882288278856475
+},
+"MERCADOLIBRE  INC": {
+"issuer": "MERCADOLIBRE  INC",
+"tickers": [
+[
+"MELI",
+56679247.0
+]
+],
+"value": 56679247.0,
+"type": "Common Stock",
+"ticker": "MELI",
+"w": 0.10763244797645931
+},
+"MERCK &amp; CO INC": {
+"issuer": "MERCK &amp; CO INC",
+"tickers": [
+[
+"MRK",
+239190543.0
+]
+],
+"value": 239190543.0,
+"type": "Common Stock",
+"ticker": "MRK",
+"w": 0.45421675548915735
+},
+"METLIFE INC": {
+"issuer": "METLIFE INC",
+"tickers": [
+[
+"MET",
+19579854.0
+]
+],
+"value": 19579854.0,
+"type": "Common Stock",
+"ticker": "MET",
+"w": 0.037181644580452325
+},
+"METTLER TOLEDO INTERNATIONAL": {
+"issuer": "METTLER TOLEDO INTERNATIONAL",
+"tickers": [
+[
+"MTD",
+2029963.0
+]
+],
+"value": 2029963.0,
+"type": "Common Stock",
+"ticker": "MTD",
+"w": 0.003854848089136351
+},
+"MICROSOFT CORP": {
+"issuer": "MICROSOFT CORP",
+"tickers": [
+[
+"MSFT",
+1873751826.0
+]
+],
+"value": 1873751826.0,
+"type": "Common Stock",
+"ticker": "MSFT",
+"w": 3.5582070441539324
+},
+"STRATEGY INC": {
+"issuer": "STRATEGY INC",
+"tickers": [
+[
+"MSTR",
+7167726.0
+]
+],
+"value": 7167726.0,
+"type": "Common Stock",
+"ticker": "MSTR",
+"w": 0.01361132930725976
+},
+"MICROCHIP TECHNOLOGY INC.": {
+"issuer": "MICROCHIP TECHNOLOGY INC.",
+"tickers": [
+[
+"MCHP",
+32933870.0
+]
+],
+"value": 32933870.0,
+"type": "Common Stock",
+"ticker": "MCHP",
+"w": 0.06254058120141352
+},
+"MICRON TECHNOLOGY INC": {
+"issuer": "MICRON TECHNOLOGY INC",
+"tickers": [
+[
+"MU",
+946019147.0
+]
+],
+"value": 946019147.0,
+"type": "Common Stock",
+"ticker": "MU",
+"w": 1.796466290813848
+},
+"MID-AMER APT CMNTYS INC": {
+"issuer": "MID-AMER APT CMNTYS INC",
+"tickers": [
+[
+"MAA",
+1601561.0
+]
+],
+"value": 1601561.0,
+"type": "REIT",
+"ticker": "MAA",
+"w": 0.0030413235908660916
+},
+"MILLROSE PPTYS INC": {
+"issuer": "MILLROSE PPTYS INC",
+"tickers": [
+[
+"MRP",
+386233.0
+]
+],
+"value": 386233.0,
+"type": "REIT",
+"ticker": "MRP",
+"w": 0.0007334466401660524
+},
+"MOBILEYE GLOBAL INC": {
+"issuer": "MOBILEYE GLOBAL INC",
+"tickers": [
+[
+"MBLY",
+659866.0
+]
+],
+"value": 659866.0,
+"type": "Common Stock",
+"ticker": "MBLY",
+"w": 0.0012530687451870047
+},
+"MONDELEZ INTL INC": {
+"issuer": "MONDELEZ INTL INC",
+"tickers": [
+[
+"MDLZ",
+34651134.0
+]
+],
+"value": 34651134.0,
+"type": "Common Stock",
+"ticker": "MDLZ",
+"w": 0.06580162184547583
+},
+"MONGODB INC": {
+"issuer": "MONGODB INC",
+"tickers": [
+[
+"MDB",
+26497807.0
+]
+],
+"value": 26497807.0,
+"type": "Common Stock",
+"ticker": "MDB",
+"w": 0.05031866131562686
+},
+"MONOLITHIC PWR SYS INC": {
+"issuer": "MONOLITHIC PWR SYS INC",
+"tickers": [
+[
+"MPWR",
+38363255.0
+]
+],
+"value": 38363255.0,
+"type": "Common Stock",
+"ticker": "MPWR",
+"w": 0.07285084517786805
+},
+"MONSTER BEVERAGE CORP NEW": {
+"issuer": "MONSTER BEVERAGE CORP NEW",
+"tickers": [
+[
+"MNST",
+58616763.0
+]
+],
+"value": 58616763.0,
+"type": "Common Stock",
+"ticker": "MNST",
+"w": 0.1113117415647026
+},
+"MOODYS CORP": {
+"issuer": "MOODYS CORP",
+"tickers": [
+[
+"MCO",
+34419655.0
+]
+],
+"value": 34419655.0,
+"type": "Common Stock",
+"ticker": "MCO",
+"w": 0.06536204911394072
+},
+"MORGAN STANLEY": {
+"issuer": "MORGAN STANLEY",
+"tickers": [
+[
+"MS",
+171816038.0
+]
+],
+"value": 171816038.0,
+"type": "Common Stock",
+"ticker": "MS",
+"w": 0.32627428468759223
+},
+"MOTOROLA SOLUTIONS INC": {
+"issuer": "MOTOROLA SOLUTIONS INC",
+"tickers": [
+[
+"MSI",
+52103529.0
+]
+],
+"value": 52103529.0,
+"type": "Common Stock",
+"ticker": "MSI",
+"w": 0.09894327591335925
+},
+"NRG ENERGY INC": {
+"issuer": "NRG ENERGY INC",
+"tickers": [
+[
+"NRG",
+17239024.0
+]
+],
+"value": 17239024.0,
+"type": "Common Stock",
+"ticker": "NRG",
+"w": 0.032736467967630786
+},
+"NVR INC": {
+"issuer": "NVR INC",
+"tickers": [
+[
+"NVR",
+8155640.0
+]
+],
+"value": 8155640.0,
+"type": "Common Stock",
+"ticker": "NVR",
+"w": 0.01548735285799987
+},
+"NASDAQ INC": {
+"issuer": "NASDAQ INC",
+"tickers": [
+[
+"NDAQ",
+22520372.0
+]
+],
+"value": 22520372.0,
+"type": "Common Stock",
+"ticker": "NDAQ",
+"w": 0.04276561344755535
+},
+"NATERA INC": {
+"issuer": "NATERA INC",
+"tickers": [
+[
+"NTRA",
+19778933.0
+]
+],
+"value": 19778933.0,
+"type": "Common Stock",
+"ticker": "NTRA",
+"w": 0.037559690536332895
+},
+"NETAPP INC": {
+"issuer": "NETAPP INC",
+"tickers": [
+[
+"NTAP",
+17700211.0
+]
+],
+"value": 17700211.0,
+"type": "Common Stock",
+"ticker": "NTAP",
+"w": 0.03361225034676013
+},
+"NETFLIX INC.": {
+"issuer": "NETFLIX INC.",
+"tickers": [
+[
+"NFLX",
+218010761.0
+]
+],
+"value": 218010761.0,
+"type": "Common Stock",
+"ticker": "NFLX",
+"w": 0.4139968883432909
+},
+"NET LEASE OFFICE PROPERTIES": {
+"issuer": "NET LEASE OFFICE PROPERTIES",
+"tickers": [
+[
+"NLOP",
+67.0
+]
+],
+"value": 67.0,
+"type": "REIT",
+"ticker": "NLOP",
+"w": 1.2723129533500637e-07
+},
+"NEUROCRINE BIOSCIENCES INC": {
+"issuer": "NEUROCRINE BIOSCIENCES INC",
+"tickers": [
+[
+"NBIX",
+29154701.0
+]
+],
+"value": 29154701.0,
+"type": "Common Stock",
+"ticker": "NBIX",
+"w": 0.05536403542290754
+},
+"NEWMONT CORP": {
+"issuer": "NEWMONT CORP",
+"tickers": [
+[
+"NEM",
+105008499.0
+]
+],
+"value": 105008499.0,
+"type": "Common Stock",
+"ticker": "NEM",
+"w": 0.19940846789484656
+},
+"NEWS CORP NEW": {
+"issuer": "NEWS CORP NEW",
+"tickers": [
+[
+"NWSA",
+6350198.0
+]
+],
+"value": 6350198.0,
+"type": "Common Stock",
+"ticker": "NWSA",
+"w": 0.012058864435429357
+},
+"NEXTERA ENERGY INC": {
+"issuer": "NEXTERA ENERGY INC",
+"tickers": [
+[
+"NEE",
+131528172.0
+]
+],
+"value": 131528172.0,
+"type": "Common Stock",
+"ticker": "NEE",
+"w": 0.24976865218814204
+},
+"NIKE INC": {
+"issuer": "NIKE INC",
+"tickers": [
+[
+"NKE",
+15492886.0
+]
+],
+"value": 15492886.0,
+"type": "Common Stock",
+"ticker": "NKE",
+"w": 0.02942059633220277
+},
+"NISOURCE INC": {
+"issuer": "NISOURCE INC",
+"tickers": [
+[
+"NI",
+10850007.0
+]
+],
+"value": 10850007.0,
+"type": "Common Stock",
+"ticker": "NI",
+"w": 0.02060388723886398
+},
+"NORDSON CORP": {
+"issuer": "NORDSON CORP",
+"tickers": [
+[
+"NDSN",
+14296486.0
+]
+],
+"value": 14296486.0,
+"type": "Common Stock",
+"ticker": "NDSN",
+"w": 0.027148663171922147
+},
+"NORFOLK SOUTHN CORP": {
+"issuer": "NORFOLK SOUTHN CORP",
+"tickers": [
+[
+"NSC",
+29709880.0
+]
+],
+"value": 29709880.0,
+"type": "Common Stock",
+"ticker": "NSC",
+"w": 0.05641830621862089
+},
+"NORTHERN TR CORP": {
+"issuer": "NORTHERN TR CORP",
+"tickers": [
+[
+"NTRS",
+16072551.0
+]
+],
+"value": 16072551.0,
+"type": "Common Stock",
+"ticker": "NTRS",
+"w": 0.03052136541892466
+},
+"NORTHROP GRUMMAN CORP": {
+"issuer": "NORTHROP GRUMMAN CORP",
+"tickers": [
+[
+"NOC",
+56096422.0
+]
+],
+"value": 56096422.0,
+"type": "Common Stock",
+"ticker": "NOC",
+"w": 0.10652567813013655
+},
+"GEN DIGITAL INC": {
+"issuer": "GEN DIGITAL INC",
+"tickers": [
+[
+"GEN",
+3977148.0
+]
+],
+"value": 3977148.0,
+"type": "Common Stock",
+"ticker": "GEN",
+"w": 0.0075525028623735805
+},
+"NUCOR CORP": {
+"issuer": "NUCOR CORP",
+"tickers": [
+[
+"NUE",
+56298281.0
+]
+],
+"value": 56298281.0,
+"type": "Common Stock",
+"ticker": "NUE",
+"w": 0.10690900323528624
+},
+"NVIDIA CORPORATION": {
+"issuer": "NVIDIA CORPORATION",
+"tickers": [
+[
+"NVDA",
+3290676138.0
+]
+],
+"value": 3290676138.0,
+"type": "Common Stock",
+"ticker": "NVDA",
+"w": 6.248910262175167
+},
+"NUTRIEN LTD": {
+"issuer": "NUTRIEN LTD",
+"tickers": [
+[
+"NTR",
+16642559.0
+]
+],
+"value": 16642559.0,
+"type": "Common Stock",
+"ticker": "NTR",
+"w": 0.031603796108347286
+},
+"NUSCALE PWR CORP": {
+"issuer": "NUSCALE PWR CORP",
+"tickers": [
+[
+"SMR",
+17034360.0
+]
+],
+"value": 17034360.0,
+"type": "Common Stock",
+"ticker": "SMR",
+"w": 0.03234781623884805
+},
+"OREILLY AUTOMOTIVE INC": {
+"issuer": "OREILLY AUTOMOTIVE INC",
+"tickers": [
+[
+"ORLY",
+55315332.0
+]
+],
+"value": 55315332.0,
+"type": "Common Stock",
+"ticker": "ORLY",
+"w": 0.10504240809322282
+},
+"OCCIDENTAL PETE CORP": {
+"issuer": "OCCIDENTAL PETE CORP",
+"tickers": [
+[
+"OXY",
+18941911.0
+]
+],
+"value": 18941911.0,
+"type": "Common Stock",
+"ticker": "OXY",
+"w": 0.03597020705448367
+},
+"OKTA INC": {
+"issuer": "OKTA INC",
+"tickers": [
+[
+"OKTA",
+30156269.0
+]
+],
+"value": 30156269.0,
+"type": "Common Stock",
+"ticker": "OKTA",
+"w": 0.057265987572252194
+},
+"OLD DOMINION FREIGHT LINE IN": {
+"issuer": "OLD DOMINION FREIGHT LINE IN",
+"tickers": [
+[
+"ODFL",
+37029286.0
+]
+],
+"value": 37029286.0,
+"type": "Common Stock",
+"ticker": "ODFL",
+"w": 0.07031767198672265
+},
+"OMNICOM GROUP INC": {
+"issuer": "OMNICOM GROUP INC",
+"tickers": [
+[
+"OMC",
+11075404.0
+]
+],
+"value": 11075404.0,
+"type": "Common Stock",
+"ticker": "OMC",
+"w": 0.021031910407141956
+},
+"ON SEMICONDUCTOR CORP": {
+"issuer": "ON SEMICONDUCTOR CORP",
+"tickers": [
+[
+"ON",
+25383895.0
+]
+],
+"value": 25383895.0,
+"type": "Common Stock",
+"ticker": "ON",
+"w": 0.04820337076862376
+},
+"ONEOK INC NEW": {
+"issuer": "ONEOK INC NEW",
+"tickers": [
+[
+"OKE",
+35549766.0
+]
+],
+"value": 35549766.0,
+"type": "Common Stock",
+"ticker": "OKE",
+"w": 0.06750810114979654
+},
+"ORACLE CORP": {
+"issuer": "ORACLE CORP",
+"tickers": [
+[
+"ORCL",
+178342410.0
+]
+],
+"value": 178342410.0,
+"type": "Common Stock",
+"ticker": "ORCL",
+"w": 0.3386676990666686
+},
+"OTIS WORLDWIDE CORP": {
+"issuer": "OTIS WORLDWIDE CORP",
+"tickers": [
+[
+"OTIS",
+28857449.0
+]
+],
+"value": 28857449.0,
+"type": "Common Stock",
+"ticker": "OTIS",
+"w": 0.054799561437819166
+},
+"OVINTIV INC": {
+"issuer": "OVINTIV INC",
+"tickers": [
+[
+"OVV",
+3211861.0
+]
+],
+"value": 3211861.0,
+"type": "Common Stock",
+"ticker": "OVV",
+"w": 0.006099242320387894
+},
+"PG&amp;E CORP": {
+"issuer": "PG&amp;E CORP",
+"tickers": [
+[
+"PCG",
+38823689.0
+]
+],
+"value": 38823689.0,
+"type": "Common Stock",
+"ticker": "PCG",
+"w": 0.0737251976291558
+},
+"PNC FINL SVCS GROUP INC": {
+"issuer": "PNC FINL SVCS GROUP INC",
+"tickers": [
+[
+"PNC",
+39317148.0
+]
+],
+"value": 39317148.0,
+"type": "Common Stock",
+"ticker": "PNC",
+"w": 0.07466226371519634
+},
+"PPG INDS INC": {
+"issuer": "PPG INDS INC",
+"tickers": [
+[
+"PPG",
+10878136.0
+]
+],
+"value": 10878136.0,
+"type": "Common Stock",
+"ticker": "PPG",
+"w": 0.02065730349418455
+},
+"PPL CORP": {
+"issuer": "PPL CORP",
+"tickers": [
+[
+"PPL",
+27134294.0
+]
+],
+"value": 27134294.0,
+"type": "Common Stock",
+"ticker": "PPL",
+"w": 0.051527333934640165
+},
+"PTC INC": {
+"issuer": "PTC INC",
+"tickers": [
+[
+"PTC",
+5624377.0
+]
+],
+"value": 5624377.0,
+"type": "Common Stock",
+"ticker": "PTC",
+"w": 0.010680548823319659
+},
+"PACCAR INC": {
+"issuer": "PACCAR INC",
+"tickers": [
+[
+"PCAR",
+53741448.0
+]
+],
+"value": 53741448.0,
+"type": "Common Stock",
+"ticker": "PCAR",
+"w": 0.10205364242117743
+},
+"PACKAGING CORP AMER": {
+"issuer": "PACKAGING CORP AMER",
+"tickers": [
+[
+"PKG",
+3189854.0
+]
+],
+"value": 3189854.0,
+"type": "Common Stock",
+"ticker": "PKG",
+"w": 0.006057451587306737
+},
+"PALANTIR TECHNOLOGIES INC": {
+"issuer": "PALANTIR TECHNOLOGIES INC",
+"tickers": [
+[
+"PLTR",
+184647542.0
+]
+],
+"value": 184647542.0,
+"type": "Common Stock",
+"ticker": "PLTR",
+"w": 0.35064098431470136
+},
+"PALO ALTO NETWORKS INC": {
+"issuer": "PALO ALTO NETWORKS INC",
+"tickers": [
+[
+"PANW",
+208709355.0
+]
+],
+"value": 208709355.0,
+"type": "Common Stock",
+"ticker": "PANW",
+"w": 0.3963337550027416
+},
+"PAN AMERN SILVER CORP": {
+"issuer": "PAN AMERN SILVER CORP",
+"tickers": [
+[
+"PAAS",
+1030186.0
+]
+],
+"value": 1030186.0,
+"type": "Common Stock",
+"ticker": "PAAS",
+"w": 0.0019562970032237148
+},
+"PARKER-HANNIFIN CORP": {
+"issuer": "PARKER-HANNIFIN CORP",
+"tickers": [
+[
+"PH",
+93175711.0
+]
+],
+"value": 93175711.0,
+"type": "Common Stock",
+"ticker": "PH",
+"w": 0.1769383045416448
+},
+"PAYCHEX INC": {
+"issuer": "PAYCHEX INC",
+"tickers": [
+[
+"PAYX",
+13923233.0
+]
+],
+"value": 13923233.0,
+"type": "Common Stock",
+"ticker": "PAYX",
+"w": 0.026439865221509058
+},
+"PAYPAL HLDGS INC": {
+"issuer": "PAYPAL HLDGS INC",
+"tickers": [
+[
+"PYPL",
+11840561.0
+]
+],
+"value": 11840561.0,
+"type": "Common Stock",
+"ticker": "PYPL",
+"w": 0.0224849240824352
+},
+"PEMBINA PIPELINE CORP": {
+"issuer": "PEMBINA PIPELINE CORP",
+"tickers": [
+[
+"PBA",
+6857088.0
+]
+],
+"value": 6857088.0,
+"type": "Common Stock",
+"ticker": "PBA",
+"w": 0.013021435648748182
+},
+"PEPSICO INC": {
+"issuer": "PEPSICO INC",
+"tickers": [
+[
+"PEP",
+187115353.0
+]
+],
+"value": 187115353.0,
+"type": "Common Stock",
+"ticker": "PEP",
+"w": 0.35532729461577567
+},
+"PFIZER INC": {
+"issuer": "PFIZER INC",
+"tickers": [
+[
+"PFE",
+62960868.0
+]
+],
+"value": 62960868.0,
+"type": "Common Stock",
+"ticker": "PFE",
+"w": 0.1195610864336769
+},
+"PHILIP MORRIS INTL INC": {
+"issuer": "PHILIP MORRIS INTL INC",
+"tickers": [
+[
+"PM",
+206561048.0
+]
+],
+"value": 206561048.0,
+"type": "Common Stock",
+"ticker": "PM",
+"w": 0.3922541746686034
+},
+"PHILLIPS 66": {
+"issuer": "PHILLIPS 66",
+"tickers": [
+[
+"PSX",
+38799342.0
+]
+],
+"value": 38799342.0,
+"type": "Common Stock",
+"ticker": "PSX",
+"w": 0.0736789632956107
+},
+"PDD HOLDINGS INC": {
+"issuer": "PDD HOLDINGS INC",
+"tickers": [
+[
+"PDD",
+34775060.0
+]
+],
+"value": 34775060.0,
+"type": "Depositary Receipt",
+"ticker": "PDD",
+"w": 0.06603695416645622
+},
+"PINNACLE FINL PARTNERS INC": {
+"issuer": "PINNACLE FINL PARTNERS INC",
+"tickers": [
+[
+"PNFP",
+6696112.0
+]
+],
+"value": 6696112.0,
+"type": "Common Stock",
+"ticker": "PNFP",
+"w": 0.012715746320422092
+},
+"PINTEREST INC": {
+"issuer": "PINTEREST INC",
+"tickers": [
+[
+"PINS",
+570691.0
+]
+],
+"value": 570691.0,
+"type": "Common Stock",
+"ticker": "PINS",
+"w": 0.0010837276890452256
+},
+"PRICE T ROWE GROUP INC": {
+"issuer": "PRICE T ROWE GROUP INC",
+"tickers": [
+[
+"TROW",
+11342851.0
+]
+],
+"value": 11342851.0,
+"type": "Common Stock",
+"ticker": "TROW",
+"w": 0.021539785455551828
+},
+"PRINCIPAL FINANCIAL GROUP IN": {
+"issuer": "PRINCIPAL FINANCIAL GROUP IN",
+"tickers": [
+[
+"PFG",
+11206964.0
+]
+],
+"value": 11206964.0,
+"type": "Common Stock",
+"ticker": "PFG",
+"w": 0.021281739499892306
+},
+"PROCTER &amp; GAMBLE CO": {
+"issuer": "PROCTER &amp; GAMBLE CO",
+"tickers": [
+[
+"PG",
+204953009.0
+]
+],
+"value": 204953009.0,
+"type": "Common Stock",
+"ticker": "PG",
+"w": 0.3892005495205555
+},
+"PROGRESSIVE CORP": {
+"issuer": "PROGRESSIVE CORP",
+"tickers": [
+[
+"PGR",
+55732275.0
+]
+],
+"value": 55732275.0,
+"type": "Common Stock",
+"ticker": "PGR",
+"w": 0.10583417224204168
+},
+"PROLOGIS INC.": {
+"issuer": "PROLOGIS INC.",
+"tickers": [
+[
+"PLD",
+101258813.0
+]
+],
+"value": 101258813.0,
+"type": "REIT",
+"ticker": "PLD",
+"w": 0.19228790958321168
+},
+"PRUDENTIAL FINL INC": {
+"issuer": "PRUDENTIAL FINL INC",
+"tickers": [
+[
+"PRU",
+18787807.0
+]
+],
+"value": 18787807.0,
+"type": "Common Stock",
+"ticker": "PRU",
+"w": 0.03567756747931493
+},
+"PUBLIC SVC ENTERPRISE GROUP": {
+"issuer": "PUBLIC SVC ENTERPRISE GROUP",
+"tickers": [
+[
+"PEG",
+24861418.0
+]
+],
+"value": 24861418.0,
+"type": "Common Stock",
+"ticker": "PEG",
+"w": 0.04721120023888124
+},
+"PUBLIC STORAGE": {
+"issuer": "PUBLIC STORAGE",
+"tickers": [
+[
+"PSA",
+26042214.0
+]
+],
+"value": 26042214.0,
+"type": "REIT",
+"ticker": "PSA",
+"w": 0.04945350180017072
+},
+"PULTE GROUP INC": {
+"issuer": "PULTE GROUP INC",
+"tickers": [
+[
+"PHM",
+9476820.0
+]
+],
+"value": 9476820.0,
+"type": "Common Stock",
+"ticker": "PHM",
+"w": 0.017996240063532763
+},
+"EVERPURE INC": {
+"issuer": "EVERPURE INC",
+"tickers": [
+[
+"P",
+16691583.0
+]
+],
+"value": 16691583.0,
+"type": "Common Stock",
+"ticker": "P",
+"w": 0.031696891437041366
+},
+"QNITY ELECTRONICS INC": {
+"issuer": "QNITY ELECTRONICS INC",
+"tickers": [
+[
+"Q",
+23617402.0
+]
+],
+"value": 23617402.0,
+"type": "Common Stock",
+"ticker": "Q",
+"w": 0.04484884550608314
+},
+"QUALCOMM INC": {
+"issuer": "QUALCOMM INC",
+"tickers": [
+[
+"QCOM",
+130027299.0
+]
+],
+"value": 130027299.0,
+"type": "Common Stock",
+"ticker": "QCOM",
+"w": 0.2469185325474952
+},
+"QUANTA SVCS INC": {
+"issuer": "QUANTA SVCS INC",
+"tickers": [
+[
+"PWR",
+121230255.0
+]
+],
+"value": 121230255.0,
+"type": "Common Stock",
+"ticker": "PWR",
+"w": 0.23021316981258408
+},
+"QUEST DIAGNOSTICS INC": {
+"issuer": "QUEST DIAGNOSTICS INC",
+"tickers": [
+[
+"DGX",
+9925407.0
+]
+],
+"value": 9925407.0,
+"type": "Common Stock",
+"ticker": "DGX",
+"w": 0.018848095363240887
+},
+"RB GLOBAL INC": {
+"issuer": "RB GLOBAL INC",
+"tickers": [
+[
+"RBA",
+16100189.0
+]
+],
+"value": 16100189.0,
+"type": "Common Stock",
+"ticker": "RBA",
+"w": 0.030573849277737625
+},
+"RPM INTL INC": {
+"issuer": "RPM INTL INC",
+"tickers": [
+[
+"RPM",
+5653089.0
+]
+],
+"value": 5653089.0,
+"type": "Common Stock",
+"ticker": "RPM",
+"w": 0.010735072180807102
+},
+"RAYMOND JAMES FINL INC": {
+"issuer": "RAYMOND JAMES FINL INC",
+"tickers": [
+[
+"RJF",
+7693630.0
+]
+],
+"value": 7693630.0,
+"type": "Common Stock",
+"ticker": "RJF",
+"w": 0.014610007622809926
+},
+"RTX CORPORATION": {
+"issuer": "RTX CORPORATION",
+"tickers": [
+[
+"RTX",
+188906192.0
+]
+],
+"value": 188906192.0,
+"type": "Common Stock",
+"ticker": "RTX",
+"w": 0.35872805231288685
+},
+"REALTY INCOME CORP": {
+"issuer": "REALTY INCOME CORP",
+"tickers": [
+[
+"O",
+31168668.0
+]
+],
+"value": 31168668.0,
+"type": "REIT",
+"ticker": "O",
+"w": 0.05918850751502631
+},
+"REDDIT INC": {
+"issuer": "REDDIT INC",
+"tickers": [
+[
+"RDDT",
+12514771.0
+]
+],
+"value": 12514771.0,
+"type": "Common Stock",
+"ticker": "RDDT",
+"w": 0.02376523171867124
+},
+"REGENCY CTRS CORP": {
+"issuer": "REGENCY CTRS CORP",
+"tickers": [
+[
+"REG",
+12942839.0
+]
+],
+"value": 12942839.0,
+"type": "REIT",
+"ticker": "REG",
+"w": 0.02457812195943938
+},
+"REGENERON PHARMACEUTICALS": {
+"issuer": "REGENERON PHARMACEUTICALS",
+"tickers": [
+[
+"REGN",
+46737441.0
+]
+],
+"value": 46737441.0,
+"type": "Common Stock",
+"ticker": "REGN",
+"w": 0.08875321132945425
+},
+"REGIONS FINANCIAL CORP NEW": {
+"issuer": "REGIONS FINANCIAL CORP NEW",
+"tickers": [
+[
+"RF",
+99189665.0
+]
+],
+"value": 99189665.0,
+"type": "Common Stock",
+"ticker": "RF",
+"w": 0.18835865017604994
+},
+"RELIANCE INC": {
+"issuer": "RELIANCE INC",
+"tickers": [
+[
+"RS",
+24238794.0
+]
+],
+"value": 24238794.0,
+"type": "Common Stock",
+"ticker": "RS",
+"w": 0.04602885310415493
+},
+"REPUBLIC SVCS INC": {
+"issuer": "REPUBLIC SVCS INC",
+"tickers": [
+[
+"RSG",
+20602279.0
+]
+],
+"value": 20602279.0,
+"type": "Common Stock",
+"ticker": "RSG",
+"w": 0.03912320364213731
+},
+"RESMED INC": {
+"issuer": "RESMED INC",
+"tickers": [
+[
+"RMD",
+9845922.0
+]
+],
+"value": 9845922.0,
+"type": "Common Stock",
+"ticker": "RMD",
+"w": 0.018697155370558757
+},
+"RESTAURANT BRANDS INTL INC": {
+"issuer": "RESTAURANT BRANDS INTL INC",
+"tickers": [
+[
+"QSR",
+10184619.0
+]
+],
+"value": 10184619.0,
+"type": "Common Stock",
+"ticker": "QSR",
+"w": 0.0193403323561719
+},
+"REVOLUTION MEDICINES INC": {
+"issuer": "REVOLUTION MEDICINES INC",
+"tickers": [
+[
+"RVMD",
+11255528.0
+]
+],
+"value": 11255528.0,
+"type": "Common Stock",
+"ticker": "RVMD",
+"w": 0.021373961300290054
+},
+"RIOT PLATFORMS INC": {
+"issuer": "RIOT PLATFORMS INC",
+"tickers": [
+[
+"RIOT",
+8420418.0
+]
+],
+"value": 8420418.0,
+"type": "Common Stock",
+"ticker": "RIOT",
+"w": 0.015990159543316475
+},
+"RIVIAN AUTOMOTIVE INC": {
+"issuer": "RIVIAN AUTOMOTIVE INC",
+"tickers": [
+[
+"RIVN",
+1378024.0
+]
+],
+"value": 1378024.0,
+"type": "Common Stock",
+"ticker": "RIVN",
+"w": 0.0026168325152645796
+},
+"ROBINHOOD MKTS INC": {
+"issuer": "ROBINHOOD MKTS INC",
+"tickers": [
+[
+"HOOD",
+87957092.0
+]
+],
+"value": 87957092.0,
+"type": "Common Stock",
+"ticker": "HOOD",
+"w": 0.1670282798367213
+},
+"ROBLOX CORP": {
+"issuer": "ROBLOX CORP",
+"tickers": [
+[
+"RBLX",
+9063243.0
+]
+],
+"value": 9063243.0,
+"type": "Common Stock",
+"ticker": "RBLX",
+"w": 0.01721086786307357
+},
+"ROCKET COS INC": {
+"issuer": "ROCKET COS INC",
+"tickers": [
+[
+"RKT",
+29925992.0
+]
+],
+"value": 29925992.0,
+"type": "Common Stock",
+"ticker": "RKT",
+"w": 0.0568286974081349
+},
+"ROCKET LAB CORP": {
+"issuer": "ROCKET LAB CORP",
+"tickers": [
+[
+"RKLB",
+70975893.0
+]
+],
+"value": 70975893.0,
+"type": "Common Stock",
+"ticker": "RKLB",
+"w": 0.13478141498431062
+},
+"ROCKWELL AUTOMATION INC": {
+"issuer": "ROCKWELL AUTOMATION INC",
+"tickers": [
+[
+"ROK",
+57000541.0
+]
+],
+"value": 57000541.0,
+"type": "Common Stock",
+"ticker": "ROK",
+"w": 0.10824257710785282
+},
+"ROGERS COMMUNICATIONS INC": {
+"issuer": "ROGERS COMMUNICATIONS INC",
+"tickers": [
+[
+"RCI",
+531143.0
+]
+],
+"value": 531143.0,
+"type": "Common Stock",
+"ticker": "RCI",
+"w": 0.0010086270432555417
+},
+"ROLLINS INC": {
+"issuer": "ROLLINS INC",
+"tickers": [
+[
+"ROL",
+7133116.0
+]
+],
+"value": 7133116.0,
+"type": "Common Stock",
+"ticker": "ROL",
+"w": 0.013545605797833721
+},
+"ROPER TECHNOLOGIES INC": {
+"issuer": "ROPER TECHNOLOGIES INC",
+"tickers": [
+[
+"ROP",
+17143853.0
+]
+],
+"value": 17143853.0,
+"type": "Common Stock",
+"ticker": "ROP",
+"w": 0.03255574066004381
+},
+"ROSS STORES INC": {
+"issuer": "ROSS STORES INC",
+"tickers": [
+[
+"ROST",
+68072197.0
+]
+],
+"value": 68072197.0,
+"type": "Common Stock",
+"ticker": "ROST",
+"w": 0.12926737015835427
+},
+"ROYAL BK CDA": {
+"issuer": "ROYAL BK CDA",
+"tickers": [
+[
+"RY",
+175489299.0
+]
+],
+"value": 175489299.0,
+"type": "Common Stock",
+"ticker": "RY",
+"w": 0.3332497138686901
+},
+"RUBRIK INC.": {
+"issuer": "RUBRIK INC.",
+"tickers": [
+[
+"RBRK",
+3222038.0
+]
+],
+"value": 3222038.0,
+"type": "Common Stock",
+"ticker": "RBRK",
+"w": 0.006118568184456915
+},
+"S&amp;P GLOBAL INC": {
+"issuer": "S&amp;P GLOBAL INC",
+"tickers": [
+[
+"SPGI",
+85850815.0
+]
+],
+"value": 85850815.0,
+"type": "Common Stock",
+"ticker": "SPGI",
+"w": 0.16302851340322383
+},
+"SBA COMMUNICATIONS CORP": {
+"issuer": "SBA COMMUNICATIONS CORP",
+"tickers": [
+[
+"SBAC",
+3124224.0
+]
+],
+"value": 3124224.0,
+"type": "REIT",
+"ticker": "SBAC",
+"w": 0.005932821887115148
+},
+"SS&amp;C TECH HLDGS": {
+"issuer": "SS&amp;C TECH HLDGS",
+"tickers": [
+[
+"SSNC",
+10658639.0
+]
+],
+"value": 10658639.0,
+"type": "Common Stock",
+"ticker": "SSNC",
+"w": 0.020240484275794283
+},
+"SALESFORCE INC": {
+"issuer": "SALESFORCE INC",
+"tickers": [
+[
+"CRM",
+83269020.0
+]
+],
+"value": 83269020.0,
+"type": "Common Stock",
+"ticker": "CRM",
+"w": 0.1581257503862172
+},
+"SAMSARA INC": {
+"issuer": "SAMSARA INC",
+"tickers": [
+[
+"IOT",
+428595.0
+]
+],
+"value": 428595.0,
+"type": "Common Stock",
+"ticker": "IOT",
+"w": 0.0008138910003598069
+},
+"SLB LIMITED": {
+"issuer": "SLB LIMITED",
+"tickers": [
+[
+"SLB",
+53106689.0
+]
+],
+"value": 53106689.0,
+"type": "Common Stock",
+"ticker": "SLB",
+"w": 0.10084825123019901
+},
+"SCHWAB CHARLES CORP": {
+"issuer": "SCHWAB CHARLES CORP",
+"tickers": [
+[
+"SCHW",
+105075507.0
+]
+],
+"value": 105075507.0,
+"type": "Common Stock",
+"ticker": "SCHW",
+"w": 0.19953571438197804
+},
+"SEA LTD": {
+"issuer": "SEA LTD",
+"tickers": [
+[
+"SE",
+24340533.0
+]
+],
+"value": 24340533.0,
+"type": "Depositary Receipt",
+"ticker": "SE",
+"w": 0.04622205287663386
+},
+"SEMPRA": {
+"issuer": "SEMPRA",
+"tickers": [
+[
+"SRE",
+33165890.0
+]
+],
+"value": 33165890.0,
+"type": "Common Stock",
+"ticker": "SRE",
+"w": 0.0629811812781841
+},
+"SERVICENOW INC": {
+"issuer": "SERVICENOW INC",
+"tickers": [
+[
+"NOW",
+71287408.0
+]
+],
+"value": 71287408.0,
+"type": "Common Stock",
+"ticker": "NOW",
+"w": 0.1353729740435089
+},
+"SHERWIN WILLIAMS CO": {
+"issuer": "SHERWIN WILLIAMS CO",
+"tickers": [
+[
+"SHW",
+78193350.0
+]
+],
+"value": 78193350.0,
+"type": "Common Stock",
+"ticker": "SHW",
+"w": 0.14848718219527643
+},
+"SHOPIFY INC": {
+"issuer": "SHOPIFY INC",
+"tickers": [
+[
+"SHOP",
+111738914.0
+]
+],
+"value": 111738914.0,
+"type": "Common Stock",
+"ticker": "SHOP",
+"w": 0.21218935473950565
+},
+"SIMON PPTY GROUP INC NEW": {
+"issuer": "SIMON PPTY GROUP INC NEW",
+"tickers": [
+[
+"SPG",
+30334991.0
+]
+],
+"value": 30334991.0,
+"type": "REIT",
+"ticker": "SPG",
+"w": 0.05760537610307105
+},
+"SNAP ON INC": {
+"issuer": "SNAP ON INC",
+"tickers": [
+[
+"SNA",
+8346983.0
+]
+],
+"value": 8346983.0,
+"type": "Common Stock",
+"ticker": "SNA",
+"w": 0.015850708346705634
+},
+"SNAP INC": {
+"issuer": "SNAP INC",
+"tickers": [
+[
+"SNAP",
+218688.0
+]
+],
+"value": 218688.0,
+"type": "Common Stock",
+"ticker": "SNAP",
+"w": 0.0004152829479734608
+},
+"SNOWFLAKE INC": {
+"issuer": "SNOWFLAKE INC",
+"tickers": [
+[
+"SNOW",
+71886325.0
+]
+],
+"value": 71886325.0,
+"type": "Common Stock",
+"ticker": "SNOW",
+"w": 0.13651030218840676
+},
+"SOFI TECHNOLOGIES INC": {
+"issuer": "SOFI TECHNOLOGIES INC",
+"tickers": [
+[
+"SOFI",
+14773190.0
+]
+],
+"value": 14773190.0,
+"type": "Common Stock",
+"ticker": "SOFI",
+"w": 0.02805391193925616
+},
+"SOLARIS ENERGY INFRAS INC": {
+"issuer": "SOLARIS ENERGY INFRAS INC",
+"tickers": [
+[
+"SEI",
+88184160.0
+]
+],
+"value": 88184160.0,
+"type": "Common Stock",
+"ticker": "SEI",
+"w": 0.1674594761914844
+},
+"SOLSTICE ADVANCED MATLS INC": {
+"issuer": "SOLSTICE ADVANCED MATLS INC",
+"tickers": [
+[
+"SOLS",
+6493140.0
+]
+],
+"value": 6493140.0,
+"type": "Common Stock",
+"ticker": "SOLS",
+"w": 0.012330307656590198
+},
+"SOUTHERN CO": {
+"issuer": "SOUTHERN CO",
+"tickers": [
+[
+"SO",
+72367671.0
+]
+],
+"value": 72367671.0,
+"type": "Common Stock",
+"ticker": "SO",
+"w": 0.13742436599563546
+},
+"SOUTHERN COPPER CORP": {
+"issuer": "SOUTHERN COPPER CORP",
+"tickers": [
+[
+"SCCO",
+6550085.0
+]
+],
+"value": 6550085.0,
+"type": "Common Stock",
+"ticker": "SCCO",
+"w": 0.012438444762752167
+},
+"SPACE EXPLORATION TECHN CORP": {
+"issuer": "SPACE EXPLORATION TECHN CORP",
+"tickers": [
+[
+"SPCX",
+137060817.0
+]
+],
+"value": 137060817.0,
+"type": "Common Stock",
+"ticker": "SPCX",
+"w": 0.26027500427737704
+},
+"BLOCK INC": {
+"issuer": "BLOCK INC",
+"tickers": [
+[
+"XYZ",
+27342672.0
+]
+],
+"value": 27342672.0,
+"type": "Common Stock",
+"ticker": "XYZ",
+"w": 0.051923038454928495
+},
+"STANTEC INC": {
+"issuer": "STANTEC INC",
+"tickers": [
+[
+"STN",
+7272568.0
+]
+],
+"value": 7272568.0,
+"type": "Common Stock",
+"ticker": "STN",
+"w": 0.0138104215977898
+},
+"STARBUCKS CORP": {
+"issuer": "STARBUCKS CORP",
+"tickers": [
+[
+"SBUX",
+64564153.0
+]
+],
+"value": 64564153.0,
+"type": "Common Stock",
+"ticker": "SBUX",
+"w": 0.12260568385667966
+},
+"STATE STR CORP": {
+"issuer": "STATE STR CORP",
+"tickers": [
+[
+"STT",
+70223389.0
+]
+],
+"value": 70223389.0,
+"type": "Common Stock",
+"ticker": "STT",
+"w": 0.13335242903409011
+},
+"STEEL DYNAMICS INC": {
+"issuer": "STEEL DYNAMICS INC",
+"tickers": [
+[
+"STLD",
+44621709.0
+]
+],
+"value": 44621709.0,
+"type": "Common Stock",
+"ticker": "STLD",
+"w": 0.0847354900915181
+},
+"STRYKER CORPORATION": {
+"issuer": "STRYKER CORPORATION",
+"tickers": [
+[
+"SYK",
+53737521.0
+]
+],
+"value": 53737521.0,
+"type": "Common Stock",
+"ticker": "SYK",
+"w": 0.10204618514809115
+},
+"SUN CMNTYS INC": {
+"issuer": "SUN CMNTYS INC",
+"tickers": [
+[
+"SUI",
+8538791.0
+]
+],
+"value": 8538791.0,
+"type": "REIT",
+"ticker": "SUI",
+"w": 0.016214946858580513
+},
+"SUN LIFE FINANCIAL INC.": {
+"issuer": "SUN LIFE FINANCIAL INC.",
+"tickers": [
+[
+"SLF",
+35530598.0
+]
+],
+"value": 35530598.0,
+"type": "Common Stock",
+"ticker": "SLF",
+"w": 0.06747170160548338
+},
+"SUNBELT RENTALS HOLDINGS INC": {
+"issuer": "SUNBELT RENTALS HOLDINGS INC",
+"tickers": [
+[
+"SUNB",
+13917448.0
+]
+],
+"value": 13917448.0,
+"type": "Common Stock",
+"ticker": "SUNB",
+"w": 0.02642887965369543
+},
+"SUNCOR ENERGY INC NEW": {
+"issuer": "SUNCOR ENERGY INC NEW",
+"tickers": [
+[
+"SU",
+49882480.0
+]
+],
+"value": 49882480.0,
+"type": "Common Stock",
+"ticker": "SU",
+"w": 0.09472556037197834
+},
+"SUPER MICRO COMPUTER INC": {
+"issuer": "SUPER MICRO COMPUTER INC",
+"tickers": [
+[
+"SMCI",
+4466314.0
+]
+],
+"value": 4466314.0,
+"type": "Common Stock",
+"ticker": "SMCI",
+"w": 0.008481416650639905
+},
+"SYNOPSYS INC": {
+"issuer": "SYNOPSYS INC",
+"tickers": [
+[
+"SNPS",
+62263789.0
+]
+],
+"value": 62263789.0,
+"type": "Common Stock",
+"ticker": "SNPS",
+"w": 0.11823735114829136
+},
+"SYNCHRONY FINANCIAL": {
+"issuer": "SYNCHRONY FINANCIAL",
+"tickers": [
+[
+"SYF",
+22872494.0
+]
+],
+"value": 22872494.0,
+"type": "Common Stock",
+"ticker": "SYF",
+"w": 0.043434284166599425
+},
+"SYSCO CORP": {
+"issuer": "SYSCO CORP",
+"tickers": [
+[
+"SYY",
+28870872.0
+]
+],
+"value": 28870872.0,
+"type": "Common Stock",
+"ticker": "SYY",
+"w": 0.05482505137330098
+},
+"TFI INTERNATIONAL INC": {
+"issuer": "TFI INTERNATIONAL INC",
+"tickers": [
+[
+"TFII",
+8682149.0
+]
+],
+"value": 8682149.0,
+"type": "Common Stock",
+"ticker": "TFII",
+"w": 0.016487180053157167
+},
+"TJX COS INC NEW": {
+"issuer": "TJX COS INC NEW",
+"tickers": [
+[
+"TJX",
+143804709.0
+]
+],
+"value": 143804709.0,
+"type": "Common Stock",
+"ticker": "TJX",
+"w": 0.273081483602144
+},
+"T-MOBILE US INC": {
+"issuer": "T-MOBILE US INC",
+"tickers": [
+[
+"TMUS",
+66196490.0
+]
+],
+"value": 66196490.0,
+"type": "Common Stock",
+"ticker": "TMUS",
+"w": 0.12570545028851934
+},
+"TAKE-TWO INTERACTIVE SOFTWAR": {
+"issuer": "TAKE-TWO INTERACTIVE SOFTWAR",
+"tickers": [
+[
+"TTWO",
+37538997.0
+]
+],
+"value": 37538997.0,
+"type": "Common Stock",
+"ticker": "TTWO",
+"w": 0.07128560020726744
+},
+"TAL ED GROUP": {
+"issuer": "TAL ED GROUP",
+"tickers": [
+[
+"TAL",
+4458768.0
+]
+],
+"value": 4458768.0,
+"type": "Depositary Receipt",
+"ticker": "TAL",
+"w": 0.008467086988630981
+},
+"TAPESTRY INC": {
+"issuer": "TAPESTRY INC",
+"tickers": [
+[
+"TPR",
+41811837.0
+]
+],
+"value": 41811837.0,
+"type": "Common Stock",
+"ticker": "TPR",
+"w": 0.07939961465442011
+},
+"TARGET CORP": {
+"issuer": "TARGET CORP",
+"tickers": [
+[
+"TGT",
+63974868.0
+]
+],
+"value": 63974868.0,
+"type": "Common Stock",
+"ticker": "TGT",
+"w": 0.12148664663471714
+},
+"TARGA RES CORP": {
+"issuer": "TARGA RES CORP",
+"tickers": [
+[
+"TRGP",
+35822700.0
+]
+],
+"value": 35822700.0,
+"type": "Common Stock",
+"ticker": "TRGP",
+"w": 0.06802639587160199
+},
+"TC ENERGY CORP": {
+"issuer": "TC ENERGY CORP",
+"tickers": [
+[
+"TRP",
+30152308.0
+]
+],
+"value": 30152308.0,
+"type": "Common Stock",
+"ticker": "TRP",
+"w": 0.057258465734030976
+},
+"TECK RESOURCES LTD": {
+"issuer": "TECK RESOURCES LTD",
+"tickers": [
+[
+"TECK",
+21882538.0
+]
+],
+"value": 21882538.0,
+"type": "Common Stock",
+"ticker": "TECK",
+"w": 0.04155438290981343
+},
+"TELEDYNE TECHNOLOGIES INC": {
+"issuer": "TELEDYNE TECHNOLOGIES INC",
+"tickers": [
+[
+"TDY",
+12629752.0
+]
+],
+"value": 12629752.0,
+"type": "Common Stock",
+"ticker": "TDY",
+"w": 0.023983577712237126
+},
+"TENCENT MUSIC ENTMT GROUP": {
+"issuer": "TENCENT MUSIC ENTMT GROUP",
+"tickers": [
+[
+"TME",
+1589022.0
+]
+],
+"value": 1589022.0,
+"type": "Depositary Receipt",
+"ticker": "TME",
+"w": 0.003017512348892873
+},
+"TERADYNE INC": {
+"issuer": "TERADYNE INC",
+"tickers": [
+[
+"TER",
+60834171.0
+]
+],
+"value": 60834171.0,
+"type": "Common Stock",
+"ticker": "TER",
+"w": 0.11552254293972058
+},
+"TESLA INC": {
+"issuer": "TESLA INC",
+"tickers": [
+[
+"TSLA",
+835835247.0
+]
+],
+"value": 835835247.0,
+"type": "Common Stock",
+"ticker": "TSLA",
+"w": 1.5872298680964927
+},
+"TEVA PHARMACEUTICAL INDS LTD": {
+"issuer": "TEVA PHARMACEUTICAL INDS LTD",
+"tickers": [
+[
+"TEVA",
+15367257.0
+]
+],
+"value": 15367257.0,
+"type": "Depositary Receipt",
+"ticker": "TEVA",
+"w": 0.029182030057551406
+},
+"TEXAS INSTRS INC": {
+"issuer": "TEXAS INSTRS INC",
+"tickers": [
+[
+"TXN",
+190914133.0
+]
+],
+"value": 190914133.0,
+"type": "Common Stock",
+"ticker": "TXN",
+"w": 0.36254108118432365
+},
+"TEXAS PACIFIC LAND CORPORATI": {
+"issuer": "TEXAS PACIFIC LAND CORPORATI",
+"tickers": [
+[
+"TPL",
+10850846.0
+]
+],
+"value": 10850846.0,
+"type": "Common Stock",
+"ticker": "TPL",
+"w": 0.0206054804785175
+},
+"TEXTRON INC": {
+"issuer": "TEXTRON INC",
+"tickers": [
+[
+"TXT",
+6813796.0
+]
+],
+"value": 6813796.0,
+"type": "Common Stock",
+"ticker": "TXT",
+"w": 0.012939225242216195
+},
+"THERMO FISHER SCIENTIFIC INC": {
+"issuer": "THERMO FISHER SCIENTIFIC INC",
+"tickers": [
+[
+"TMO",
+139100327.0
+]
+],
+"value": 139100327.0,
+"type": "Common Stock",
+"ticker": "TMO",
+"w": 0.26414798187661137
+},
+"THOMSON REUTERS CORP": {
+"issuer": "THOMSON REUTERS CORP",
+"tickers": [
+[
+"TRI",
+2054461.0
+]
+],
+"value": 2054461.0,
+"type": "Common Stock",
+"ticker": "TRI",
+"w": 0.0039013691678395903
+},
+"3M CO": {
+"issuer": "3M CO",
+"tickers": [
+[
+"MMM",
+32375362.0
+]
+],
+"value": 32375362.0,
+"type": "Common Stock",
+"ticker": "MMM",
+"w": 0.061479988719399144
+},
+"TOAST INC": {
+"issuer": "TOAST INC",
+"tickers": [
+[
+"TOST",
+10121639.0
+]
+],
+"value": 10121639.0,
+"type": "Common Stock",
+"ticker": "TOST",
+"w": 0.019220734938556992
+},
+"TORONTO DOMINION BK ONT": {
+"issuer": "TORONTO DOMINION BK ONT",
+"tickers": [
+[
+"TD",
+133533525.0
+]
+],
+"value": 133533525.0,
+"type": "Common Stock",
+"ticker": "TD",
+"w": 0.2535767665134247
+},
+"TRACTOR SUPPLY CO": {
+"issuer": "TRACTOR SUPPLY CO",
+"tickers": [
+[
+"TSCO",
+6927774.0
+]
+],
+"value": 6927774.0,
+"type": "Common Stock",
+"ticker": "TSCO",
+"w": 0.01315566656430117
+},
+"TRADEWEB MKTS INC": {
+"issuer": "TRADEWEB MKTS INC",
+"tickers": [
+[
+"TW",
+12721200.0
+]
+],
+"value": 12721200.0,
+"type": "Common Stock",
+"ticker": "TW",
+"w": 0.024157235137547507
+},
+"TRANSDIGM GROUP INC": {
+"issuer": "TRANSDIGM GROUP INC",
+"tickers": [
+[
+"TDG",
+51671164.0
+]
+],
+"value": 51671164.0,
+"type": "Common Stock",
+"ticker": "TDG",
+"w": 0.09812222577891865
+},
+"TRANSUNION": {
+"issuer": "TRANSUNION",
+"tickers": [
+[
+"TRU",
+5983652.0
+]
+],
+"value": 5983652.0,
+"type": "Common Stock",
+"ticker": "TRU",
+"w": 0.011362802907371666
+},
+"TRAVELERS COMPANIES INC": {
+"issuer": "TRAVELERS COMPANIES INC",
+"tickers": [
+[
+"TRV",
+66031593.0
+]
+],
+"value": 66031593.0,
+"type": "Common Stock",
+"ticker": "TRV",
+"w": 0.1253923150809543
+},
+"TRIMBLE INC": {
+"issuer": "TRIMBLE INC",
+"tickers": [
+[
+"TRMB",
+2238818.0
+]
+],
+"value": 2238818.0,
+"type": "Common Stock",
+"ticker": "TRMB",
+"w": 0.004251458420288482
+},
+"TRUIST FINL CORP": {
+"issuer": "TRUIST FINL CORP",
+"tickers": [
+[
+"TFC",
+29095876.0
+]
+],
+"value": 29095876.0,
+"type": "Common Stock",
+"ticker": "TFC",
+"w": 0.05525232824457797
+},
+"TWILIO INC": {
+"issuer": "TWILIO INC",
+"tickers": [
+[
+"TWLO",
+25464011.0
+]
+],
+"value": 25464011.0,
+"type": "Common Stock",
+"ticker": "TWLO",
+"w": 0.04835550901425151
+},
+"TYLER TECHNOLOGIES INC": {
+"issuer": "TYLER TECHNOLOGIES INC",
+"tickers": [
+[
+"TYL",
+7426437.0
+]
+],
+"value": 7426437.0,
+"type": "Common Stock",
+"ticker": "TYL",
+"w": 0.014102614913937593
+},
+"TYSON FOODS INC": {
+"issuer": "TYSON FOODS INC",
+"tickers": [
+[
+"TSN",
+20224593.0
+]
+],
+"value": 20224593.0,
+"type": "Common Stock",
+"ticker": "TSN",
+"w": 0.03840598753751198
+},
+"US BANCORP": {
+"issuer": "US BANCORP",
+"tickers": [
+[
+"USB",
+48073508.0
+]
+],
+"value": 48073508.0,
+"type": "Common Stock",
+"ticker": "USB",
+"w": 0.09129036856922078
+},
+"UBER TECHNOLOGIES INC": {
+"issuer": "UBER TECHNOLOGIES INC",
+"tickers": [
+[
+"UBER",
+91935592.0
+]
+],
+"value": 91935592.0,
+"type": "Common Stock",
+"ticker": "UBER",
+"w": 0.17458335011269627
+},
+"ULTA BEAUTY INC": {
+"issuer": "ULTA BEAUTY INC",
+"tickers": [
+[
+"ULTA",
+21318727.0
+]
+],
+"value": 21318727.0,
+"type": "Common Stock",
+"ticker": "ULTA",
+"w": 0.040483720165722006
+},
+"UNION PAC CORP": {
+"issuer": "UNION PAC CORP",
+"tickers": [
+[
+"UNP",
+68448800.0
+]
+],
+"value": 68448800.0,
+"type": "Common Stock",
+"ticker": "UNP",
+"w": 0.12998252967353408
+},
+"UNITED AIRLS HLDGS INC": {
+"issuer": "UNITED AIRLS HLDGS INC",
+"tickers": [
+[
+"UAL",
+14130177.0
+]
+],
+"value": 14130177.0,
+"type": "Common Stock",
+"ticker": "UAL",
+"w": 0.0268328466122823
+},
+"UNITED PARCEL SVCS INC": {
+"issuer": "UNITED PARCEL SVCS INC",
+"tickers": [
+[
+"UPS",
+63566255.0
+]
+],
+"value": 63566255.0,
+"type": "Common Stock",
+"ticker": "UPS",
+"w": 0.12071070094396008
+},
+"UNITED RENTALS INC": {
+"issuer": "UNITED RENTALS INC",
+"tickers": [
+[
+"URI",
+34344693.0
+]
+],
+"value": 34344693.0,
+"type": "Common Stock",
+"ticker": "URI",
+"w": 0.06521969818318098
+},
+"UNITED THERAPEUTICS CORP DEL": {
+"issuer": "UNITED THERAPEUTICS CORP DEL",
+"tickers": [
+[
+"UTHR",
+9644574.0
+]
+],
+"value": 9644574.0,
+"type": "Common Stock",
+"ticker": "UTHR",
+"w": 0.01831480064140782
+},
+"UNITEDHEALTH GROUP INC": {
+"issuer": "UNITEDHEALTH GROUP INC",
+"tickers": [
+[
+"UNH",
+292428955.0
+]
+],
+"value": 292428955.0,
+"type": "Common Stock",
+"ticker": "UNH",
+"w": 0.5553151453449595
+},
+"USA RARE EARTH INC": {
+"issuer": "USA RARE EARTH INC",
+"tickers": [
+[
+"USAR",
+18108339.0
+]
+],
+"value": 18108339.0,
+"type": "Common Stock",
+"ticker": "USAR",
+"w": 0.034387275034856925
+},
+"VALERO ENERGY CORP": {
+"issuer": "VALERO ENERGY CORP",
+"tickers": [
+[
+"VLO",
+60629130.0
+]
+],
+"value": 60629130.0,
+"type": "Common Stock",
+"ticker": "VLO",
+"w": 0.11513317529752978
+},
+"VEEVA SYS INC": {
+"issuer": "VEEVA SYS INC",
+"tickers": [
+[
+"VEEV",
+9491451.0
+]
+],
+"value": 9491451.0,
+"type": "Common Stock",
+"ticker": "VEEV",
+"w": 0.018024023960279727
+},
+"VENTAS INC": {
+"issuer": "VENTAS INC",
+"tickers": [
+[
+"VTR",
+21496171.0
+]
+],
+"value": 21496171.0,
+"type": "REIT",
+"ticker": "VTR",
+"w": 0.040820681807056704
+},
+"VERALTO CORP": {
+"issuer": "VERALTO CORP",
+"tickers": [
+[
+"VLTO",
+12097282.0
+]
+],
+"value": 12097282.0,
+"type": "Common Stock",
+"ticker": "VLTO",
+"w": 0.022972430729744128
+},
+"VERISIGN INC": {
+"issuer": "VERISIGN INC",
+"tickers": [
+[
+"VRSN",
+14594757.0
+]
+],
+"value": 14594757.0,
+"type": "Common Stock",
+"ticker": "VRSN",
+"w": 0.027715072212084354
+},
+"VERIZON COMMUNICATIONS INC": {
+"issuer": "VERIZON COMMUNICATIONS INC",
+"tickers": [
+[
+"VZ",
+123544563.0
+]
+],
+"value": 123544563.0,
+"type": "Common Stock",
+"ticker": "VZ",
+"w": 0.23460798182219855
+},
+"VERISK ANALYTICS INC": {
+"issuer": "VERISK ANALYTICS INC",
+"tickers": [
+[
+"VRSK",
+4442290.0
+]
+],
+"value": 4442290.0,
+"type": "Common Stock",
+"ticker": "VRSK",
+"w": 0.008435795685876797
+},
+"VERSANT MEDIA GROUP INC": {
+"issuer": "VERSANT MEDIA GROUP INC",
+"tickers": [
+[
+"VSNT",
+400179.0
+]
+],
+"value": 400179.0,
+"type": "Common Stock",
+"ticker": "VSNT",
+"w": 0.0007599297393413062
+},
+"VERTEX PHARMACEUTICALS INC": {
+"issuer": "VERTEX PHARMACEUTICALS INC",
+"tickers": [
+[
+"VRTX",
+105958470.0
+]
+],
+"value": 105958470.0,
+"type": "Common Stock",
+"ticker": "VRTX",
+"w": 0.20121243865396138
+},
+"VERTIV HOLDINGS CO": {
+"issuer": "VERTIV HOLDINGS CO",
+"tickers": [
+[
+"VRT",
+113611122.0
+]
+],
+"value": 113611122.0,
+"type": "Common Stock",
+"ticker": "VRT",
+"w": 0.21574463009736478
+},
+"VICI PPTYS INC": {
+"issuer": "VICI PPTYS INC",
+"tickers": [
+[
+"VICI",
+27568166.0
+]
+],
+"value": 27568166.0,
+"type": "REIT",
+"ticker": "VICI",
+"w": 0.052351245823738526
+},
+"VIPSHOP HLDGS LTD": {
+"issuer": "VIPSHOP HLDGS LTD",
+"tickers": [
+[
+"VIPS",
+4857549.0
+]
+],
+"value": 4857549.0,
+"type": "Depositary Receipt",
+"ticker": "VIPS",
+"w": 0.009224361961541267
+},
+"VISA INC": {
+"issuer": "VISA INC",
+"tickers": [
+[
+"V",
+343569640.0
+]
+],
+"value": 343569640.0,
+"type": "Common Stock",
+"ticker": "V",
+"w": 0.6524300049997286
+},
+"VISTRA CORP": {
+"issuer": "VISTRA CORP",
+"tickers": [
+[
+"VST",
+76660961.0
+]
+],
+"value": 76660961.0,
+"type": "Common Stock",
+"ticker": "VST",
+"w": 0.14557721447248367
+},
+"VULCAN MATLS CO": {
+"issuer": "VULCAN MATLS CO",
+"tickers": [
+[
+"VMC",
+36732285.0
+]
+],
+"value": 36732285.0,
+"type": "Common Stock",
+"ticker": "VMC",
+"w": 0.06975367464424813
+},
+"WP CAREY INC": {
+"issuer": "WP CAREY INC",
+"tickers": [
+[
+"WPC",
+22010775.0
+]
+],
+"value": 22010775.0,
+"type": "REIT",
+"ticker": "WPC",
+"w": 0.04179790171011007
+},
+"WEC ENERGY GROUP INC": {
+"issuer": "WEC ENERGY GROUP INC",
+"tickers": [
+[
+"WEC",
+9591488.0
+]
+],
+"value": 9591488.0,
+"type": "Common Stock",
+"ticker": "WEC",
+"w": 0.018213991678062234
+},
+"WABTEC": {
+"issuer": "WABTEC",
+"tickers": [
+[
+"WAB",
+19655458.0
+]
+],
+"value": 19655458.0,
+"type": "Common Stock",
+"ticker": "WAB",
+"w": 0.03732521465287782
+},
+"WALMART INC": {
+"issuer": "WALMART INC",
+"tickers": [
+[
+"WMT",
+410389229.0
+]
+],
+"value": 410389229.0,
+"type": "Common Stock",
+"ticker": "WMT",
+"w": 0.779318704435889
+},
+"WARNER BROS DISCOVERY INC": {
+"issuer": "WARNER BROS DISCOVERY INC",
+"tickers": [
+[
+"WBD",
+42628940.0
+]
+],
+"value": 42628940.0,
+"type": "Common Stock",
+"ticker": "WBD",
+"w": 0.08095127246206368
+},
+"WASTE CONNECTIONS INC": {
+"issuer": "WASTE CONNECTIONS INC",
+"tickers": [
+[
+"WCN",
+42265416.0
+]
+],
+"value": 42265416.0,
+"type": "Common Stock",
+"ticker": "WCN",
+"w": 0.08026094963511797
+},
+"WASTE MGMT INC DEL": {
+"issuer": "WASTE MGMT INC DEL",
+"tickers": [
+[
+"WM",
+58234086.0
+]
+],
+"value": 58234086.0,
+"type": "Common Stock",
+"ticker": "WM",
+"w": 0.11058504767806208
+},
+"WATERS CORP": {
+"issuer": "WATERS CORP",
+"tickers": [
+[
+"WAT",
+18487972.0
+]
+],
+"value": 18487972.0,
+"type": "Common Stock",
+"ticker": "WAT",
+"w": 0.03510818844294521
+},
+"WATSCO INC": {
+"issuer": "WATSCO INC",
+"tickers": [
+[
+"WSO",
+8335433.0
+]
+],
+"value": 8335433.0,
+"type": "Common Stock",
+"ticker": "WSO",
+"w": 0.015828775190569525
+},
+"WELLS FARGO &amp; CO": {
+"issuer": "WELLS FARGO &amp; CO",
+"tickers": [
+[
+"WFC",
+297253436.0
+]
+],
+"value": 297253436.0,
+"type": "Common Stock",
+"ticker": "WFC",
+"w": 0.564476712015842
+},
+"WELLTOWER INC": {
+"issuer": "WELLTOWER INC",
+"tickers": [
+[
+"WELL",
+203171969.0
+]
+],
+"value": 203171969.0,
+"type": "REIT",
+"ticker": "WELL",
+"w": 0.3858183998751307
+},
+"WEST PHARMACEUTICAL SVSC INC": {
+"issuer": "WEST PHARMACEUTICAL SVSC INC",
+"tickers": [
+[
+"WST",
+11878592.0
+]
+],
+"value": 11878592.0,
+"type": "Common Stock",
+"ticker": "WST",
+"w": 0.022557143983821554
+},
+"WESTERN DIGITAL CORP": {
+"issuer": "WESTERN DIGITAL CORP",
+"tickers": [
+[
+"WDC",
+172396915.0
+]
+],
+"value": 172396915.0,
+"type": "Common Stock",
+"ticker": "WDC",
+"w": 0.3273773553314775
+},
+"WEYERHAEUSER CO": {
+"issuer": "WEYERHAEUSER CO",
+"tickers": [
+[
+"WY",
+6921389.0
+]
+],
+"value": 6921389.0,
+"type": "REIT",
+"ticker": "WY",
+"w": 0.013143541611753202
+},
+"WHEATON PRECIOUS METALS CORP": {
+"issuer": "WHEATON PRECIOUS METALS CORP",
+"tickers": [
+[
+"WPM",
+37361991.0
+]
+],
+"value": 37361991.0,
+"type": "Common Stock",
+"ticker": "WPM",
+"w": 0.0709494703167888
+},
+"WILLIAMS COS INC": {
+"issuer": "WILLIAMS COS INC",
+"tickers": [
+[
+"WMB",
+63954182.0
+]
+],
+"value": 63954182.0,
+"type": "Common Stock",
+"ticker": "WMB",
+"w": 0.1214473644470261
+},
+"WILLIAMS SONOMA INC": {
+"issuer": "WILLIAMS SONOMA INC",
+"tickers": [
+[
+"WSM",
+11151271.0
+]
+],
+"value": 11151271.0,
+"type": "Common Stock",
+"ticker": "WSM",
+"w": 0.021175979909876
+},
+"WORKDAY INC": {
+"issuer": "WORKDAY INC",
+"tickers": [
+[
+"WDAY",
+15647112.0
+]
+],
+"value": 15647112.0,
+"type": "Common Stock",
+"ticker": "WDAY",
+"w": 0.029713467582267495
+},
+"XPO INC": {
+"issuer": "XPO INC",
+"tickers": [
+[
+"XPO",
+17319291.0
+]
+],
+"value": 17319291.0,
+"type": "Common Stock",
+"ticker": "XPO",
+"w": 0.03288889295841668
+},
+"XCEL ENERGY INC": {
+"issuer": "XCEL ENERGY INC",
+"tickers": [
+[
+"XEL",
+26956309.0
+]
+],
+"value": 26956309.0,
+"type": "Common Stock",
+"ticker": "XEL",
+"w": 0.05118934494807001
+},
+"XYLEM INC": {
+"issuer": "XYLEM INC",
+"tickers": [
+[
+"XYL",
+12564186.0
+]
+],
+"value": 12564186.0,
+"type": "Common Stock",
+"ticker": "XYL",
+"w": 0.0238590695464172
+},
+"YUM BRANDS INC": {
+"issuer": "YUM BRANDS INC",
+"tickers": [
+[
+"YUM",
+20651035.0
+]
+],
+"value": 20651035.0,
+"type": "Common Stock",
+"ticker": "YUM",
+"w": 0.039215790045650054
+},
+"YUM CHINA HLDGS INC": {
+"issuer": "YUM CHINA HLDGS INC",
+"tickers": [
+[
+"YUMC",
+11754415.0
+]
+],
+"value": 11754415.0,
+"type": "Common Stock",
+"ticker": "YUMC",
+"w": 0.0223213350202273
+},
+"ZIMMER BIOMET HOLDINGS INC": {
+"issuer": "ZIMMER BIOMET HOLDINGS INC",
+"tickers": [
+[
+"ZBH",
+2767449.0
+]
+],
+"value": 2767449.0,
+"type": "Common Stock",
+"ticker": "ZBH",
+"w": 0.0052553152394562395
+},
+"ZOETIS INC": {
+"issuer": "ZOETIS INC",
+"tickers": [
+[
+"ZTS",
+6104435.0
+]
+],
+"value": 6104435.0,
+"type": "Common Stock",
+"ticker": "ZTS",
+"w": 0.01159216675131865
+},
+"ZSCALER INC": {
+"issuer": "ZSCALER INC",
+"tickers": [
+[
+"ZS",
+5727020.0
+]
+],
+"value": 5727020.0,
+"type": "Common Stock",
+"ticker": "ZS",
+"w": 0.010875465268798332
+},
+"ZOOM COMMUNICATIONS INC": {
+"issuer": "ZOOM COMMUNICATIONS INC",
+"tickers": [
+[
+"ZM",
+14191608.0
+]
+],
+"value": 14191608.0,
+"type": "Common Stock",
+"ticker": "ZM",
+"w": 0.026949502518308046
+},
+"DEUTSCHE BK AG": {
+"issuer": "DEUTSCHE BK AG",
+"tickers": [
+[
+"DB",
+37683952.0
+]
+],
+"value": 37683952.0,
+"type": "Common Stock",
+"ticker": "DB",
+"w": 0.07156086606421201
+},
+"TOTALENERGIES SE": {
+"issuer": "TOTALENERGIES SE",
+"tickers": [
+[
+"TTE",
+103998054.0
+]
+],
+"value": 103998054.0,
+"type": "Common Stock",
+"ticker": "TTE",
+"w": 0.19748965854835734
+},
+"ALLEGION PLC": {
+"issuer": "ALLEGION PLC",
+"tickers": [
+[
+"ALLE",
+1227602.0
+]
+],
+"value": 1227602.0,
+"type": "Common Stock",
+"ticker": "ALLE",
+"w": 0.0023311849644155895
+},
+"AMCOR PLC": {
+"issuer": "AMCOR PLC",
+"tickers": [
+[
+"AMCR",
+3332358.0
+]
+],
+"value": 3332358.0,
+"type": "Common Stock",
+"ticker": "AMCR",
+"w": 0.00632806305761151
+},
+"ANGLOGOLD ASHANTI PLC": {
+"issuer": "ANGLOGOLD ASHANTI PLC",
+"tickers": [
+[
+"AU",
+17038595.0
+]
+],
+"value": 17038595.0,
+"type": "Common Stock",
+"ticker": "AU",
+"w": 0.032355858396097954
+},
+"AON PLC": {
+"issuer": "AON PLC",
+"tickers": [
+[
+"AON",
+37106160.0
+]
+],
+"value": 37106160.0,
+"type": "Common Stock",
+"ticker": "AON",
+"w": 0.07046365375683582
+},
+"ARCH CAP GROUP LTD": {
+"issuer": "ARCH CAP GROUP LTD",
+"tickers": [
+[
+"ACGL",
+23176375.0
+]
+],
+"value": 23176375.0,
+"type": "Common Stock",
+"ticker": "ACGL",
+"w": 0.04401134645402773
+},
+"ASTRAZENECA PLC": {
+"issuer": "ASTRAZENECA PLC",
+"tickers": [
+[
+"AZN",
+232431797.0
+]
+],
+"value": 232431797.0,
+"type": "Common Stock",
+"ticker": "AZN",
+"w": 0.44138206879631714
+},
+"AURA MINERALS INC": {
+"issuer": "AURA MINERALS INC",
+"tickers": [
+[
+"AUGO",
+912775.0
+]
+],
+"value": 912775.0,
+"type": "Common Stock",
+"ticker": "AUGO",
+"w": 0.0017333365014837378
+},
+"ACCENTURE PLC IRELAND": {
+"issuer": "ACCENTURE PLC IRELAND",
+"tickers": [
+[
+"ACN",
+40982447.0
+]
+],
+"value": 40982447.0,
+"type": "Common Stock",
+"ticker": "ACN",
+"w": 0.07782462414639174
+},
+"CARNIVAL CORP LTD": {
+"issuer": "CARNIVAL CORP LTD",
+"tickers": [
+[
+"CCL",
+34530073.0
+]
+],
+"value": 34530073.0,
+"type": "Common Stock",
+"ticker": "CCL",
+"w": 0.06557173008660194
+},
+"CREDICORP LTD": {
+"issuer": "CREDICORP LTD",
+"tickers": [
+[
+"BAP",
+10986156.0
+]
+],
+"value": 10986156.0,
+"type": "Common Stock",
+"ticker": "BAP",
+"w": 0.020862430725857497
+},
+"CREDO TECHNOLOGY GROUP HOLDI": {
+"issuer": "CREDO TECHNOLOGY GROUP HOLDI",
+"tickers": [
+[
+"CRDO",
+34986368.0
+]
+],
+"value": 34986368.0,
+"type": "Common Stock",
+"ticker": "CRDO",
+"w": 0.06643822268219726
+},
+"CRH PLC": {
+"issuer": "CRH PLC",
+"tickers": [
+[
+"CRH",
+50689645.0
+]
+],
+"value": 50689645.0,
+"type": "Common Stock",
+"ticker": "CRH",
+"w": 0.09625834617047208
+},
+"COCA-COLA EUROPACIFIC PARTNE": {
+"issuer": "COCA-COLA EUROPACIFIC PARTNE",
+"tickers": [
+[
+"CCEP",
+9482833.0
+]
+],
+"value": 9482833.0,
+"type": "Common Stock",
+"ticker": "CCEP",
+"w": 0.01800765859754544
+},
+"EATON CORP PLC": {
+"issuer": "EATON CORP PLC",
+"tickers": [
+[
+"ETN",
+126372704.0
+]
+],
+"value": 126372704.0,
+"type": "Common Stock",
+"ticker": "ETN",
+"w": 0.2399785496254827
+},
+"EVEREST GROUP LTD": {
+"issuer": "EVEREST GROUP LTD",
+"tickers": [
+[
+"EG",
+14170600.0
+]
+],
+"value": 14170600.0,
+"type": "Common Stock",
+"ticker": "EG",
+"w": 0.02690960886080957
+},
+"APTIV PLC": {
+"issuer": "APTIV PLC",
+"tickers": [
+[
+"APTV",
+2857178.0
+]
+],
+"value": 2857178.0,
+"type": "Common Stock",
+"ticker": "APTV",
+"w": 0.0054257083275027285
+},
+"FABRINET": {
+"issuer": "FABRINET",
+"tickers": [
+[
+"FN",
+6576898.0
+]
+],
+"value": 6576898.0,
+"type": "Common Stock",
+"ticker": "FN",
+"w": 0.012489361967555413
+},
+"FLUTTER ENTMT PLC": {
+"issuer": "FLUTTER ENTMT PLC",
+"tickers": [
+[
+"FLUT",
+10988179.0
+]
+],
+"value": 10988179.0,
+"type": "Common Stock",
+"ticker": "FLUT",
+"w": 0.02086627235138679
+},
+"FTAI AVIATION LTD": {
+"issuer": "FTAI AVIATION LTD",
+"tickers": [
+[
+"FTAI",
+11359284.0
+]
+],
+"value": 11359284.0,
+"type": "Common Stock",
+"ticker": "FTAI",
+"w": 0.021570991304450934
+},
+"GRAB HOLDINGS LIMITED": {
+"issuer": "GRAB HOLDINGS LIMITED",
+"tickers": [
+[
+"GRAB",
+4422923.0
+]
+],
+"value": 4422923.0,
+"type": "Common Stock",
+"ticker": "GRAB",
+"w": 0.008399018245626751
+},
+"IHS HOLDING LIMITED": {
+"issuer": "IHS HOLDING LIMITED",
+"tickers": [
+[
+"IHS",
+178534448.0
+]
+],
+"value": 178534448.0,
+"type": "Common Stock",
+"ticker": "IHS",
+"w": 0.3390323743426916
+},
+"JOHNSON CONTROLS INTERNATION": {
+"issuer": "JOHNSON CONTROLS INTERNATION",
+"tickers": [
+[
+"JCI",
+88481148.0
+]
+],
+"value": 88481148.0,
+"type": "Common Stock",
+"ticker": "JCI",
+"w": 0.16802344884728967
+},
+"LINDE PLC": {
+"issuer": "LINDE PLC",
+"tickers": [
+[
+"LIN",
+132681022.0
+]
+],
+"value": 132681022.0,
+"type": "Common Stock",
+"ticker": "LIN",
+"w": 0.2519578850064549
+},
+"MEDTRONIC PLC": {
+"issuer": "MEDTRONIC PLC",
+"tickers": [
+[
+"MDT",
+83300869.0
+]
+],
+"value": 83300869.0,
+"type": "Common Stock",
+"ticker": "MDT",
+"w": 0.1581862308268907
+},
+"NU HLDGS LTD": {
+"issuer": "NU HLDGS LTD",
+"tickers": [
+[
+"NU",
+20758768.0
+]
+],
+"value": 20758768.0,
+"type": "Common Stock",
+"ticker": "NU",
+"w": 0.03942037227162507
+},
+"ROYALTY PHARMA PLC": {
+"issuer": "ROYALTY PHARMA PLC",
+"tickers": [
+[
+"RPRX",
+14385431.0
+]
+],
+"value": 14385431.0,
+"type": "Common Stock",
+"ticker": "RPRX",
+"w": 0.027317567463915764
+},
+"SEAGATE TECHNOLOGY HLDNGS PL": {
+"issuer": "SEAGATE TECHNOLOGY HLDNGS PL",
+"tickers": [
+[
+"STX",
+165873850.0
+]
+],
+"value": 165873850.0,
+"type": "Common Stock",
+"ticker": "STX",
+"w": 0.3149902208612619
+},
+"PENTAIR PLC": {
+"issuer": "PENTAIR PLC",
+"tickers": [
+[
+"PNR",
+4935141.0
+]
+],
+"value": 4935141.0,
+"type": "Common Stock",
+"ticker": "PNR",
+"w": 0.009371707195386547
+},
+"SHARKNINJA INC": {
+"issuer": "SHARKNINJA INC",
+"tickers": [
+[
+"SN",
+744296.0
+]
+],
+"value": 744296.0,
+"type": "Common Stock",
+"ticker": "SN",
+"w": 0.001413399167054685
+},
+"SMURFIT WESTROCK PLC": {
+"issuer": "SMURFIT WESTROCK PLC",
+"tickers": [
+[
+"SW",
+3418475.0
+]
+],
+"value": 3418475.0,
+"type": "Common Stock",
+"ticker": "SW",
+"w": 0.006491597049557252
+},
+"STERIS PLC": {
+"issuer": "STERIS PLC",
+"tickers": [
+[
+"STE",
+3339851.0
+]
+],
+"value": 3339851.0,
+"type": "Common Stock",
+"ticker": "STE",
+"w": 0.006342292073968901
+},
+"STONECO LTD": {
+"issuer": "STONECO LTD",
+"tickers": [
+[
+"STNE",
+879124.0
+]
+],
+"value": 879124.0,
+"type": "Common Stock",
+"ticker": "STNE",
+"w": 0.0016694341086580914
+},
+"TE CONNECTIVITY PLC": {
+"issuer": "TE CONNECTIVITY PLC",
+"tickers": [
+[
+"TEL",
+33876730.0
+]
+],
+"value": 33876730.0,
+"type": "Common Stock",
+"ticker": "TEL",
+"w": 0.06433104835245179
+},
+"TECHNIPFMC PLC": {
+"issuer": "TECHNIPFMC PLC",
+"tickers": [
+[
+"FTI",
+16558425.0
+]
+],
+"value": 16558425.0,
+"type": "Common Stock",
+"ticker": "FTI",
+"w": 0.03144402778294855
+},
+"TRANE TECHNOLOGIES PLC": {
+"issuer": "TRANE TECHNOLOGIES PLC",
+"tickers": [
+[
+"TT",
+73225571.0
+]
+],
+"value": 73225571.0,
+"type": "Common Stock",
+"ticker": "TT",
+"w": 0.13905349626829072
+},
+"VERSIGENT PLC": {
+"issuer": "VERSIGENT PLC",
+"tickers": [
+[
+"VGNT",
+477822.0
+]
+],
+"value": 477822.0,
+"type": "Common Stock",
+"ticker": "VGNT",
+"w": 0.0009073718208890061
+},
+"WILLIS TOWERS WATSON PLC LTD": {
+"issuer": "WILLIS TOWERS WATSON PLC LTD",
+"tickers": [
+[
+"WTW",
+11780469.0
+]
+],
+"value": 11780469.0,
+"type": "Common Stock",
+"ticker": "WTW",
+"w": 0.0223708109033416
+},
+"WISE GROUP PLC": {
+"issuer": "WISE GROUP PLC",
+"tickers": [
+[
+"WSE",
+4459246.0
+]
+],
+"value": 4459246.0,
+"type": "Common Stock",
+"ticker": "WSE",
+"w": 0.008467994698469341
+},
+"XP INC": {
+"issuer": "XP INC",
+"tickers": [
+[
+"XP",
+3146310.0
+]
+],
+"value": 3146310.0,
+"type": "Common Stock",
+"ticker": "XP",
+"w": 0.005974762639186327
+},
+"ALCON AG": {
+"issuer": "ALCON AG",
+"tickers": [
+[
+"ALC",
+18528058.0
+]
+],
+"value": 18528058.0,
+"type": "Common Stock",
+"ticker": "ALC",
+"w": 0.035184310737046684
+},
+"BUNGE GLOBAL SA": {
+"issuer": "BUNGE GLOBAL SA",
+"tickers": [
+[
+"BG",
+7208331.0
+]
+],
+"value": 7208331.0,
+"type": "Common Stock",
+"ticker": "BG",
+"w": 0.013688437169156445
+},
+"CHUBB LIMITED": {
+"issuer": "CHUBB LIMITED",
+"tickers": [
+[
+"CB",
+118624201.0
+]
+],
+"value": 118624201.0,
+"type": "Common Stock",
+"ticker": "CB",
+"w": 0.2252643395717934
+},
+"GARMIN LTD": {
+"issuer": "GARMIN LTD",
+"tickers": [
+[
+"GRMN",
+18230007.0
+]
+],
+"value": 18230007.0,
+"type": "Common Stock",
+"ticker": "GRMN",
+"w": 0.034618319471287066
+},
+"AMRIZE LTD": {
+"issuer": "AMRIZE LTD",
+"tickers": [
+[
+"AMRZ",
+16999449.0
+]
+],
+"value": 16999449.0,
+"type": "Common Stock",
+"ticker": "AMRZ",
+"w": 0.03228152113808028
+},
+"UBS GROUP AG": {
+"issuer": "UBS GROUP AG",
+"tickers": [
+[
+"UBS",
+105825792.0
+]
+],
+"value": 105825792.0,
+"type": "Common Stock",
+"ticker": "UBS",
+"w": 0.20096048650765608
+},
+"LOGITECH INTL S A": {
+"issuer": "LOGITECH INTL S A",
+"tickers": [
+[
+"LOGI",
+5809535.0
+]
+],
+"value": 5809535.0,
+"type": "Common Stock",
+"ticker": "LOGI",
+"w": 0.011032159154388899
+},
+"ON HLDG AG": {
+"issuer": "ON HLDG AG",
+"tickers": [
+[
+"ONON",
+7700910.0
+]
+],
+"value": 7700910.0,
+"type": "Common Stock",
+"ticker": "ONON",
+"w": 0.014623832157586626
+},
+"MILLICOM INTL CELLULAR S A": {
+"issuer": "MILLICOM INTL CELLULAR S A",
+"tickers": [
+[
+"TIGO",
+4502694.0
+]
+],
+"value": 4502694.0,
+"type": "Common Stock",
+"ticker": "TIGO",
+"w": 0.008550501345032257
+},
+"SPOTIFY TECHNOLOGY S A": {
+"issuer": "SPOTIFY TECHNOLOGY S A",
+"tickers": [
+[
+"SPOT",
+53315095.0
+]
+],
+"value": 53315095.0,
+"type": "Common Stock",
+"ticker": "SPOT",
+"w": 0.10124400892177496
+},
+"CHECK POINT SOFTWARE TECH LT": {
+"issuer": "CHECK POINT SOFTWARE TECH LT",
+"tickers": [
+[
+"CHKP",
+5786337.0
+]
+],
+"value": 5786337.0,
+"type": "Common Stock",
+"ticker": "CHKP",
+"w": 0.010988106742610072
+},
+"ELBIT SYS LTD": {
+"issuer": "ELBIT SYS LTD",
+"tickers": [
+[
+"ESLT",
+10932682.0
+]
+],
+"value": 10932682.0,
+"type": "Common Stock",
+"ticker": "ESLT",
+"w": 0.020760884960383703
+},
+"ENLIGHT RENEWABLE ENERGY LTD": {
+"issuer": "ENLIGHT RENEWABLE ENERGY LTD",
+"tickers": [
+[
+"ENLT",
+3273630.0
+]
+],
+"value": 3273630.0,
+"type": "Common Stock",
+"ticker": "ENLT",
+"w": 0.006216540079813983
+},
+"GLOBAL E ONLINE LTD": {
+"issuer": "GLOBAL E ONLINE LTD",
+"tickers": [
+[
+"GLBE",
+240575.0
+]
+],
+"value": 240575.0,
+"type": "Common Stock",
+"ticker": "GLBE",
+"w": 0.0004568458041077487
+},
+"ICL GROUP LTD": {
+"issuer": "ICL GROUP LTD",
+"tickers": [
+[
+"ICL",
+1042277.0
+]
+],
+"value": 1042277.0,
+"type": "Common Stock",
+"ticker": "ICL",
+"w": 0.0019792575045952904
+},
+"NOVA LTD": {
+"issuer": "NOVA LTD",
+"tickers": [
+[
+"NVMI",
+4375396.0
+]
+],
+"value": 4375396.0,
+"type": "Common Stock",
+"ticker": "NVMI",
+"w": 0.00830876568184486
+},
+"MONDAY COM LTD": {
+"issuer": "MONDAY COM LTD",
+"tickers": [
+[
+"MNDY",
+219921.0
+]
+],
+"value": 219921.0,
+"type": "Common Stock",
+"ticker": "MNDY",
+"w": 0.00041762438360253636
+},
+"TOWER SEMICONDUCTOR LTD": {
+"issuer": "TOWER SEMICONDUCTOR LTD",
+"tickers": [
+[
+"TSEM",
+7284435.0
+]
+],
+"value": 7284435.0,
+"type": "Common Stock",
+"ticker": "TSEM",
+"w": 0.013832956728860554
+},
+"WIX COM LTD": {
+"issuer": "WIX COM LTD",
+"tickers": [
+[
+"WIX",
+184973.0
+]
+],
+"value": 184973.0,
+"type": "Common Stock",
+"ticker": "WIX",
+"w": 0.00035125902077615123
+},
+"AERCAP HOLDINGS NV": {
+"issuer": "AERCAP HOLDINGS NV",
+"tickers": [
+[
+"AER",
+19093973.0
+]
+],
+"value": 19093973.0,
+"type": "Common Stock",
+"ticker": "AER",
+"w": 0.036258968923606534
+},
+"CNH INDL N V": {
+"issuer": "CNH INDL N V",
+"tickers": [
+[
+"CNH",
+2879248.0
+]
+],
+"value": 2879248.0,
+"type": "Common Stock",
+"ticker": "CNH",
+"w": 0.005467618695980991
+},
+"FERRARI N V": {
+"issuer": "FERRARI N V",
+"tickers": [
+[
+"RACE",
+83569733.0
+]
+],
+"value": 83569733.0,
+"type": "Common Stock",
+"ticker": "RACE",
+"w": 0.15869679672224818
+},
+"FERROVIAL NV": {
+"issuer": "FERROVIAL NV",
+"tickers": [
+[
+"FER",
+16895473.0
+]
+],
+"value": 16895473.0,
+"type": "Common Stock",
+"ticker": "FER",
+"w": 0.03208407335951681
+},
+"JBS N.V.": {
+"issuer": "JBS N.V.",
+"tickers": [
+[
+"JBS",
+1625370.0
+]
+],
+"value": 1625370.0,
+"type": "Common Stock",
+"ticker": "JBS",
+"w": 0.003086536276099393
+},
+"LYONDELLBASELL INDUSTRIES NV": {
+"issuer": "LYONDELLBASELL INDUSTRIES NV",
+"tickers": [
+[
+"LYB",
+17941962.0
+]
+],
+"value": 17941962.0,
+"type": "Common Stock",
+"ticker": "LYB",
+"w": 0.034071329344947186
+},
+"MAGNUM ICE CREAM CO NV": {
+"issuer": "MAGNUM ICE CREAM CO NV",
+"tickers": [
+[
+"MICC",
+6090831.0
+]
+],
+"value": 6090831.0,
+"type": "Common Stock",
+"ticker": "MICC",
+"w": 0.011566333101441974
+},
+"NXP SEMICONDUCTORS N V": {
+"issuer": "NXP SEMICONDUCTORS N V",
+"tickers": [
+[
+"NXPI",
+49926666.0
+]
+],
+"value": 49926666.0,
+"type": "Common Stock",
+"ticker": "NXPI",
+"w": 0.0948094684617645
+},
+"QIAGEN NV": {
+"issuer": "QIAGEN NV",
+"tickers": [
+[
+"QGEN",
+6017741.0
+]
+],
+"value": 6017741.0,
+"type": "Common Stock",
+"ticker": "QGEN",
+"w": 0.011427537051053382
+},
+"STELLANTIS N.V": {
+"issuer": "STELLANTIS N.V",
+"tickers": [
+[
+"STLA",
+9109780.0
+]
+],
+"value": 9109780.0,
+"type": "Common Stock",
+"ticker": "STLA",
+"w": 0.017299240442043798
+},
+"NEBIUS GROUP N.V.": {
+"issuer": "NEBIUS GROUP N.V.",
+"tickers": [
+[
+"NBIS",
+40643387.0
+]
+],
+"value": 40643387.0,
+"type": "Common Stock",
+"ticker": "NBIS",
+"w": 0.07718075783301431
+},
+"IREN LIMITED": {
+"issuer": "IREN LIMITED",
+"tickers": [
+[
+"IREN",
+6321990.0
+]
+],
+"value": 6321990.0,
+"type": "Common Stock",
+"ticker": "IREN",
+"w": 0.01200529816111876
+},
+"ROYAL CARIBBEAN GROUP": {
+"issuer": "ROYAL CARIBBEAN GROUP",
+"tickers": [
+[
+"RCL",
+65116512.0
+]
+],
+"value": 65116512.0,
+"type": "Common Stock",
+"ticker": "RCL",
+"w": 0.12365459954414158
+},
+"FLEX LTD": {
+"issuer": "FLEX LTD",
+"tickers": [
+[
+"FLEX",
+43821621.0
+]
+],
+"value": 43821621.0,
+"type": "Common Stock",
+"ticker": "FLEX",
+"w": 0.08321614333596593
+}
+},
+"funds": [
+[
+"ISHARES INC",
+"EWA",
+0.0533506343557731
+],
+[
+"ISHARES INC",
+"EWZ",
+0.054900795771465574
+],
+[
+"ISHARES INC",
+"EWC",
+0.18036230378836202
+],
+[
+"ISHARES INC",
+"THD",
+0.0043211602814119355
+],
+[
+"ISHARES INC",
+"EIS",
+0.09996167887763546
+],
+[
+"ISHARES INC",
+"ECH",
+0.008538666935591544
+],
+[
+"ISHARES INC",
+"TUR",
+0.005242081285766842
+],
+[
+"ISHARES INC",
+"EWW",
+0.019471574285771794
+],
+[
+"ISHARES INC",
+"EWH",
+0.12291532874900848
+],
+[
+"ISHARES TR",
+"IVV",
+6.164118437104434
+],
+[
+"ISHARES TR",
+"MBB",
+0.08974553757511046
+],
+[
+"ISHARES TR",
+"EPU",
+0.006186864804408012
+],
+[
+"ISHARES TR",
+"EIDO",
+0.0015898423880405378
+],
+[
+"ISHARES TR",
+"EPHE",
+0.0018233782790897776
+],
+[
+"ISHARES TR",
+"INDA",
+0.04827614517058083
+],
+[
+"ISHARES TR",
+"EPOL",
+0.006155898226303116
+],
+[
+"ISHARES TR",
+"MCHI",
+0.3166476249660999
+],
+[
+"ISHARES INC",
+"EWT",
+0.11268400894284748
+],
+[
+"ISHARES INC",
+"EWS",
+0.008997987103547374
+],
+[
+"ISHARES INC",
+"EWM",
+0.009628663139650214
+],
+[
+"ISHARES TR",
+"IEUR",
+0.10593945329046955
+],
+[
+"ISHARES TR",
+"KWT",
+0.025324952572284853
+],
+[
+"J P MORGAN EXCHANGE TRADED F",
+"BBJP",
+0.049722618777498936
+],
+[
+"VANGUARD INDEX FDS",
+"VOO",
+0.044790028567121776
+]
+],
+"total_usd": 52659999903.0
+}

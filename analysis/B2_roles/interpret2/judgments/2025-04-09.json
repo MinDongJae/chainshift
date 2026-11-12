@@ -1,0 +1,25 @@
+{
+ "date": "2025-04-09",
+ "seen": [
+  "pack: cases/2025-04-09/materials.md 그날 숫자·기사 제목 12개(2025-04-06~09)·공시 0건 (지난 사례 절 H1 이 같이 보였음 — leaked.txt)",
+  "mid: prices_long.csv.gz 2025-04-09 까지"
+ ],
+ "tools": [
+  {
+   "name": "mid",
+   "why": "늘 봄. SPY 가 +10.5% 라 민감도 뺀 값이 필요했음"
+  }
+ ],
+ "cause": "규칙이 잘못 고른 날",
+ "evidence": [
+  "mid: SPY +10.50%, 칩 9종목 모두 오름(평균 +19.69%, 내린 종목 0/9) — 「시장 요인을 뺀 값」만 -5.34%",
+  "yahoo.com 2025-04-09 「Nvidia, Supermicro Surge as Chip and AI Stocks Rebound From Tariff Rout」",
+  "mid: 장비·소재 +18.01%, 서버·부품 +13.96% — 모두 오름. 다만 민감도 뺀 값은 칩 -4.23 · 장비 -3.27 · 서버·부품 -4.26 으로 셋이 비슷함"
+ ],
+ "verdict": "사람에게 넘긴다",
+ "confidence": "낮음",
+ "counter": "민감도를 뺀 값으로는 서버·부품(-4.26)이 칩(-4.23)만큼 「덜 올랐다」. 이것을 번짐으로 읽을 수도 있으나, 하루 +10% 급등일에 250일 기울기를 곱해 뺀 값은 기울기 오차가 그대로 커진 것일 수 있다. theverge.com 「Trump signs executive order to power AI data centers with coal energy」는 전력 쪽에 좋은 소식.",
+ "note": "조건: (다) 잘못 고른 날(숫자 근거 + 기사 1) 인데 S(민감도 뺀 값) -4.26 ≤ -1.0 이라 (라)를 못 채움 → 사전 고정대로 넘김. 값 충격이 아니라 급등일이라는 점은 분명함. leaked.txt 곁값 날(칩 -5.34·전력 -4.51 을 미리 봄).",
+ "dropped": 0,
+ "written_at": "2026-11-12T00:43:08+09:00"
+}

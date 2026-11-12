@@ -1,0 +1,33 @@
+{
+ "date": "2026-10-08",
+ "seen": [
+  "pack: cases/2026-10-08/materials.md 기사 제목 12개(2026-10-07~08)·공시 0건",
+  "mid: prices_long.csv.gz 2026-10-08 까지",
+  "newsstat: news/2026-10-08.json"
+ ],
+ "tools": [
+  {
+   "name": "mid",
+   "why": "늘 봄"
+  },
+  {
+   "name": "newsstat",
+   "why": "pack 에 칩이 왜 빠졌는지 직접 댄 제목이 없고 데이터센터 쪽 나쁜 소식만 있어, 그 소식이 그날 기사 전체에서도 보이는지 확인하려고"
+  }
+ ],
+ "cause": "전력 쪽 시작",
+ "evidence": [
+  "ksevradio.com(로이터) 2026-10-08 「Australian Nvidia-backed AI data centre operator Firmus scraps $5 billion IPO」",
+  "zerohedge.com 2026-10-08 「Another One Bites The Dust: Nvidia-Backed Firmus Slashes IPO Price 25% As AI Data Center Window Slams Shut」",
+  "thenextweb.com 2026-10-08 「Oracle moves gas by trucks to keep its AI data centres on schedule」 · zerohedge.com 「From Force Majeure To Forced Haulage: Oracle Is Now Trucking Natural Gas To Its AI Data Centers」 — 데이터센터 전력 공급이 막혔다는 소식",
+  "techtimes.com 2026-10-08 「Memory Stocks Slip: Micron Strike Risk, Softer NAND Prices, Toshiba Capacity Bet」(칩 고유 쪽)",
+  "mid: 서버·부품 21/22 내림, 시장 대비 -2.46%p. 장비·소재 -1.98%p. 칩 9/9 내림(-4.64%p). SPY -0.42%",
+  "newsstat: 전력·냉각 설비 어조 +0.19, 발전 +0.41, 데이터센터 공사 +1.58 — 기사 어조로는 전력 쪽이 나쁘지 않음"
+ ],
+ "verdict": "번진다",
+ "confidence": "낮음",
+ "counter": "칩이 빠진 까닭을 이 데이터센터 소식에 직접 이은 기사는 없다 — 내가 같은 날 소식을 이어 읽은 것이다. 메모리 쪽 까닭(파업 위험·낸드 값)이 따로 있어 칩 고유로 읽을 수 있다. 전력 쪽 기사 어조는 세 단계 모두 양수였다. 오라클이 가스를 트럭으로 나른다는 것은 발전·가스 회사에는 오히려 수요 소식일 수 있다.",
+ "note": "조건: (가) 데이터센터 쪽 나쁜 소식이 직접 나옴 — 출처 셋(로이터 · zerohedge · thenextweb), (나) S=-2.46 ≤ -1.0. 까닭과 칩 하락을 잇는 기사가 없어 확신 낮음. leaked.txt 곁값 날(58종목 전체 -3.17% 를 미리 봄).",
+ "dropped": 0,
+ "written_at": "2026-11-12T00:50:03+09:00"
+}

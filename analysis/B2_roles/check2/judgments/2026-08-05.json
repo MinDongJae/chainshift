@@ -1,0 +1,23 @@
+{
+ "date": "2026-08-05",
+ "interp_verdict": "안 번진다",
+ "interp_cause": "칩 고유",
+ "interp_confidence": "중간",
+ "rechecked": [
+  "N10 spokesman(로이터) 「S&P 500, Dow at record highs on Mideast deal hopes; SpaceX, AMD drag」 — 묶음에 있음. AMD 가 끌어내렸다고 직접 댐",
+  "R1: AMD·아스테라랩스 공시(2026-08-04 제출)는 묶음에 있으나 문장은 「excellent quarter… Data Center revenue more than doubled」·「We expect momentum to accelerate in Q3」로 좋은 내용뿐 — 하락의 까닭을 말하는 문장이 아님. 해석이 「출처 둘」로 센 공시 둘은 까닭 출처에서 뺌(해석도 「날짜 맞춤」이라고 적어 둠)",
+  "뺀 자리는 내 검색이 메움: Yahoo Finance 「'This was not an exceptional result': Why AMD stock tanked 5% after earnings」 · Barron's 「AMD Stock Falls Sharply After Earnings but the Chip Maker Has a Bigger Problem」 · MarketWatch 「3 reasons AMD's stock is falling in the face of its latest earnings report」 · CNBC 「…AMD stock sinks after earnings」(모두 2026-08-05) → 칩 고유(한 회사 실적) 출처는 넉넉함",
+  "mid 다시 냄: SPY -0.20 · 서버·부품 시장 대비 -0.95%p · 시장보다 더 빠진 16/22 · 칩 내린 종목 5/9 — 같음"
+ ],
+ "counter": "까닭 쪽 반대 근거는 못 찾음(AMD 실적 뒤 하락이라는 데 다섯 매체가 같음). 숫자 쪽 반대 근거가 있음(R6): S -0.95 는 경계 -1.0 에서 0.05%p, 서버·부품 22종목 중 16종목(73%)이 시장보다 더 빠졌고 웨스턴디지털 -5.4 · 슈퍼마이크로 -4.3 · 플렉스 -3.8, 장비·소재도 -2.08%p(7/8). 아리스타 +3.6 · HPE +1.6 이 평균을 끌어올려 경계를 겨우 넘김",
+ "final_verdict": "사람에게 넘긴다",
+ "cause": "칩 고유",
+ "changed": true,
+ "why": "사전 고정 R6: S 가 경계에서 0.5%p 안인데 서버·부품에서 시장보다 더 빠진 종목이 2/3 이상(16/22)이라 「안 번진다」의 숫자 조건 (라)가 평균 한 값에만 기대고 있음. 까닭은 칩 고유로 굳지만 번짐 여부는 값으로 못 가려 넘김",
+ "confidence": "낮음",
+ "tools": [
+  "mid",
+  "news_search: AMD stock falls after earnings (5건)"
+ ],
+ "written_at": "2026-11-12T01:00:22+09:00"
+}

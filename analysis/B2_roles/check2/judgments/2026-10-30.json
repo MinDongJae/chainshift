@@ -1,0 +1,24 @@
+{
+ "date": "2026-10-30",
+ "interp_verdict": "사람에게 넘긴다",
+ "interp_cause": "칩 고유",
+ "interp_confidence": "낮음",
+ "rechecked": [
+  "N2 morningstar 「Semiconductor Stocks Fall as Intel Earnings Trigger Broad Tech Selloff」 · N4 econotimes 「Intel Leads Semiconductor Selloff as Philadelphia Index Falls More Than 7%」 · N12 investors.com 「MasTec, Quanta Services Surge; Two Other Construction Stocks Break Out」 — 묶음에 있음",
+  "F3 인텔 공시(2026-10-29 제출) 「Despite near-term headwinds across the PC industry, demand for our CPUs remains robust…」 — 묶음에 글자 그대로 있음",
+  "hngn 19:15 UTC · cnbc 19:30 UTC 글은 묶음 12개에 없어(newsstat 쪽) 다시 확인하지 않음 — 세지 않아도 칩 고유 출처는 morningstar · econotimes 둘이 남음",
+  "mid 다시 냄: SPY -1.77(±1.5 밖) → S 는 민감도 뺀 값 -2.54, 22/22 내림 — 같음. 규칙 적용 맞음"
+ ],
+ "counter": "AI 투자 전반 쪽 독립 출처 둘: Reuters 「Wall Street closes sharply lower as AI cash burn fears spark tech selloff」 · NBC News 「Tech stocks wipe out $1 trillion in value as concerns deepen about the AI boom」(둘 다 2026-10-30, Yahoo Finance 는 Reuters 옮김). 묶음 N1 investinglive 「Anthropic may not secure investment-grade rating after IPO, FT reports」도 같은 쪽 배경. 반면 The Guardian 「Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports」(2026-10-30)는 실적 쪽",
+ "final_verdict": "사람에게 넘긴다",
+ "cause": "칩 고유",
+ "changed": false,
+ "why": "AI 투자 전반 2(Reuters · NBC) 대 칩 고유 2~3(morningstar · econotimes · Guardian) — 반대 갈래가 더 많지 않아 갈래를 못 뒤집음. 칩 고유로 두면 S -2.54 와 엇갈리고, 해석이 「안 번진다 쪽이 더 무겁다」고 본 것과 달리 로이터는 그날 마감 까닭을 AI 자금 소진 걱정으로 댐 — 두 쪽이 팽팽해 넘김을 둠",
+ "confidence": "낮음",
+ "tools": [
+  "mid",
+  "news_search: Wall Street stocks fall tech selloff (5건)"
+ ],
+ "note": "묶음 N12 제목(마스텍·콴타 급등)은 데이터센터 공사 단계 두 회사의 당일 방향을 그대로 알려 줌 — 가려 둔 「당일 전력 쪽 값」의 일부가 제목으로 보인 것이라 leaked.txt 에 적음",
+ "written_at": "2026-11-12T01:02:38+09:00"
+}

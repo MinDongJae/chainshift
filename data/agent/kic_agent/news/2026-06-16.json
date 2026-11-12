@@ -1,0 +1,333 @@
+{
+ "window_utc": [
+  "20260616000000",
+  "20260616234500"
+ ],
+ "files": 96,
+ "missing": [],
+ "records": 121666,
+ "hit_records": 535,
+ "by_stage": {
+  "데이터센터 공사": {
+   "n": 3,
+   "tone": 1.88,
+   "dc": 0
+  },
+  "반도체 장비·소재": {
+   "n": 40,
+   "tone": 0.71,
+   "dc": 0
+  },
+  "발전": {
+   "n": 3,
+   "tone": -0.78,
+   "dc": 0
+  },
+  "서버·네트워크·부품": {
+   "n": 84,
+   "tone": 0.56,
+   "dc": 0
+  },
+  "전력·냉각 설비": {
+   "n": 46,
+   "tone": 0.12,
+   "dc": 1
+  },
+  "칩": {
+   "n": 371,
+   "tone": 0.78,
+   "dc": 1
+  }
+ },
+ "by_company": {
+  "NVDA": 188,
+  "MU": 118,
+  "AMD": 71,
+  "STX": 44,
+  "INTC": 42,
+  "WDC": 32,
+  "AMAT": 22,
+  "LRCX": 20,
+  "MRVL": 18,
+  "CAT": 18,
+  "ETN": 12,
+  "AVGO": 11,
+  "BE": 10,
+  "LOGI": 7,
+  "CMI": 6,
+  "CSCO": 4,
+  "CEG": 3,
+  "SMCI": 3,
+  "PWR": 3,
+  "CRDO": 3,
+  "ANET": 3,
+  "TER": 2,
+  "CLS": 2,
+  "GEV": 1
+ },
+ "dc_hit_records": 2,
+ "unique_titles": 292,
+ "top": [
+  {
+   "t": "20260616131500",
+   "title": "Nasdaq Composite Breaks Above Resistance, SpaceX & Micron Flying",
+   "url": "https://thebull.com.au/us-news/nasdaq-composite-breaks-above-resistance-spacex-micron-flying/",
+   "src": "thebull.com.au",
+   "ticks": [
+    "MU",
+    "AMD",
+    "MRVL",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.89,
+   "dc": false,
+   "score": 10
+  },
+  {
+   "t": "20260616234500",
+   "title": "Stock Market Today, June 16: Nvidia, Broadcom, and Micron Technology Lead Drop in Nasdaq",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/06/16/stock-market-today-june-16-nvidia-broadcom-and-micron-technology-lead-drop-in-nasdaq/?source=iedfolrf0000001",
+   "src": "fool.com",
+   "ticks": [
+    "NVDA",
+    "AVGO",
+    "MU",
+    "AMD"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 1.08,
+   "dc": false,
+   "score": 9
+  },
+  {
+   "t": "20260616233000",
+   "title": "Stocks Rally as US-Iran Peace Deal Sinks Oil and Bond Yields",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-us-iran-peace-151900784.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "MRVL",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.77,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260616230000",
+   "title": "Nasdaq Composite Pulls Back: Markets Brace for Warsh's First Fed Meeting and Dot Plot",
+   "url": "https://thebull.com.au/us-news/nasdaq-composite-pulls-back-markets-brace-for-warshs-first-fed-meeting-and-dot-plot/",
+   "src": "thebull.com.au",
+   "ticks": [
+    "AMD",
+    "MRVL",
+    "CEG"
+   ],
+   "stages": [
+    "발전",
+    "칩"
+   ],
+   "tone": -4.02,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260616223000",
+   "title": "AI Memory Bottleneck: This Sizzling ETF Lets You Buy Micron, Sandisk, SK Hynix, and Samsung for Less Than $100",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/ai-memory-bottleneck-sizzling-etf-135300592.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "WDC",
+    "STX"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 0.92,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260616171500",
+   "title": "Stocks making the biggest moves midday: SPCX, LITE, HUN, ELF, INTC",
+   "url": "https://www.cnbc.com/2026/06/16/stocks-making-the-biggest-moves-midday-spcx-lite-hun-elf-intc.html",
+   "src": "cnbc.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.81,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260616131500",
+   "title": "Nasdaq, Dow futures inch up with focus on Fed",
+   "url": "https://www.freemalaysiatoday.com/category/business/2026/06/16/nasdaq-dow-futures-inch-up-with-focus-on-fed",
+   "src": "freemalaysiatoday.com",
+   "ticks": [
+    "MU",
+    "WDC",
+    "STX"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -0.85,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260616040000",
+   "title": "Micron, Marvell, Fox, Fiserv And Western Digital: Why These 5 Stocks Are On Investors' Radars Today - Mic",
+   "url": "https://www.benzinga.com/markets/equities/26/06/53214373/micron-marvell-fox-fiserv-and-western-digital-why-these-5-stocks-are-on-investors-radars-today",
+   "src": "benzinga.com",
+   "ticks": [
+    "MU",
+    "MRVL",
+    "WDC"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 1.08,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260616194500",
+   "title": "Meet the Super Semiconductor Stock Crushing Nvidia and Broadcom in 2026",
+   "url": "https://www.fool.com/investing/2026/06/16/meet-the-super-semiconductor-stock-crushing-hot-ti/?source=iedfolrf0000001",
+   "src": "fool.com",
+   "ticks": [
+    "NVDA",
+    "AVGO",
+    "CRDO"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 2.46,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20260616181500",
+   "title": "Cummins Natural Gas Generators To Power Large Scale Data Centers In West Texas",
+   "url": "https://sanangelolive.com/news/texas/2026-06-16/cummins-natural-gas-generators-power-large-scale-data-centers-west-texas",
+   "src": "sanangelolive.com",
+   "ticks": [
+    "CMI"
+   ],
+   "stages": [
+    "전력·냉각 설비"
+   ],
+   "tone": 3.39,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20260616154500",
+   "title": "Western Digital stock jumps as AI trade reignites",
+   "url": "https://finance.yahoo.com/markets/article/western-digital-stock-jumps-as-ai-trade-reignites-132154187.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "WDC"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -2.17,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260616144500",
+   "title": "Forget VOO Stock: Here's Why the IWO ETF is Firing on All Cylinders",
+   "url": "https://www.banklesstimes.com/articles/2026/06/16/forget-voo-stock-heres-why-the-iwo-etf-is-firing-on-all-cylinders/",
+   "src": "banklesstimes.com",
+   "ticks": [
+    "CRDO",
+    "BE"
+   ],
+   "stages": [
+    "전력·냉각 설비",
+    "칩"
+   ],
+   "tone": 0.0,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260616140000",
+   "title": "Intel's long-lost data center prototype 'Arctic Sound' Xe-HP multi-tile GPU surfaces in new engineering sample &#x2014; Company's cancelled AI processor features 32GB of HBM2E",
+   "url": "https://www.tomshardware.com/pc-components/gpus/intels-cancelled-arctic-sound-xe-hp-multi-tile-gpu-surfaces-in-new-engineering-sample-companys-long-lost-data-center-prototype-features-32gb-of-hbm2e",
+   "src": "tomshardware.com",
+   "ticks": [
+    "INTC"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 0.59,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20260616140000",
+   "title": "AI Infrastructure's Toughest Questions Take Center Stage at Yotta 2026",
+   "url": "https://www.manilatimes.net/2026/06/16/tmt-newswire/globenewswire/ai-infrastructures-toughest-questions-take-center-stage-at-yotta-2026/2366708",
+   "src": "manilatimes.net",
+   "ticks": [
+    "BE",
+    "CEG"
+   ],
+   "stages": [
+    "발전",
+    "전력·냉각 설비"
+   ],
+   "tone": -1.59,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260616134500",
+   "title": "Western Digital, Micron, Sandisk hover at all-time highs as AI trade reignites",
+   "url": "https://finance.yahoo.com/markets/article/western-digital-micron-sandisk-hover-at-all-time-highs-as-ai-trade-reignites-132154187.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "WDC"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -1.94,
+   "dc": false,
+   "score": 6
+  }
+ ],
+ "seconds": 265
+}

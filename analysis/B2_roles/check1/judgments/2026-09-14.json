@@ -1,0 +1,39 @@
+{
+ "date": "2026-09-14",
+ "interp": "번진다",
+ "interp_cause": "AI 투자 전반",
+ "recheck": [
+  {
+   "ev": "E1 investinglive.com 「AI and chip stocks tumble as weekend warnings challenge the sector's growth assumptions」",
+   "result": "pack N6 에 있음. 20:45 UTC — 마감(20:00) 뒤라 K2 로 뺌"
+  },
+  {
+   "ev": "E2 livemint.com 「Global AI stocks fall as industry chiefs call for slowing development」",
+   "result": "pack N4 에 있음. 21:00 UTC — 마감 뒤, 뺌"
+  },
+  {
+   "ev": "E3 ibtimes.com.au 「SanDisk Shares Sink 5.18% as DeepSeek's Leaner AI Model Rattles Memory Chip Stocks Worldwide Once Again」",
+   "result": "pack N10 에 있음. 15:30 UTC — 마감 전"
+  },
+  {
+   "ev": "E4 investinglive.com 「Oil tops $100 as higher yields and AI worries pressure stocks」",
+   "result": "pack N1 에 있음. 23:15 UTC — 마감 뒤, 뺌"
+  },
+  {
+   "ev": "E5 칩 9/9(-6.66%), 장비 8/8(-7.91%p), 서버·부품 22/22(-6.28%p)",
+   "result": "다시 계산해 같음. 가운데값 -5.80%p — 넓은 하락"
+  }
+ ],
+ "counter": "K2: 해석이 든 까닭 제목 4건 중 3건(E1·E2·E4)이 장 마감 뒤. 다른 까닭을 대는 기사는 못 찾음 — 오히려 마감 전 기사 파일에 같은 까닭을 대는 발행처가 셋 더 있음: livemint.com 16:15 「...chip stocks plunging up to 9.5% as AI slowdown fears hit Wall Street」, ibtimes.com.au 14:15 「Nvidia Shares Slide 3.15% as Industry Calls to Slow AI Development Rattle...」, aol.com 17:45 「Marvell Falls 7% as AI Pacing Debate Collides With Fed Week」. 전력·데이터센터 쪽을 이름으로 든 하락 제목은 없음((b) 없음).",
+ "final": "넘긴다",
+ "cause": "AI 투자 전반",
+ "changed": true,
+ "why": "근거 6개 중 3개가 마감 뒤라 빠짐 — 미리 적은 '절반 이상 빠지면 넘긴다(남은 조건 수와 상관없이)'에 걸려 넘김. 규칙대로 한 결과임.",
+ "rule_note": "미리 적은 규칙이 지나치게 걸린 날로 본다. 해석이 고른 제목이 마감 뒤 것이었을 뿐, 같은 까닭(AI 개발 속도를 늦추자는 발언 · AI 둔화 걱정)을 대는 마감 전 발행처가 3곳(livemint · ibtimes · aol) 있고 (c)도 22종목 모두라, '절반' 규칙만 없으면 번진다 조건 (a)(c)가 그대로 참. 채점하는 쪽은 이 날을 '규칙으로 넘김 · 남은 근거로는 번진다'로 따로 볼 수 있음.",
+ "conf": "낮음",
+ "tools": [
+  "newsstat"
+ ],
+ "dropped": 3,
+ "written_at": "2026-11-12T01:04:06+09:00"
+}

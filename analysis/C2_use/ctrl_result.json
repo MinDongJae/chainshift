@@ -1,0 +1,5365 @@
+{
+ "note": "금액 백만 달러. 손실은 13F(2026-06-30) 금액 × 그날 종가 등락 — 재현 값. ratio = (58종목 손실 + 더한 손실) ÷ 58종목 손실. 무작위는 5,000번(seed 20261112).",
+ "four_days": {
+  "agg": {
+   "days": 4,
+   "sum_loss58_usd_m": -2198.6,
+   "sum_added_usd_m": {
+    "rel": -287.0,
+    "size": 111.7,
+    "size_x": 111.7,
+    "rand_median": 85.9,
+    "randsize_median": 112.5,
+    "randsec_median": 171.7
+   },
+   "sum_ratio": {
+    "rel": 1.131,
+    "size": 0.949,
+    "size_x": 0.949,
+    "rand_median": 0.961,
+    "randsize_median": 0.949,
+    "randsec_median": 0.922
+   },
+   "days_rel_loss_bigger_than": {
+    "size": 4,
+    "size_x": 4,
+    "rand_median": 3,
+    "randsize_median": 3,
+    "randsec_median": 4
+   },
+   "binom_p_one_sided_vs_half": {
+    "size": 0.0625,
+    "rand_median": 0.3125,
+    "randsize_median": 0.3125,
+    "randsec_median": 0.0625
+   },
+   "days_rel_in_worst_5pct_of_rand": 2,
+   "days_rel_in_worst_5pct_of_randsize": 3,
+   "days_rel_in_worst_5pct_of_randsec": 2,
+   "mean_rel_worse_than_randsec_share_pct": 86.9,
+   "mean_rel_worse_than_rand_share_pct": 82.1,
+   "mean_rel_worse_than_randsize_share_pct": 86.3
+  },
+  "rows": [
+   {
+    "date": "2026-08-18",
+    "n_rel": 8,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 3019.0,
+    "loss58_usd_m": -506.4,
+    "spy_pct": -0.68,
+    "rel_loss_usd_m": -43.2,
+    "rel_ratio": 1.085,
+    "size_loss_usd_m": 43.6,
+    "size_ratio": 0.914,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 43.6,
+    "size_x_ratio": 0.914,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 2.2,
+    "rand_ratio_median": 0.996,
+    "rand_ratio_p05_p95": [
+     0.905,
+     1.1
+    ],
+    "rel_worse_than_rand_share_pct": 93.2,
+    "randsize_loss_median_usd_m": 24.4,
+    "randsize_ratio_median": 0.952,
+    "rel_worse_than_randsize_share_pct": 100.0,
+    "randsec_loss_median_usd_m": 3.8,
+    "randsec_ratio_median": 0.992,
+    "rel_worse_than_randsec_share_pct": 80.0,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-09-14",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4685.2,
+    "loss58_usd_m": -594.3,
+    "spy_pct": -0.45,
+    "rel_loss_usd_m": 31.6,
+    "rel_ratio": 0.947,
+    "size_loss_usd_m": 61.6,
+    "size_ratio": 0.896,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 61.6,
+    "size_x_ratio": 0.896,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 16.8,
+    "rand_ratio_median": 0.972,
+    "rand_ratio_p05_p95": [
+     0.789,
+     1.123
+    ],
+    "rel_worse_than_rand_share_pct": 38.5,
+    "randsize_loss_median_usd_m": 26.0,
+    "randsize_ratio_median": 0.956,
+    "rel_worse_than_randsize_share_pct": 45.2,
+    "randsec_loss_median_usd_m": 89.4,
+    "randsec_ratio_median": 0.85,
+    "rel_worse_than_randsec_share_pct": 70.8,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-10-08",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4685.2,
+    "loss58_usd_m": -364.3,
+    "spy_pct": -0.42,
+    "rel_loss_usd_m": -74.6,
+    "rel_ratio": 1.205,
+    "size_loss_usd_m": 22.8,
+    "size_ratio": 0.937,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 22.8,
+    "size_x_ratio": 0.937,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 32.2,
+    "rand_ratio_median": 0.912,
+    "rand_ratio_p05_p95": [
+     0.732,
+     1.143
+    ],
+    "rel_worse_than_rand_share_pct": 97.8,
+    "randsize_loss_median_usd_m": 20.2,
+    "randsize_ratio_median": 0.945,
+    "rel_worse_than_randsize_share_pct": 100.0,
+    "randsec_loss_median_usd_m": 38.6,
+    "randsec_ratio_median": 0.894,
+    "rel_worse_than_randsec_share_pct": 96.9,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-10-22",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4685.2,
+    "loss58_usd_m": -733.7,
+    "spy_pct": -1.18,
+    "rel_loss_usd_m": -200.9,
+    "rel_ratio": 1.274,
+    "size_loss_usd_m": -16.2,
+    "size_ratio": 1.022,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -16.2,
+    "size_x_ratio": 1.022,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 34.7,
+    "rand_ratio_median": 0.953,
+    "rand_ratio_p05_p95": [
+     0.82,
+     1.172
+    ],
+    "rel_worse_than_rand_share_pct": 98.8,
+    "randsize_loss_median_usd_m": 41.9,
+    "randsize_ratio_median": 0.943,
+    "rel_worse_than_randsize_share_pct": 100.0,
+    "randsec_loss_median_usd_m": 39.9,
+    "randsec_ratio_median": 0.946,
+    "rel_worse_than_randsec_share_pct": 99.8,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   }
+  ]
+ },
+ "chip46_pit": {
+  "what": "칩 충격일 46일(2025-10-02~2026-10-29, 그달 앞 자료 하위 5%) · 관계는 그날 전에 공개된 것만",
+  "days_with_no_relation": 0,
+  "agg": {
+   "days": 46,
+   "sum_loss58_usd_m": -17494.8,
+   "sum_added_usd_m": {
+    "rel": -82.0,
+    "size": 681.3,
+    "size_x": 681.3,
+    "rand_median": 433.2,
+    "randsize_median": 698.3,
+    "randsec_median": 215.7
+   },
+   "sum_ratio": {
+    "rel": 1.005,
+    "size": 0.961,
+    "size_x": 0.961,
+    "rand_median": 0.975,
+    "randsize_median": 0.96,
+    "randsec_median": 0.988
+   },
+   "days_rel_loss_bigger_than": {
+    "size": 29,
+    "size_x": 29,
+    "rand_median": 27,
+    "randsize_median": 27,
+    "randsec_median": 24
+   },
+   "binom_p_one_sided_vs_half": {
+    "size": 0.0519,
+    "rand_median": 0.151,
+    "randsize_median": 0.151,
+    "randsec_median": 0.4415
+   },
+   "days_rel_in_worst_5pct_of_rand": 2,
+   "days_rel_in_worst_5pct_of_randsize": 6,
+   "days_rel_in_worst_5pct_of_randsec": 2,
+   "mean_rel_worse_than_randsec_share_pct": 48.7,
+   "mean_rel_worse_than_rand_share_pct": 54.8,
+   "mean_rel_worse_than_randsize_share_pct": 55.6
+  },
+  "rows": [
+   {
+    "date": "2025-10-14",
+    "n_rel": 2,
+    "rel": [
+     "META",
+     "MSFT"
+    ],
+    "rel_value_usd_m": 2756.8,
+    "loss58_usd_m": -257.9,
+    "spy_pct": -0.12,
+    "rel_loss_usd_m": -10.4,
+    "rel_ratio": 1.041,
+    "size_loss_usd_m": 1.2,
+    "size_ratio": 0.995,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 1.2,
+    "size_x_ratio": 0.995,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 19.8,
+    "rand_ratio_median": 0.923,
+    "rand_ratio_p05_p95": [
+     0.7,
+     1.188
+    ],
+    "rel_worse_than_rand_share_pct": 80.3,
+    "randsize_loss_median_usd_m": -0.1,
+    "randsize_ratio_median": 1.0,
+    "rel_worse_than_randsize_share_pct": 59.2,
+    "randsec_loss_median_usd_m": -8.4,
+    "randsec_ratio_median": 1.033,
+    "rel_worse_than_randsec_share_pct": 51.7,
+    "rel_sectors": {
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술"
+    }
+   },
+   {
+    "date": "2025-11-04",
+    "n_rel": 3,
+    "rel": [
+     "IREN",
+     "META",
+     "MSFT"
+    ],
+    "rel_value_usd_m": 2763.2,
+    "loss58_usd_m": -456.6,
+    "spy_pct": -1.19,
+    "rel_loss_usd_m": -24.3,
+    "rel_ratio": 1.053,
+    "size_loss_usd_m": 10.2,
+    "size_ratio": 0.978,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 10.2,
+    "size_x_ratio": 0.978,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": -12.5,
+    "rand_ratio_median": 1.027,
+    "rand_ratio_p05_p95": [
+     0.901,
+     1.235
+    ],
+    "rel_worse_than_rand_share_pct": 63.4,
+    "randsize_loss_median_usd_m": 2.6,
+    "randsize_ratio_median": 0.994,
+    "rel_worse_than_randsize_share_pct": 67.6,
+    "randsec_loss_median_usd_m": -65.9,
+    "randsec_ratio_median": 1.144,
+    "rel_worse_than_randsec_share_pct": 16.5,
+    "rel_sectors": {
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술"
+    }
+   },
+   {
+    "date": "2025-11-11",
+    "n_rel": 3,
+    "rel": [
+     "IREN",
+     "META",
+     "MSFT"
+    ],
+    "rel_value_usd_m": 2763.2,
+    "loss58_usd_m": -300.0,
+    "spy_pct": 0.23,
+    "rel_loss_usd_m": 3.1,
+    "rel_ratio": 0.99,
+    "size_loss_usd_m": 59.7,
+    "size_ratio": 0.801,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 59.7,
+    "size_x_ratio": 0.801,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 19.4,
+    "rand_ratio_median": 0.935,
+    "rand_ratio_p05_p95": [
+     0.756,
+     1.102
+    ],
+    "rel_worse_than_rand_share_pct": 73.0,
+    "randsize_loss_median_usd_m": 23.1,
+    "randsize_ratio_median": 0.923,
+    "rel_worse_than_randsize_share_pct": 77.1,
+    "randsec_loss_median_usd_m": 4.0,
+    "randsec_ratio_median": 0.987,
+    "rel_worse_than_randsec_share_pct": 50.6,
+    "rel_sectors": {
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술"
+    }
+   },
+   {
+    "date": "2025-11-13",
+    "n_rel": 3,
+    "rel": [
+     "IREN",
+     "META",
+     "MSFT"
+    ],
+    "rel_value_usd_m": 2763.2,
+    "loss58_usd_m": -453.4,
+    "spy_pct": -1.66,
+    "rel_loss_usd_m": -28.3,
+    "rel_ratio": 1.062,
+    "size_loss_usd_m": -5.3,
+    "size_ratio": 1.012,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -5.3,
+    "size_x_ratio": 1.012,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": -30.7,
+    "rand_ratio_median": 1.068,
+    "rand_ratio_p05_p95": [
+     0.965,
+     1.252
+    ],
+    "rel_worse_than_rand_share_pct": 47.1,
+    "randsize_loss_median_usd_m": -34.0,
+    "randsize_ratio_median": 1.075,
+    "rel_worse_than_randsize_share_pct": 47.2,
+    "randsec_loss_median_usd_m": -56.6,
+    "randsec_ratio_median": 1.125,
+    "rel_worse_than_randsec_share_pct": 22.3,
+    "rel_sectors": {
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술"
+    }
+   },
+   {
+    "date": "2025-11-20",
+    "n_rel": 3,
+    "rel": [
+     "IREN",
+     "META",
+     "MSFT"
+    ],
+    "rel_value_usd_m": 2763.2,
+    "loss58_usd_m": -552.3,
+    "spy_pct": -1.52,
+    "rel_loss_usd_m": -32.1,
+    "rel_ratio": 1.058,
+    "size_loss_usd_m": -23.8,
+    "size_ratio": 1.043,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -23.8,
+    "size_x_ratio": 1.043,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": -27.6,
+    "rand_ratio_median": 1.05,
+    "rand_ratio_p05_p95": [
+     0.979,
+     1.233
+    ],
+    "rel_worse_than_rand_share_pct": 55.3,
+    "randsize_loss_median_usd_m": -17.9,
+    "randsize_ratio_median": 1.032,
+    "rel_worse_than_randsize_share_pct": 70.4,
+    "randsec_loss_median_usd_m": -58.5,
+    "randsec_ratio_median": 1.106,
+    "rel_worse_than_randsec_share_pct": 25.1,
+    "rel_sectors": {
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술"
+    }
+   },
+   {
+    "date": "2025-12-12",
+    "n_rel": 3,
+    "rel": [
+     "IREN",
+     "META",
+     "MSFT"
+    ],
+    "rel_value_usd_m": 2763.2,
+    "loss58_usd_m": -630.4,
+    "spy_pct": -1.08,
+    "rel_loss_usd_m": -31.2,
+    "rel_ratio": 1.049,
+    "size_loss_usd_m": 2.5,
+    "size_ratio": 0.996,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 2.5,
+    "size_x_ratio": 0.996,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": -7.2,
+    "rand_ratio_median": 1.011,
+    "rand_ratio_p05_p95": [
+     0.937,
+     1.113
+    ],
+    "rel_worse_than_rand_share_pct": 78.2,
+    "randsize_loss_median_usd_m": 17.6,
+    "randsize_ratio_median": 0.972,
+    "rel_worse_than_randsize_share_pct": 96.3,
+    "randsec_loss_median_usd_m": -30.1,
+    "randsec_ratio_median": 1.048,
+    "rel_worse_than_randsec_share_pct": 50.8,
+    "rel_sectors": {
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술"
+    }
+   },
+   {
+    "date": "2026-01-05",
+    "n_rel": 3,
+    "rel": [
+     "IREN",
+     "META",
+     "MSFT"
+    ],
+    "rel_value_usd_m": 2763.2,
+    "loss58_usd_m": 20.1,
+    "spy_pct": 0.67,
+    "rel_loss_usd_m": 11.8,
+    "rel_ratio": 1.588,
+    "size_loss_usd_m": -38.2,
+    "size_ratio": -0.899,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -38.2,
+    "size_x_ratio": -0.899,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 32.1,
+    "rand_ratio_median": 2.592,
+    "rand_ratio_p05_p95": null,
+    "rel_worse_than_rand_share_pct": 68.8,
+    "randsize_loss_median_usd_m": 17.5,
+    "randsize_ratio_median": 1.87,
+    "rel_worse_than_randsize_share_pct": 51.1,
+    "randsec_loss_median_usd_m": 25.9,
+    "randsec_ratio_median": 2.286,
+    "rel_worse_than_randsec_share_pct": 67.0,
+    "rel_sectors": {
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술"
+    }
+   },
+   {
+    "date": "2026-01-08",
+    "n_rel": 3,
+    "rel": [
+     "IREN",
+     "META",
+     "MSFT"
+    ],
+    "rel_value_usd_m": 2763.2,
+    "loss58_usd_m": -306.9,
+    "spy_pct": -0.01,
+    "rel_loss_usd_m": -24.1,
+    "rel_ratio": 1.078,
+    "size_loss_usd_m": -13.7,
+    "size_ratio": 1.045,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -13.7,
+    "size_x_ratio": 1.045,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 24.5,
+    "rand_ratio_median": 0.92,
+    "rand_ratio_p05_p95": [
+     0.712,
+     1.181
+    ],
+    "rel_worse_than_rand_share_pct": 87.2,
+    "randsize_loss_median_usd_m": 7.1,
+    "randsize_ratio_median": 0.977,
+    "rel_worse_than_randsize_share_pct": 85.2,
+    "randsec_loss_median_usd_m": -2.3,
+    "randsec_ratio_median": 1.008,
+    "rel_worse_than_randsec_share_pct": 65.2,
+    "rel_sectors": {
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술"
+    }
+   },
+   {
+    "date": "2026-01-23",
+    "n_rel": 4,
+    "rel": [
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2771.6,
+    "loss58_usd_m": -72.5,
+    "spy_pct": 0.04,
+    "rel_loss_usd_m": 77.3,
+    "rel_ratio": -0.066,
+    "size_loss_usd_m": -3.5,
+    "size_ratio": 1.048,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -3.5,
+    "size_x_ratio": 1.048,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": -4.9,
+    "rand_ratio_median": 1.067,
+    "rand_ratio_p05_p95": [
+     0.342,
+     1.664
+    ],
+    "rel_worse_than_rand_share_pct": 1.1,
+    "randsize_loss_median_usd_m": -8.8,
+    "randsize_ratio_median": 1.121,
+    "rel_worse_than_randsize_share_pct": 0.0,
+    "randsec_loss_median_usd_m": 3.4,
+    "randsec_ratio_median": 0.952,
+    "rel_worse_than_randsec_share_pct": 5.2,
+    "rel_sectors": {
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-01-26",
+    "n_rel": 4,
+    "rel": [
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2771.6,
+    "loss58_usd_m": -17.2,
+    "spy_pct": 0.51,
+    "rel_loss_usd_m": 34.6,
+    "rel_ratio": -1.011,
+    "size_loss_usd_m": 82.4,
+    "size_ratio": -3.778,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 82.4,
+    "size_x_ratio": -3.778,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 9.2,
+    "rand_ratio_median": 0.468,
+    "rand_ratio_p05_p95": [
+     -2.007,
+     3.065
+    ],
+    "rel_worse_than_rand_share_pct": 12.4,
+    "randsize_loss_median_usd_m": 16.2,
+    "randsize_ratio_median": 0.058,
+    "rel_worse_than_randsize_share_pct": 20.3,
+    "randsec_loss_median_usd_m": 15.2,
+    "randsec_ratio_median": 0.119,
+    "rel_worse_than_randsec_share_pct": 29.5,
+    "rel_sectors": {
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-01-30",
+    "n_rel": 4,
+    "rel": [
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2771.6,
+    "loss58_usd_m": -311.5,
+    "spy_pct": -0.3,
+    "rel_loss_usd_m": -41.4,
+    "rel_ratio": 1.133,
+    "size_loss_usd_m": 12.9,
+    "size_ratio": 0.959,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 12.9,
+    "size_x_ratio": 0.959,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": -12.5,
+    "rand_ratio_median": 1.04,
+    "rand_ratio_p05_p95": [
+     0.847,
+     1.374
+    ],
+    "rel_worse_than_rand_share_pct": 77.0,
+    "randsize_loss_median_usd_m": 8.9,
+    "randsize_ratio_median": 0.972,
+    "rel_worse_than_randsize_share_pct": 89.7,
+    "randsec_loss_median_usd_m": -32.6,
+    "randsec_ratio_median": 1.105,
+    "rel_worse_than_randsec_share_pct": 56.9,
+    "rel_sectors": {
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-02-04",
+    "n_rel": 4,
+    "rel": [
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2771.6,
+    "loss58_usd_m": -596.1,
+    "spy_pct": -0.48,
+    "rel_loss_usd_m": -17.2,
+    "rel_ratio": 1.029,
+    "size_loss_usd_m": 72.1,
+    "size_ratio": 0.879,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 72.1,
+    "size_x_ratio": 0.879,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 19.2,
+    "rand_ratio_median": 0.968,
+    "rand_ratio_p05_p95": [
+     0.854,
+     1.163
+    ],
+    "rel_worse_than_rand_share_pct": 74.4,
+    "randsize_loss_median_usd_m": 14.4,
+    "randsize_ratio_median": 0.976,
+    "rel_worse_than_randsize_share_pct": 70.0,
+    "randsec_loss_median_usd_m": -6.0,
+    "randsec_ratio_median": 1.01,
+    "rel_worse_than_randsec_share_pct": 56.9,
+    "rel_sectors": {
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-02-26",
+    "n_rel": 4,
+    "rel": [
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2771.6,
+    "loss58_usd_m": -402.1,
+    "spy_pct": -0.56,
+    "rel_loss_usd_m": 9.8,
+    "rel_ratio": 0.976,
+    "size_loss_usd_m": -12.9,
+    "size_ratio": 1.032,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -12.9,
+    "size_x_ratio": 1.032,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 22.9,
+    "rand_ratio_median": 0.943,
+    "rand_ratio_p05_p95": [
+     0.791,
+     1.089
+    ],
+    "rel_worse_than_rand_share_pct": 65.1,
+    "randsize_loss_median_usd_m": -17.8,
+    "randsize_ratio_median": 1.044,
+    "rel_worse_than_randsize_share_pct": 23.0,
+    "randsec_loss_median_usd_m": 53.2,
+    "randsec_ratio_median": 0.868,
+    "rel_worse_than_randsec_share_pct": 74.7,
+    "rel_sectors": {
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-03-03",
+    "n_rel": 5,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2779.1,
+    "loss58_usd_m": -418.0,
+    "spy_pct": -0.88,
+    "rel_loss_usd_m": 26.0,
+    "rel_ratio": 0.938,
+    "size_loss_usd_m": -10.2,
+    "size_ratio": 1.024,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -10.2,
+    "size_x_ratio": 1.024,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": -25.9,
+    "rand_ratio_median": 1.062,
+    "rand_ratio_p05_p95": [
+     0.937,
+     1.204
+    ],
+    "rel_worse_than_rand_share_pct": 5.1,
+    "randsize_loss_median_usd_m": -7.0,
+    "randsize_ratio_median": 1.017,
+    "rel_worse_than_randsize_share_pct": 0.0,
+    "randsec_loss_median_usd_m": 12.0,
+    "randsec_ratio_median": 0.971,
+    "rel_worse_than_randsec_share_pct": 39.7,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-03-30",
+    "n_rel": 5,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2779.1,
+    "loss58_usd_m": -452.2,
+    "spy_pct": -0.33,
+    "rel_loss_usd_m": 27.6,
+    "rel_ratio": 0.939,
+    "size_loss_usd_m": -24.2,
+    "size_ratio": 1.054,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -24.2,
+    "size_x_ratio": 1.054,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 5.4,
+    "rand_ratio_median": 0.988,
+    "rand_ratio_p05_p95": [
+     0.89,
+     1.114
+    ],
+    "rel_worse_than_rand_share_pct": 18.8,
+    "randsize_loss_median_usd_m": 13.7,
+    "randsize_ratio_median": 0.97,
+    "rel_worse_than_randsize_share_pct": 16.2,
+    "randsec_loss_median_usd_m": 13.9,
+    "randsec_ratio_median": 0.969,
+    "rel_worse_than_randsec_share_pct": 39.4,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-04-28",
+    "n_rel": 5,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2779.1,
+    "loss58_usd_m": -336.3,
+    "spy_pct": -0.49,
+    "rel_loss_usd_m": 8.3,
+    "rel_ratio": 0.975,
+    "size_loss_usd_m": 32.2,
+    "size_ratio": 0.904,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 32.2,
+    "size_x_ratio": 0.904,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": -4.0,
+    "rand_ratio_median": 1.012,
+    "rand_ratio_p05_p95": [
+     0.88,
+     1.188
+    ],
+    "rel_worse_than_rand_share_pct": 32.0,
+    "randsize_loss_median_usd_m": 6.8,
+    "randsize_ratio_median": 0.98,
+    "rel_worse_than_randsize_share_pct": 44.3,
+    "randsec_loss_median_usd_m": -13.1,
+    "randsec_ratio_median": 1.039,
+    "rel_worse_than_randsec_share_pct": 25.8,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-05-07",
+    "n_rel": 5,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2779.1,
+    "loss58_usd_m": -224.8,
+    "spy_pct": -0.31,
+    "rel_loss_usd_m": 35.7,
+    "rel_ratio": 0.841,
+    "size_loss_usd_m": -0.7,
+    "size_ratio": 1.003,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -0.7,
+    "size_x_ratio": 1.003,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": -18.2,
+    "rand_ratio_median": 1.081,
+    "rand_ratio_p05_p95": [
+     0.66,
+     1.301
+    ],
+    "rel_worse_than_rand_share_pct": 11.4,
+    "randsize_loss_median_usd_m": -3.5,
+    "randsize_ratio_median": 1.016,
+    "rel_worse_than_randsize_share_pct": 11.5,
+    "randsec_loss_median_usd_m": 42.1,
+    "randsec_ratio_median": 0.813,
+    "rel_worse_than_randsec_share_pct": 52.5,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-05-12",
+    "n_rel": 5,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2779.1,
+    "loss58_usd_m": -159.0,
+    "spy_pct": -0.15,
+    "rel_loss_usd_m": -16.7,
+    "rel_ratio": 1.105,
+    "size_loss_usd_m": 20.1,
+    "size_ratio": 0.873,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 20.1,
+    "size_x_ratio": 0.873,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 9.8,
+    "rand_ratio_median": 0.938,
+    "rand_ratio_p05_p95": [
+     0.651,
+     1.268
+    ],
+    "rel_worse_than_rand_share_pct": 81.7,
+    "randsize_loss_median_usd_m": 24.7,
+    "randsize_ratio_median": 0.845,
+    "rel_worse_than_randsize_share_pct": 84.8,
+    "randsec_loss_median_usd_m": -35.0,
+    "randsec_ratio_median": 1.22,
+    "rel_worse_than_randsec_share_pct": 31.6,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-05-18",
+    "n_rel": 5,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2779.1,
+    "loss58_usd_m": -305.2,
+    "spy_pct": -0.07,
+    "rel_loss_usd_m": 2.2,
+    "rel_ratio": 0.993,
+    "size_loss_usd_m": -22.1,
+    "size_ratio": 1.072,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -22.1,
+    "size_x_ratio": 1.072,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 25.3,
+    "rand_ratio_median": 0.917,
+    "rand_ratio_p05_p95": [
+     0.766,
+     1.105
+    ],
+    "rel_worse_than_rand_share_pct": 79.4,
+    "randsize_loss_median_usd_m": 11.4,
+    "randsize_ratio_median": 0.963,
+    "rel_worse_than_randsize_share_pct": 60.0,
+    "randsec_loss_median_usd_m": 54.7,
+    "randsec_ratio_median": 0.821,
+    "rel_worse_than_randsec_share_pct": 78.1,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-06-04",
+    "n_rel": 5,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2779.1,
+    "loss58_usd_m": -200.7,
+    "spy_pct": 0.38,
+    "rel_loss_usd_m": 9.0,
+    "rel_ratio": 0.955,
+    "size_loss_usd_m": 8.7,
+    "size_ratio": 0.957,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 8.7,
+    "size_x_ratio": 0.957,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 34.6,
+    "rand_ratio_median": 0.827,
+    "rand_ratio_p05_p95": [
+     0.509,
+     1.108
+    ],
+    "rel_worse_than_rand_share_pct": 79.2,
+    "randsize_loss_median_usd_m": 48.3,
+    "randsize_ratio_median": 0.759,
+    "rel_worse_than_randsize_share_pct": 88.1,
+    "randsec_loss_median_usd_m": 6.8,
+    "randsec_ratio_median": 0.966,
+    "rel_worse_than_randsec_share_pct": 47.9,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-06-05",
+    "n_rel": 5,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2779.1,
+    "loss58_usd_m": -908.3,
+    "spy_pct": -2.58,
+    "rel_loss_usd_m": -100.6,
+    "rel_ratio": 1.111,
+    "size_loss_usd_m": -34.7,
+    "size_ratio": 1.038,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -34.7,
+    "size_x_ratio": 1.038,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": -15.0,
+    "rand_ratio_median": 1.017,
+    "rand_ratio_p05_p95": [
+     0.949,
+     1.156
+    ],
+    "rel_worse_than_rand_share_pct": 88.9,
+    "randsize_loss_median_usd_m": -0.9,
+    "randsize_ratio_median": 1.001,
+    "rel_worse_than_randsize_share_pct": 89.0,
+    "randsec_loss_median_usd_m": -73.7,
+    "randsec_ratio_median": 1.081,
+    "rel_worse_than_randsec_share_pct": 62.2,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-06-16",
+    "n_rel": 5,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2779.1,
+    "loss58_usd_m": -375.3,
+    "spy_pct": -0.6,
+    "rel_loss_usd_m": -17.2,
+    "rel_ratio": 1.046,
+    "size_loss_usd_m": 26.4,
+    "size_ratio": 0.93,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 26.4,
+    "size_x_ratio": 0.93,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 5.6,
+    "rand_ratio_median": 0.985,
+    "rand_ratio_p05_p95": [
+     0.859,
+     1.117
+    ],
+    "rel_worse_than_rand_share_pct": 78.8,
+    "randsize_loss_median_usd_m": 9.5,
+    "randsize_ratio_median": 0.975,
+    "rel_worse_than_randsize_share_pct": 90.4,
+    "randsec_loss_median_usd_m": -37.3,
+    "randsec_ratio_median": 1.099,
+    "rel_worse_than_randsec_share_pct": 33.2,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-06-23",
+    "n_rel": 5,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2779.1,
+    "loss58_usd_m": -662.1,
+    "spy_pct": -1.45,
+    "rel_loss_usd_m": 30.5,
+    "rel_ratio": 0.954,
+    "size_loss_usd_m": -25.4,
+    "size_ratio": 1.038,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -25.4,
+    "size_x_ratio": 1.038,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 9.9,
+    "rand_ratio_median": 0.985,
+    "rand_ratio_p05_p95": [
+     0.913,
+     1.116
+    ],
+    "rel_worse_than_rand_share_pct": 22.6,
+    "randsize_loss_median_usd_m": 14.1,
+    "randsize_ratio_median": 0.979,
+    "rel_worse_than_randsize_share_pct": 23.7,
+    "randsec_loss_median_usd_m": 3.6,
+    "randsec_ratio_median": 0.995,
+    "rel_worse_than_randsec_share_pct": 28.3,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-06-26",
+    "n_rel": 5,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2779.1,
+    "loss58_usd_m": -461.4,
+    "spy_pct": -0.72,
+    "rel_loss_usd_m": 119.0,
+    "rel_ratio": 0.742,
+    "size_loss_usd_m": 87.2,
+    "size_ratio": 0.811,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 87.2,
+    "size_x_ratio": 0.811,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 25.6,
+    "rand_ratio_median": 0.945,
+    "rand_ratio_p05_p95": [
+     0.762,
+     1.118
+    ],
+    "rel_worse_than_rand_share_pct": 3.8,
+    "randsize_loss_median_usd_m": 50.8,
+    "randsize_ratio_median": 0.89,
+    "rel_worse_than_randsize_share_pct": 10.0,
+    "randsec_loss_median_usd_m": 80.0,
+    "randsec_ratio_median": 0.827,
+    "rel_worse_than_randsec_share_pct": 25.7,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-07-01",
+    "n_rel": 5,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2779.1,
+    "loss58_usd_m": -552.4,
+    "spy_pct": -0.14,
+    "rel_loss_usd_m": 131.9,
+    "rel_ratio": 0.761,
+    "size_loss_usd_m": 48.2,
+    "size_ratio": 0.913,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 48.2,
+    "size_x_ratio": 0.913,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 19.1,
+    "rand_ratio_median": 0.966,
+    "rand_ratio_p05_p95": [
+     0.825,
+     1.087
+    ],
+    "rel_worse_than_rand_share_pct": 2.4,
+    "randsize_loss_median_usd_m": 20.2,
+    "randsize_ratio_median": 0.963,
+    "rel_worse_than_randsize_share_pct": 0.0,
+    "randsec_loss_median_usd_m": 62.4,
+    "randsec_ratio_median": 0.887,
+    "rel_worse_than_randsec_share_pct": 16.8,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-07-02",
+    "n_rel": 5,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2779.1,
+    "loss58_usd_m": -490.6,
+    "spy_pct": -0.13,
+    "rel_loss_usd_m": -14.6,
+    "rel_ratio": 1.03,
+    "size_loss_usd_m": 134.5,
+    "size_ratio": 0.726,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 134.5,
+    "size_x_ratio": 0.726,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 41.1,
+    "rand_ratio_median": 0.916,
+    "rand_ratio_p05_p95": [
+     0.793,
+     1.065
+    ],
+    "rel_worse_than_rand_share_pct": 90.6,
+    "randsize_loss_median_usd_m": 39.0,
+    "randsize_ratio_median": 0.92,
+    "rel_worse_than_randsize_share_pct": 83.8,
+    "randsec_loss_median_usd_m": 12.7,
+    "randsec_ratio_median": 0.974,
+    "rel_worse_than_randsec_share_pct": 65.6,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-07-07",
+    "n_rel": 5,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2779.1,
+    "loss58_usd_m": -350.5,
+    "spy_pct": -0.48,
+    "rel_loss_usd_m": 31.2,
+    "rel_ratio": 0.911,
+    "size_loss_usd_m": -17.8,
+    "size_ratio": 1.051,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -17.8,
+    "size_x_ratio": 1.051,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 6.9,
+    "rand_ratio_median": 0.98,
+    "rand_ratio_p05_p95": [
+     0.819,
+     1.187
+    ],
+    "rel_worse_than_rand_share_pct": 23.4,
+    "randsize_loss_median_usd_m": 6.8,
+    "randsize_ratio_median": 0.981,
+    "rel_worse_than_randsize_share_pct": 23.0,
+    "randsec_loss_median_usd_m": 2.7,
+    "randsec_ratio_median": 0.992,
+    "rel_worse_than_randsec_share_pct": 29.1,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-07-13",
+    "n_rel": 5,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2779.1,
+    "loss58_usd_m": -433.2,
+    "spy_pct": -0.77,
+    "rel_loss_usd_m": 11.1,
+    "rel_ratio": 0.974,
+    "size_loss_usd_m": 17.5,
+    "size_ratio": 0.96,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 17.5,
+    "size_x_ratio": 0.96,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 5.0,
+    "rand_ratio_median": 0.988,
+    "rand_ratio_p05_p95": [
+     0.871,
+     1.133
+    ],
+    "rel_worse_than_rand_share_pct": 41.6,
+    "randsize_loss_median_usd_m": 2.9,
+    "randsize_ratio_median": 0.993,
+    "rel_worse_than_randsize_share_pct": 39.1,
+    "randsec_loss_median_usd_m": 15.0,
+    "randsec_ratio_median": 0.965,
+    "rel_worse_than_randsec_share_pct": 53.0,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-07-15",
+    "n_rel": 5,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2779.1,
+    "loss58_usd_m": -252.0,
+    "spy_pct": 0.4,
+    "rel_loss_usd_m": 78.8,
+    "rel_ratio": 0.687,
+    "size_loss_usd_m": 111.6,
+    "size_ratio": 0.557,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 111.6,
+    "size_x_ratio": 0.557,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 3.4,
+    "rand_ratio_median": 0.987,
+    "rand_ratio_p05_p95": [
+     0.711,
+     1.187
+    ],
+    "rel_worse_than_rand_share_pct": 3.4,
+    "randsize_loss_median_usd_m": 16.9,
+    "randsize_ratio_median": 0.933,
+    "rel_worse_than_randsize_share_pct": 10.2,
+    "randsec_loss_median_usd_m": 1.6,
+    "randsec_ratio_median": 0.994,
+    "rel_worse_than_randsec_share_pct": 4.4,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-07-16",
+    "n_rel": 5,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2779.1,
+    "loss58_usd_m": -471.8,
+    "spy_pct": -0.54,
+    "rel_loss_usd_m": 2.7,
+    "rel_ratio": 0.994,
+    "size_loss_usd_m": 48.9,
+    "size_ratio": 0.896,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 48.9,
+    "size_x_ratio": 0.896,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 28.9,
+    "rand_ratio_median": 0.939,
+    "rand_ratio_p05_p95": [
+     0.806,
+     1.15
+    ],
+    "rel_worse_than_rand_share_pct": 70.3,
+    "randsize_loss_median_usd_m": 11.3,
+    "randsize_ratio_median": 0.976,
+    "rel_worse_than_randsize_share_pct": 57.2,
+    "randsec_loss_median_usd_m": -1.5,
+    "randsec_ratio_median": 1.003,
+    "rel_worse_than_randsec_share_pct": 47.4,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-07-24",
+    "n_rel": 5,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2779.1,
+    "loss58_usd_m": -364.2,
+    "spy_pct": 0.1,
+    "rel_loss_usd_m": -17.2,
+    "rel_ratio": 1.047,
+    "size_loss_usd_m": 98.1,
+    "size_ratio": 0.731,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 98.1,
+    "size_x_ratio": 0.731,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 22.9,
+    "rand_ratio_median": 0.937,
+    "rand_ratio_p05_p95": [
+     0.783,
+     1.124
+    ],
+    "rel_worse_than_rand_share_pct": 88.6,
+    "randsize_loss_median_usd_m": 24.6,
+    "randsize_ratio_median": 0.932,
+    "rel_worse_than_randsize_share_pct": 88.6,
+    "randsec_loss_median_usd_m": 39.9,
+    "randsec_ratio_median": 0.89,
+    "rel_worse_than_randsec_share_pct": 75.4,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-07-27",
+    "n_rel": 5,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2779.1,
+    "loss58_usd_m": -324.1,
+    "spy_pct": 0.02,
+    "rel_loss_usd_m": 33.9,
+    "rel_ratio": 0.895,
+    "size_loss_usd_m": 32.5,
+    "size_ratio": 0.9,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 32.5,
+    "size_x_ratio": 0.9,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 23.0,
+    "rand_ratio_median": 0.929,
+    "rand_ratio_p05_p95": [
+     0.713,
+     1.098
+    ],
+    "rel_worse_than_rand_share_pct": 37.5,
+    "randsize_loss_median_usd_m": 25.0,
+    "randsize_ratio_median": 0.923,
+    "rel_worse_than_randsize_share_pct": 34.0,
+    "randsec_loss_median_usd_m": 81.9,
+    "randsec_ratio_median": 0.747,
+    "rel_worse_than_randsec_share_pct": 79.0,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-07-28",
+    "n_rel": 5,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2779.1,
+    "loss58_usd_m": -428.3,
+    "spy_pct": 0.24,
+    "rel_loss_usd_m": 18.7,
+    "rel_ratio": 0.956,
+    "size_loss_usd_m": 26.1,
+    "size_ratio": 0.939,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 26.1,
+    "size_x_ratio": 0.939,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 30.4,
+    "rand_ratio_median": 0.929,
+    "rand_ratio_p05_p95": [
+     0.779,
+     1.084
+    ],
+    "rel_worse_than_rand_share_pct": 62.6,
+    "randsize_loss_median_usd_m": 26.3,
+    "randsize_ratio_median": 0.939,
+    "rel_worse_than_randsize_share_pct": 62.5,
+    "randsec_loss_median_usd_m": 48.1,
+    "randsec_ratio_median": 0.888,
+    "rel_worse_than_randsec_share_pct": 62.9,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-07-29",
+    "n_rel": 5,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2779.1,
+    "loss58_usd_m": -562.5,
+    "spy_pct": -1.54,
+    "rel_loss_usd_m": -27.8,
+    "rel_ratio": 1.049,
+    "size_loss_usd_m": -15.4,
+    "size_ratio": 1.027,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -15.4,
+    "size_x_ratio": 1.027,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": -24.1,
+    "rand_ratio_median": 1.043,
+    "rand_ratio_p05_p95": [
+     0.918,
+     1.157
+    ],
+    "rel_worse_than_rand_share_pct": 54.0,
+    "randsize_loss_median_usd_m": -18.3,
+    "randsize_ratio_median": 1.033,
+    "rel_worse_than_randsize_share_pct": 61.1,
+    "randsec_loss_median_usd_m": 10.1,
+    "randsec_ratio_median": 0.982,
+    "rel_worse_than_randsec_share_pct": 66.2,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-08-05",
+    "n_rel": 5,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2779.1,
+    "loss58_usd_m": 8.1,
+    "spy_pct": -0.2,
+    "rel_loss_usd_m": -19.6,
+    "rel_ratio": -1.412,
+    "size_loss_usd_m": 14.6,
+    "size_ratio": 2.792,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 14.6,
+    "size_x_ratio": 2.792,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 1.7,
+    "rand_ratio_median": 1.214,
+    "rand_ratio_p05_p95": null,
+    "rel_worse_than_rand_share_pct": 73.8,
+    "randsize_loss_median_usd_m": 3.9,
+    "randsize_ratio_median": 1.475,
+    "rel_worse_than_randsize_share_pct": 65.7,
+    "randsec_loss_median_usd_m": -27.4,
+    "randsec_ratio_median": -2.372,
+    "rel_worse_than_randsec_share_pct": 42.0,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-08-10",
+    "n_rel": 5,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "RIOT"
+    ],
+    "rel_value_usd_m": 2779.1,
+    "loss58_usd_m": -235.3,
+    "spy_pct": -0.03,
+    "rel_loss_usd_m": 25.9,
+    "rel_ratio": 0.89,
+    "size_loss_usd_m": -42.6,
+    "size_ratio": 1.181,
+    "size_names": [
+     "AAPL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -42.6,
+    "size_x_ratio": 1.181,
+    "size_x_names": [
+     "AAPL"
+    ],
+    "rand_loss_median_usd_m": 8.5,
+    "rand_ratio_median": 0.964,
+    "rand_ratio_p05_p95": [
+     0.654,
+     1.181
+    ],
+    "rel_worse_than_rand_share_pct": 30.1,
+    "randsize_loss_median_usd_m": 23.4,
+    "randsize_ratio_median": 0.901,
+    "rel_worse_than_randsize_share_pct": 39.7,
+    "randsec_loss_median_usd_m": 23.7,
+    "randsec_ratio_median": 0.899,
+    "rel_worse_than_randsec_share_pct": 48.9,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "RIOT": "금융"
+    }
+   },
+   {
+    "date": "2026-08-18",
+    "n_rel": 8,
+    "rel": [
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 3019.0,
+    "loss58_usd_m": -506.4,
+    "spy_pct": -0.68,
+    "rel_loss_usd_m": -43.2,
+    "rel_ratio": 1.085,
+    "size_loss_usd_m": 43.6,
+    "size_ratio": 0.914,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 43.6,
+    "size_x_ratio": 0.914,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 1.6,
+    "rand_ratio_median": 0.997,
+    "rand_ratio_p05_p95": [
+     0.9,
+     1.094
+    ],
+    "rel_worse_than_rand_share_pct": 93.7,
+    "randsize_loss_median_usd_m": 24.7,
+    "randsize_ratio_median": 0.951,
+    "rel_worse_than_randsize_share_pct": 100.0,
+    "randsec_loss_median_usd_m": 1.9,
+    "randsec_ratio_median": 0.996,
+    "rel_worse_than_randsec_share_pct": 78.8,
+    "rel_sectors": {
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-08-24",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4685.2,
+    "loss58_usd_m": -321.9,
+    "spy_pct": -0.29,
+    "rel_loss_usd_m": 48.2,
+    "rel_ratio": 0.85,
+    "size_loss_usd_m": 25.4,
+    "size_ratio": 0.921,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 25.4,
+    "size_x_ratio": 0.921,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 9.7,
+    "rand_ratio_median": 0.97,
+    "rand_ratio_p05_p95": [
+     0.793,
+     1.185
+    ],
+    "rel_worse_than_rand_share_pct": 13.1,
+    "randsize_loss_median_usd_m": 33.3,
+    "randsize_ratio_median": 0.897,
+    "rel_worse_than_randsize_share_pct": 36.3,
+    "randsec_loss_median_usd_m": -10.4,
+    "randsec_ratio_median": 1.032,
+    "rel_worse_than_randsec_share_pct": 12.7,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-08-28",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4685.2,
+    "loss58_usd_m": -369.3,
+    "spy_pct": -0.23,
+    "rel_loss_usd_m": 102.4,
+    "rel_ratio": 0.723,
+    "size_loss_usd_m": 78.2,
+    "size_ratio": 0.788,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 78.2,
+    "size_x_ratio": 0.788,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": -5.2,
+    "rand_ratio_median": 1.014,
+    "rand_ratio_p05_p95": [
+     0.816,
+     1.211
+    ],
+    "rel_worse_than_rand_share_pct": 1.7,
+    "randsize_loss_median_usd_m": 22.5,
+    "randsize_ratio_median": 0.939,
+    "rel_worse_than_randsize_share_pct": 0.0,
+    "randsec_loss_median_usd_m": 6.8,
+    "randsec_ratio_median": 0.982,
+    "rel_worse_than_randsec_share_pct": 6.0,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-09-14",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4685.2,
+    "loss58_usd_m": -594.3,
+    "spy_pct": -0.45,
+    "rel_loss_usd_m": 31.6,
+    "rel_ratio": 0.947,
+    "size_loss_usd_m": 61.6,
+    "size_ratio": 0.896,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 61.6,
+    "size_x_ratio": 0.896,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 18.1,
+    "rand_ratio_median": 0.97,
+    "rand_ratio_p05_p95": [
+     0.777,
+     1.121
+    ],
+    "rel_worse_than_rand_share_pct": 40.6,
+    "randsize_loss_median_usd_m": 28.4,
+    "randsize_ratio_median": 0.952,
+    "rel_worse_than_randsize_share_pct": 47.5,
+    "randsec_loss_median_usd_m": 90.0,
+    "randsec_ratio_median": 0.849,
+    "rel_worse_than_randsec_share_pct": 72.2,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-10-08",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4685.2,
+    "loss58_usd_m": -364.3,
+    "spy_pct": -0.42,
+    "rel_loss_usd_m": -74.6,
+    "rel_ratio": 1.205,
+    "size_loss_usd_m": 22.8,
+    "size_ratio": 0.937,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 22.8,
+    "size_x_ratio": 0.937,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 33.0,
+    "rand_ratio_median": 0.909,
+    "rand_ratio_p05_p95": [
+     0.732,
+     1.133
+    ],
+    "rel_worse_than_rand_share_pct": 97.9,
+    "randsize_loss_median_usd_m": 20.0,
+    "randsize_ratio_median": 0.945,
+    "rel_worse_than_randsize_share_pct": 100.0,
+    "randsec_loss_median_usd_m": 40.6,
+    "randsec_ratio_median": 0.889,
+    "rel_worse_than_randsec_share_pct": 96.7,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-10-12",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4685.2,
+    "loss58_usd_m": -246.0,
+    "spy_pct": -0.06,
+    "rel_loss_usd_m": 30.1,
+    "rel_ratio": 0.878,
+    "size_loss_usd_m": 43.7,
+    "size_ratio": 0.823,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 43.7,
+    "size_x_ratio": 0.823,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 17.6,
+    "rand_ratio_median": 0.929,
+    "rand_ratio_p05_p95": [
+     0.732,
+     1.18
+    ],
+    "rel_worse_than_rand_share_pct": 33.4,
+    "randsize_loss_median_usd_m": 32.0,
+    "randsize_ratio_median": 0.87,
+    "rel_worse_than_randsize_share_pct": 53.4,
+    "randsec_loss_median_usd_m": -14.8,
+    "randsec_ratio_median": 1.06,
+    "rel_worse_than_randsec_share_pct": 17.0,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-10-14",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4685.2,
+    "loss58_usd_m": -479.1,
+    "spy_pct": -1.08,
+    "rel_loss_usd_m": -104.0,
+    "rel_ratio": 1.217,
+    "size_loss_usd_m": -14.4,
+    "size_ratio": 1.03,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -14.4,
+    "size_x_ratio": 1.03,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": -12.2,
+    "rand_ratio_median": 1.026,
+    "rand_ratio_p05_p95": [
+     0.811,
+     1.254
+    ],
+    "rel_worse_than_rand_share_pct": 92.4,
+    "randsize_loss_median_usd_m": 36.2,
+    "randsize_ratio_median": 0.924,
+    "rel_worse_than_randsize_share_pct": 100.0,
+    "randsec_loss_median_usd_m": -56.9,
+    "randsec_ratio_median": 1.119,
+    "rel_worse_than_randsec_share_pct": 75.8,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-10-16",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4685.2,
+    "loss58_usd_m": -399.7,
+    "spy_pct": -1.11,
+    "rel_loss_usd_m": -111.7,
+    "rel_ratio": 1.28,
+    "size_loss_usd_m": -28.9,
+    "size_ratio": 1.072,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -28.9,
+    "size_x_ratio": 1.072,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 0.1,
+    "rand_ratio_median": 1.0,
+    "rand_ratio_p05_p95": [
+     0.84,
+     1.295
+    ],
+    "rel_worse_than_rand_share_pct": 94.3,
+    "randsize_loss_median_usd_m": 25.0,
+    "randsize_ratio_median": 0.937,
+    "rel_worse_than_randsize_share_pct": 100.0,
+    "randsec_loss_median_usd_m": -77.3,
+    "randsec_ratio_median": 1.193,
+    "rel_worse_than_randsec_share_pct": 65.7,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-10-22",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4685.2,
+    "loss58_usd_m": -733.7,
+    "spy_pct": -1.18,
+    "rel_loss_usd_m": -200.9,
+    "rel_ratio": 1.274,
+    "size_loss_usd_m": -16.2,
+    "size_ratio": 1.022,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -16.2,
+    "size_x_ratio": 1.022,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 35.0,
+    "rand_ratio_median": 0.952,
+    "rand_ratio_p05_p95": [
+     0.815,
+     1.176
+    ],
+    "rel_worse_than_rand_share_pct": 98.9,
+    "randsize_loss_median_usd_m": 44.0,
+    "randsize_ratio_median": 0.94,
+    "rel_worse_than_randsize_share_pct": 100.0,
+    "randsec_loss_median_usd_m": 40.9,
+    "randsec_ratio_median": 0.944,
+    "rel_worse_than_randsec_share_pct": 99.8,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-10-29",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -183.7,
+    "spy_pct": -0.38,
+    "rel_loss_usd_m": -66.5,
+    "rel_ratio": 1.362,
+    "size_loss_usd_m": -191.4,
+    "size_ratio": 2.042,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -191.4,
+    "size_x_ratio": 2.042,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 63.9,
+    "rand_ratio_median": 0.652,
+    "rand_ratio_p05_p95": [
+     0.256,
+     1.864
+    ],
+    "rel_worse_than_rand_share_pct": 92.4,
+    "randsize_loss_median_usd_m": 53.7,
+    "randsize_ratio_median": 0.708,
+    "rel_worse_than_randsize_share_pct": 78.2,
+    "randsec_loss_median_usd_m": 30.9,
+    "randsec_ratio_median": 0.832,
+    "rel_worse_than_randsec_share_pct": 88.4,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   }
+  ]
+ },
+ "chip46_pit_after_0814": {
+  "what": "위 46일 가운데 2026-08-14(국내 반기보고서 · 13F 지분 공시) 뒤 날만 — 그 앞은 쓸 수 있는 관계가 2~5곳뿐",
+  "agg": {
+   "days": 10,
+   "sum_loss58_usd_m": -4198.3,
+   "sum_added_usd_m": {
+    "rel": -388.7,
+    "size": 24.3,
+    "size_x": 24.3,
+    "rand_median": 161.7,
+    "randsize_median": 319.7,
+    "randsec_median": 51.5
+   },
+   "sum_ratio": {
+    "rel": 1.093,
+    "size": 0.994,
+    "size_x": 0.994,
+    "rand_median": 0.961,
+    "randsize_median": 0.924,
+    "randsec_median": 0.988
+   },
+   "days_rel_loss_bigger_than": {
+    "size": 7,
+    "size_x": 7,
+    "rand_median": 6,
+    "randsize_median": 7,
+    "randsec_median": 7
+   },
+   "binom_p_one_sided_vs_half": {
+    "size": 0.1719,
+    "rand_median": 0.377,
+    "randsize_median": 0.1719,
+    "randsec_median": 0.1719
+   },
+   "days_rel_in_worst_5pct_of_rand": 2,
+   "days_rel_in_worst_5pct_of_randsize": 5,
+   "days_rel_in_worst_5pct_of_randsec": 2,
+   "mean_rel_worse_than_randsec_share_pct": 61.3,
+   "mean_rel_worse_than_rand_share_pct": 65.8,
+   "mean_rel_worse_than_randsize_share_pct": 71.5
+  }
+ },
+ "chip46_pit_before_0814": {
+  "what": "위 46일 가운데 2026-08-14 앞 날",
+  "agg": {
+   "days": 36,
+   "sum_loss58_usd_m": -13296.5,
+   "sum_added_usd_m": {
+    "rel": 306.6,
+    "size": 657.0,
+    "size_x": 657.0,
+    "rand_median": 271.5,
+    "randsize_median": 378.5,
+    "randsec_median": 164.2
+   },
+   "sum_ratio": {
+    "rel": 0.977,
+    "size": 0.951,
+    "size_x": 0.951,
+    "rand_median": 0.98,
+    "randsize_median": 0.972,
+    "randsec_median": 0.988
+   },
+   "days_rel_loss_bigger_than": {
+    "size": 22,
+    "size_x": 22,
+    "rand_median": 21,
+    "randsize_median": 20,
+    "randsec_median": 17
+   },
+   "binom_p_one_sided_vs_half": {
+    "size": 0.1215,
+    "rand_median": 0.2025,
+    "randsize_median": 0.3089,
+    "randsec_median": 0.6911
+   },
+   "days_rel_in_worst_5pct_of_rand": 0,
+   "days_rel_in_worst_5pct_of_randsize": 1,
+   "days_rel_in_worst_5pct_of_randsec": 0,
+   "mean_rel_worse_than_randsec_share_pct": 45.2,
+   "mean_rel_worse_than_rand_share_pct": 51.8,
+   "mean_rel_worse_than_randsize_share_pct": 51.1
+  }
+ },
+ "chip46_fixed": {
+  "what": "같은 46일 · 관계 111건을 공개일 안 가리고 전부 씀(뒤 자료 섞임 — 참고용)",
+  "agg": {
+   "days": 46,
+   "sum_loss58_usd_m": -17494.8,
+   "sum_added_usd_m": {
+    "rel": -566.9,
+    "size": 601.7,
+    "size_x": 601.7,
+    "rand_median": 591.9,
+    "randsize_median": 1027.9,
+    "randsec_median": 445.1
+   },
+   "sum_ratio": {
+    "rel": 1.032,
+    "size": 0.966,
+    "size_x": 0.966,
+    "rand_median": 0.966,
+    "randsize_median": 0.941,
+    "randsec_median": 0.975
+   },
+   "days_rel_loss_bigger_than": {
+    "size": 29,
+    "size_x": 29,
+    "rand_median": 30,
+    "randsize_median": 31,
+    "randsec_median": 27
+   },
+   "binom_p_one_sided_vs_half": {
+    "size": 0.0519,
+    "rand_median": 0.027,
+    "randsize_median": 0.0129,
+    "randsec_median": 0.151
+   },
+   "days_rel_in_worst_5pct_of_rand": 4,
+   "days_rel_in_worst_5pct_of_randsize": 12,
+   "days_rel_in_worst_5pct_of_randsec": 3,
+   "mean_rel_worse_than_randsec_share_pct": 56.7,
+   "mean_rel_worse_than_rand_share_pct": 61.2,
+   "mean_rel_worse_than_randsize_share_pct": 64.8
+  },
+  "rows": [
+   {
+    "date": "2025-10-14",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS"
+    ],
+    "rel_value_usd_m": 4726.5,
+    "loss58_usd_m": -257.9,
+    "spy_pct": -0.12,
+    "rel_loss_usd_m": -46.0,
+    "rel_ratio": 1.178,
+    "size_loss_usd_m": 10.5,
+    "size_ratio": 0.959,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 10.5,
+    "size_x_ratio": 0.959,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 29.3,
+    "rand_ratio_median": 0.887,
+    "rand_ratio_p05_p95": [
+     0.647,
+     1.17
+    ],
+    "rel_worse_than_rand_share_pct": 95.5,
+    "randsize_loss_median_usd_m": 10.2,
+    "randsize_ratio_median": 0.96,
+    "rel_worse_than_randsize_share_pct": 94.9,
+    "randsec_loss_median_usd_m": 8.7,
+    "randsec_ratio_median": 0.966,
+    "rel_worse_than_randsec_share_pct": 84.9,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술"
+    }
+   },
+   {
+    "date": "2025-11-04",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS"
+    ],
+    "rel_value_usd_m": 4726.5,
+    "loss58_usd_m": -456.6,
+    "spy_pct": -1.19,
+    "rel_loss_usd_m": -70.3,
+    "rel_ratio": 1.154,
+    "size_loss_usd_m": -26.6,
+    "size_ratio": 1.058,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -26.6,
+    "size_x_ratio": 1.058,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": -24.4,
+    "rand_ratio_median": 1.054,
+    "rand_ratio_p05_p95": [
+     0.906,
+     1.276
+    ],
+    "rel_worse_than_rand_share_pct": 79.8,
+    "randsize_loss_median_usd_m": 8.6,
+    "randsize_ratio_median": 0.981,
+    "rel_worse_than_randsize_share_pct": 83.9,
+    "randsec_loss_median_usd_m": -84.6,
+    "randsec_ratio_median": 1.185,
+    "rel_worse_than_randsec_share_pct": 41.5,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술"
+    }
+   },
+   {
+    "date": "2025-11-11",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS"
+    ],
+    "rel_value_usd_m": 4726.5,
+    "loss58_usd_m": -300.0,
+    "spy_pct": 0.23,
+    "rel_loss_usd_m": -1.1,
+    "rel_ratio": 1.004,
+    "size_loss_usd_m": 72.0,
+    "size_ratio": 0.76,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 72.0,
+    "size_x_ratio": 0.76,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 35.5,
+    "rand_ratio_median": 0.882,
+    "rand_ratio_p05_p95": [
+     0.667,
+     1.088
+    ],
+    "rel_worse_than_rand_share_pct": 86.5,
+    "randsize_loss_median_usd_m": 45.9,
+    "randsize_ratio_median": 0.847,
+    "rel_worse_than_randsize_share_pct": 91.4,
+    "randsec_loss_median_usd_m": 13.9,
+    "randsec_ratio_median": 0.954,
+    "rel_worse_than_randsec_share_pct": 63.6,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술"
+    }
+   },
+   {
+    "date": "2025-11-13",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS"
+    ],
+    "rel_value_usd_m": 4726.5,
+    "loss58_usd_m": -453.4,
+    "spy_pct": -1.66,
+    "rel_loss_usd_m": -85.6,
+    "rel_ratio": 1.189,
+    "size_loss_usd_m": -54.8,
+    "size_ratio": 1.121,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -54.8,
+    "size_x_ratio": 1.121,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": -57.0,
+    "rand_ratio_median": 1.126,
+    "rand_ratio_p05_p95": [
+     0.98,
+     1.357
+    ],
+    "rel_worse_than_rand_share_pct": 72.4,
+    "randsize_loss_median_usd_m": -46.1,
+    "randsize_ratio_median": 1.102,
+    "rel_worse_than_randsize_share_pct": 71.1,
+    "randsec_loss_median_usd_m": -84.8,
+    "randsec_ratio_median": 1.187,
+    "rel_worse_than_randsec_share_pct": 50.6,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술"
+    }
+   },
+   {
+    "date": "2025-11-20",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS"
+    ],
+    "rel_value_usd_m": 4726.5,
+    "loss58_usd_m": -552.3,
+    "spy_pct": -1.52,
+    "rel_loss_usd_m": -90.8,
+    "rel_ratio": 1.164,
+    "size_loss_usd_m": -45.6,
+    "size_ratio": 1.083,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -45.6,
+    "size_x_ratio": 1.083,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": -55.1,
+    "rand_ratio_median": 1.1,
+    "rand_ratio_p05_p95": [
+     0.997,
+     1.279
+    ],
+    "rel_worse_than_rand_share_pct": 76.7,
+    "randsize_loss_median_usd_m": -24.5,
+    "randsize_ratio_median": 1.044,
+    "rel_worse_than_randsize_share_pct": 99.6,
+    "randsec_loss_median_usd_m": -87.5,
+    "randsec_ratio_median": 1.158,
+    "rel_worse_than_randsec_share_pct": 52.3,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술"
+    }
+   },
+   {
+    "date": "2025-12-12",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS"
+    ],
+    "rel_value_usd_m": 4726.5,
+    "loss58_usd_m": -630.4,
+    "spy_pct": -1.08,
+    "rel_loss_usd_m": -75.7,
+    "rel_ratio": 1.12,
+    "size_loss_usd_m": -14.7,
+    "size_ratio": 1.023,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -14.7,
+    "size_x_ratio": 1.023,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": -11.5,
+    "rand_ratio_median": 1.018,
+    "rand_ratio_p05_p95": [
+     0.92,
+     1.128
+    ],
+    "rel_worse_than_rand_share_pct": 93.5,
+    "randsize_loss_median_usd_m": 25.9,
+    "randsize_ratio_median": 0.959,
+    "rel_worse_than_randsize_share_pct": 100.0,
+    "randsec_loss_median_usd_m": -31.4,
+    "randsec_ratio_median": 1.05,
+    "rel_worse_than_randsec_share_pct": 80.9,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술"
+    }
+   },
+   {
+    "date": "2026-01-05",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS"
+    ],
+    "rel_value_usd_m": 4726.5,
+    "loss58_usd_m": 20.1,
+    "spy_pct": 0.67,
+    "rel_loss_usd_m": 60.5,
+    "rel_ratio": 4.004,
+    "size_loss_usd_m": -33.9,
+    "size_ratio": -0.683,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -33.9,
+    "size_x_ratio": -0.683,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 53.8,
+    "rand_ratio_median": 3.672,
+    "rand_ratio_p05_p95": null,
+    "rel_worse_than_rand_share_pct": 44.3,
+    "randsize_loss_median_usd_m": 25.7,
+    "randsize_ratio_median": 2.279,
+    "rel_worse_than_randsize_share_pct": 26.4,
+    "randsec_loss_median_usd_m": 51.4,
+    "randsec_ratio_median": 3.555,
+    "rel_worse_than_randsec_share_pct": 43.0,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술"
+    }
+   },
+   {
+    "date": "2026-01-08",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS"
+    ],
+    "rel_value_usd_m": 4726.5,
+    "loss58_usd_m": -306.9,
+    "spy_pct": -0.01,
+    "rel_loss_usd_m": 5.4,
+    "rel_ratio": 0.983,
+    "size_loss_usd_m": 3.7,
+    "size_ratio": 0.988,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 3.7,
+    "size_x_ratio": 0.988,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 36.2,
+    "rand_ratio_median": 0.882,
+    "rand_ratio_p05_p95": [
+     0.658,
+     1.183
+    ],
+    "rel_worse_than_rand_share_pct": 72.2,
+    "randsize_loss_median_usd_m": 15.2,
+    "randsize_ratio_median": 0.95,
+    "rel_worse_than_randsize_share_pct": 60.8,
+    "randsec_loss_median_usd_m": 24.9,
+    "randsec_ratio_median": 0.919,
+    "rel_worse_than_randsec_share_pct": 60.8,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술"
+    }
+   },
+   {
+    "date": "2026-01-23",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS"
+    ],
+    "rel_value_usd_m": 4726.5,
+    "loss58_usd_m": -72.5,
+    "spy_pct": 0.04,
+    "rel_loss_usd_m": 108.7,
+    "rel_ratio": -0.499,
+    "size_loss_usd_m": -17.4,
+    "size_ratio": 1.24,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -17.4,
+    "size_x_ratio": 1.24,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": -7.2,
+    "rand_ratio_median": 1.099,
+    "rand_ratio_p05_p95": [
+     0.112,
+     1.897
+    ],
+    "rel_worse_than_rand_share_pct": 1.2,
+    "randsize_loss_median_usd_m": -20.4,
+    "randsize_ratio_median": 1.281,
+    "rel_worse_than_randsize_share_pct": 0.0,
+    "randsec_loss_median_usd_m": -2.2,
+    "randsec_ratio_median": 1.03,
+    "rel_worse_than_randsec_share_pct": 1.0,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술"
+    }
+   },
+   {
+    "date": "2026-01-26",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS"
+    ],
+    "rel_value_usd_m": 4726.5,
+    "loss58_usd_m": -17.2,
+    "spy_pct": 0.51,
+    "rel_loss_usd_m": 34.1,
+    "rel_ratio": -0.981,
+    "size_loss_usd_m": 117.2,
+    "size_ratio": -5.8,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 117.2,
+    "size_x_ratio": -5.8,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 17.2,
+    "rand_ratio_median": 0.0,
+    "rand_ratio_p05_p95": [
+     -3.524,
+     3.236
+    ],
+    "rel_worse_than_rand_share_pct": 29.0,
+    "randsize_loss_median_usd_m": 24.7,
+    "randsize_ratio_median": -0.433,
+    "rel_worse_than_randsize_share_pct": 38.5,
+    "randsec_loss_median_usd_m": 19.1,
+    "randsec_ratio_median": -0.106,
+    "rel_worse_than_randsec_share_pct": 35.8,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술"
+    }
+   },
+   {
+    "date": "2026-01-30",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS"
+    ],
+    "rel_value_usd_m": 4726.5,
+    "loss58_usd_m": -311.5,
+    "spy_pct": -0.3,
+    "rel_loss_usd_m": -69.3,
+    "rel_ratio": 1.223,
+    "size_loss_usd_m": 12.7,
+    "size_ratio": 0.959,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 12.7,
+    "size_x_ratio": 0.959,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": -20.0,
+    "rand_ratio_median": 1.064,
+    "rand_ratio_p05_p95": [
+     0.794,
+     1.453
+    ],
+    "rel_worse_than_rand_share_pct": 81.4,
+    "randsize_loss_median_usd_m": 24.1,
+    "randsize_ratio_median": 0.923,
+    "rel_worse_than_randsize_share_pct": 98.2,
+    "randsec_loss_median_usd_m": -51.5,
+    "randsec_ratio_median": 1.165,
+    "rel_worse_than_randsec_share_pct": 60.3,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술"
+    }
+   },
+   {
+    "date": "2026-02-04",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS"
+    ],
+    "rel_value_usd_m": 4726.5,
+    "loss58_usd_m": -596.1,
+    "spy_pct": -0.48,
+    "rel_loss_usd_m": -69.8,
+    "rel_ratio": 1.117,
+    "size_loss_usd_m": 44.1,
+    "size_ratio": 0.926,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 44.1,
+    "size_x_ratio": 0.926,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 22.4,
+    "rand_ratio_median": 0.962,
+    "rand_ratio_p05_p95": [
+     0.805,
+     1.22
+    ],
+    "rel_worse_than_rand_share_pct": 83.8,
+    "randsize_loss_median_usd_m": 44.5,
+    "randsize_ratio_median": 0.925,
+    "rel_worse_than_randsize_share_pct": 94.9,
+    "randsec_loss_median_usd_m": 16.0,
+    "randsec_ratio_median": 0.973,
+    "rel_worse_than_randsec_share_pct": 83.1,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술"
+    }
+   },
+   {
+    "date": "2026-02-26",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS"
+    ],
+    "rel_value_usd_m": 4726.5,
+    "loss58_usd_m": -402.1,
+    "spy_pct": -0.56,
+    "rel_loss_usd_m": -12.6,
+    "rel_ratio": 1.031,
+    "size_loss_usd_m": -44.5,
+    "size_ratio": 1.111,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -44.5,
+    "size_x_ratio": 1.111,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 32.8,
+    "rand_ratio_median": 0.918,
+    "rand_ratio_p05_p95": [
+     0.73,
+     1.122
+    ],
+    "rel_worse_than_rand_share_pct": 83.8,
+    "randsize_loss_median_usd_m": -12.2,
+    "randsize_ratio_median": 1.03,
+    "rel_worse_than_randsize_share_pct": 50.4,
+    "randsec_loss_median_usd_m": 83.7,
+    "randsec_ratio_median": 0.792,
+    "rel_worse_than_randsec_share_pct": 90.6,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술"
+    }
+   },
+   {
+    "date": "2026-03-03",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS"
+    ],
+    "rel_value_usd_m": 4726.5,
+    "loss58_usd_m": -418.0,
+    "spy_pct": -0.88,
+    "rel_loss_usd_m": 26.5,
+    "rel_ratio": 0.937,
+    "size_loss_usd_m": -27.6,
+    "size_ratio": 1.066,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -27.6,
+    "size_x_ratio": 1.066,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": -42.5,
+    "rand_ratio_median": 1.102,
+    "rand_ratio_p05_p95": [
+     0.928,
+     1.295
+    ],
+    "rel_worse_than_rand_share_pct": 5.4,
+    "randsize_loss_median_usd_m": -23.8,
+    "randsize_ratio_median": 1.057,
+    "rel_worse_than_randsize_share_pct": 1.8,
+    "randsec_loss_median_usd_m": -7.7,
+    "randsec_ratio_median": 1.018,
+    "rel_worse_than_randsec_share_pct": 30.7,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술"
+    }
+   },
+   {
+    "date": "2026-03-30",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS"
+    ],
+    "rel_value_usd_m": 4726.5,
+    "loss58_usd_m": -452.2,
+    "spy_pct": -0.33,
+    "rel_loss_usd_m": 36.9,
+    "rel_ratio": 0.918,
+    "size_loss_usd_m": -31.4,
+    "size_ratio": 1.07,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -31.4,
+    "size_x_ratio": 1.07,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 8.9,
+    "rand_ratio_median": 0.98,
+    "rand_ratio_p05_p95": [
+     0.847,
+     1.144
+    ],
+    "rel_worse_than_rand_share_pct": 20.9,
+    "randsize_loss_median_usd_m": 14.1,
+    "randsize_ratio_median": 0.969,
+    "rel_worse_than_randsize_share_pct": 15.4,
+    "randsec_loss_median_usd_m": 13.3,
+    "randsec_ratio_median": 0.971,
+    "rel_worse_than_randsec_share_pct": 33.4,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술"
+    }
+   },
+   {
+    "date": "2026-04-28",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS"
+    ],
+    "rel_value_usd_m": 4726.5,
+    "loss58_usd_m": -336.3,
+    "spy_pct": -0.49,
+    "rel_loss_usd_m": -12.4,
+    "rel_ratio": 1.037,
+    "size_loss_usd_m": 32.0,
+    "size_ratio": 0.905,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 32.0,
+    "size_x_ratio": 0.905,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": -6.7,
+    "rand_ratio_median": 1.02,
+    "rand_ratio_p05_p95": [
+     0.824,
+     1.239
+    ],
+    "rel_worse_than_rand_share_pct": 56.5,
+    "randsize_loss_median_usd_m": 19.8,
+    "randsize_ratio_median": 0.941,
+    "rel_worse_than_randsize_share_pct": 95.4,
+    "randsec_loss_median_usd_m": -29.7,
+    "randsec_ratio_median": 1.088,
+    "rel_worse_than_randsec_share_pct": 32.7,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술"
+    }
+   },
+   {
+    "date": "2026-05-07",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS"
+    ],
+    "rel_value_usd_m": 4726.5,
+    "loss58_usd_m": -224.8,
+    "spy_pct": -0.31,
+    "rel_loss_usd_m": 11.0,
+    "rel_ratio": 0.951,
+    "size_loss_usd_m": -0.9,
+    "size_ratio": 1.004,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -0.9,
+    "size_x_ratio": 1.004,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": -24.9,
+    "rand_ratio_median": 1.111,
+    "rand_ratio_p05_p95": [
+     0.481,
+     1.417
+    ],
+    "rel_worse_than_rand_share_pct": 26.1,
+    "randsize_loss_median_usd_m": -8.3,
+    "randsize_ratio_median": 1.037,
+    "rel_worse_than_randsize_share_pct": 32.1,
+    "randsec_loss_median_usd_m": 44.0,
+    "randsec_ratio_median": 0.804,
+    "rel_worse_than_randsec_share_pct": 64.1,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술"
+    }
+   },
+   {
+    "date": "2026-05-12",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS"
+    ],
+    "rel_value_usd_m": 4726.5,
+    "loss58_usd_m": -159.0,
+    "spy_pct": -0.15,
+    "rel_loss_usd_m": -44.6,
+    "rel_ratio": 1.281,
+    "size_loss_usd_m": 16.0,
+    "size_ratio": 0.899,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 16.0,
+    "size_x_ratio": 0.899,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 18.3,
+    "rand_ratio_median": 0.885,
+    "rand_ratio_p05_p95": [
+     0.498,
+     1.37
+    ],
+    "rel_worse_than_rand_share_pct": 91.1,
+    "randsize_loss_median_usd_m": 43.5,
+    "randsize_ratio_median": 0.726,
+    "rel_worse_than_randsize_share_pct": 97.6,
+    "randsec_loss_median_usd_m": -41.3,
+    "randsec_ratio_median": 1.26,
+    "rel_worse_than_randsec_share_pct": 52.9,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술"
+    }
+   },
+   {
+    "date": "2026-05-18",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS"
+    ],
+    "rel_value_usd_m": 4726.5,
+    "loss58_usd_m": -305.2,
+    "spy_pct": -0.07,
+    "rel_loss_usd_m": -3.3,
+    "rel_ratio": 1.011,
+    "size_loss_usd_m": -23.2,
+    "size_ratio": 1.076,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -23.2,
+    "size_x_ratio": 1.076,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 41.7,
+    "rand_ratio_median": 0.863,
+    "rand_ratio_p05_p95": [
+     0.662,
+     1.129
+    ],
+    "rel_worse_than_rand_share_pct": 86.5,
+    "randsize_loss_median_usd_m": 20.7,
+    "randsize_ratio_median": 0.932,
+    "rel_worse_than_randsize_share_pct": 69.2,
+    "randsec_loss_median_usd_m": 67.6,
+    "randsec_ratio_median": 0.778,
+    "rel_worse_than_randsec_share_pct": 85.1,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술"
+    }
+   },
+   {
+    "date": "2026-06-04",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS"
+    ],
+    "rel_value_usd_m": 4726.5,
+    "loss58_usd_m": -200.7,
+    "spy_pct": 0.38,
+    "rel_loss_usd_m": 39.6,
+    "rel_ratio": 0.802,
+    "size_loss_usd_m": 72.9,
+    "size_ratio": 0.637,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 72.9,
+    "size_x_ratio": 0.637,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 60.3,
+    "rand_ratio_median": 0.699,
+    "rand_ratio_p05_p95": [
+     0.225,
+     1.067
+    ],
+    "rel_worse_than_rand_share_pct": 65.9,
+    "randsize_loss_median_usd_m": 74.5,
+    "randsize_ratio_median": 0.629,
+    "rel_worse_than_randsize_share_pct": 75.3,
+    "randsec_loss_median_usd_m": 10.8,
+    "randsec_ratio_median": 0.946,
+    "rel_worse_than_randsec_share_pct": 27.9,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술"
+    }
+   },
+   {
+    "date": "2026-06-05",
+    "n_rel": 9,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS"
+    ],
+    "rel_value_usd_m": 4726.5,
+    "loss58_usd_m": -908.3,
+    "spy_pct": -2.58,
+    "rel_loss_usd_m": -177.4,
+    "rel_ratio": 1.195,
+    "size_loss_usd_m": -54.5,
+    "size_ratio": 1.06,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -54.5,
+    "size_x_ratio": 1.06,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": -32.4,
+    "rand_ratio_median": 1.036,
+    "rand_ratio_p05_p95": [
+     0.936,
+     1.218
+    ],
+    "rel_worse_than_rand_share_pct": 92.8,
+    "randsize_loss_median_usd_m": -3.4,
+    "randsize_ratio_median": 1.004,
+    "rel_worse_than_randsize_share_pct": 98.4,
+    "randsec_loss_median_usd_m": -95.4,
+    "randsec_ratio_median": 1.105,
+    "rel_worse_than_randsec_share_pct": 79.4,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술"
+    }
+   },
+   {
+    "date": "2026-06-16",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -375.3,
+    "spy_pct": -0.6,
+    "rel_loss_usd_m": -7.9,
+    "rel_ratio": 1.021,
+    "size_loss_usd_m": 48.2,
+    "size_ratio": 0.872,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 48.2,
+    "size_x_ratio": 0.872,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 10.6,
+    "rand_ratio_median": 0.972,
+    "rand_ratio_p05_p95": [
+     0.767,
+     1.152
+    ],
+    "rel_worse_than_rand_share_pct": 69.0,
+    "randsize_loss_median_usd_m": 27.0,
+    "randsize_ratio_median": 0.928,
+    "rel_worse_than_randsize_share_pct": 83.2,
+    "randsec_loss_median_usd_m": -38.9,
+    "randsec_ratio_median": 1.104,
+    "rel_worse_than_randsec_share_pct": 30.2,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-06-23",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -662.1,
+    "spy_pct": -1.45,
+    "rel_loss_usd_m": 29.6,
+    "rel_ratio": 0.955,
+    "size_loss_usd_m": -46.3,
+    "size_ratio": 1.07,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -46.3,
+    "size_x_ratio": 1.07,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 11.9,
+    "rand_ratio_median": 0.982,
+    "rand_ratio_p05_p95": [
+     0.871,
+     1.176
+    ],
+    "rel_worse_than_rand_share_pct": 33.6,
+    "randsize_loss_median_usd_m": 15.6,
+    "randsize_ratio_median": 0.976,
+    "rel_worse_than_randsize_share_pct": 37.3,
+    "randsec_loss_median_usd_m": -7.3,
+    "randsec_ratio_median": 1.011,
+    "rel_worse_than_randsec_share_pct": 27.2,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-06-26",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -461.4,
+    "spy_pct": -0.72,
+    "rel_loss_usd_m": 153.6,
+    "rel_ratio": 0.667,
+    "size_loss_usd_m": 59.8,
+    "size_ratio": 0.87,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 59.8,
+    "size_x_ratio": 0.87,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 43.5,
+    "rand_ratio_median": 0.906,
+    "rand_ratio_p05_p95": [
+     0.658,
+     1.165
+    ],
+    "rel_worse_than_rand_share_pct": 5.5,
+    "randsize_loss_median_usd_m": 58.3,
+    "randsize_ratio_median": 0.874,
+    "rel_worse_than_randsize_share_pct": 11.9,
+    "randsec_loss_median_usd_m": 110.1,
+    "randsec_ratio_median": 0.761,
+    "rel_worse_than_randsec_share_pct": 28.3,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-07-01",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -552.4,
+    "spy_pct": -0.14,
+    "rel_loss_usd_m": 134.1,
+    "rel_ratio": 0.757,
+    "size_loss_usd_m": 72.1,
+    "size_ratio": 0.87,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 72.1,
+    "size_x_ratio": 0.87,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 38.8,
+    "rand_ratio_median": 0.93,
+    "rand_ratio_p05_p95": [
+     0.745,
+     1.101
+    ],
+    "rel_worse_than_rand_share_pct": 6.3,
+    "randsize_loss_median_usd_m": 26.6,
+    "randsize_ratio_median": 0.952,
+    "rel_worse_than_randsize_share_pct": 0.0,
+    "randsec_loss_median_usd_m": 87.6,
+    "randsec_ratio_median": 0.841,
+    "rel_worse_than_randsec_share_pct": 27.4,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-07-02",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -490.6,
+    "spy_pct": -0.13,
+    "rel_loss_usd_m": -11.6,
+    "rel_ratio": 1.024,
+    "size_loss_usd_m": 138.5,
+    "size_ratio": 0.718,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 138.5,
+    "size_x_ratio": 0.718,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 69.6,
+    "rand_ratio_median": 0.858,
+    "rand_ratio_p05_p95": [
+     0.682,
+     1.076
+    ],
+    "rel_worse_than_rand_share_pct": 91.7,
+    "randsize_loss_median_usd_m": 68.5,
+    "randsize_ratio_median": 0.86,
+    "rel_worse_than_randsize_share_pct": 77.7,
+    "randsec_loss_median_usd_m": 37.9,
+    "randsec_ratio_median": 0.923,
+    "rel_worse_than_randsec_share_pct": 75.5,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-07-07",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -350.5,
+    "spy_pct": -0.48,
+    "rel_loss_usd_m": 27.4,
+    "rel_ratio": 0.922,
+    "size_loss_usd_m": -16.3,
+    "size_ratio": 1.046,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -16.3,
+    "size_x_ratio": 1.046,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 10.5,
+    "rand_ratio_median": 0.97,
+    "rand_ratio_p05_p95": [
+     0.729,
+     1.251
+    ],
+    "rel_worse_than_rand_share_pct": 35.7,
+    "randsize_loss_median_usd_m": 23.0,
+    "randsize_ratio_median": 0.934,
+    "rel_worse_than_randsize_share_pct": 47.6,
+    "randsec_loss_median_usd_m": 0.0,
+    "randsec_ratio_median": 1.0,
+    "rel_worse_than_randsec_share_pct": 32.7,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-07-13",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -433.2,
+    "spy_pct": -0.77,
+    "rel_loss_usd_m": 3.8,
+    "rel_ratio": 0.991,
+    "size_loss_usd_m": -5.5,
+    "size_ratio": 1.013,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -5.5,
+    "size_x_ratio": 1.013,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 6.4,
+    "rand_ratio_median": 0.985,
+    "rand_ratio_p05_p95": [
+     0.828,
+     1.207
+    ],
+    "rel_worse_than_rand_share_pct": 52.7,
+    "randsize_loss_median_usd_m": 14.2,
+    "randsize_ratio_median": 0.967,
+    "rel_worse_than_randsize_share_pct": 58.5,
+    "randsec_loss_median_usd_m": 1.0,
+    "randsec_ratio_median": 0.998,
+    "rel_worse_than_randsec_share_pct": 48.1,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-07-15",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -252.0,
+    "spy_pct": 0.4,
+    "rel_loss_usd_m": 135.7,
+    "rel_ratio": 0.462,
+    "size_loss_usd_m": 179.6,
+    "size_ratio": 0.287,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 179.6,
+    "size_x_ratio": 0.287,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 8.6,
+    "rand_ratio_median": 0.966,
+    "rand_ratio_p05_p95": [
+     0.519,
+     1.21
+    ],
+    "rel_worse_than_rand_share_pct": 2.5,
+    "randsize_loss_median_usd_m": 9.2,
+    "randsize_ratio_median": 0.963,
+    "rel_worse_than_randsize_share_pct": 1.7,
+    "randsec_loss_median_usd_m": 9.9,
+    "randsec_ratio_median": 0.961,
+    "rel_worse_than_randsec_share_pct": 1.3,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-07-16",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -471.8,
+    "spy_pct": -0.54,
+    "rel_loss_usd_m": -52.7,
+    "rel_ratio": 1.112,
+    "size_loss_usd_m": -30.0,
+    "size_ratio": 1.064,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -30.0,
+    "size_x_ratio": 1.064,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 41.3,
+    "rand_ratio_median": 0.912,
+    "rand_ratio_p05_p95": [
+     0.727,
+     1.195
+    ],
+    "rel_worse_than_rand_share_pct": 87.6,
+    "randsize_loss_median_usd_m": 29.4,
+    "randsize_ratio_median": 0.938,
+    "rel_worse_than_randsize_share_pct": 89.6,
+    "randsec_loss_median_usd_m": 30.7,
+    "randsec_ratio_median": 0.935,
+    "rel_worse_than_randsec_share_pct": 84.0,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-07-24",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -364.2,
+    "spy_pct": 0.1,
+    "rel_loss_usd_m": -45.5,
+    "rel_ratio": 1.125,
+    "size_loss_usd_m": 117.9,
+    "size_ratio": 0.676,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 117.9,
+    "size_x_ratio": 0.676,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 37.0,
+    "rand_ratio_median": 0.898,
+    "rand_ratio_p05_p95": [
+     0.685,
+     1.155
+    ],
+    "rel_worse_than_rand_share_pct": 93.2,
+    "randsize_loss_median_usd_m": 40.8,
+    "randsize_ratio_median": 0.888,
+    "rel_worse_than_randsize_share_pct": 98.8,
+    "randsec_loss_median_usd_m": 76.5,
+    "randsec_ratio_median": 0.79,
+    "rel_worse_than_randsec_share_pct": 95.1,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-07-27",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -324.1,
+    "spy_pct": 0.02,
+    "rel_loss_usd_m": 37.1,
+    "rel_ratio": 0.886,
+    "size_loss_usd_m": 74.8,
+    "size_ratio": 0.769,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 74.8,
+    "size_x_ratio": 0.769,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 40.1,
+    "rand_ratio_median": 0.876,
+    "rand_ratio_p05_p95": [
+     0.612,
+     1.096
+    ],
+    "rel_worse_than_rand_share_pct": 52.6,
+    "randsize_loss_median_usd_m": 36.2,
+    "randsize_ratio_median": 0.888,
+    "rel_worse_than_randsize_share_pct": 48.9,
+    "randsec_loss_median_usd_m": 133.8,
+    "randsec_ratio_median": 0.587,
+    "rel_worse_than_randsec_share_pct": 94.2,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-07-28",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -428.3,
+    "spy_pct": 0.24,
+    "rel_loss_usd_m": 13.7,
+    "rel_ratio": 0.968,
+    "size_loss_usd_m": 69.0,
+    "size_ratio": 0.839,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 69.0,
+    "size_x_ratio": 0.839,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 50.1,
+    "rand_ratio_median": 0.883,
+    "rand_ratio_p05_p95": [
+     0.702,
+     1.076
+    ],
+    "rel_worse_than_rand_share_pct": 76.4,
+    "randsize_loss_median_usd_m": 42.3,
+    "randsize_ratio_median": 0.901,
+    "rel_worse_than_randsize_share_pct": 80.7,
+    "randsec_loss_median_usd_m": 101.5,
+    "randsec_ratio_median": 0.763,
+    "rel_worse_than_randsec_share_pct": 84.6,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-07-29",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -562.5,
+    "spy_pct": -1.54,
+    "rel_loss_usd_m": -72.8,
+    "rel_ratio": 1.129,
+    "size_loss_usd_m": 0.1,
+    "size_ratio": 1.0,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 0.1,
+    "size_x_ratio": 1.0,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": -43.0,
+    "rand_ratio_median": 1.077,
+    "rand_ratio_p05_p95": [
+     0.929,
+     1.227
+    ],
+    "rel_worse_than_rand_share_pct": 72.2,
+    "randsize_loss_median_usd_m": -19.7,
+    "randsize_ratio_median": 1.035,
+    "rel_worse_than_randsize_share_pct": 84.6,
+    "randsec_loss_median_usd_m": 17.7,
+    "randsec_ratio_median": 0.969,
+    "rel_worse_than_randsec_share_pct": 86.1,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-08-05",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": 8.1,
+    "spy_pct": -0.2,
+    "rel_loss_usd_m": -70.2,
+    "rel_ratio": -7.647,
+    "size_loss_usd_m": -59.4,
+    "size_ratio": -6.32,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -59.4,
+    "size_x_ratio": -6.32,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 4.6,
+    "rand_ratio_median": 1.571,
+    "rand_ratio_p05_p95": null,
+    "rel_worse_than_rand_share_pct": 91.9,
+    "randsize_loss_median_usd_m": 0.8,
+    "randsize_ratio_median": 1.094,
+    "rel_worse_than_randsize_share_pct": 90.7,
+    "randsec_loss_median_usd_m": -17.1,
+    "randsec_ratio_median": -1.101,
+    "rel_worse_than_randsec_share_pct": 83.1,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-08-10",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -235.3,
+    "spy_pct": -0.03,
+    "rel_loss_usd_m": 57.0,
+    "rel_ratio": 0.758,
+    "size_loss_usd_m": -29.0,
+    "size_ratio": 1.123,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -29.0,
+    "size_x_ratio": 1.123,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 21.3,
+    "rand_ratio_median": 0.909,
+    "rand_ratio_p05_p95": [
+     0.498,
+     1.22
+    ],
+    "rel_worse_than_rand_share_pct": 20.7,
+    "randsize_loss_median_usd_m": 46.1,
+    "randsize_ratio_median": 0.804,
+    "rel_worse_than_randsize_share_pct": 42.4,
+    "randsec_loss_median_usd_m": 17.2,
+    "randsec_ratio_median": 0.927,
+    "rel_worse_than_randsec_share_pct": 26.7,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-08-18",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -506.4,
+    "spy_pct": -0.68,
+    "rel_loss_usd_m": -59.7,
+    "rel_ratio": 1.118,
+    "size_loss_usd_m": 44.7,
+    "size_ratio": 0.912,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 44.7,
+    "size_x_ratio": 0.912,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 2.5,
+    "rand_ratio_median": 0.995,
+    "rand_ratio_p05_p95": [
+     0.854,
+     1.146
+    ],
+    "rel_worse_than_rand_share_pct": 92.0,
+    "randsize_loss_median_usd_m": 59.8,
+    "randsize_ratio_median": 0.882,
+    "rel_worse_than_randsize_share_pct": 100.0,
+    "randsec_loss_median_usd_m": -5.0,
+    "randsec_ratio_median": 1.01,
+    "rel_worse_than_randsec_share_pct": 79.3,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-08-24",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -321.9,
+    "spy_pct": -0.29,
+    "rel_loss_usd_m": 43.3,
+    "rel_ratio": 0.866,
+    "size_loss_usd_m": 27.1,
+    "size_ratio": 0.916,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 27.1,
+    "size_x_ratio": 0.916,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 11.1,
+    "rand_ratio_median": 0.966,
+    "rand_ratio_p05_p95": [
+     0.793,
+     1.201
+    ],
+    "rel_worse_than_rand_share_pct": 17.2,
+    "randsize_loss_median_usd_m": 32.1,
+    "randsize_ratio_median": 0.9,
+    "rel_worse_than_randsize_share_pct": 40.0,
+    "randsec_loss_median_usd_m": -12.7,
+    "randsec_ratio_median": 1.039,
+    "rel_worse_than_randsec_share_pct": 14.1,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-08-28",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -369.3,
+    "spy_pct": -0.23,
+    "rel_loss_usd_m": 101.1,
+    "rel_ratio": 0.726,
+    "size_loss_usd_m": 81.3,
+    "size_ratio": 0.78,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 81.3,
+    "size_x_ratio": 0.78,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": -4.4,
+    "rand_ratio_median": 1.012,
+    "rand_ratio_p05_p95": [
+     0.81,
+     1.209
+    ],
+    "rel_worse_than_rand_share_pct": 1.7,
+    "randsize_loss_median_usd_m": 21.2,
+    "randsize_ratio_median": 0.943,
+    "rel_worse_than_randsize_share_pct": 0.0,
+    "randsec_loss_median_usd_m": 6.7,
+    "randsec_ratio_median": 0.982,
+    "rel_worse_than_randsec_share_pct": 6.1,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-09-14",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -594.3,
+    "spy_pct": -0.45,
+    "rel_loss_usd_m": 25.1,
+    "rel_ratio": 0.958,
+    "size_loss_usd_m": 67.3,
+    "size_ratio": 0.887,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 67.3,
+    "size_x_ratio": 0.887,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 19.7,
+    "rand_ratio_median": 0.967,
+    "rand_ratio_p05_p95": [
+     0.772,
+     1.114
+    ],
+    "rel_worse_than_rand_share_pct": 46.2,
+    "randsize_loss_median_usd_m": 25.2,
+    "randsize_ratio_median": 0.958,
+    "rel_worse_than_randsize_share_pct": 50.1,
+    "randsec_loss_median_usd_m": 93.3,
+    "randsec_ratio_median": 0.843,
+    "rel_worse_than_randsec_share_pct": 76.5,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-10-08",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -364.3,
+    "spy_pct": -0.42,
+    "rel_loss_usd_m": -84.3,
+    "rel_ratio": 1.232,
+    "size_loss_usd_m": 21.6,
+    "size_ratio": 0.941,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 21.6,
+    "size_x_ratio": 0.941,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 33.9,
+    "rand_ratio_median": 0.907,
+    "rand_ratio_p05_p95": [
+     0.731,
+     1.141
+    ],
+    "rel_worse_than_rand_share_pct": 98.4,
+    "randsize_loss_median_usd_m": 22.7,
+    "randsize_ratio_median": 0.938,
+    "rel_worse_than_randsize_share_pct": 100.0,
+    "randsec_loss_median_usd_m": 42.1,
+    "randsec_ratio_median": 0.884,
+    "rel_worse_than_randsec_share_pct": 98.0,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-10-12",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -246.0,
+    "spy_pct": -0.06,
+    "rel_loss_usd_m": 25.0,
+    "rel_ratio": 0.898,
+    "size_loss_usd_m": 44.2,
+    "size_ratio": 0.82,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": 44.2,
+    "size_x_ratio": 0.82,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 18.3,
+    "rand_ratio_median": 0.925,
+    "rand_ratio_p05_p95": [
+     0.735,
+     1.178
+    ],
+    "rel_worse_than_rand_share_pct": 40.7,
+    "randsize_loss_median_usd_m": 33.8,
+    "randsize_ratio_median": 0.862,
+    "rel_worse_than_randsize_share_pct": 65.4,
+    "randsec_loss_median_usd_m": -12.9,
+    "randsec_ratio_median": 1.052,
+    "rel_worse_than_randsec_share_pct": 19.7,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-10-14",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -479.1,
+    "spy_pct": -1.08,
+    "rel_loss_usd_m": -119.8,
+    "rel_ratio": 1.25,
+    "size_loss_usd_m": -17.5,
+    "size_ratio": 1.037,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -17.5,
+    "size_x_ratio": 1.037,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": -11.9,
+    "rand_ratio_median": 1.025,
+    "rand_ratio_p05_p95": [
+     0.807,
+     1.252
+    ],
+    "rel_worse_than_rand_share_pct": 94.8,
+    "randsize_loss_median_usd_m": 35.6,
+    "randsize_ratio_median": 0.926,
+    "rel_worse_than_randsize_share_pct": 100.0,
+    "randsec_loss_median_usd_m": -57.6,
+    "randsec_ratio_median": 1.12,
+    "rel_worse_than_randsec_share_pct": 81.3,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-10-16",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -399.7,
+    "spy_pct": -1.11,
+    "rel_loss_usd_m": -120.0,
+    "rel_ratio": 1.3,
+    "size_loss_usd_m": -33.3,
+    "size_ratio": 1.083,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -33.3,
+    "size_x_ratio": 1.083,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": -2.5,
+    "rand_ratio_median": 1.006,
+    "rand_ratio_p05_p95": [
+     0.834,
+     1.3
+    ],
+    "rel_worse_than_rand_share_pct": 95.1,
+    "randsize_loss_median_usd_m": 24.0,
+    "randsize_ratio_median": 0.94,
+    "rel_worse_than_randsize_share_pct": 100.0,
+    "randsec_loss_median_usd_m": -80.9,
+    "randsec_ratio_median": 1.202,
+    "rel_worse_than_randsec_share_pct": 67.4,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-10-22",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -733.7,
+    "spy_pct": -1.18,
+    "rel_loss_usd_m": -205.8,
+    "rel_ratio": 1.281,
+    "size_loss_usd_m": -21.8,
+    "size_ratio": 1.03,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -21.8,
+    "size_x_ratio": 1.03,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 36.0,
+    "rand_ratio_median": 0.951,
+    "rand_ratio_p05_p95": [
+     0.821,
+     1.184
+    ],
+    "rel_worse_than_rand_share_pct": 98.6,
+    "randsize_loss_median_usd_m": 42.1,
+    "randsize_ratio_median": 0.943,
+    "rel_worse_than_randsize_share_pct": 100.0,
+    "randsec_loss_median_usd_m": 42.7,
+    "randsec_ratio_median": 0.942,
+    "rel_worse_than_randsec_share_pct": 99.9,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   },
+   {
+    "date": "2026-10-29",
+    "n_rel": 10,
+    "rel": [
+     "AMZN",
+     "CRWV",
+     "IREN",
+     "META",
+     "MSFT",
+     "NBIS",
+     "ORCL",
+     "RIOT",
+     "SNPS",
+     "SPCX"
+    ],
+    "rel_value_usd_m": 4863.6,
+    "loss58_usd_m": -183.7,
+    "spy_pct": -0.38,
+    "rel_loss_usd_m": -66.5,
+    "rel_ratio": 1.362,
+    "size_loss_usd_m": -191.4,
+    "size_ratio": 2.042,
+    "size_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "size_overlap_with_rel": [],
+    "size_x_loss_usd_m": -191.4,
+    "size_x_ratio": 2.042,
+    "size_x_names": [
+     "AAPL",
+     "GOOGL"
+    ],
+    "rand_loss_median_usd_m": 63.0,
+    "rand_ratio_median": 0.657,
+    "rand_ratio_p05_p95": [
+     0.235,
+     1.797
+    ],
+    "rel_worse_than_rand_share_pct": 92.3,
+    "randsize_loss_median_usd_m": 54.5,
+    "randsize_ratio_median": 0.704,
+    "rel_worse_than_randsize_share_pct": 78.4,
+    "randsec_loss_median_usd_m": 31.2,
+    "randsec_ratio_median": 0.83,
+    "rel_worse_than_randsec_share_pct": 87.1,
+    "rel_sectors": {
+     "AMZN": "경기소비재",
+     "CRWV": "정보기술",
+     "IREN": "금융",
+     "META": "커뮤니케이션",
+     "MSFT": "정보기술",
+     "NBIS": "커뮤니케이션",
+     "ORCL": "정보기술",
+     "RIOT": "금융",
+     "SNPS": "정보기술",
+     "SPCX": null
+    }
+   }
+  ]
+ },
+ "chip_all_fixed": {
+  "what": "주가 파일 안 칩 충격일 64일(2024-10~) · 관계 전부(뒤 자료 섞임 — 참고용)",
+  "agg": {
+   "days": 64,
+   "sum_loss58_usd_m": -23592.3,
+   "sum_added_usd_m": {
+    "rel": -1230.2,
+    "size": 511.4,
+    "size_x": 511.4,
+    "rand_median": 598.0,
+    "randsize_median": 1148.3,
+    "randsec_median": 180.2
+   },
+   "sum_ratio": {
+    "rel": 1.052,
+    "size": 0.978,
+    "size_x": 0.978,
+    "rand_median": 0.975,
+    "randsize_median": 0.951,
+    "randsec_median": 0.992
+   },
+   "days_rel_loss_bigger_than": {
+    "size": 44,
+    "size_x": 44,
+    "rand_median": 42,
+    "randsize_median": 44,
+    "randsec_median": 40
+   },
+   "binom_p_one_sided_vs_half": {
+    "size": 0.0018,
+    "rand_median": 0.0084,
+    "randsize_median": 0.0018,
+    "randsec_median": 0.03
+   },
+   "days_rel_in_worst_5pct_of_rand": 4,
+   "days_rel_in_worst_5pct_of_randsize": 20,
+   "days_rel_in_worst_5pct_of_randsec": 2,
+   "mean_rel_worse_than_randsec_share_pct": 58.3,
+   "mean_rel_worse_than_rand_share_pct": 63.3,
+   "mean_rel_worse_than_randsize_share_pct": 67.8
+  }
+ }
+}

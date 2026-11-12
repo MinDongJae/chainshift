@@ -1,0 +1,337 @@
+{
+ "window_utc": [
+  "20250127000000",
+  "20250127234500"
+ ],
+ "files": 96,
+ "missing": [],
+ "records": 130852,
+ "hit_records": 759,
+ "by_stage": {
+  "데이터센터 공사": {
+   "n": 3,
+   "tone": 1.23,
+   "dc": 0
+  },
+  "반도체 장비·소재": {
+   "n": 10,
+   "tone": 0.13,
+   "dc": 0
+  },
+  "발전": {
+   "n": 315,
+   "tone": 0.05,
+   "dc": 1
+  },
+  "서버·네트워크·부품": {
+   "n": 39,
+   "tone": -0.38,
+   "dc": 0
+  },
+  "전력·냉각 설비": {
+   "n": 33,
+   "tone": -0.87,
+   "dc": 1
+  },
+  "칩": {
+   "n": 474,
+   "tone": -0.04,
+   "dc": 1
+  }
+ },
+ "by_company": {
+  "NVDA": 388,
+  "CEG": 315,
+  "MU": 31,
+  "SMCI": 24,
+  "AVGO": 21,
+  "MRVL": 19,
+  "ETN": 18,
+  "INTC": 16,
+  "AMD": 12,
+  "CAT": 8,
+  "ANET": 7,
+  "LRCX": 7,
+  "LOGI": 3,
+  "BE": 3,
+  "PWR": 3,
+  "CSCO": 3,
+  "CMI": 2,
+  "WDC": 2,
+  "AMAT": 2,
+  "STX": 1,
+  "GEV": 1,
+  "CLS": 1,
+  "TSEM": 1,
+  "TER": 1,
+  "JCI": 1
+ },
+ "dc_hit_records": 3,
+ "unique_titles": 448,
+ "top": [
+  {
+   "t": "20250127173000",
+   "title": "Nasdaq Falls 3 Percent as China's DeepSeek AI Ignites Market Rout",
+   "url": "https://www.theepochtimes.com/business/nasdaq-falls-3-percent-as-chinas-deepseek-ai-ignites-market-rout-5799376",
+   "src": "theepochtimes.com",
+   "ticks": [
+    "AMD",
+    "MRVL",
+    "SMCI",
+    "CEG"
+   ],
+   "stages": [
+    "발전",
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 0.91,
+   "dc": false,
+   "score": 11
+  },
+  {
+   "t": "20250127193000",
+   "title": "Chinese low-cost app tops charts, stuns AI markets",
+   "url": "https://www.thestandard.com.hk/section-news/section/2/269755/Chinese-low-cost-app-tops-charts,-stuns-AI-markets",
+   "src": "thestandard.com.hk",
+   "ticks": [
+    "MU",
+    "SMCI",
+    "CEG"
+   ],
+   "stages": [
+    "발전",
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 1.19,
+   "dc": false,
+   "score": 9
+  },
+  {
+   "t": "20250127191500",
+   "title": "Nasdaq falls more than 3%, S&P 500 slides as China's DeepSeek triggers Nvidia rout: Live updates",
+   "url": "https://www.nbcbayarea.com/news/business/money-report/stock-futures-are-lower-ahead-of-key-earnings-week-live-updates/3772189/",
+   "src": "nbcbayarea.com",
+   "ticks": [
+    "NVDA",
+    "MRVL",
+    "CEG"
+   ],
+   "stages": [
+    "발전",
+    "칩"
+   ],
+   "tone": -0.44,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20250127174500",
+   "title": "DeepSeek Shakes the Market: Nvidia and Mag - 7 Stocks Plunge",
+   "url": "https://wallstreetpit.com/123076-deepseek-shakes-the-market-nvidia-and-mag-7-stocks-plunge/",
+   "src": "wallstreetpit.com",
+   "ticks": [
+    "NVDA",
+    "MU",
+    "CEG"
+   ],
+   "stages": [
+    "발전",
+    "칩"
+   ],
+   "tone": 1.14,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20250127161500",
+   "title": "Stock Market Updates: Nvidia, Meta Microsoft Hit by Fears Over Chinese AI Rivals",
+   "url": "https://www.newsweek.com/stock-market-deepseek-artificial-intelligence-ai-live-updates-2021365",
+   "src": "newsweek.com",
+   "ticks": [
+    "NVDA",
+    "MRVL",
+    "CEG"
+   ],
+   "stages": [
+    "발전",
+    "칩"
+   ],
+   "tone": -2.92,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20250127210000",
+   "title": "Super Micro Computer Stock: Where Is It Heading In 2025?",
+   "url": "https://www.forbes.com/sites/investor-hub/article/super-micro-computer-smci-stock-2025-forecast/",
+   "src": "forbes.com",
+   "ticks": [
+    "STX",
+    "LOGI",
+    "SMCI"
+   ],
+   "stages": [
+    "서버·네트워크·부품"
+   ],
+   "tone": 0.07,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20250127234500",
+   "title": "Tech stocks tank as a Chinese competitor threatens to upend the AI frenzy; Nvidia sinks nearly 17%",
+   "url": "https://www.tribstar.com/region/tech-stocks-tank-as-a-chinese-competitor-threatens-to-upend-the-ai-frenzy-nvidia-sinks/article_27cca3d1-01ce-5022-ac5b-1416994f201c.html",
+   "src": "tribstar.com",
+   "ticks": [
+    "NVDA",
+    "CEG"
+   ],
+   "stages": [
+    "발전",
+    "칩"
+   ],
+   "tone": -1.45,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20250127234500",
+   "title": "Nvidia loses nearly $600 bn in value as Chinese AI firm jolts tech shares",
+   "url": "https://www.fairfieldsuntimes.com/news/national/nvidia-loses-nearly-600-bn-in-value-as-chinese-ai-firm-jolts-tech-shares/article_6fe40c5e-3c37-5789-bb2d-bba37ff8facb.html",
+   "src": "fairfieldsuntimes.com",
+   "ticks": [
+    "NVDA",
+    "CEG"
+   ],
+   "stages": [
+    "발전",
+    "칩"
+   ],
+   "tone": 0.26,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20250127233000",
+   "title": "Tech stocks tank as DeepSeek threatens to upend AI frenzy",
+   "url": "https://torontosun.com/business/money-news/tech-stocks-tank-as-a-chinese-competitor-threatens-to-upend-the-ai-frenzy-nvidia-sinks-nearly-17",
+   "src": "torontosun.com",
+   "ticks": [
+    "NVDA",
+    "CEG"
+   ],
+   "stages": [
+    "발전",
+    "칩"
+   ],
+   "tone": 0.12,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20250127231500",
+   "title": "Why Artificial Intelligence (AI) Hardware Winners Taiwan Semiconductor, Marvell, and Arista Networks Plunged by Double Digits Today",
+   "url": "https://www.fool.com/investing/2025/01/27/why-ai-hardware-winners-tsmc-mrvl-anet-plunged/?source=iedfolrf0000001",
+   "src": "fool.com",
+   "ticks": [
+    "MRVL",
+    "ANET"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 0.71,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20250127230000",
+   "title": "Nvidia sheds almost $600 billion in market cap, biggest one-day loss in U.S. history",
+   "url": "https://www.nbcsandiego.com/news/business/money-report/nvidia-sheds-almost-600-billion-in-market-cap-biggest-one-day-loss-in-u-s-history/3735826/",
+   "src": "nbcsandiego.com",
+   "ticks": [
+    "NVDA",
+    "SMCI"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -1.14,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20250127230000",
+   "title": "Nvidia loses nearly US$600b in value as Chinese AI firm DeepSeek jolts tech shares",
+   "url": "https://www.channelnewsasia.com/business/nvidia-loses-tech-stocks-chinese-deepseek-ai-firm-4900016",
+   "src": "channelnewsasia.com",
+   "ticks": [
+    "NVDA",
+    "CEG"
+   ],
+   "stages": [
+    "발전",
+    "칩"
+   ],
+   "tone": 0.4,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20250127230000",
+   "title": "What is DeepSeek? Chinese AI competitor sends Nvidia and other tech stocks plummeting",
+   "url": "https://www.silive.com/nation/2025/01/what-is-deepseek-chinese-ai-competitor-sends-nvidia-and-other-tech-stocks-plummeting.html",
+   "src": "silive.com",
+   "ticks": [
+    "NVDA",
+    "CEG"
+   ],
+   "stages": [
+    "발전",
+    "칩"
+   ],
+   "tone": -1.16,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20250127224500",
+   "title": "Tech stocks tumble as a Chinese competitor threatens to upend the AI industry; Nvidia down 16%",
+   "url": "https://www.wptf.com/2025/01/27/tech-stocks-tumble-as-a-chinese-competitor-threatens-to-upend-the-ai-industry-nvidia-down-16/",
+   "src": "wptf.com",
+   "ticks": [
+    "NVDA",
+    "CEG"
+   ],
+   "stages": [
+    "발전",
+    "칩"
+   ],
+   "tone": -1.42,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20250127223000",
+   "title": "AI Stock Rout: Monday's Selloff in 5 Charts",
+   "url": "https://www.morningstar.com/markets/ai-stock-rout-mondays-selloff-5-charts",
+   "src": "morningstar.com",
+   "ticks": [
+    "MU",
+    "CEG"
+   ],
+   "stages": [
+    "발전",
+    "칩"
+   ],
+   "tone": -0.7,
+   "dc": false,
+   "score": 6
+  }
+ ],
+ "seconds": 278
+}

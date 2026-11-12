@@ -1,0 +1,85 @@
+{
+ "date": "2026-08-18",
+ "seen": [
+  {
+   "name": "pack(cases/2026-08-18/materials.md)",
+   "date": "2026-08-18"
+  },
+  {
+   "name": "mid(prices_long.csv.gz)",
+   "date": "2026-08-18"
+  },
+  {
+   "name": "newsstat(news/2026-08-18.json)",
+   "date": "2026-08-18"
+  },
+  {
+   "name": "pre(prices_long.csv.gz ~2026-08-17)",
+   "date": "2026-08-17"
+  },
+  {
+   "name": "news_search 'tech selloff chip stocks AI bond yields Wall Street' → Reuters · WSJ · Detroit News(Reuters 전재) 3건(제목만)",
+   "date": "2026-08-18"
+  }
+ ],
+ "tools": [
+  {
+   "tool": "newsstat",
+   "why": "까닭이 금리·유가(시장 전체)로 보여, AI 묶음이 따로 더 팔렸는지와 전력 쪽이 기사에 나오는지 확인"
+  },
+  {
+   "tool": "pre",
+   "why": "앞 며칠 전력 쪽과 칩의 동행 확인"
+  },
+  {
+   "tool": "news_search",
+   "why": "까닭을 댄 출처를 둘 이상으로 확인(before=2026-08-19)"
+  }
+ ],
+ "cause": "시장 전체",
+ "evidence": [
+  {
+   "text": "Tech selloff weighs down Wall Street as bond yields climb",
+   "src": "Reuters(news_search, 제목만) · businesstimes.com.sg N11",
+   "pub": "2026-08-18"
+  },
+  {
+   "text": "U.S. Tech Stocks Slip as Bond Yields Hit Decade Highs; Iran Truce Expires",
+   "src": "WSJ(news_search, 제목만)",
+   "pub": "2026-08-18"
+  },
+  {
+   "text": "Why did the S&P 500 fall today? Bond yields, oil prices and Iran tensions explained",
+   "src": "hindustantimes.com N5",
+   "pub": "2026-08-18"
+  },
+  {
+   "text": "Caterpillar Costs the Dow 255 Points and Most Stocks Barely Notice",
+   "src": "fool.com(newsstat, 20:45 UTC)",
+   "pub": "2026-08-18"
+  },
+  {
+   "text": "칩 9/9(-6.47%), 장비 8/8(-5.15%p), 서버·부품 19/22(-5.31%p, FN -19.4 는 전날 실적 뒤)",
+   "src": "mid 계산 · pack F4",
+   "pub": "2026-08-18"
+  },
+  {
+   "text": "전력·냉각 설비 기사 26건 논조 -0.42, 데이터센터 낱말 4건",
+   "src": "newsstat",
+   "pub": "2026-08-18"
+  }
+ ],
+ "conditions": {
+  "a": false,
+  "b": true,
+  "c": true,
+  "d": false,
+  "e": false
+ },
+ "verdict": "번진다",
+ "confidence": "중간",
+ "counter": "'캐터필러가 다우를 255포인트 끌어내렸지만 대부분의 종목은 거의 영향이 없었다'는 제목은 캐터필러 한 회사의 일일 수 있음. 까닭이 금리라면 전력 쪽은 '시장만큼'만 빠질 수 있고, 앞 3거래일 전력 쪽은 칩과 엇갈려 움직였음(08-13 칩 +0.97·전력 -0.77, 08-14 +0.34·+1.56). 같은 날 '엔비디아가 OpenAI 데이터센터에 최대 1,050억 달러 투자'(N10)라는 좋은 소식도 있음.",
+ "dropped": 0,
+ "note": "newsstat 제목에서 전력 쪽 한 종목(캐터필러)의 그날 하락이 드러남 — 전력 쪽 평균값은 보지 않았으나 (b)의 근거로 썼으므로 점검 쪽이 알아야 함.",
+ "written_at": "2026-11-12T00:50:23+09:00"
+}

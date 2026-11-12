@@ -1,0 +1,90 @@
+{
+ "date": "2026-03-03",
+ "seen": [
+  {
+   "name": "pack(cases/2026-03-03/materials.md)",
+   "date": "2026-03-03"
+  },
+  {
+   "name": "mid(prices_long.csv.gz)",
+   "date": "2026-03-03"
+  },
+  {
+   "name": "newsstat(news/2026-03-03.json)",
+   "date": "2026-03-03"
+  },
+  {
+   "name": "pre(prices_long.csv.gz 2026-02-24~03-02)",
+   "date": "2026-03-02"
+  },
+  {
+   "name": "news_search 'semiconductor stocks sell-off memory Iran' → Yahoo Finance · 24/7 Wall St. · CNBC 3건(제목만)",
+   "date": "2026-03-03"
+  }
+ ],
+ "tools": [
+  {
+   "tool": "newsstat",
+   "why": "까닭이 메모리(칩 고유)와 이란(시장 전체) 둘로 나와, 전력 쪽이 기사에 어떻게 나오는지 확인"
+  },
+  {
+   "tool": "pre",
+   "why": "지정학으로 시장이 흔들린 주간에 전력 쪽이 칩과 같이 움직였는지 확인"
+  },
+  {
+   "tool": "news_search",
+   "why": "두 까닭 가운데 어느 쪽을 더 많은 출처가 대는지 확인(before=2026-03-04)"
+  }
+ ],
+ "cause": "칩 고유",
+ "evidence": [
+  {
+   "text": "Why Micron, SanDisk & Memory Stocks Are Crashing Today",
+   "src": "247wallst.com N1",
+   "pub": "2026-03-03"
+  },
+  {
+   "text": "Nasdaq semiconductor stocks lead tech sell-off as memory chip crisis deepens amid Middle East turmoil",
+   "src": "proactiveinvestors.com N4 (Yahoo Finance 전재)",
+   "pub": "2026-03-03"
+  },
+  {
+   "text": "Nasdaq leads losses as Iran conflict widens, Trump offers to protect shipping",
+   "src": "proactiveinvestors.com N2",
+   "pub": "2026-03-03"
+  },
+  {
+   "text": "South Korea's Kospi sinks over 12% to clock its worst day as Iran conflict fuels risk-off sentiment",
+   "src": "CNBC(news_search, 제목만)",
+   "pub": "2026-03-03"
+  },
+  {
+   "text": "칩 9/9 내림, 장비·소재 8/8(-5.19%p), 서버·부품 19/22(-3.18%p) — 기사 논조도 장비 -1.99, 서버 -1.29",
+   "src": "mid 계산 · newsstat",
+   "pub": "2026-03-03"
+  },
+  {
+   "text": "전력·냉각 설비 기사 논조 +0.48, 발전 +0.16, 공사 +2.08 — 전력 쪽을 내리는 문맥으로 든 제목 없음",
+   "src": "newsstat",
+   "pub": "2026-03-03"
+  },
+  {
+   "text": "앞 5거래일 전력 쪽은 칩과 같은 쪽으로 움직임(02-26 칩 -3.55·전력 -1.25, 02-27 -1.08·-0.91)",
+   "src": "pre",
+   "pub": "2026-03-02"
+  }
+ ],
+ "conditions": {
+  "a": false,
+  "b": false,
+  "c": true,
+  "d": true,
+  "e": false
+ },
+ "verdict": "넘긴다",
+ "confidence": "낮음",
+ "counter": "번진다 쪽: 장비 8/8·서버 19/22 로 칩 밖 중간 단계까지 넓게 빠졌고 앞 며칠 전력 쪽이 칩과 같이 움직였음. 위험 회피 장세면 많이 오른 AI 묶음이 함께 팔림. 안 번진다 쪽: 까닭 기사는 메모리 값과 이란 분쟁이고 전력 쪽 기사 논조는 양수. 분쟁은 에너지·발전 종목에는 오히려 오르는 까닭일 수 있음.",
+ "dropped": 0,
+ "note": "(d)는 찼으나 (e)가 크게 어긋남.",
+ "written_at": "2026-11-12T00:45:04+09:00"
+}

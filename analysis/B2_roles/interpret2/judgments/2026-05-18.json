@@ -1,0 +1,37 @@
+{
+ "date": "2026-05-18",
+ "seen": [
+  "pack: cases/2026-05-18/materials.md 기사 제목 12개(2026-05-18 UTC)·공시 0건",
+  "mid: prices_long.csv.gz 2026-05-18 까지",
+  "news_search 「chip stocks fall semiconductor selloff」 after 2026-05-17 before 2026-05-19 — 1건(CNBC 2026-05-18)",
+  "newsstat: news/2026-05-18.json"
+ ],
+ "tools": [
+  {
+   "name": "mid",
+   "why": "늘 봄"
+  },
+  {
+   "name": "news_search",
+   "why": "pack 제목이 「왜 마이크론이 빠졌나」만 묻고 까닭을 안 대서"
+  },
+  {
+   "name": "newsstat",
+   "why": "까닭이 메모리 쪽으로 나왔는데 서버·부품이 -2.79%p 라, 전력 쪽에 나쁜 소식이 따로 있는지 보려고"
+  }
+ ],
+ "cause": "칩 고유",
+ "evidence": [
+  "CNBC 2026-05-18 「Seagate sparks memory sell-off as CEO says it would 'take too long' to build new factories」",
+  "fool.com · yahoo.com 2026-05-18 「Why Did Micron Stock Drop Today?」(제목에 까닭 없음)",
+  "financialcontent.com 2026-05-18 「Himax, Western Digital, and Amkor Shares Are Falling, What You Need To Know」",
+  "mid: SPY -0.07% 인데 칩 9/9 · 장비·소재 8/8 · 서버·부품 18/22 가 시장보다 더 빠짐. 서버·부품 시장 대비 -2.79%p(루멘텀 -8.8 · 코닝 -6.9 · 씨게이트 -6.9)",
+  "newsstat: 전력·냉각 설비 기사 37건 어조 -0.83(이튼 13건 · 커민스 10건), 발전 +0.35"
+ ],
+ "verdict": "사람에게 넘긴다",
+ "confidence": "낮음",
+ "counter": "「번진다」 쪽: 서버·부품이 시장보다 2.8%p 더 빠졌고 전력·냉각 설비 기사 어조가 음수였다. 씨게이트 대표의 「공장을 새로 짓기엔 너무 오래 걸린다」는 말은 AI 설비가 늘 속도 자체의 한계로 읽을 수도 있다. 「안 번진다」 쪽: 까닭을 직접 댄 출처는 CNBC 하나이고 메모리·저장장치 이야기다. 같은 날 시장은 이란 제재 완화 기대로 버텼다(proactiveinvestors).",
+ "note": "조건: (다) 칩 고유이나 까닭을 직접 댄 출처가 하나뿐이고 S=-2.79 ≤ -1.0 → 넘김. 도구 3번.",
+ "dropped": 0,
+ "written_at": "2026-11-12T00:45:48+09:00"
+}

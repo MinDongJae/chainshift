@@ -1,0 +1,341 @@
+{
+ "window_utc": [
+  "20260715000000",
+  "20260715234500"
+ ],
+ "files": 96,
+ "missing": [],
+ "records": 121537,
+ "hit_records": 373,
+ "by_stage": {
+  "데이터센터 공사": {
+   "n": 5,
+   "tone": 0.57,
+   "dc": 0
+  },
+  "반도체 장비·소재": {
+   "n": 53,
+   "tone": 1.39,
+   "dc": 0
+  },
+  "발전": {
+   "n": 1,
+   "tone": 0.17,
+   "dc": 0
+  },
+  "서버·네트워크·부품": {
+   "n": 42,
+   "tone": 0.39,
+   "dc": 0
+  },
+  "전력·냉각 설비": {
+   "n": 28,
+   "tone": 0.61,
+   "dc": 1
+  },
+  "칩": {
+   "n": 268,
+   "tone": 0.42,
+   "dc": 3
+  }
+ },
+ "by_company": {
+  "MU": 122,
+  "NVDA": 71,
+  "LRCX": 41,
+  "INTC": 32,
+  "AMAT": 31,
+  "AMD": 30,
+  "WDC": 19,
+  "AVGO": 16,
+  "BE": 9,
+  "ANET": 9,
+  "TSEM": 8,
+  "CMI": 8,
+  "MRVL": 7,
+  "CAT": 6,
+  "PWR": 5,
+  "SMCI": 5,
+  "ETN": 4,
+  "LOGI": 4,
+  "STX": 3,
+  "CSCO": 3,
+  "Q": 1,
+  "CEG": 1,
+  "CRDO": 1,
+  "CLS": 1,
+  "TER": 1,
+  "JCI": 1
+ },
+ "dc_hit_records": 4,
+ "unique_titles": 293,
+ "top": [
+  {
+   "t": "20260715234500",
+   "title": "VLUE vs. VTV: Does the Value Factor Beat Just Buying Vanguard's Value ETF?",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/vlue-vs-vtv-does-value-153510073.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "AMAT",
+    "WDC"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -1.25,
+   "dc": false,
+   "score": 9
+  },
+  {
+   "t": "20260715204500",
+   "title": "US stocks give up gains and now down on the day",
+   "url": "https://investinglive.com:443/stocks/us-stocks-give-up-gains-and-now-down-on-the-day",
+   "src": "investinglive.com",
+   "ticks": [
+    "MRVL",
+    "LRCX",
+    "ANET"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -1.19,
+   "dc": false,
+   "score": 9
+  },
+  {
+   "t": "20260715120000",
+   "title": "Momentum Investors Are Winning, but Not by Betting on Quality",
+   "url": "https://www.morningstar.com/stocks/momentum-investors-are-winning-not-by-betting-quality",
+   "src": "morningstar.com",
+   "ticks": [
+    "LRCX",
+    "STX",
+    "BE"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품",
+    "전력·냉각 설비"
+   ],
+   "tone": 1.05,
+   "dc": false,
+   "score": 9
+  },
+  {
+   "t": "20260715234500",
+   "title": "Had You Bought This Magnificent Vanguard ETF at the Start of January, You'd Be Crushing the S&P 500 in 2026",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/had-bought-magnificent-vanguard-etf-153700954.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.68,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260715231500",
+   "title": "Baystreet.ca - TSX Enjoys Gains",
+   "url": "http://baystreet.ca/marketupdates/15214/TSX-Enjoys-Gains",
+   "src": "baystreet.ca",
+   "ticks": [
+    "MU",
+    "AMD",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.42,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260715230000",
+   "title": "Wall Street Rallies on Tech Gains, Inflation Data",
+   "url": "https://athens-times.com/wall-street-rallies-on-tech-gains-amid-cooling-inflation-data/",
+   "src": "athens-times.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -2.01,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260715193000",
+   "title": "FTSE 100 Live: Miners drag over China slowdown, oil softens despite new Iran strikes",
+   "url": "https://www.proactiveinvestors.co.uk/companies/news/1095460/ftse-100-live-miners-drag-over-china-slowdown-oil-softens-despite-new-iran-strikes-1095460.html",
+   "src": "proactiveinvestors.co.uk",
+   "ticks": [
+    "AMAT",
+    "LRCX",
+    "WDC"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품"
+   ],
+   "tone": -0.74,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260715170000",
+   "title": "The Magic Behind a Tap: Physical AI At Your Fingertips",
+   "url": "https://www.etftrends.com/artificial-intelligence-content-hub/magic-tap-physical-ai-fingertips/",
+   "src": "etftrends.com",
+   "ticks": [
+    "MRVL",
+    "CRDO",
+    "ANET"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 0.49,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260715163000",
+   "title": "Intel Shares Tumble Almost 6% as Chip Sector Selloff Deepens Ahead of Its July 23 Earnings Report Today",
+   "url": "https://www.ibtimes.com.au/intel-shares-drop-memory-chip-turmoil-oil-prices-1872371",
+   "src": "ibtimes.com.au",
+   "ticks": [
+    "MU",
+    "INTC",
+    "WDC"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -3.15,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260715011500",
+   "title": "SK Hynix South Korean shares jump 11% as Asia tech stocks rally",
+   "url": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
+   "src": "cnbc.com",
+   "ticks": [
+    "MU",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -3.08,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260715151500",
+   "title": "Prediction: SK Hynix Will Become the Next Nvidia",
+   "url": "https://www.fool.com/investing/2026/07/15/prediction-sk-hynix-will-become-the-next-nvidia/?source=iedfolrf0000001",
+   "src": "fool.com",
+   "ticks": [
+    "NVDA",
+    "MU",
+    "AMD"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 1.63,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20260715233000",
+   "title": "Oracle revises plans for massive Project Jupiter data center to reduce emissions",
+   "url": "https://www.kunr.org/2026-07-15/oracle-revises-plans-for-massive-project-jupiter-data-center-to-reduce-emissions",
+   "src": "kunr.org",
+   "ticks": [
+    "BE"
+   ],
+   "stages": [
+    "전력·냉각 설비"
+   ],
+   "tone": -2.62,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20260715231500",
+   "title": "Stocks Supported as Bond Yields Slide on Weak CPI Report",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-supported-bond-yields-slide-151520671.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.81,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260715223000",
+   "title": "Stocks Rally on Fed-Friendly CPI Report",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rally-fed-friendly-cpi-141304766.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.69,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260715213000",
+   "title": "4 Charts on the Not-so-Magnificent Seven",
+   "url": "https://www.morningstar.com/markets/4-charts-not-so-magnificent-seven",
+   "src": "morningstar.com",
+   "ticks": [
+    "MU",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.67,
+   "dc": false,
+   "score": 6
+  }
+ ],
+ "seconds": 323
+}

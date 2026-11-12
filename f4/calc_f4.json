@@ -1,0 +1,310 @@
+{
+ "inputs": {
+  "score": "analysis/B2_roles/score/score.json",
+  "judgments": [
+   "analysis/B2_roles/interpret/judgments",
+   "analysis/B2_roles/interpret2/judgments"
+  ],
+  "A3": "analysis/A3_hedge/RESULT.md",
+  "F": "analysis/F_dayhedge/RESULT.md",
+  "var": "analysis/H_var/var.json",
+  "chain": "data/mcp_kic_precheck/kic_precheck/data/chain.json",
+  "prices": "data/net/backtest/returns_long.csv.gz",
+  "sector": "data/net/net_result.json"
+ },
+ "exp18": {
+  "days": [
+   "2026-03-03",
+   "2026-03-30",
+   "2026-05-18",
+   "2026-06-16",
+   "2026-06-23",
+   "2026-07-01",
+   "2026-07-02",
+   "2026-07-07",
+   "2026-07-15",
+   "2026-07-16",
+   "2026-07-24",
+   "2026-07-28",
+   "2026-08-05",
+   "2026-08-18",
+   "2026-09-14",
+   "2026-10-08",
+   "2026-10-22",
+   "2026-10-30"
+  ],
+  "excluded": [
+   "2025-01-27",
+   "2025-04-09",
+   "2025-08-29",
+   "2025-10-14",
+   "2025-12-12",
+   "2026-02-04",
+   "2026-06-05"
+  ],
+  "truth_spread": 15,
+  "rows": {
+   "always": {
+    "days": 18,
+    "confirmed": 18,
+    "right": 15,
+    "wrong": 3,
+    "handed": 0
+   },
+   "server": {
+    "days": 18,
+    "confirmed": 18,
+    "right": 16,
+    "wrong": 2,
+    "handed": 0
+   },
+   "i1": {
+    "days": 18,
+    "confirmed": 10,
+    "right": 10,
+    "wrong": 0,
+    "handed": 8
+   },
+   "i2": {
+    "days": 18,
+    "confirmed": 11,
+    "right": 11,
+    "wrong": 0,
+    "handed": 7
+   },
+   "both": {
+    "days": 18,
+    "confirmed": 10,
+    "right": 10,
+    "wrong": 0,
+    "handed": 8
+   }
+  },
+  "handed_pct_both": 44,
+  "handed_pct_both_25": 44
+ },
+ "hedge_effect_46": {
+  "left_pct": {
+   "자기 업종 펀드": 71,
+   "반도체 펀드": 43,
+   "두 펀드 함께": 38
+  },
+  "effect_pct": {
+   "자기 업종 펀드": 29,
+   "반도체 펀드": 57,
+   "두 펀드 함께": 62
+  },
+  "formula": "100 − (날마다 |헤지 뒤 손익| 합 ÷ 날마다 |헤지 전 손익| 합 × 100), 칩 충격일 46일 · 전력 쪽 19종목"
+ },
+ "hedge_effect_1104": {
+  "left_pct": {
+   "자기 업종 펀드": 75,
+   "반도체 펀드": 76,
+   "두 펀드 함께": 69
+  },
+  "effect_pct": {
+   "자기 업종 펀드": 25,
+   "반도체 펀드": 24,
+   "두 펀드 함께": 31
+  }
+ },
+ "per_year": {
+  "exceed_13m": 24,
+  "formula": "24 × 12 / 13",
+  "value": 22.2,
+  "shown": 22
+ },
+ "d1022_stocks": {
+  "total_musd": -130.5,
+  "top3": [
+   {
+    "t": "GEV",
+    "name": "GE VERNOVA INC",
+    "stage": "전력·냉각 설비",
+    "hold_musd": 278.3,
+    "ret_pct": -10.64,
+    "pnl_musd": -29.6
+   },
+   {
+    "t": "CAT",
+    "name": "CATERPILLAR INC",
+    "stage": "전력·냉각 설비",
+    "hold_musd": 359.4,
+    "ret_pct": -4.89,
+    "pnl_musd": -17.6
+   },
+   {
+    "t": "SEI",
+    "name": "SOLARIS ENERGY INFRAS INC",
+    "stage": "발전",
+    "hold_musd": 88.2,
+    "ret_pct": -15.51,
+    "pnl_musd": -13.7
+   }
+  ],
+  "top3_share_pct": 47,
+  "all": [
+   {
+    "t": "GEV",
+    "name": "GE VERNOVA INC",
+    "stage": "전력·냉각 설비",
+    "hold_musd": 278.3,
+    "ret_pct": -10.64,
+    "pnl_musd": -29.6
+   },
+   {
+    "t": "CAT",
+    "name": "CATERPILLAR INC",
+    "stage": "전력·냉각 설비",
+    "hold_musd": 359.4,
+    "ret_pct": -4.89,
+    "pnl_musd": -17.6
+   },
+   {
+    "t": "SEI",
+    "name": "SOLARIS ENERGY INFRAS INC",
+    "stage": "발전",
+    "hold_musd": 88.2,
+    "ret_pct": -15.51,
+    "pnl_musd": -13.7
+   },
+   {
+    "t": "PWR",
+    "name": "QUANTA SVCS INC",
+    "stage": "데이터센터 공사",
+    "hold_musd": 121.2,
+    "ret_pct": -8.1,
+    "pnl_musd": -9.8
+   },
+   {
+    "t": "VRT",
+    "name": "VERTIV HOLDINGS CO",
+    "stage": "전력·냉각 설비",
+    "hold_musd": 113.6,
+    "ret_pct": -7.81,
+    "pnl_musd": -8.9
+   },
+   {
+    "t": "ETN",
+    "name": "EATON CORP PLC",
+    "stage": "전력·냉각 설비",
+    "hold_musd": 126.4,
+    "ret_pct": -6.33,
+    "pnl_musd": -8.0
+   },
+   {
+    "t": "FIX",
+    "name": "COMFORT SYS USA INC",
+    "stage": "데이터센터 공사",
+    "hold_musd": 92.0,
+    "ret_pct": -8.7,
+    "pnl_musd": -8.0
+   },
+   {
+    "t": "VST",
+    "name": "VISTRA CORP",
+    "stage": "발전",
+    "hold_musd": 76.7,
+    "ret_pct": -9.81,
+    "pnl_musd": -7.5
+   },
+   {
+    "t": "BE",
+    "name": "BLOOM ENERGY CORP",
+    "stage": "전력·냉각 설비",
+    "hold_musd": 56.6,
+    "ret_pct": -8.7,
+    "pnl_musd": -4.9
+   },
+   {
+    "t": "JCI",
+    "name": "JOHNSON CONTROLS INTERNATION",
+    "stage": "전력·냉각 설비",
+    "hold_musd": 88.5,
+    "ret_pct": -5.31,
+    "pnl_musd": -4.7
+   },
+   {
+    "t": "CMI",
+    "name": "CUMMINS INC",
+    "stage": "전력·냉각 설비",
+    "hold_musd": 92.8,
+    "ret_pct": -4.18,
+    "pnl_musd": -3.9
+   },
+   {
+    "t": "CEG",
+    "name": "CONSTELLATION ENERGY CORP",
+    "stage": "발전",
+    "hold_musd": 65.6,
+    "ret_pct": -5.74,
+    "pnl_musd": -3.8
+   },
+   {
+    "t": "TT",
+    "name": "TRANE TECHNOLOGIES PLC",
+    "stage": "전력·냉각 설비",
+    "hold_musd": 73.2,
+    "ret_pct": -4.8,
+    "pnl_musd": -3.5
+   },
+   {
+    "t": "EME",
+    "name": "EMCOR GROUP INC",
+    "stage": "데이터센터 공사",
+    "hold_musd": 42.6,
+    "ret_pct": -5.54,
+    "pnl_musd": -2.4
+   },
+   {
+    "t": "HUBB",
+    "name": "HUBBELL INC",
+    "stage": "전력·냉각 설비",
+    "hold_musd": 37.4,
+    "ret_pct": -3.25,
+    "pnl_musd": -1.2
+   },
+   {
+    "t": "MTZ",
+    "name": "MASTEC INC",
+    "stage": "데이터센터 공사",
+    "hold_musd": 19.0,
+    "ret_pct": -5.2,
+    "pnl_musd": -1.0
+   },
+   {
+    "t": "NRG",
+    "name": "NRG ENERGY INC",
+    "stage": "발전",
+    "hold_musd": 17.2,
+    "ret_pct": -5.43,
+    "pnl_musd": -0.9
+   },
+   {
+    "t": "CW",
+    "name": "CURTISS WRIGHT CORP",
+    "stage": "전력·냉각 설비",
+    "hold_musd": 20.1,
+    "ret_pct": -4.03,
+    "pnl_musd": -0.8
+   },
+   {
+    "t": "BWXT",
+    "name": "BWX TECHNOLOGIES INC",
+    "stage": "전력·냉각 설비",
+    "hold_musd": 5.3,
+    "ret_pct": -5.78,
+    "pnl_musd": -0.3
+   }
+  ]
+ },
+ "power19_sector": {
+  "산업재": 15,
+  "에너지": 1,
+  "유틸리티": 3
+ },
+ "vrt_etn_sector": [
+  "산업재",
+  "산업재"
+ ]
+}

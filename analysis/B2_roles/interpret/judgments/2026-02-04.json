@@ -1,0 +1,82 @@
+{
+ "date": "2026-02-04",
+ "seen": [
+  {
+   "name": "pack(cases/2026-02-04/materials.md)",
+   "date": "2026-02-04"
+  },
+  {
+   "name": "mid(prices_long.csv.gz)",
+   "date": "2026-02-04"
+  },
+  {
+   "name": "newsstat(news/2026-02-04.json)",
+   "date": "2026-02-04"
+  },
+  {
+   "name": "pre(prices_long.csv.gz 2026-01-28~02-03)",
+   "date": "2026-02-03"
+  }
+ ],
+ "tools": [
+  {
+   "tool": "newsstat",
+   "why": "'AI 걱정'이라는 까닭과 AMD 실적이라는 까닭이 함께 나와, 전력·데이터센터 쪽이 기사에 나오는지 확인"
+  },
+  {
+   "tool": "pre",
+   "why": "다우는 오르고 나스닥만 내린 날이라, 앞 며칠 전력 쪽이 칩과 같이 움직였는지 확인"
+  }
+ ],
+ "cause": "AI 투자 전반",
+ "evidence": [
+  {
+   "text": "Wall Street ends down as AI worries slam tech stocks",
+   "src": "businesstimes.com.sg N11",
+   "pub": "2026-02-04"
+  },
+  {
+   "text": "Why Nvidia, AMD, Palantir and Intel crashed today: what's happening with AI stocks as Nasdaq falls over 300 points",
+   "src": "indiatimes.com N4",
+   "pub": "2026-02-04"
+  },
+  {
+   "text": "S&P rings up 5th loss in 6 days as tech stocks drag index down, led by AMD's 17.3% drop",
+   "src": "fortune.com N10",
+   "pub": "2026-02-04"
+  },
+  {
+   "text": "Chip Company Drops 17.3% Despite Strong Profit Report",
+   "src": "newser.com(newsstat)",
+   "pub": "2026-02-04"
+  },
+  {
+   "text": "Dow Rises 260, Nasdaq Drops 351, S&P Falls 35",
+   "src": "tvnewscheck.com N8",
+   "pub": "2026-02-04"
+  },
+  {
+   "text": "칩 9/9 내림, 장비·소재 8/8 이 시장보다 더 빠짐(-4.23%p), 서버·부품 -1.49%p 15/22",
+   "src": "mid 계산",
+   "pub": "2026-02-04"
+  },
+  {
+   "text": "전날(02-03) 칩 -2.07% 인데 전력 쪽 +1.73%. 그날 전력·냉각 설비 기사 논조 +2.17",
+   "src": "pre · newsstat",
+   "pub": "2026-02-03 · 2026-02-04"
+  }
+ ],
+ "conditions": {
+  "a": true,
+  "b": false,
+  "c": true,
+  "d": true,
+  "e": false
+ },
+ "verdict": "넘긴다",
+ "confidence": "낮음",
+ "counter": "번진다 쪽: 칩 9/9·장비 8/8·서버 15/22 로 폭이 넓고 까닭을 'AI 걱정'으로 댄 출처가 둘. 안 번진다 쪽: 가장 큰 하락은 AMD 실적 반응이고, 다우가 오른 날이라 돈이 기술주에서 산업재로 옮겨 간 모양 — 전력 쪽은 전날 칩이 내릴 때 올랐고 그날 기사 논조도 양수.",
+ "dropped": 0,
+ "note": "(a)(c)가 찼으나 (d)도 성립해 엇갈림. 내 기울기는 '안 번진다' 쪽이지만 (e)가 안 차 조건대로 넘김.",
+ "written_at": "2026-11-12T00:44:38+09:00"
+}

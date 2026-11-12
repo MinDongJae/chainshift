@@ -1,0 +1,40 @@
+{
+ "date": "2026-10-08",
+ "interp": "번진다",
+ "interp_cause": "전력 쪽 시작",
+ "recheck": [
+  {
+   "ev": "E1 zerohedge.com 「Another One Bites The Dust: Nvidia-Backed Firmus Slashes IPO Price 25% As AI Data Center Window Slams Shut」",
+   "result": "pack N7 에 있음. 19:30 UTC — 마감(20:00) 30분 전. 데이터센터 운영사의 상장 값 인하 — (b)에 듦"
+  },
+  {
+   "ev": "E2 ksevradio.com 「Australian Nvidia-backed AI data centre operator Firmus scraps $5 billion IPO」",
+   "result": "pack N3 에 있음. 23:45 UTC — 마감 뒤라 K2 로 뺌(상장 철회는 마감 뒤에 나온 소식)"
+  },
+  {
+   "ev": "E3 zerohedge.com · thenextweb.com 「Oracle Is Now Trucking Natural Gas To Its AI Data Centers」",
+   "result": "pack N5·N6 에 있음. 20:45 UTC(마감 뒤) · 20:00 UTC(마감 시각) — 뺌"
+  },
+  {
+   "ev": "E4 techtimes.com 「Memory Stocks Slip: Micron Strike Risk, Softer NAND Prices, Toshiba Capacity Bet」",
+   "result": "pack N12 에 있음. 01:15 UTC — 마감 전. 칩 고유(메모리) 쪽 발행처 1곳"
+  },
+  {
+   "ev": "E5 칩 9/9(-5.07%), 장비 6/8(-1.98%p), 서버·부품 20/22(-2.46%p)",
+   "result": "다시 계산해 같음. 서버·부품 가운데값 -1.77%p · 나쁜 셋 뺀 평균 -1.77%p — K6 아님"
+  }
+ ],
+ "counter": "news_search 「why chip stocks fell today Nvidia Intel Astera semiconductor selloff」(2026-10-08) 0건 — 그날 칩 하락의 까닭을 직접 대는 기사를 어느 쪽으로도 못 찾음. 칩 고유 쪽은 techtimes 한 곳(2곳이 안 됨). 약한 점: (b)가 마감 30분 전 기사 한 건(zerohedge)에만 서 있고, 그 기사와 칩 하락을 잇는 것은 해석의 읽기(해석도 그렇게 적음).",
+ "final": "번진다",
+ "cause": "전력 쪽 시작",
+ "changed": false,
+ "why": "마감 뒤 근거 2건을 빼도 (b)는 zerohedge 19:30 한 건으로 서고 (c)는 20/22 로 넓어 둘이 남음. 칩 고유 까닭 발행처는 1곳이라 엇갈림 조건에 안 걸림. 미리 적은 바꾸는 조건 어느 것에도 안 걸려 그대로 둠 — 다만 가까스로.",
+ "conf": "낮음",
+ "conf_why": "(b)의 근거가 한 건이고 까닭을 대는 출처가 없음. 해석의 '중간'에서 낮춤. 까닭 갈래 '전력 쪽 시작'은 확인하지 못함.",
+ "tools": [
+  "newsstat",
+  "news_search"
+ ],
+ "dropped": 2,
+ "written_at": "2026-11-12T01:04:29+09:00"
+}

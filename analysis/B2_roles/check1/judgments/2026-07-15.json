@@ -1,0 +1,36 @@
+{
+ "date": "2026-07-15",
+ "interp": "넘긴다",
+ "interp_cause": "규칙이 잘못 고른 날",
+ "recheck": [
+  {
+   "ev": "E1 ibtimes.com.au 「Intel Shares Tumble Almost 6% as Chip Sector Selloff Deepens Ahead of Its July 23 Earnings Report Today」",
+   "result": "pack N9 에 있음. 16:30 UTC — 마감(20:00) 전. 까닭은 '칩 업종 매도가 깊어짐'까지만"
+  },
+  {
+   "ev": "E2 yahoo.com 「Stocks Rally on Fed-Friendly CPI Report」",
+   "result": "기사 파일에 있음. 22:30 UTC — 마감 뒤(해석도 그렇게 적음), 뺌"
+  },
+  {
+   "ev": "E3 칩 7/9(-3.37%), 서버·부품 -4.31%(시장 대비 -4.71%p, 21/22)",
+   "result": "다시 계산해 같음. 서버·부품 가운데값 -4.42%p — 칩(시장 대비 -3.77%p)보다 깊고 넓음. 장비·소재도 8/8"
+  },
+  {
+   "ev": "E4 앞 이틀 칩·전력 쪽 같은 쪽",
+   "result": "나는 전력 칸을 안 찍어 다시 확인하지 않음. 07-13·07-14 는 충격일이 아님"
+  }
+ ],
+ "counter": "news_search 2번. ① 「Dell NetApp Pure Storage Western Digital stock drop today why」(2026-07-15) 1건: AlphaStreet 「Sandisk Plunges 10.6% Amid Sector-Wide Selling」(제목만) — '업종 전체 매도'라 할 뿐 까닭 없음. ② 「chip sector selloff deepens memory hardware stocks AI demand concern」 0건. AI 투자 전반 · 전력 쪽 · 칩 고유 어느 까닭도 발행처 2곳이 안 됨.",
+ "final": "넘긴다",
+ "cause": "규칙이 잘못 고른 날",
+ "changed": false,
+ "why": "까닭 출처가 모자라 넘긴 날 — 검색 2번을 더 해도 까닭을 대는 발행처가 어느 쪽도 2곳이 안 됨. 서버·부품이 칩보다 더 깊게 빠진 것은 눈에 띄지만 숫자만으로는 확정하지 않는다고 미리 적음.",
+ "conf": "낮음",
+ "tools": [
+  "newsstat",
+  "news_search",
+  "news_search"
+ ],
+ "dropped": 1,
+ "written_at": "2026-11-12T01:01:34+09:00"
+}

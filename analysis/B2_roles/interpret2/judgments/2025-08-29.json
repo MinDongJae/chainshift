@@ -1,0 +1,33 @@
+{
+ "date": "2025-08-29",
+ "seen": [
+  "pack: cases/2025-08-29/materials.md 기사 제목 12개(2025-08-29 UTC)·공시 16줄 중 8줄(NVDA 08-27, MRVL·DELL 08-28, NTAP 08-27)",
+  "mid: prices_long.csv.gz 2025-08-29 까지",
+  "newsstat: news/2025-08-29.json"
+ ],
+ "tools": [
+  {
+   "name": "mid",
+   "why": "늘 봄"
+  },
+  {
+   "name": "newsstat",
+   "why": "까닭은 칩 고유(마벨 실적·중국 생산 규제)인데 서버·부품이 -2.47%p 로 같이 빠져 조건이 엇갈림 — 전력·데이터센터 쪽에 나쁜 소식이 따로 있는지 찾으려고"
+  }
+ ],
+ "cause": "칩 고유",
+ "evidence": [
+  "biztoc.com 2025-08-29 「Marvell stock slumps 16% after data center revenue, forecast disappoint」",
+  "scmp.com 2025-08-29 「US restricts Samsung, Intel, SK Hynix chip production in China」",
+  "nikkei.com 2025-08-29 「US to make it harder for Intel, SK Hynix and Samsung to produce chips in China」",
+  "investopedia.com 2025-08-29 「S&P 500, Dow Retreat From Record Highs as Tech Stocks Tumble; Nvidia, Broadcom Lead Chip Sector Slump」",
+  "mid: 마벨 -18.6% 가 칩 평균을 끌어내렸지만 9종목 모두 내림. 서버·부품 시장 대비 -2.47%p(18/22 가 시장보다 더 빠짐, DELL -8.9 는 자기 실적 다음 날)",
+  "newsstat: 전력·냉각 설비 기사 42건 어조 +0.02, 데이터센터 공사 0건 — 전력 쪽 나쁜 소식은 못 찾음. CAT 은 「Top Stock Movers」에 따로 나옴"
+ ],
+ "verdict": "사람에게 넘긴다",
+ "confidence": "낮음",
+ "counter": "마벨이 빠진 까닭이 「데이터센터 매출 실망」이라 AI 투자 전반으로 읽을 수도 있고, 그렇게 읽으면 서버·부품 -2.47%p 와 합쳐 「번진다」 조건이 된다. 반대로 서버·부품 약세는 델 실적 한 건(-8.9%)과 물가 걱정(proactiveinvestors 「renewed inflation fears」)으로도 설명된다.",
+ "note": "조건: (다) 칩 고유·출처 셋 이상인데 S=-2.47 ≤ -1.0 → 엇갈려 넘김. leaked.txt 에 있는 날(번짐이라고 미리 봄) — 그 앎을 쓰지 않고 조건대로 씀.",
+ "dropped": 0,
+ "written_at": "2026-11-12T00:43:26+09:00"
+}

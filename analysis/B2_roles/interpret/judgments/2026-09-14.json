@@ -1,0 +1,69 @@
+{
+ "date": "2026-09-14",
+ "seen": [
+  {
+   "name": "pack(cases/2026-09-14/materials.md)",
+   "date": "2026-09-14"
+  },
+  {
+   "name": "mid(prices_long.csv.gz)",
+   "date": "2026-09-14"
+  },
+  {
+   "name": "newsstat(news/2026-09-14.json)",
+   "date": "2026-09-14"
+  }
+ ],
+ "tools": [
+  {
+   "tool": "newsstat",
+   "why": "바탕 자료로 (a)(c)가 찼으므로 전력 쪽 논조와 반대 근거를 한 번 확인"
+  }
+ ],
+ "cause": "AI 투자 전반",
+ "evidence": [
+  {
+   "text": "AI and chip stocks tumble as weekend warnings challenge the sector's growth assumptions",
+   "src": "investinglive.com N6",
+   "pub": "2026-09-14"
+  },
+  {
+   "text": "Global AI stocks fall as industry chiefs call for slowing development",
+   "src": "livemint.com N4",
+   "pub": "2026-09-14"
+  },
+  {
+   "text": "SanDisk Shares Sink 5.18% as DeepSeek's Leaner AI Model Rattles Memory Chip Stocks Worldwide Once Again",
+   "src": "ibtimes.com.au N10",
+   "pub": "2026-09-14"
+  },
+  {
+   "text": "Oil tops $100 as higher yields and AI worries pressure stocks",
+   "src": "investinglive.com N1",
+   "pub": "2026-09-14"
+  },
+  {
+   "text": "칩 9/9(-6.66%), 장비 8/8(-7.91%p), 서버·부품 22/22(-6.28%p)",
+   "src": "mid 계산",
+   "pub": "2026-09-14"
+  },
+  {
+   "text": "전력·냉각 설비 기사 41건 논조 -1.65(그 가운데 데이터센터 낱말 4건)",
+   "src": "newsstat",
+   "pub": "2026-09-14"
+  }
+ ],
+ "conditions": {
+  "a": true,
+  "b": false,
+  "c": true,
+  "d": false,
+  "e": false
+ },
+ "verdict": "번진다",
+ "confidence": "중간",
+ "counter": "전력 쪽 회사를 이름으로 든 하락 제목은 못 봄((b) 미충족 — 논조 수치만 음수). 발전 기사 논조 +1.94, 유가가 100달러를 넘은 날이라 에너지·발전 종목은 다른 까닭으로 오를 수 있음. 시장 전체는 -0.45% 로 작게 빠짐.",
+ "dropped": 0,
+ "note": "까닭이 'AI 개발 속도를 늦추자는 업계 발언'과 '덜 쓰는 모델' — 데이터센터 투자 전체의 성장 가정을 흔드는 내용. 조건표로는 (b)가 빠져 '중간'이지만 반대 근거는 약함.",
+ "written_at": "2026-11-12T00:50:39+09:00"
+}

@@ -1,0 +1,77 @@
+{
+ "date": "2025-08-29",
+ "seen": [
+  {
+   "name": "pack(cases/2025-08-29/materials.md)",
+   "date": "2025-08-29"
+  },
+  {
+   "name": "mid(prices_long.csv.gz)",
+   "date": "2025-08-29"
+  },
+  {
+   "name": "newsstat(news/2025-08-29.json)",
+   "date": "2025-08-29"
+  },
+  {
+   "name": "news_search 'chip stocks fall Marvell Dell AI data center spending' → Reuters 'S&P 500 ends lower as Dell and Nvidia drop' (제목만)",
+   "date": "2025-08-29"
+  }
+ ],
+ "tools": [
+  {
+   "tool": "newsstat",
+   "why": "까닭은 칩 고유로 보이는데 서버·부품도 빠져 엇갈림 — 전력·데이터센터 쪽이 기사에 나오는지 확인"
+  },
+  {
+   "tool": "news_search",
+   "why": "그날 하락을 AI 투자 전반으로 댄 출처가 있는지 반대 근거 찾기(before=2025-08-30)"
+  }
+ ],
+ "cause": "칩 고유",
+ "evidence": [
+  {
+   "text": "Marvell stock slumps 16% after data center revenue, forecast disappoint",
+   "src": "biztoc.com N12",
+   "pub": "2025-08-29"
+  },
+  {
+   "text": "US to make it harder for Intel, SK Hynix and Samsung to produce chips in China",
+   "src": "nikkei.com N7 · scmp.com N6",
+   "pub": "2025-08-29"
+  },
+  {
+   "text": "S&P 500 ends lower as Dell and Nvidia drop",
+   "src": "Reuters(news_search, 제목만)",
+   "pub": "2025-08-29"
+  },
+  {
+   "text": "S&P 500, Dow Jones retreat from record highs on renewed inflation fears",
+   "src": "proactiveinvestors.com(newsstat)",
+   "pub": "2025-08-29"
+  },
+  {
+   "text": "칩 9/9 내림(마벨 -18.6, 나머지 -2.3~-6.6). 서버·부품 시장 대비 -2.47%p, 18/22 가 시장보다 더 빠짐(DELL -8.9, CLS -8.3)",
+   "src": "mid 계산",
+   "pub": "2025-08-29"
+  },
+  {
+   "text": "전력·냉각 설비 기사 42건 논조 0.02, 데이터센터 낱말 1건 — 전력 쪽을 내리는 문맥으로 다룬 제목 없음",
+   "src": "newsstat",
+   "pub": "2025-08-29"
+  }
+ ],
+ "conditions": {
+  "a": false,
+  "b": false,
+  "c": true,
+  "d": true,
+  "e": false
+ },
+ "verdict": "넘긴다",
+ "confidence": "낮음",
+ "counter": "번진다 쪽: 마벨의 '데이터센터 매출 실망'과 델 실적 뒤 하락이 같은 날 겹쳐 서버·부품 18/22 가 시장보다 더 빠짐 — AI 장비 수요 전반의 눈높이 조정으로 읽을 수 있음. 안 번진다 쪽: 까닭 기사는 모두 회사별 실적·중국 생산 규제이고 전력 쪽을 든 기사가 없음.",
+ "dropped": 0,
+ "note": "(d)는 찼으나 (e)가 안 참 — 조건이 엇갈려 넘김.",
+ "written_at": "2026-11-12T00:43:34+09:00"
+}

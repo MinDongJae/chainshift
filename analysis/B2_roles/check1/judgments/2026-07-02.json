@@ -1,0 +1,42 @@
+{
+ "date": "2026-07-02",
+ "interp": "번진다",
+ "interp_cause": "AI 투자 전반",
+ "recheck": [
+  {
+   "ev": "E1 yahoo.com 「Stocks Fall on Weakness in Chipmakers and AI Stocks」",
+   "result": "pack N3 에 있음. 22:15 UTC — 마감(20:00) 뒤라 K2 로 뺌. (a)를 받친 유일한 제목이었음"
+  },
+  {
+   "ev": "E2 ibtimes.co.uk 「Why Michael Burry's Caterpillar Short Is Bigger News Than His AI Bets Against Nvidia and Tesla」",
+   "result": "pack N4 에 있음. 11:15 UTC — 마감 전. 전력·냉각 설비 종목 캐터필러가 공매도 대상 — (b)에 글자로 듦"
+  },
+  {
+   "ev": "E3 memeburn.com 「Chip Stocks Sell Off to Start Q3 After Record $2 Trillion Rally」",
+   "result": "pack N12 에 있음. 17:45 UTC — 마감 전. 까닭은 '칩 주식의 기록적 상승 뒤 매도'"
+  },
+  {
+   "ev": "E4 indiatimes.com 「Micron, Intel and other chip stocks fall up to 11% after record-breaking rally」",
+   "result": "pack N5 에 있음. 17:30 UTC — 마감 전. 같은 까닭"
+  },
+  {
+   "ev": "E5 칩 9/9(-5.75%), 장비 8/8(-8.78%p), 서버·부품 22/22(-6.14%p)",
+   "result": "다시 계산해 같음. 넓은 하락, K6 아님"
+  },
+  {
+   "ev": "E6 전날까지 전력 쪽이 칩과 같은 쪽(07-01 칩 -6.67·전력 -4.17)",
+   "result": "K5 로 뺌 — 07-01 은 충격일이라 그 전력 값은 앞 날 채점 값. 나는 다시 계산하지 않았고 이 값을 판정에 쓰지 않음(leaked.txt 에 적음)"
+  }
+ ],
+ "counter": "K3 다른 까닭: 마감 전 발행처 2곳(memeburn 17:45 · indiatimes 17:30)이 까닭을 '칩 주식이 기록적으로 오른 뒤의 매도'로 댐 — AI 데이터센터 투자 전반이 아니라 칩 주식에 한정된 되돌림. 같은 시각대 newsday 15:45 「Most U.S. stocks climb..., but drops for tech keep indexes mixed」 · indiatimes 15:30 「Dow jumps 400 points」는 칩 밖 종목이 오른 날임을 말함. AI 투자 전반을 까닭으로 대는 마감 전 기사는 못 찾음.",
+ "final": "넘긴다",
+ "cause": "칩 고유",
+ "changed": true,
+ "why": "E1(마감 뒤)·E6(앞 충격일 전력 값)을 빼면 (a) 발행처 0곳. 칩 쪽에 한정된 까닭을 대는 발행처가 2곳이라 '번진다→넘긴다' 둘째 조건(엇갈림)에 걸림. 남는 번진다 쪽 근거는 (b) 캐터필러 공매도 한 건과 (c) 넓은 하락(22/22)이라 '안 번진다'로도 못 감.",
+ "conf": "낮음",
+ "tools": [
+  "newsstat"
+ ],
+ "dropped": 2,
+ "written_at": "2026-11-12T01:00:52+09:00"
+}

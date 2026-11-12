@@ -1,0 +1,330 @@
+{
+ "window_utc": [
+  "20261022000000",
+  "20261022234500"
+ ],
+ "files": 96,
+ "missing": [],
+ "records": 118762,
+ "hit_records": 661,
+ "by_stage": {
+  "데이터센터 공사": {
+   "n": 6,
+   "tone": 1.82,
+   "dc": 0
+  },
+  "반도체 장비·소재": {
+   "n": 129,
+   "tone": -2.16,
+   "dc": 0
+  },
+  "발전": {
+   "n": 13,
+   "tone": 0.8,
+   "dc": 1
+  },
+  "서버·네트워크·부품": {
+   "n": 59,
+   "tone": 1.0,
+   "dc": 0
+  },
+  "전력·냉각 설비": {
+   "n": 47,
+   "tone": 0.29,
+   "dc": 0
+  },
+  "칩": {
+   "n": 435,
+   "tone": 0.73,
+   "dc": 11
+  }
+ },
+ "by_company": {
+  "NVDA": 331,
+  "INTC": 121,
+  "LRCX": 115,
+  "MU": 41,
+  "AMD": 29,
+  "SMCI": 28,
+  "BE": 23,
+  "WDC": 21,
+  "MRVL": 12,
+  "CEG": 12,
+  "CMI": 11,
+  "AMAT": 9,
+  "CAT": 8,
+  "PWR": 6,
+  "ETN": 5,
+  "Q": 5,
+  "ANET": 5,
+  "TER": 3,
+  "AVGO": 3,
+  "TSEM": 2,
+  "STX": 2,
+  "LOGI": 2,
+  "GEV": 2,
+  "CSCO": 2,
+  "CRDO": 2,
+  "SEI": 1,
+  "JCI": 1
+ },
+ "dc_hit_records": 12,
+ "unique_titles": 351,
+ "top": [
+  {
+   "t": "20261022103000",
+   "title": "24 AI Infrastructure Stocks Built to Hold up If Capex Slows: MS",
+   "url": "https://www.businessinsider.com/ai-infrastructure-stocks-to-buy-hyperscaler-spending-capex-2026-10",
+   "src": "businessinsider.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "WDC",
+    "STX",
+    "JCI",
+    "BE"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "전력·냉각 설비",
+    "칩"
+   ],
+   "tone": 1.17,
+   "dc": false,
+   "score": 15
+  },
+  {
+   "t": "20261022233000",
+   "title": "24-Year-Old's $45 Billion Hedge Fund Blows Up Days After Cramer Warned of the Dangers of Margin Trading",
+   "url": "https://www.aol.com/articles/24-old-45-billion-hedge-105608000.html",
+   "src": "aol.com",
+   "ticks": [
+    "AMD",
+    "MRVL",
+    "BE"
+   ],
+   "stages": [
+    "전력·냉각 설비",
+    "칩"
+   ],
+   "tone": -2.77,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20261022163000",
+   "title": "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
+   "url": "https://www.aol.com/articles/chip-stocks-fall-supply-warning-154508000.html",
+   "src": "aol.com",
+   "ticks": [
+    "INTC",
+    "MRVL",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -1.74,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20261022104500",
+   "title": "Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks",
+   "url": "https://www.aol.com/articles/nvidia-80-portfolio-invested-2-091302000.html",
+   "src": "aol.com",
+   "ticks": [
+    "NVDA",
+    "AMD",
+    "INTC"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 0.84,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20261022221500",
+   "title": "Stocks making the biggest moves in after hours: WDC, BE, DECK",
+   "url": "https://www.cnbc.com/2026/10/22/stocks-making-the-biggest-moves-in-after-hours-wdc-be-deck.html",
+   "src": "cnbc.com",
+   "ticks": [
+    "WDC",
+    "BE"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "전력·냉각 설비"
+   ],
+   "tone": 2.13,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20261022214500",
+   "title": "Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving",
+   "url": "https://www.investors.com:443/market-trend/stock-market-today/dow-jones-futures-moderna-crashes-meta-ai-stock-meltdown-warren-buffett-market/",
+   "src": "investors.com",
+   "ticks": [
+    "WDC",
+    "BE"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "전력·냉각 설비"
+   ],
+   "tone": 0.0,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20261022200000",
+   "title": "US is reviving shuttered nuclear plants to meet growing electricity demand, data centers",
+   "url": "https://cbs2iowa.com/news/local/us-is-reviving-shuttered-nuclear-plants-to-meet-growing-electricity-demand-data-centers",
+   "src": "cbs2iowa.com",
+   "ticks": [
+    "CEG"
+   ],
+   "stages": [
+    "발전"
+   ],
+   "tone": 0.26,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20261022194500",
+   "title": "Perfect storm behind the Nasdaq's rout. Plus, some bright spots in the market",
+   "url": "https://www.cnbc.com/investingclub/2026/10/22/perfect-storm-behind-the-nasdaqs-rout-plus-some-bright-spots-in-the-market.html",
+   "src": "cnbc.com",
+   "ticks": [
+    "WDC",
+    "BE"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "전력·냉각 설비"
+   ],
+   "tone": -0.12,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20261022180000",
+   "title": "NVIDIA Wants to Ship an AI Data Center in a Box",
+   "url": "https://thecherrycreeknews.com/nvidia-wants-to-ship-an-ai-data-center-in-a-box/",
+   "src": "thecherrycreeknews.com",
+   "ticks": [
+    "NVDA"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -4.26,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20261022180000",
+   "title": "Futures Slide As Market Runs Out Of AI Patience, Oil Jumps On Saudi Attacks",
+   "url": "https://www.zerohedge.com/markets/futures-slide-market-runs-out-ai-patience-oil-jumps-saudi-attacks",
+   "src": "zerohedge.com",
+   "ticks": [
+    "LRCX",
+    "BE"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "전력·냉각 설비"
+   ],
+   "tone": -1.72,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20261022174500",
+   "title": "Red Hat and NVIDIA Built AI Agent Security Controls Agents Cannot Override",
+   "url": "https://www.techtimes.com/articles/329365/20261022/red-hat-nvidia-built-ai-agent-security-controls-agents-cannot-override.htm",
+   "src": "techtimes.com",
+   "ticks": [
+    "NVDA",
+    "CSCO"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -2.92,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20261022171500",
+   "title": "Nvidia Unveils DSX POD Amid Greenpeace Protest",
+   "url": "https://www.datacenterknowledge.com/ai-data-centers/nvidia-unveils-dsx-pod-amid-greenpeace-protest",
+   "src": "datacenterknowledge.com",
+   "ticks": [
+    "NVDA"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -2.34,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20261022171500",
+   "title": "Stock Market Midday, Oct. 22: Tech Weakness Drags Nasdaq Lower as AI Spending Concerns Mount",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/10/22/stock-market-midday-oct-22-tech-weakness-drags-nasdaq-lower-as-ai-spending-concerns-mount/",
+   "src": "fool.com",
+   "ticks": [
+    "MU",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -5.42,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20261022164500",
+   "title": "NVIDIA launches Minerva to track faults across AI data centers",
+   "url": "https://econotimes.com/NVIDIA-launches-Minerva-to-track-faults-across-AI-data-centers-1760373",
+   "src": "econotimes.com",
+   "ticks": [
+    "NVDA"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -0.47,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20261022150000",
+   "title": "Bloom Energy vs. Constellation Energy: Which AI Power Stock Is the Better Buy?",
+   "url": "https://www.fool.com/investing/2026/10/22/bloom-energy-vs-constellation-energy-which-stock/",
+   "src": "fool.com",
+   "ticks": [
+    "BE",
+    "CEG"
+   ],
+   "stages": [
+    "발전",
+    "전력·냉각 설비"
+   ],
+   "tone": 0.94,
+   "dc": false,
+   "score": 6
+  }
+ ],
+ "seconds": 253
+}

@@ -1,0 +1,313 @@
+{
+ "window_utc": [
+  "20250409000000",
+  "20250409234500"
+ ],
+ "files": 96,
+ "missing": [],
+ "records": 151619,
+ "hit_records": 321,
+ "by_stage": {
+  "데이터센터 공사": {
+   "n": 5,
+   "tone": 1.53,
+   "dc": 0
+  },
+  "반도체 장비·소재": {
+   "n": 18,
+   "tone": 1.09,
+   "dc": 0
+  },
+  "발전": {
+   "n": 16,
+   "tone": -0.14,
+   "dc": 0
+  },
+  "서버·네트워크·부품": {
+   "n": 29,
+   "tone": 0.55,
+   "dc": 0
+  },
+  "전력·냉각 설비": {
+   "n": 38,
+   "tone": 0.64,
+   "dc": 0
+  },
+  "칩": {
+   "n": 222,
+   "tone": -0.37,
+   "dc": 5
+  }
+ },
+ "by_company": {
+  "NVDA": 152,
+  "INTC": 28,
+  "AMD": 18,
+  "CEG": 16,
+  "MU": 13,
+  "BE": 11,
+  "LRCX": 11,
+  "MRVL": 9,
+  "ETN": 8,
+  "ANET": 8,
+  "CMI": 7,
+  "AVGO": 7,
+  "WDC": 7,
+  "AMAT": 7,
+  "CSCO": 6,
+  "GEV": 6,
+  "PWR": 5,
+  "CAT": 5,
+  "SMCI": 4,
+  "LOGI": 3,
+  "JCI": 1,
+  "STX": 1
+ },
+ "dc_hit_records": 5,
+ "unique_titles": 219,
+ "top": [
+  {
+   "t": "20250409144500",
+   "title": "Wednesday's Wall Street analyst calls include Nvidia",
+   "url": "https://www.cnbc.com/2025/04/09/wednesdays-wall-street-analyst-calls-include-nvidia.html",
+   "src": "cnbc.com",
+   "ticks": [
+    "NVDA",
+    "BE",
+    "CEG"
+   ],
+   "stages": [
+    "발전",
+    "전력·냉각 설비",
+    "칩"
+   ],
+   "tone": 0.86,
+   "dc": false,
+   "score": 9
+  },
+  {
+   "t": "20250409071500",
+   "title": "Nvidia, Supermicro Surge as Chip and AI Stocks Rebound From Tariff Rout",
+   "url": "https://finance.yahoo.com/news/nvidia-supermicro-surge-chip-ai-194257820.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "NVDA",
+    "MU",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.75,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20250409203000",
+   "title": "Trump signs executive order to power AI data centers with coal energy",
+   "url": "https://www.theverge.com/energy/646011/trump-says-the-future-of-ai-is-powered-by-coal",
+   "src": "theverge.com",
+   "ticks": [
+    "MU"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -0.25,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20250409174500",
+   "title": "NVIDIA's China H20 AI GPUs Spared By Trump Admin In Return For US AI Data Center Investments",
+   "url": "https://wccftech.com/nvidias-china-h20-ai-gpus-spared-by-trump-admin-in-return-for-us-ai-data-center-investments-report/",
+   "src": "wccftech.com",
+   "ticks": [
+    "NVDA"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -0.41,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20250409161500",
+   "title": "Rep. Marjorie Taylor Greene Buys Caterpillar Inc. (NYSE:CAT) Stock",
+   "url": "https://www.themarketsdaily.com/2025/04/09/rep-marjorie-taylor-greene-buys-caterpillar-inc-nysecat-stock.html",
+   "src": "themarketsdaily.com",
+   "ticks": [
+    "LRCX",
+    "CAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "전력·냉각 설비"
+   ],
+   "tone": 1.17,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20250409151500",
+   "title": "Nvidia, Cassava's AI Factory in Africa Tie-Up to Cost $720M",
+   "url": "https://www.datacenterknowledge.com:443/data-center-chips/nvidia-cassavas-ai-factory-in-africa-tie-up",
+   "src": "datacenterknowledge.com",
+   "ticks": [
+    "NVDA"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 0.89,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20250409150000",
+   "title": "Nvidia Blackwell GPUs and Google Gemini models to be available via Google Distributed Cloud",
+   "url": "https://www.datacenterdynamics.com/en/news/nvidia-blackwell-gpus-and-google-gemini-models-to-be-available-via-google-distributed-cloud/",
+   "src": "datacenterdynamics.com",
+   "ticks": [
+    "NVDA"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 5.24,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20250409140000",
+   "title": "Top Solar Stocks To Follow Today &#x2013; April 6th",
+   "url": "https://www.modernreaders.com/news/2025/04/09/top-solar-stocks-to-follow-today-april-6th.html",
+   "src": "modernreaders.com",
+   "ticks": [
+    "GEV",
+    "CEG"
+   ],
+   "stages": [
+    "발전",
+    "전력·냉각 설비"
+   ],
+   "tone": 0.57,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20250409103000",
+   "title": "Promising Energy Stocks To Follow Today &#x2013; April 8th",
+   "url": "https://www.wkrb13.com/2025/04/09/promising-energy-stocks-to-follow-today-april-8th.html",
+   "src": "wkrb13.com",
+   "ticks": [
+    "GEV",
+    "CEG"
+   ],
+   "stages": [
+    "발전",
+    "전력·냉각 설비"
+   ],
+   "tone": 0.44,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20250409093000",
+   "title": "Nvidia and Palantir Are Down 37% and 41% From Their Respective All-Time High -- but It Isn't Time to Buy Just Yet",
+   "url": "https://www.fool.com/investing/2025/04/09/nvidia-palantir-down-37-and-41-isnt-time-to-buy/?source=iedfolrf0000001",
+   "src": "fool.com",
+   "ticks": [
+    "NVDA",
+    "CSCO"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -2.04,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20250409091500",
+   "title": "Anant Raj, Black Box, other data center stocks fall up to 6% as Nvidia stock falls, Nasdaq enters bear market zone",
+   "url": "https://www.moneycontrol.com/news/business/markets/anant-raj-black-box-other-data-center-stocks-fall-up-to-6-as-nvidia-stock-falls-nasdaq-enters-bear-market-zone-12989607.html",
+   "src": "moneycontrol.com",
+   "ticks": [
+    "NVDA"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -3.37,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20250409151500",
+   "title": "Is Nvidia's Artificial Intelligence (AI) Business Recession-Resistant?",
+   "url": "https://www.fool.com/investing/2025/04/09/nvda-stock-ai-business-recession-resistant/",
+   "src": "fool.com",
+   "ticks": [
+    "NVDA",
+    "INTC"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -2.05,
+   "dc": false,
+   "score": 5
+  },
+  {
+   "t": "20250409151500",
+   "title": "Prediction: This Artificial Intelligence (AI) Stock Will Be Worth More Than Nvidia in 2030",
+   "url": "https://www.fool.com/investing/2025/04/08/prediction-this-artificial-intelligence-ai-stock-w/",
+   "src": "fool.com",
+   "ticks": [
+    "NVDA",
+    "AMD"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 2.01,
+   "dc": false,
+   "score": 5
+  },
+  {
+   "t": "20250409231500",
+   "title": "NVIDIA : Micro Center",
+   "url": "https://www.microcenter.com/category/4294821460/nvidia",
+   "src": "microcenter.com",
+   "ticks": [
+    "NVDA"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 2.03,
+   "dc": false,
+   "score": 3
+  },
+  {
+   "t": "20250409230000",
+   "title": "Nvidia Chip Sales Continue in China After CEO's Visit to Mar-a-Lago",
+   "url": "https://gizmodo.com/nvidia-chip-sales-continue-in-china-after-ceos-visit-to-mar-a-lago-2000587241",
+   "src": "gizmodo.com",
+   "ticks": [
+    "NVDA"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -0.86,
+   "dc": false,
+   "score": 3
+  }
+ ],
+ "seconds": 302
+}

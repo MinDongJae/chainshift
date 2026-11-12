@@ -1,0 +1,259 @@
+{
+ "56_vs_58": {
+  "compared_stocks": 56,
+  "skipped": [
+   {
+    "ticker": "Q",
+    "why": "고른 날이나 전날 주가가 없음(상장 전 등)",
+    "holdings_usd_m": 23.62
+   },
+   {
+    "ticker": "SOLS",
+    "why": "고른 날이나 전날 주가가 없음(상장 전 등)",
+    "holdings_usd_m": 6.49
+   }
+  ],
+  "first_price_date": {
+   "Q": "2025-10-27",
+   "SOLS": "2025-10-20"
+  },
+  "source": "$CHAINSHIFT_DATA\\net\\holdings_panel\\raw\\stress_2025-01-27.json"
+ },
+ "24_vs_25": {
+  "list_days": 25,
+  "days_used": 24,
+  "days_missing": [
+   {
+    "date": "2026-10-30",
+    "why": "2026-10-30 주가가 없습니다(휴장일이거나 받아 둔 기간 밖, 받아 둔 끝 날 2026-10-29)"
+   }
+  ],
+  "price_source": "동봉 주가 사본(2024-10-02~2026-10-29)",
+  "source": [
+   "$CHAINSHIFT_DATA/proposal\\r2b\\analysis\\stress_scan.json",
+   "kic_precheck/data/shock_days.json"
+  ]
+ },
+ "530_vs_549": {
+  "all": 549,
+  "센 날": 530,
+  "평소 숫자가 손실이 아님(배수 없음)": 15,
+  "평소 숫자가 0.005억 달러보다 작은 손실이라 반올림 0.00": 4
+ },
+ "677_vs_674": {
+  "cusip_lines": 677,
+  "companies": 650,
+  "funds": 24,
+  "company_lines_sum_of_tickers": 653,
+  "companies_with_2plus_lines": {
+   "ALPHABET INC": [
+    "GOOG",
+    "GOOGL"
+   ],
+   "FOX CORP": [
+    "FOXA",
+    "FOX"
+   ],
+   "HEICO CORP NEW": [
+    "HEI",
+    "HEI-A"
+   ]
+  },
+  "issuers_with_2plus_cusips": {
+   "ALPHABET INC": 2,
+   "FOX CORP": 2,
+   "HEICO CORP NEW": 2,
+   "ISHARES INC": 12,
+   "ISHARES TR": 10
+  },
+  "fund_tickers": 24,
+  "types": {
+   "Common Stock": 612,
+   "Depositary Receipt": 13,
+   "REIT": 28,
+   "Mutual Fund": 24
+  }
+ },
+ "where_from": {
+  "19/26": [
+   "holdout.json full.groups_over1",
+   19,
+   26
+  ],
+  "13/17": [
+   "holdout.json holdout.groups_over1",
+   13,
+   17
+  ],
+  "11/11": [
+   "holdout.json sector.groups_over1",
+   11,
+   11
+  ],
+  "1.12": [
+   "holdout.json full.day_ratio_median (534 묶음-날의 중간값; 묶음 중간값들의 중간값은 1.1)",
+   1.12,
+   534
+  ],
+  "17/21": [
+   "stress_scan.json validation_summary",
+   17,
+   21
+  ]
+ },
+ "deepseek_total_W75": {
+  "prior_days_available": 78,
+  "W": 75,
+  "spy_pct": -1.41,
+  "전체|M1": {
+   "actual_e8": -14.06,
+   "pred_e8": -7.67,
+   "stocks": 628
+  },
+  "전체|M2": {
+   "actual_e8": -14.06,
+   "pred_e8": -12.3,
+   "stocks": 628
+  },
+  "전체|M3": {
+   "actual_e8": -14.06,
+   "pred_e8": -12.12,
+   "stocks": 628
+  },
+  "전체|M5": {
+   "actual_e8": -14.06,
+   "pred_e8": -13.33,
+   "stocks": 628
+  },
+  "AI 인프라 묶음|M1": {
+   "actual_e8": -15.11,
+   "pred_e8": -2.8,
+   "stocks": 56
+  },
+  "AI 인프라 묶음|M2": {
+   "actual_e8": -15.11,
+   "pred_e8": -11.23,
+   "stocks": 56
+  },
+  "AI 인프라 묶음|M3": {
+   "actual_e8": -15.11,
+   "pred_e8": -10.04,
+   "stocks": 56
+  },
+  "AI 인프라 묶음|M5": {
+   "actual_e8": -15.11,
+   "pred_e8": -11.71,
+   "stocks": 56
+  },
+  "AI 인프라 칩 뺀 종목|M1": {
+   "actual_e8": -5.17,
+   "pred_e8": -0.93,
+   "stocks": 47
+  },
+  "AI 인프라 칩 뺀 종목|M2": {
+   "actual_e8": -5.17,
+   "pred_e8": -3.54,
+   "stocks": 47
+  },
+  "AI 인프라 칩 뺀 종목|M3": {
+   "actual_e8": -5.17,
+   "pred_e8": -2.96,
+   "stocks": 47
+  },
+  "AI 인프라 칩 뺀 종목|M5": {
+   "actual_e8": -5.17,
+   "pred_e8": -2.9,
+   "stocks": 47
+  },
+  "AI 인프라 밖|M1": {
+   "actual_e8": 1.05,
+   "pred_e8": -4.88,
+   "stocks": 572
+  },
+  "AI 인프라 밖|M2": {
+   "actual_e8": 1.05,
+   "pred_e8": -1.07,
+   "stocks": 572
+  },
+  "AI 인프라 밖|M3": {
+   "actual_e8": 1.05,
+   "pred_e8": -2.08,
+   "stocks": 572
+  },
+  "AI 인프라 밖|M5": {
+   "actual_e8": 1.05,
+   "pred_e8": -1.62,
+   "stocks": 572
+  }
+ },
+ "regime_rolling250_median": {
+  "W250 전력 쪽 19종목": {
+   "n": 96,
+   "low_n": 18,
+   "low_worse": 8,
+   "low_worse_pct": 44.4,
+   "high_n": 78,
+   "high_worse": 45,
+   "high_worse_pct": 57.7,
+   "diff_pt": -13.2,
+   "perm_p_two_sided": 0.4316,
+   "fisher_p": 0.431,
+   "low_gap_mean_e8": 0.104,
+   "high_gap_mean_e8": 0.062,
+   "low_gap_sum_e8": 1.87,
+   "high_gap_sum_e8": 4.84,
+   "gap_perm_p_two_sided": 0.6291
+  },
+  "W250 칩 뺀 49종목": {
+   "n": 96,
+   "low_n": 18,
+   "low_worse": 10,
+   "low_worse_pct": 55.6,
+   "high_n": 78,
+   "high_worse": 46,
+   "high_worse_pct": 59.0,
+   "diff_pt": -3.4,
+   "perm_p_two_sided": 1.0,
+   "fisher_p": 0.797,
+   "low_gap_mean_e8": 0.134,
+   "high_gap_mean_e8": 0.183,
+   "low_gap_sum_e8": 2.41,
+   "high_gap_sum_e8": 14.3,
+   "gap_perm_p_two_sided": 0.7627
+  },
+  "W60 전력 쪽 19종목": {
+   "n": 96,
+   "low_n": 18,
+   "low_worse": 11,
+   "low_worse_pct": 61.1,
+   "high_n": 78,
+   "high_worse": 46,
+   "high_worse_pct": 59.0,
+   "diff_pt": 2.1,
+   "perm_p_two_sided": 1.0,
+   "fisher_p": 1.0,
+   "low_gap_mean_e8": 0.215,
+   "high_gap_mean_e8": 0.026,
+   "low_gap_sum_e8": 3.86,
+   "high_gap_sum_e8": 2.0,
+   "gap_perm_p_two_sided": 0.0449
+  },
+  "W60 칩 뺀 49종목": {
+   "n": 96,
+   "low_n": 18,
+   "low_worse": 11,
+   "low_worse_pct": 61.1,
+   "high_n": 78,
+   "high_worse": 44,
+   "high_worse_pct": 56.4,
+   "diff_pt": 4.7,
+   "perm_p_two_sided": 0.7969,
+   "fisher_p": 0.7957,
+   "low_gap_mean_e8": 0.285,
+   "high_gap_mean_e8": 0.095,
+   "low_gap_sum_e8": 5.13,
+   "high_gap_sum_e8": 7.37,
+   "gap_perm_p_two_sided": 0.2641
+  }
+ }
+}

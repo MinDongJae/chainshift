@@ -1,0 +1,114 @@
+{
+ "date": "2026-10-22",
+ "역할": "해석 A",
+ "까닭 갈래": "AI 투자 전반",
+ "근거 문장": [
+  {
+   "text": "Stock Market Midday, Oct. 22: Tech Weakness Drags Nasdaq Lower as AI Spending Concerns Mount",
+   "출처": "fool.com(newsstat, 17:15 UTC)",
+   "공개 시각": "2026-10-22"
+  },
+  {
+   "text": "Futures Slide As Market Runs Out Of AI Patience, Oil Jumps On Saudi Attacks",
+   "출처": "zerohedge.com N10",
+   "공개 시각": "2026-10-22"
+  },
+  {
+   "text": "Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving",
+   "출처": "investors.com N6",
+   "공개 시각": "2026-10-22"
+  },
+  {
+   "text": "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
+   "출처": "aol.com N3",
+   "공개 시각": "2026-10-22"
+  },
+  {
+   "text": "24 AI Infrastructure Stocks Built to Hold up If Capex Slows: MS",
+   "출처": "businessinsider.com N1",
+   "공개 시각": "2026-10-22"
+  },
+  {
+   "text": "칩 9/9(-8.13%), 장비 8/8(-8.45%p), 서버·부품 20/22(-5.21%p)",
+   "출처": "mid 계산",
+   "공개 시각": "2026-10-22"
+  }
+ ],
+ "판정": "번진다",
+ "확신": "중간",
+ "원본": {
+  "경로": "analysis/B2_roles/interpret/judgments/2026-10-22.json",
+  "원본을 쓴 시각": "2026-11-12T00:51:15+09:00",
+  "sha256": "df0723b95a497c09f497da54a41b9da5a91668382ef23cef748332105d07eb73",
+  "옮긴 시각": "2026-11-12T01:27:18+09:00",
+  "내용": {
+   "date": "2026-10-22",
+   "seen": [
+    {
+     "name": "pack(cases/2026-10-22/materials.md)",
+     "date": "2026-10-22"
+    },
+    {
+     "name": "mid(prices_long.csv.gz)",
+     "date": "2026-10-22"
+    },
+    {
+     "name": "newsstat(news/2026-10-22.json)",
+     "date": "2026-10-22"
+    }
+   ],
+   "tools": [
+    {
+     "tool": "newsstat",
+     "why": "바탕 자료로 (a)(c)가 찼으므로 전력 쪽 논조와 반대 근거를 한 번 확인"
+    }
+   ],
+   "cause": "AI 투자 전반",
+   "evidence": [
+    {
+     "text": "Stock Market Midday, Oct. 22: Tech Weakness Drags Nasdaq Lower as AI Spending Concerns Mount",
+     "src": "fool.com(newsstat, 17:15 UTC)",
+     "pub": "2026-10-22"
+    },
+    {
+     "text": "Futures Slide As Market Runs Out Of AI Patience, Oil Jumps On Saudi Attacks",
+     "src": "zerohedge.com N10",
+     "pub": "2026-10-22"
+    },
+    {
+     "text": "Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving",
+     "src": "investors.com N6",
+     "pub": "2026-10-22"
+    },
+    {
+     "text": "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
+     "src": "aol.com N3",
+     "pub": "2026-10-22"
+    },
+    {
+     "text": "24 AI Infrastructure Stocks Built to Hold up If Capex Slows: MS",
+     "src": "businessinsider.com N1",
+     "pub": "2026-10-22"
+    },
+    {
+     "text": "칩 9/9(-8.13%), 장비 8/8(-8.45%p), 서버·부품 20/22(-5.21%p)",
+     "src": "mid 계산",
+     "pub": "2026-10-22"
+    }
+   ],
+   "conditions": {
+    "a": true,
+    "b": false,
+    "c": true,
+    "d": false,
+    "e": false
+   },
+   "verdict": "번진다",
+   "confidence": "중간",
+   "counter": "전력 쪽 기사 논조는 음수가 아님(전력·냉각 설비 +0.29, 발전 +0.8, 공사 +1.82)이고 '문 닫은 원전을 다시 돌린다'(N7)는 전력 수요 기사가 같은 날 있음. '버핏식 시장은 잘 나간다'(N6)는 기술주 밖은 버텼다는 뜻. 모건스탠리의 '투자가 줄어도 버틸 AI 인프라 종목 24개'(N1)에 전력 쪽이 들었을 수 있음.",
+   "dropped": 0,
+   "note": "까닭이 메타 실적 뒤 'AI 지출 걱정' — 대형 구매자의 투자 계획을 다시 셈하는 날. 장 마감 뒤 기사(N5 '시간 외 움직임: WDC, BE')는 근거로 쓰지 않음.",
+   "written_at": "2026-11-12T00:51:15+09:00"
+  }
+ }
+}

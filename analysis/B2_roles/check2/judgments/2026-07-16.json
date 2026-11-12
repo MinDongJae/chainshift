@@ -1,0 +1,24 @@
+{
+ "date": "2026-07-16",
+ "interp_verdict": "번진다",
+ "interp_cause": "AI 투자 전반",
+ "interp_confidence": "높음",
+ "rechecked": [
+  "N12 yahoo 「Marvell Drops 8% as AI Capex Slowdown Fears Weigh on Chips; Broadcom, AMD, and Intel Slide」 — 묶음에 있고, 내 검색에서 원 매체 24/7 Wall St. · 2026-07-16 으로 다시 나옴. AI 설비 투자 걱정을 직접 댐",
+  "N11 investinglive 「AI and chip stocks continue to slide sending the Nasdaq down near -1.5%」 · N3 irishtimes 「Tech-heavy indexes fall globally as investors offload chip stocks」 — 묶음에 있음. 둘은 「AI·칩 주식이 내렸다」일 뿐 까닭은 안 댐",
+  "latimes 「Slumping AI stocks drag down markets around the world」(22:00 UTC)는 묶음 12개에 없고 미국 장 마감(20:00 UTC) 두 시간 뒤 글 — 같은 날이라 버리지는 않으나 「마감까지」 기준으로는 경계 밖",
+  "mid 다시 냄: SPY -0.54 · 서버·부품 시장 대비 -4.15%p(19/22) — 같음"
+ ],
+ "counter": "다른 까닭을 대는 출처 하나: Barron's 「TSMC Stock Falls After Earnings. Taiwan Semi Ramps Up U.S. Investment Amid Intel Threat.」(2026-07-16, 칩 경쟁). 또 「AI 설비 투자가 느려진다」는 걱정과 어긋나는 사실: Yahoo Finance 「TSMC raises capex and revenue forecast, highlighting growing AI chip demand」 · CNBC 「TSMC to invest additional $100 billion in Arizona…」(둘 다 2026-07-16) — 그날 나온 실제 투자 소식은 늘리는 쪽이었음. 다만 Investing.com 「TSMC and AI stocks fall despite upbeat earnings. Here's what's worrying investors」(2026-07-16)는 좋은 실적에도 AI 주식이 함께 내렸다고 해 해석 쪽",
+ "final_verdict": "번진다",
+ "cause": "AI 투자 전반",
+ "changed": false,
+ "why": "판정은 그대로. 반대 갈래 출처가 하나(Barron's) 남아 사전 고정대로 확신만 한 칸 내림(높음 → 중간). 까닭을 직접 댄 출처는 24/7 Wall St. · Investing.com 둘이고 나머지는 하락을 전할 뿐",
+ "confidence": "중간",
+ "tools": [
+  "mid",
+  "news_search: TSMC earnings chip stocks (4건)",
+  "news_search: AI capex slowdown fears stocks (1건)"
+ ],
+ "written_at": "2026-11-12T00:59:08+09:00"
+}

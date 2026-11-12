@@ -1,0 +1,39 @@
+{
+ "date": "2026-07-16",
+ "interp": "번진다",
+ "interp_cause": "AI 투자 전반",
+ "recheck": [
+  {
+   "ev": "E1 yahoo.com 「Marvell Drops 8% as AI Capex Slowdown Fears Weigh on Chips; Broadcom, AMD, and Intel Slide」",
+   "result": "pack N12 에 있음. 17:00 UTC — 마감(20:00) 전. news_search 로 원 발행처가 24/7 Wall St. 임을 확인(yahoo 는 전재) — 발행처 1곳"
+  },
+  {
+   "ev": "E2 investinglive.com 「AI and chip stocks continue to slide sending the Nasdaq down near -1.5%」",
+   "result": "pack N11 에 있음. 21:00 UTC — 마감 뒤라 K2 로 뺌"
+  },
+  {
+   "ev": "E3 irishtimes.com 「Tech-heavy indexes fall globally as investors offload chip stocks」",
+   "result": "pack N3 에 있음. 20:00 UTC — 마감 시각과 같음. 까닭은 '칩 주식 매도'라 (a)가 아님"
+  },
+  {
+   "ev": "E4 칩 9/9(-6.14%), 장비 8/8(-3.34%p), 서버·부품 19/22(-4.15%p)",
+   "result": "다시 계산해 같음. 가운데값 -4.42%p — 넓은 하락"
+  },
+  {
+   "ev": "E6 전날(07-15) 칩 -3.37% 일 때 전력 쪽 -1.05%",
+   "result": "K5 로 뺌 — 07-15 는 충격일(leaked.txt 에 적음)"
+  }
+ ],
+ "counter": "AI 설비투자 둔화를 까닭으로 대는 마감 전 발행처가 한 곳(24/7 Wall St. = yahoo 전재)뿐. news_search 「AI capex slowdown fears chip stocks slide Nasdaq」(2026-07-16)도 같은 기사 1건만 돌려줌. 둘째 발행처가 될 latimes.com 「Slumping AI stocks drag down markets around the world」는 22:00 UTC 로 마감 뒤. 마감 전 다른 제목들은 '칩 주식 약세'(yahoo 14:45 · cnbc 02:00 · ibtimes 06:15)로만 적음. 전력·데이터센터 쪽을 내리는 문맥으로 든 기사 없음.",
+ "final": "넘긴다",
+ "cause": "AI 투자 전반",
+ "changed": true,
+ "why": "E2(마감 뒤)·E6(앞 충격일 전력 값)을 빼면 (a) 발행처 1곳, (b) 없음 — '번진다→넘긴다' 첫째 조건. (c)는 넓어(19/22) 기울기는 번진다 쪽으로 남지만, 미리 적은 조건으로는 (c) 하나만으로 확정하지 않음.",
+ "conf": "낮음",
+ "tools": [
+  "newsstat",
+  "news_search"
+ ],
+ "dropped": 2,
+ "written_at": "2026-11-12T01:01:56+09:00"
+}

@@ -1,0 +1,40 @@
+{
+ "date": "2025-10-14",
+ "interp": "안 번진다",
+ "interp_cause": "칩 고유",
+ "recheck": [
+  {
+   "ev": "E1 investors.com 「Arista Stock Falls As Nvidia Wins Meta, Oracle Orders For AI Networking Chips」",
+   "result": "그날 기사 파일에 있음. 12:30 UTC — 마감 전"
+  },
+  {
+   "ev": "E2 cnbc.com 「How Broadcom's OpenAI deal fits into data center boom...」",
+   "result": "pack N2 에 있음. 01:00 UTC — 마감 전"
+  },
+  {
+   "ev": "E3 두 종목(ALAB -19.0, CRDO -13.4)이 칩 평균 -5.60% 를 끌어내림",
+   "result": "다시 계산해 같음. 두 종목을 빼면 나머지 7종목 평균 약 -2.6%(시장 -0.12%) — 끌어내린 것은 맞으나 나머지도 시장보다 2%p 넘게 빠짐"
+  },
+  {
+   "ev": "E4 서버·부품 시장 대비 -1.00%p, 11/22",
+   "result": "다시 계산해 -0.9963%p — (e)의 선(-1%p) 안쪽에 0.004%p 차이로 걸림. 가운데값 -0.41%p"
+  },
+  {
+   "ev": "E5 yahoo.com 「Brookfield backs Bloom Energy with $5 billion...」",
+   "result": "pack N6 에 있음. 20:15 UTC — 마감(20:00) 뒤라 K2 로 뺌. 같은 소식의 마감 전 기사 forbes.com 18:30 「Bloom Energy Founder Worth $500 Million After Brookfield Datacenter Deal」이 있어 내용은 그대로 섬"
+  }
+ ],
+ "counter": "못 찾음. news_search 「why Nvidia Astera Labs Credo AI chip stocks fell today」(2025-10-14 하루) 0건. 그날 기사 파일 15건에 AI 투자 전반이나 전력·데이터센터 쪽을 내리는 문맥으로 든 마감 전 제목 없음(webpronews 19:45 「Nvidia CEO Warns of Trillion-Dollar AI Data Center Boom and Power Surge」는 늘어난다는 내용). 약한 점: (d)의 발행처는 investors.com 한 곳뿐이고 나머지는 숫자로 채움.",
+ "final": "안 번진다",
+ "cause": "칩 고유",
+ "changed": false,
+ "why": "바꾸는 조건 셋 중 어느 것도 안 걸림 — (a)(b) 기사 못 찾음, (e)는 다시 계산해도 섬(-0.9963%p), (d)는 발행처 1곳이지만 숫자가 '두 종목이 평균을 끌어내림'을 가리킴. 다만 셋 다 가까스로라 확신을 낮춤.",
+ "conf": "낮음",
+ "conf_why": "(e)가 선에 0.004%p 차이로 걸리고 (d) 발행처가 한 곳. 해석의 '중간'에서 낮춤.",
+ "tools": [
+  "newsstat",
+  "news_search"
+ ],
+ "dropped": 0,
+ "written_at": "2026-11-12T00:56:46+09:00"
+}

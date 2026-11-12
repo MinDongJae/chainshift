@@ -1,0 +1,43 @@
+{
+ "date": "2026-07-24",
+ "interp": "넘긴다",
+ "interp_cause": "칩 고유",
+ "recheck": [
+  {
+   "ev": "E1 MarketWatch 「Why Intel, Micron and other major chip stocks are falling — even as the rest of tech holds up」",
+   "result": "pack·기사 파일에는 없고 news_search 로 다시 찾아 있음(MarketWatch 2026-07-24, 제목만, 시각 모름)"
+  },
+  {
+   "ev": "E2 Investopedia 「Chip Stocks Slide Friday—Memory Favorites Micron, Sandisk Among the Big Decliners」",
+   "result": "같은 검색에서 있음(Investopedia 2026-07-24, 제목만, 시각 모름)"
+  },
+  {
+   "ev": "E3 investinglive.com 「US indices close mixed. Dow up. S&P unchanged. Nasdaq down」",
+   "result": "pack N2 에 있음. 21:30 UTC — 마감(20:00) 뒤라 K2 로 뺌"
+  },
+  {
+   "ev": "E4 cnbc.com 「Michael Burry's short bets on Tesla, Caterpillar pay off in big July pullback」",
+   "result": "pack N9 에 있음. 15:30 UTC — 마감 전. 전력·냉각 설비 종목 캐터필러가 내리는 문맥 — (b)에 듦"
+  },
+  {
+   "ev": "E5 칩 9/9(-6.67%), 장비 8/8(-3.97%p), 서버·부품 16/22(-3.16%p)",
+   "result": "다시 계산해 같음. 가운데값 -3.08%p — 좁은 하락(K6) 아님"
+  },
+  {
+   "ev": "E6 전날(07-23) 전력 쪽 +1.14%",
+   "result": "나는 전력 칸을 안 찍어 다시 확인하지 않음. 07-23 은 충격일이 아님"
+  }
+ ],
+ "counter": "안 번진다 쪽으로 바꿀 근거를 찾아봄: 칩 고유 까닭 발행처 2곳(MarketWatch '나머지 기술주는 버티는데 칩만' · Investopedia '메모리 종목')은 확인됨. 그러나 같은 날 마감 전에 캐터필러 하락을 든 기사(cnbc 15:30)가 있어 (b)가 서고, 서버·부품도 넓게 빠짐. 번진다 쪽으로 바꿀 근거: AI 투자 전반을 까닭으로 대는 기사는 못 찾음 — 오히려 인텔이 AI 데이터센터 수요로 지출을 늘린다는 기사(siliconrepublic 10:00 · irishtimes 08:15)가 여럿.",
+ "final": "넘긴다",
+ "cause": "칩 고유",
+ "changed": false,
+ "why": "넘김→안 번진다 조건 ①은 참(칩 고유 발행처 2곳). ②가 안 참((b) 기사가 있음) ③도 안 참(넓은 하락). 넘김→번진다 조건 ①((a) 발행처 2곳)은 0곳. 넘김을 둠.",
+ "conf": "낮음",
+ "tools": [
+  "newsstat",
+  "news_search"
+ ],
+ "dropped": 1,
+ "written_at": "2026-11-12T01:02:20+09:00"
+}

@@ -1,0 +1,33 @@
+{
+ "date": "2025-01-27",
+ "seen": [
+  "pack: cases/2025-01-27/materials.md 그날 숫자·기사 제목 12개(2025-01-27 UTC)·공시 0건",
+  "mid: prices_long.csv.gz 2025-01-27 까지",
+  "newsstat: news/2025-01-27.json (2025-01-27 UTC)"
+ ],
+ "tools": [
+  {
+   "name": "mid",
+   "why": "칩 밖 중간 단계(장비·서버)가 같이 빠졌는지 보려고(늘 봄)"
+  },
+  {
+   "name": "newsstat",
+   "why": "조건은 이미 찼지만 확신을 높음으로 쓰려면 전력 쪽에 반대 소식이 있는지 찾아봐야 해서"
+  }
+ ],
+ "cause": "AI 투자 전반",
+ "evidence": [
+  "tribstar.com(AP) 2025-01-27 「Tech stocks tank as a Chinese competitor threatens to upend the AI frenzy; Nvidia sinks nearly 17%」",
+  "newsweek.com 2025-01-27 「Nvidia, Meta Microsoft Hit by Fears Over Chinese AI Rivals」",
+  "fool.com 2025-01-27 「Why AI Hardware Winners Taiwan Semiconductor, Marvell, and Arista Networks Plunged by Double Digits Today」",
+  "morningstar.com 2025-01-27 「AI Stock Rout: Monday's Selloff in 5 Charts」(발전 회사 CEG 가 같이 묶여 나옴)",
+  "mid: 서버·부품 시장 대비 -9.24%p(22종목 중 20종목이 시장보다 더 빠짐), 장비·소재 -5.69%p, SPY -1.41%",
+  "newsstat: 발전 단계 기사 315건(CEG)·전력·냉각 설비 33건 어조 -0.87 — 전력 쪽 회사가 같은 급락 기사에 함께 나옴"
+ ],
+ "verdict": "번진다",
+ "confidence": "높음",
+ "counter": "딥시크 소식은 「더 싼 모델」이라 칩 수요만 줄고 전력 쪽은 덜 맞는다고 읽을 수도 있다. 서버 단계에서 HPQ +1.8 · LOGI +0.9 는 올랐다. 전력 쪽 좋은 소식 기사는 찾지 못했다.",
+ "note": "leaked.txt 에 있는 날(정답을 미리 봄). 조건: (가) 출처 넷 이상 AI 투자 전반 + 전력 쪽 회사 직접 등장, (나) S=-9.24 ≤ -1.0.",
+ "dropped": 0,
+ "written_at": "2026-11-12T00:42:47+09:00"
+}

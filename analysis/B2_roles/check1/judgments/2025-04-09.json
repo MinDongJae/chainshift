@@ -1,0 +1,34 @@
+{
+ "date": "2025-04-09",
+ "interp": "안 번진다",
+ "interp_cause": "규칙이 잘못 고른 날",
+ "recheck": [
+  {
+   "ev": "E1 SPY +10.50%, 칩 9종목 모두 오름(평균 +19.69%)",
+   "result": "다시 계산해 같음(내린 종목 0/9). pack P1 의 '시장 요인을 뺀 평균 -5.34%'도 그대로 있음"
+  },
+  {
+   "ev": "E2 yahoo.com 「Nvidia, Supermicro Surge as Chip and AI Stocks Rebound From Tariff Rout」",
+   "result": "pack N2 에 있음. 07:15 UTC — 마감 전"
+  },
+  {
+   "ev": "E3 서버·부품 +13.96%(시장 대비 +3.46%p), 5/22",
+   "result": "다시 계산해 같음. (e) 섬"
+  },
+  {
+   "ev": "E4 theverge.com 「Trump signs executive order to power AI data centers with coal energy」",
+   "result": "pack N3 에 있음. 20:30 UTC — 마감(20:00) 뒤라 K2 로 뺌. 판정을 받치는 근거는 아니었음"
+  }
+ ],
+ "counter": "moneycontrol.com 2025-04-09 09:15 UTC 「Anant Raj, Black Box, other data center stocks fall up to 6% as Nvidia stock falls, Nasdaq enters bear market zone」 — 글자로는 (b)(데이터센터 종목이 내리는 문맥)에 든다. 그러나 인도 종목이 전날 미국 장 하락에 반응한 기사이고, 이 날 미국 칩은 9종목 모두 14~24% 올랐다. 이 날의 칩 충격을 말하는 기사가 아니라 (b)로 치지 않았다 — 내 판단이 들어간 자리.",
+ "final": "안 번진다",
+ "cause": "규칙이 잘못 고른 날",
+ "changed": false,
+ "why": "칩이 한 종목도 안 내렸고(0/9) 서버·부품도 시장보다 더 올랐다. 이 날 미국 장에 대해 (a)·(b)에 드는 마감 전 기사가 없다. 번질 '충격' 자체가 원자료에 없다.",
+ "conf": "중간",
+ "conf_why": "(b)에 글자로 드는 기사 한 건을 내 판단으로 뺐고, 해석이 적은 대로 채점이 시장 민감도를 뺀 값이면 셈에서 달리 나올 수 있음.",
+ "tools": [
+  "newsstat"
+ ],
+ "written_at": "2026-11-12T00:55:50+09:00"
+}

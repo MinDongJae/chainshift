@@ -1,0 +1,46 @@
+{
+ "date": "2026-02-04",
+ "interp": "넘긴다",
+ "interp_cause": "AI 투자 전반",
+ "recheck": [
+  {
+   "ev": "E1 businesstimes.com.sg 「Wall Street ends down as AI worries slam tech stocks」",
+   "result": "pack N11 에 있음. 23:15 UTC — 마감(21:00) 뒤라 K2 로 뺌"
+  },
+  {
+   "ev": "E2 indiatimes.com 「Why Nvidia, AMD, Palantir and Intel crashed today: what's happening with AI stocks...」",
+   "result": "pack N4 에 있음. 17:15 UTC — 마감 전. 제목만으로는 까닭이 AI 전반인지 AMD 실적인지 안 갈림"
+  },
+  {
+   "ev": "E3 fortune.com 「S&P rings up 5th loss in 6 days ... led by AMD's 17.3% drop」",
+   "result": "pack N10 에 있음. 23:30 UTC — 마감 뒤, 뺌"
+  },
+  {
+   "ev": "E4 newser.com 「Chip Company Drops 17.3% Despite Strong Profit Report」",
+   "result": "기사 파일에 있음. 22:45 UTC — 마감 뒤, 뺌"
+  },
+  {
+   "ev": "E5 tvnewscheck.com 「Dow Rises 260, Nasdaq Drops 351, S&P Falls 35」",
+   "result": "pack N8 에 있음. 23:45 UTC — 마감 뒤, 뺌"
+  },
+  {
+   "ev": "E6 칩 9/9, 장비·소재 8/8(-4.23%p), 서버·부품 -1.49%p 15/22",
+   "result": "다시 계산해 같음. 서버·부품은 둘로 갈림 — 가운데값 -2.84%p 인데 SMCI +13.8 · LITE +7.0 · HPE +6.7 이 올라 평균은 -1.49%p, 나쁜 셋을 빼면 -0.18%p"
+  },
+  {
+   "ev": "E7 전날(02-03) 칩 -2.07% 인데 전력 쪽 +1.73%",
+   "result": "나는 전력 쪽 값을 찍지 않아 다시 확인하지 않음. 02-03 은 충격일이 아니라 앞 날 채점 값은 아님"
+  }
+ ],
+ "counter": "K2: 까닭을 댄 기사 5건 중 4건(E1·E3·E4·E5)이 장 마감 뒤 발행. 마감 전에 남는 까닭 기사는 indiatimes 한 건이고 제목이 AI 전반과 AMD 실적을 함께 든다. 마감 전 자료로 까닭을 가를 발행처가 (a)도 (d)도 2곳이 안 됨(AMD 실적 공시 F1~F3 은 있으나 하락 까닭을 말하지 않음).",
+ "final": "넘긴다",
+ "cause": "AI 투자 전반",
+ "changed": false,
+ "why": "근거 7개 중 4개가 마감 뒤라 빠짐 — 미리 적은 '절반 이상 빠지면 넘긴다'에 걸림. 넘김을 확정으로 바꾸는 조건 ①(발행처 2곳)을 어느 쪽도 못 채움.",
+ "conf": "낮음",
+ "tools": [
+  "newsstat"
+ ],
+ "dropped": 4,
+ "written_at": "2026-11-12T00:57:22+09:00"
+}

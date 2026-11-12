@@ -1,0 +1,36 @@
+{
+ "date": "2026-05-18",
+ "interp": "넘긴다",
+ "interp_cause": "규칙이 잘못 고른 날",
+ "recheck": [
+  {
+   "ev": "E1 fool.com · yahoo.com 「Why Did Micron Stock Drop Today?」",
+   "result": "pack N1·N4 에 있음. 19:00 · 17:15 UTC — 마감(20:00) 전. 까닭은 제목에 없음(해석도 그렇게 적음)"
+  },
+  {
+   "ev": "E2 Yahoo Finance 「Potential Beijing Thaw Puts Lam Research Export And Supply Risks In Focus」",
+   "result": "pack·기사 파일에 없음(겹침 14자). 내 검색 두 번에도 안 나와 다시 확인 못 함 — 해석이 news_search 로 받았다고 적은 것이라 '없는 근거'로 치지는 않고 '확인 못 함'으로 둠"
+  },
+  {
+   "ev": "E3 thebull.com.au 「Nasdaq Composite Falls Back To 26,000 In Test Of Support」",
+   "result": "기사 파일에 있음. 17:45 UTC — 마감 전"
+  },
+  {
+   "ev": "E4 칩 9/9(큰 넷은 -0.6~-1.3), 장비 8/8(-4.02%p), 서버·부품 18/22(-2.79%p)",
+   "result": "다시 계산해 같음. 서버·부품 가운데값 -2.46%p — 넓은 하락"
+  }
+ ],
+ "counter": "news_search 2번. ① 「chip stocks slide semiconductor selloff Micron memory Monday」(2026-05-18) 0건. ② 「AI stocks fall data center spending worries Nasdaq」(2026-05-18) 1건: Yahoo Finance 2026-05-18 「NVIDIA Corporation (NVDA) Fell on Concerns Over the Sustainability of AI Infrastructure Capital Expenditure」(제목만) — AI 투자 전반 (a) 쪽 제목이나, 이런 제목은 지난 분기 펀드 서한을 옮긴 글인 경우가 많아 그날 하락의 까닭인지 제목만으로는 모름. 쳐 줘도 (a) 발행처 1곳.",
+ "final": "넘긴다",
+ "cause": "규칙이 잘못 고른 날",
+ "changed": false,
+ "why": "까닭 출처가 모자라 넘긴 날 — 검색 2번을 더 했으나 (a) 발행처가 많아야 1곳, (d) 발행처도 확인된 것이 없어 어느 쪽도 2곳을 못 채움. 숫자(서버·부품 18/22, 장비·소재 8/8)만으로는 확정하지 않는다고 미리 적음.",
+ "conf": "낮음",
+ "tools": [
+  "newsstat",
+  "news_search",
+  "news_search"
+ ],
+ "dropped": 0,
+ "written_at": "2026-11-12T00:58:27+09:00"
+}

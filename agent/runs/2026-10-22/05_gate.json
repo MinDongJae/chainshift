@@ -1,0 +1,40 @@
+{
+ "규칙": "두 해석의 판정이 같은 확정(번진다 · 안 번진다)이면 통과, 아니면 사람에게 넘김",
+ "결과": "통과",
+ "같이 낸 판정": "번진다",
+ "갈린 지점 한 줄": "두 해석이 같은 확정 「번진다」",
+ "까닭 갈래 같음": true,
+ "담당자가 받는 것": {
+  "해석 A": {
+   "판정": "번진다",
+   "까닭 갈래": "AI 투자 전반",
+   "확신": "중간",
+   "근거": [
+    "Stock Market Midday, Oct. 22: Tech Weakness Drags Nasdaq Lower as AI Spending Concerns Mount",
+    "Futures Slide As Market Runs Out Of AI Patience, Oil Jumps On Saudi Attacks",
+    "Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving",
+    "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
+    "24 AI Infrastructure Stocks Built to Hold up If Capex Slows: MS",
+    "칩 9/9(-8.13%), 장비 8/8(-8.45%p), 서버·부품 20/22(-5.21%p)"
+   ],
+   "스스로 적은 반대 근거": "전력 쪽 기사 논조는 음수가 아님(전력·냉각 설비 +0.29, 발전 +0.8, 공사 +1.82)이고 '문 닫은 원전을 다시 돌린다'(N7)는 전력 수요 기사가 같은 날 있음. '버핏식 시장은 잘 나간다'(N6)는 기술주 밖은 버텼다는 뜻. 모건스탠리의 '투자가 줄어도 버틸 AI 인프라 종목 24개'(N1)에 전력 쪽이 들었을 수 있음.",
+   "스스로 적은 덧말": "까닭이 메타 실적 뒤 'AI 지출 걱정' — 대형 구매자의 투자 계획을 다시 셈하는 날. 장 마감 뒤 기사(N5 '시간 외 움직임: WDC, BE')는 근거로 쓰지 않음."
+  },
+  "해석 B": {
+   "판정": "번진다",
+   "까닭 갈래": "AI 투자 전반",
+   "확신": "중간",
+   "근거": [
+    "Futures Slide As Market Runs Out Of AI Patience, Oil Jumps On Saudi Attacks",
+    "Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving",
+    "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
+    "Tech Weakness Drags Nasdaq Lower as AI Spending Concerns Mount",
+    "24 AI Infrastructure Stocks Built to Hold up If Capex Slows: MS",
+    "mid: 칩 9/9 · 장비·소재 8/8(-8.45%p) · 서버·부품 20/22(-5.21%p)가 시장보다 더 빠짐. SPY -1.18%",
+    "newsstat: 장비·소재 기사 129건 어조 -2.16. 전력·냉각 설비 +0.29, 발전 +0.8, 데이터센터 공사 +1.82"
+   ],
+   "스스로 적은 반대 근거": "전력 쪽 세 단계의 기사 어조는 모두 양수였고 「US is reviving shuttered nuclear plants to meet growing electricity demand, data centers」(cbs2iowa)는 발전 쪽에 좋은 소식이다. 슈퍼마이크로는 이틀 전 매출이 전망을 크게 웃돈다고 알렸다. 블룸에너지 실적이 같은 날 장 마감 뒤에 나와(cnbc 「after hours: WDC, BE」) 그 방향은 이 판정에 쓰지 않았다.",
+   "스스로 적은 덧말": "조건: (가) AI 지출 걱정을 댄 출처 넷, (나) S=-5.21 로 넉넉. 전력 쪽 반대 소식이 남아 높음이 아님. leaked.txt 곁값 날(전력 쪽 재현 손실 -130.5백만 달러 · 58종목 전체 -6.38% 를 미리 봄)."
+  }
+ }
+}

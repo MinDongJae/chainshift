@@ -1,0 +1,312 @@
+{
+ "window_utc": [
+  "20251014000000",
+  "20251014234500"
+ ],
+ "files": 96,
+ "missing": [],
+ "records": 140092,
+ "hit_records": 404,
+ "by_stage": {
+  "데이터센터 공사": {
+   "n": 1,
+   "tone": 1.84,
+   "dc": 0
+  },
+  "반도체 장비·소재": {
+   "n": 10,
+   "tone": 0.22,
+   "dc": 0
+  },
+  "발전": {
+   "n": 5,
+   "tone": 1.06,
+   "dc": 0
+  },
+  "서버·네트워크·부품": {
+   "n": 35,
+   "tone": 1.54,
+   "dc": 1
+  },
+  "전력·냉각 설비": {
+   "n": 30,
+   "tone": 0.97,
+   "dc": 2
+  },
+  "칩": {
+   "n": 329,
+   "tone": 2.12,
+   "dc": 15
+  }
+ },
+ "by_company": {
+  "NVDA": 160,
+  "AVGO": 81,
+  "INTC": 56,
+  "AMD": 37,
+  "ANET": 15,
+  "MU": 13,
+  "CSCO": 13,
+  "BE": 13,
+  "CAT": 7,
+  "LRCX": 6,
+  "CMI": 5,
+  "MRVL": 4,
+  "CEG": 4,
+  "WDC": 3,
+  "Q": 3,
+  "AMAT": 3,
+  "ETN": 3,
+  "GEV": 2,
+  "STX": 1,
+  "CLS": 1,
+  "PWR": 1,
+  "SMCI": 1,
+  "LOGI": 1,
+  "SEI": 1
+ },
+ "dc_hit_records": 18,
+ "unique_titles": 322,
+ "top": [
+  {
+   "t": "20251014233000",
+   "title": "Stocks Supported by Trade Hopes and Broadcom's AI Deal",
+   "url": "https://finance.yahoo.com/news/stocks-supported-trade-hopes-broadcom-151124201.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "MRVL",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.09,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20251014010000",
+   "title": "How Broadcom's OpenAI deal fits into data center boom; what it means for AI trade",
+   "url": "https://www.cnbc.com/2025/10/13/how-broadcoms-openai-deal-fits-into-data-center-boom-what-it-means-for-ai-trade.html",
+   "src": "cnbc.com",
+   "ticks": [
+    "AVGO",
+    "AMD"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 0.61,
+   "dc": true,
+   "score": 8
+  },
+  {
+   "t": "20251014221500",
+   "title": "S&P 500 Gains and Losses Today: Nvidia and Intel Drop as Tech Stocks Falter; Wells Fargo Pops",
+   "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-nvidia-and-intel-drop-as-tech-stocks-falter-wells-fargo-pops-11829711",
+   "src": "investopedia.com",
+   "ticks": [
+    "NVDA",
+    "ANET"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -0.92,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20251014214500",
+   "title": "Tech Titans Lead the Charge: S&P 500 IT Sector Soars Over 20% in 2025 Amidst AI Revolution",
+   "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-10-14-tech-titans-lead-the-charge-s-and-p-500-it-sector-soars-over-20-in-2025-amidst-ai-revolution",
+   "src": "financialcontent.com",
+   "ticks": [
+    "MU",
+    "STX"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 0.97,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20251014204500",
+   "title": "Intel reveals new data center AI chip as turnaround effort continues",
+   "url": "https://finance.yahoo.com/news/intel-reveals-new-data-center-ai-chip-as-turnaround-effort-continues-170039560.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "INTC"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 1.15,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20251014201500",
+   "title": "Brookfield backs Bloom Energy with $5 billion for fuel cells to power AI data centers",
+   "url": "https://finance.yahoo.com/news/brookfield-bloom-energy-launch-5-114139954.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "BE"
+   ],
+   "stages": [
+    "전력·냉각 설비"
+   ],
+   "tone": 2.27,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20251014194500",
+   "title": "Nvidia CEO Warns of Trillion-Dollar AI Data Center Boom and Power Surge",
+   "url": "https://www.webpronews.com/nvidia-ceo-warns-of-trillion-dollar-ai-data-center-boom-and-power-surge/",
+   "src": "webpronews.com",
+   "ticks": [
+    "NVDA"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -1.6,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20251014191500",
+   "title": "The Paradoxical Ascent: Gold and AI Stocks Rally in Tandem, Signaling a Market at a Crossroads",
+   "url": "https://markets.financialcontent.com/stocks/article/marketminute-2025-10-14-the-paradoxical-ascent-gold-and-ai-stocks-rally-in-tandem-signaling-a-market-at-a-crossroads",
+   "src": "financialcontent.com",
+   "ticks": [
+    "ANET",
+    "BE"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "전력·냉각 설비"
+   ],
+   "tone": 1.08,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20251014183000",
+   "title": "Bloom Energy Founder Worth $500 Million After Brookfield Datacenter Deal",
+   "url": "https://www.forbes.com/sites/christopherhelman/2025/10/14/bloom-energy-founder-worth-500-million-after-brookfield-datacenter-deal/",
+   "src": "forbes.com",
+   "ticks": [
+    "BE"
+   ],
+   "stages": [
+    "전력·냉각 설비"
+   ],
+   "tone": -0.85,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20251014180000",
+   "title": "d-Matrix announces SquadRack rack-scale solution to provide AI Inference at data centre scale",
+   "url": "https://channelbuzz.ca/2025/10/d-matrix-announces-squadrack-rack-scale-solution-to-provide-ai-inference-at-data-centre-scale-44946/",
+   "src": "channelbuzz.ca",
+   "ticks": [
+    "ANET"
+   ],
+   "stages": [
+    "서버·네트워크·부품"
+   ],
+   "tone": 2.76,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20251014174500",
+   "title": "Top Stock Movers Now: Walmart, Intel, Domino's Pizza, Arista Networks, and More",
+   "url": "https://finance.yahoo.com/news/top-stock-movers-now-walmart-170251527.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "INTC",
+    "ANET"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -2.2,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20251014160000",
+   "title": "Nvidia shrunk a data center into a desktop, and it's calling it the DGX Spark",
+   "url": "https://www.digitaltrends.com/computing/nvidia-shrunk-a-data-center-into-a-desktop-and-its-calling-it-the-dgx-spark/",
+   "src": "digitaltrends.com",
+   "ticks": [
+    "NVDA"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 2.29,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20251014131500",
+   "title": "Nvidia and partners gear up for 800Vdc datacentres and Vera Rubin",
+   "url": "https://www.electronicsweekly.com/news/business/nvidia-and-partners-gear-up-for-800vdc-datacentres-and-vera-rubin-for-2025-10/",
+   "src": "electronicsweekly.com",
+   "ticks": [
+    "NVDA"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 3.95,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20251014123000",
+   "title": "Arista Stock Falls As Nvidia Wins Meta, Oracle Orders For AI Networking Chips",
+   "url": "https://www.investors.com/news/technology/arista-stock-nvidia-meta-oracle-ai-networking/",
+   "src": "investors.com",
+   "ticks": [
+    "NVDA",
+    "ANET"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 0.21,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20251014120000",
+   "title": "Nvidia 800 VDC power rollout for 1 megawatt server racks to be supported by ABB &#x2014; company says collaboration will create 'new power solutions for future gigawatt-scale data centers '",
+   "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-800-vdc-power-rollout-for-1-megawatt-server-racks-to-be-supported-by-abb-company-says-collaboration-will-create-new-power-solutions-for-future-gigawatt-scale-data-centers",
+   "src": "tomshardware.com",
+   "ticks": [
+    "NVDA"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 1.88,
+   "dc": true,
+   "score": 6
+  }
+ ],
+ "seconds": 279
+}

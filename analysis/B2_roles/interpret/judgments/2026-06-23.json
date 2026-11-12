@@ -1,0 +1,69 @@
+{
+ "date": "2026-06-23",
+ "seen": [
+  {
+   "name": "pack(cases/2026-06-23/materials.md)",
+   "date": "2026-06-23"
+  },
+  {
+   "name": "mid(prices_long.csv.gz)",
+   "date": "2026-06-23"
+  },
+  {
+   "name": "newsstat(news/2026-06-23.json)",
+   "date": "2026-06-23"
+  }
+ ],
+ "tools": [
+  {
+   "tool": "newsstat",
+   "why": "바탕 자료로 (a)(c)가 찼으므로 전력 쪽이 기사에 어떻게 나오는지와 반대 근거를 한 번 확인"
+  }
+ ],
+ "cause": "AI 투자 전반",
+ "evidence": [
+  {
+   "text": "Wall Street ends lower on semiconductor selloff as AI spending concerns mount",
+   "src": "freemalaysiatoday.com · indiatimes.com(newsstat, 20:45 UTC)",
+   "pub": "2026-06-23"
+  },
+  {
+   "text": "Premarket: Nasdaq futures drop over 2% as AI buildout costs, Fed rate outlook weigh",
+   "src": "theglobeandmail.com N12",
+   "pub": "2026-06-23"
+  },
+  {
+   "text": "Dow flat, Nasdaq slumps as investors pull back from AI stocks",
+   "src": "proactiveinvestors.com N2",
+   "pub": "2026-06-23"
+  },
+  {
+   "text": "Nasdaq 100 set to shed over $1 trillion as tech selloff deepens; SpaceX slides",
+   "src": "thestar.com.my N11",
+   "pub": "2026-06-23"
+  },
+  {
+   "text": "칩 9/9(-8.02%), 장비 8/8(-6.54%p), 서버·부품 15/22(-2.52%p)",
+   "src": "mid 계산",
+   "pub": "2026-06-23"
+  },
+  {
+   "text": "발전 기사 28건(모두 CEG) 논조 +5.1, 전력·냉각 설비 +1.35 — 전력 쪽 기사는 오르는 문맥",
+   "src": "newsstat",
+   "pub": "2026-06-23"
+  }
+ ],
+ "conditions": {
+  "a": true,
+  "b": false,
+  "c": true,
+  "d": false,
+  "e": false
+ },
+ "verdict": "번진다",
+ "confidence": "중간",
+ "counter": "그날 발전 회사(CEG) 기사 28건의 논조가 +5.1 로 뚜렷이 좋음 — 발전 쪽에는 따로 좋은 소식이 있었을 수 있고, 다우는 보합이라 산업재 쪽은 버텼을 수 있음. N1 은 까닭을 '한국발 불안'으로 댐(메모리 쪽 고유 까닭일 수 있음).",
+ "dropped": 0,
+ "note": "까닭이 'AI 투자 비용 걱정'이라 데이터센터 투자 전체를 다시 셈하는 날로 읽음. (b)는 못 채움.",
+ "written_at": "2026-11-12T00:46:59+09:00"
+}

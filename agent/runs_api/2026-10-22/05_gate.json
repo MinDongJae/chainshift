@@ -1,0 +1,35 @@
+{
+ "규칙": "두 해석의 판정이 같은 확정(번진다 · 안 번진다)이면 통과, 아니면 사람에게 넘김",
+ "결과": "통과",
+ "같이 낸 판정": "번진다",
+ "갈린 지점 한 줄": "두 해석이 같은 확정 「번진다」",
+ "까닭 갈래 같음": true,
+ "담당자가 받는 것": {
+  "해석 A": {
+   "판정": "번진다",
+   "까닭 갈래": "AI 투자 전반",
+   "확신": "중간",
+   "근거": [
+    "Stock Market Midday, Oct. 22: Tech Weakness Drags Nasdaq Lower as AI Spending Concerns Mount",
+    "Futures Slide As Market Runs Out Of AI Patience, Oil Jumps On Saudi Attacks",
+    "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
+    "SPY -1.18%인데 칩의 시장 몫 뺀 등락은 -6.16%로 문턱 -2.93%를 크게 넘었다. 시장 전체 하락만으로는 설명되지 않는다.",
+    "시장보다 더 빠진 종목이 칩 9/9(시장 대비 -6.95%p), 반도체 장비·소재 8/8(-8.45%p), 서버·네트워크·부품 20/22(-5.21%p)다. 하락이 칩에 그치지 않고 AI 설비 사슬의 세 단계에 고르게 퍼졌다."
+   ],
+   "스스로 적은 반대 근거": "N3 제목의 'Supply Warning'은 칩 공급이라는 칩 고유 까닭을 가리키고, 전력 쪽 종목이 빠졌다고 직접 말하는 기사 제목은 입력에 없다.",
+   "스스로 적은 덧말": "전력 쪽 세 단계의 등락 수치가 입력에 없어, 기사 제목과 칩 쪽 세 단계의 하락 폭만으로 미루어 본 판정이다."
+  },
+  "해석 B": {
+   "판정": "번진다",
+   "까닭 갈래": "AI 투자 전반",
+   "확신": "낮음",
+   "근거": [
+    "Stock Market Midday, Oct. 22: Tech Weakness Drags Nasdaq Lower as AI Spending Concerns Mount",
+    "Futures Slide As Market Runs Out Of AI Patience, Oil Jumps On Saudi Attacks",
+    "칩 시장 몫 뺀 등락 -6.16%로 문턱 -2.93%를 넘는다. 시장 대비 반도체 장비·소재 -8.45%p(8/8), 칩 -6.95%p(9/9), 서버·네트워크·부품 -5.21%p(20/22)다. 하락이 칩 한 단계에 갇히지 않고 AI 설비 공급망 여러 단계로 넓게 퍼졌다."
+   ],
+   "스스로 적은 반대 근거": "N3 「Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%」는 계기를 칩 공급 경고로 들어 칩 고유 쪽으로 읽힐 수 있다. 장 마감 전 기사 11건 가운데 전력·냉각·발전 종목 하락을 직접 다룬 제목도 없다.",
+   "스스로 적은 덧말": "전력 쪽 등락이 빠져 있어 '번진다'는 AI 지출 우려라는 까닭과 공급망 너비에서 끌어낸 추정이므로 확신을 낮게 둔다. 공시 관계 US-041 CEG–MSFT, US-042 CEG–META는 발전이 AI 투자 고객과 이어져 있음을 보여 주지만, 그날 함께 움직였는지는 이 묶음으로 확인할 수 없다."
+  }
+ }
+}

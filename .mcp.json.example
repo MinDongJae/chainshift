@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bloomberg": {
+      "command": "python",
+      "args": ["/path/to/bloomberg-mcp-intelligence/bloomberg_mcp_enhanced.py"]
+    }
+  }
+}

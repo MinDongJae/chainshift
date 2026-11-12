@@ -1,0 +1,77 @@
+2026-11-12T00:55:12+09:00 prereg.md 씀 (시작 00:53:15)
+2026-11-12T00:55:13+09:00 day 2025-01-27
+2026-11-12T00:55:13+09:00 newsstat 2025-01-27
+2026-11-12T00:55:33+09:00 write 2025-01-27 interp=번진다 final=번진다 changed=False cause=AI 투자 전반 conf=중간 tools=1 sha=ff67670d0d5e
+2026-11-12T00:55:34+09:00 day 2025-04-09
+2026-11-12T00:55:34+09:00 newsstat 2025-04-09
+2026-11-12T00:55:50+09:00 write 2025-04-09 interp=안 번진다 final=안 번진다 changed=False cause=규칙이 잘못 고른 날 conf=중간 tools=1 sha=7beb58c3860c
+2026-11-12T00:55:51+09:00 day 2025-08-29
+2026-11-12T00:55:51+09:00 newsstat 2025-08-29
+2026-11-12T00:56:14+09:00 write 2025-08-29 interp=넘긴다 final=넘긴다 changed=False cause=칩 고유 conf=낮음 tools=2 sha=2635a802f7ea
+2026-11-12T00:56:15+09:00 day 2025-10-14
+2026-11-12T00:56:15+09:00 newsstat 2025-10-14
+2026-11-12T00:56:46+09:00 write 2025-10-14 interp=안 번진다 final=안 번진다 changed=False cause=칩 고유 conf=낮음 tools=2 sha=c2277c56e8ce
+2026-11-12T00:56:47+09:00 day 2025-12-12
+2026-11-12T00:56:47+09:00 newsstat 2025-12-12
+2026-11-12T00:57:01+09:00 write 2025-12-12 interp=번진다 final=번진다 changed=False cause=AI 투자 전반 conf=중간 tools=1 sha=be322de23fbf
+2026-11-12T00:57:02+09:00 day 2026-02-04
+2026-11-12T00:57:03+09:00 newsstat 2026-02-04
+2026-11-12T00:57:22+09:00 write 2026-02-04 interp=넘긴다 final=넘긴다 changed=False cause=AI 투자 전반 conf=낮음 tools=1 sha=0f0fafaa59b0
+2026-11-12T00:57:23+09:00 day 2026-03-03
+2026-11-12T00:57:24+09:00 newsstat 2026-03-03
+2026-11-12T00:57:37+09:00 write 2026-03-03 interp=넘긴다 final=넘긴다 changed=False cause=칩 고유 conf=낮음 tools=1 sha=74e83213ecb8
+2026-11-12T00:57:38+09:00 day 2026-03-30
+2026-11-12T00:57:38+09:00 newsstat 2026-03-30
+2026-11-12T00:58:03+09:00 write 2026-03-30 interp=넘긴다 final=넘긴다 changed=False cause=칩 고유 conf=낮음 tools=2 sha=f4d87a6cf95c
+2026-11-12T00:58:03+09:00 day 2026-05-18
+2026-11-12T00:58:04+09:00 newsstat 2026-05-18
+2026-11-12T00:58:27+09:00 write 2026-05-18 interp=넘긴다 final=넘긴다 changed=False cause=규칙이 잘못 고른 날 conf=낮음 tools=3 sha=fae187a19de1
+2026-11-12T00:58:28+09:00 day 2026-06-05
+2026-11-12T00:58:28+09:00 newsstat 2026-06-05
+2026-11-12T00:59:05+09:00 write 2026-06-05 interp=번진다 final=넘긴다 changed=True cause=시장 전체 conf=낮음 tools=2 sha=df703ffe083f
+2026-11-12T00:59:06+09:00 day 2026-06-16
+2026-11-12T00:59:06+09:00 newsstat 2026-06-16
+2026-11-12T00:59:29+09:00 write 2026-06-16 interp=넘긴다 final=넘긴다 changed=False cause=규칙이 잘못 고른 날 conf=낮음 tools=3 sha=dce967e3f540
+2026-11-12T00:59:30+09:00 day 2026-06-23
+2026-11-12T00:59:30+09:00 newsstat 2026-06-23
+2026-11-12T00:59:55+09:00 write 2026-06-23 interp=번진다 final=번진다 changed=False cause=AI 투자 전반 conf=중간 tools=2 sha=f13149f34252
+2026-11-12T00:59:56+09:00 day 2026-07-01
+2026-11-12T00:59:56+09:00 newsstat 2026-07-01
+2026-11-12T01:00:24+09:00 write 2026-07-01 interp=번진다 final=넘긴다 changed=True cause=규칙이 잘못 고른 날 conf=낮음 tools=2 sha=a7f162230909
+2026-11-12T01:00:25+09:00 day 2026-07-02
+2026-11-12T01:00:26+09:00 newsstat 2026-07-02
+2026-11-12T01:00:52+09:00 write 2026-07-02 interp=번진다 final=넘긴다 changed=True cause=칩 고유 conf=낮음 tools=1 sha=9a8c53d60800
+2026-11-12T01:00:53+09:00 day 2026-07-07
+2026-11-12T01:00:54+09:00 newsstat 2026-07-07
+2026-11-12T01:01:12+09:00 write 2026-07-07 interp=넘긴다 final=넘긴다 changed=False cause=칩 고유 conf=낮음 tools=1 sha=169034ff9a36
+2026-11-12T01:01:13+09:00 day 2026-07-15
+2026-11-12T01:01:13+09:00 newsstat 2026-07-15
+2026-11-12T01:01:34+09:00 write 2026-07-15 interp=넘긴다 final=넘긴다 changed=False cause=규칙이 잘못 고른 날 conf=낮음 tools=3 sha=9c495e6cd6f4
+2026-11-12T01:01:35+09:00 day 2026-07-16
+2026-11-12T01:01:35+09:00 newsstat 2026-07-16
+2026-11-12T01:01:56+09:00 write 2026-07-16 interp=번진다 final=넘긴다 changed=True cause=AI 투자 전반 conf=낮음 tools=2 sha=cde516e39352
+2026-11-12T01:01:57+09:00 day 2026-07-24
+2026-11-12T01:01:57+09:00 newsstat 2026-07-24
+2026-11-12T01:02:20+09:00 write 2026-07-24 interp=넘긴다 final=넘긴다 changed=False cause=칩 고유 conf=낮음 tools=2 sha=36833036f2cf
+2026-11-12T01:02:20+09:00 day 2026-07-28
+2026-11-12T01:02:21+09:00 newsstat 2026-07-28
+2026-11-12T01:02:53+09:00 write 2026-07-28 interp=번진다 final=넘긴다 changed=True cause=AI 투자 전반 conf=낮음 tools=2 sha=de7596dd189f
+2026-11-12T01:02:54+09:00 day 2026-08-05
+2026-11-12T01:02:54+09:00 newsstat 2026-08-05
+2026-11-12T01:03:24+09:00 write 2026-08-05 interp=안 번진다 final=안 번진다 changed=False cause=규칙이 잘못 고른 날 conf=낮음 tools=3 sha=76c7cb1dd76b
+2026-11-12T01:03:25+09:00 day 2026-08-18
+2026-11-12T01:03:25+09:00 newsstat 2026-08-18
+2026-11-12T01:03:44+09:00 write 2026-08-18 interp=번진다 final=넘긴다 changed=True cause=시장 전체 conf=낮음 tools=1 sha=0ff586342161
+2026-11-12T01:03:44+09:00 day 2026-09-14
+2026-11-12T01:03:45+09:00 newsstat 2026-09-14
+2026-11-12T01:04:06+09:00 write 2026-09-14 interp=번진다 final=넘긴다 changed=True cause=AI 투자 전반 conf=낮음 tools=1 sha=e7a373fc614f
+2026-11-12T01:04:06+09:00 day 2026-10-08
+2026-11-12T01:04:07+09:00 newsstat 2026-10-08
+2026-11-12T01:04:29+09:00 write 2026-10-08 interp=번진다 final=번진다 changed=False cause=전력 쪽 시작 conf=낮음 tools=2 sha=e93645eb8962
+2026-11-12T01:04:30+09:00 day 2026-10-22
+2026-11-12T01:04:30+09:00 newsstat 2026-10-22
+2026-11-12T01:04:44+09:00 write 2026-10-22 interp=번진다 final=번진다 changed=False cause=AI 투자 전반 conf=중간 tools=1 sha=99cdc727c710
+2026-11-12T01:04:45+09:00 day 2026-10-30
+2026-11-12T01:04:45+09:00 newsstat 2026-10-30
+2026-11-12T01:05:06+09:00 write 2026-10-30 interp=넘긴다 final=넘긴다 changed=False cause=칩 고유 conf=낮음 tools=1 sha=e18948c64244
+2026-11-12T01:07:17+09:00 CHECK_DONE.md · RESULT.md 씀

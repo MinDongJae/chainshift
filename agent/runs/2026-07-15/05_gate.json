@@ -1,0 +1,38 @@
+{
+ "규칙": "두 해석의 판정이 같은 확정(번진다 · 안 번진다)이면 통과, 아니면 사람에게 넘김",
+ "결과": "사람에게 넘김",
+ "같이 낸 판정": null,
+ "갈린 지점 한 줄": "판정이 갈림 — 해석 A 「넘긴다」(까닭 규칙이 잘못 고른 날 · 확신 낮음) 대 해석 B 「번진다」(까닭 AI 투자 전반 · 확신 낮음)",
+ "까닭 갈래 같음": false,
+ "담당자가 받는 것": {
+  "해석 A": {
+   "판정": "넘긴다",
+   "까닭 갈래": "규칙이 잘못 고른 날",
+   "확신": "낮음",
+   "근거": [
+    "Intel Shares Tumble Almost 6% as Chip Sector Selloff Deepens Ahead of Its July 23 Earnings Report Today",
+    "Stocks Rally on Fed-Friendly CPI Report",
+    "칩 7/9 내림(엔비디아 +0.3, 브로드컴 +1.3), 평균 -3.37%. 서버·부품은 칩보다 더 빠져 -4.31%(시장 대비 -4.71%p, 21/22, DELL -9.8·WDC -8.8)",
+    "앞 이틀 칩 -5.25, +3.39 / 전력 쪽 -2.13, +1.41 로 같은 쪽",
+    "전력·냉각 설비 기사 논조 +0.61, 데이터센터 낱말 기사 4건"
+   ],
+   "스스로 적은 반대 근거": "번진다 쪽: 서버·부품 21/22 가 시장보다 4.71%p 더 빠져 칩보다 넓고 깊음 — 장비를 사는 쪽 전체의 일일 수 있음. 안 번진다 쪽: 큰 칩 둘은 올랐고 시장도 물가 지표로 올랐으며, 까닭 기사가 한 건(인텔 실적 앞 매도)뿐.",
+   "스스로 적은 덧말": "까닭을 댄 출처가 하나 — 출처 부족으로 넘김. 숫자만 보면 (c)가 아주 뚜렷함."
+  },
+  "해석 B": {
+   "판정": "번진다",
+   "까닭 갈래": "AI 투자 전반",
+   "확신": "낮음",
+   "근거": [
+    "Dell leads broader AI hardware selloff as shares tumble 14%",
+    "Dell Falls 14%, HPE and Super Micro Slide as AI Hardware Stocks Give Back Gains",
+    "IBM Loses $69 Billion of Market Value in One Day in Latest AI-Fueled Selloff",
+    "Intel Shares Tumble Almost 6% as Chip Sector Selloff Deepens Ahead of Its July 23 Earnings Report",
+    "mid: SPY +0.40% 로 시장은 올랐는데 서버·부품 21/22 가 시장보다 못함(-4.71%p), 장비·소재 8/8(-2.62%p), 칩 -3.77%p. 엔비디아 +0.3 · 브로드컴 +1.3 은 오름",
+    "newsstat: 전력·냉각 설비 기사 28건 어조 +0.61, 데이터센터 공사 +0.57. 「Stocks Rally on Fed-Friendly CPI Report」"
+   ],
+   "스스로 적은 반대 근거": "「AI 하드웨어 매도」를 직접 댄 것은 야후 한 곳이고, WSJ 글은 전날 IBM 이야기(AI 가 기존 IT 회사를 흔든다는 쪽)라 뜻이 다를 수 있다. 시장은 물가 지표로 올랐고 전력 쪽 기사 어조도 좋았다. 엔비디아·브로드컴은 올라, 칩 묶음이 고르게 빠진 날이 아니다(내린 종목 7/9). 기사는 델 -14% 라 했는데 종가 자료로는 -9.8% 다.",
+   "스스로 적은 덧말": "조건: (가) AI 하드웨어 전반 매도 — 출처 딱 둘(야후 · WSJ), (나) S=-4.71 ≤ -1.0. 반대 근거가 남아 확신 낮음. 도구 4번을 다 씀."
+  }
+ }
+}

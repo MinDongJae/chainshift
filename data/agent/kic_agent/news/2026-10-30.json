@@ -1,0 +1,339 @@
+{
+ "window_utc": [
+  "20261030000000",
+  "20261030234500"
+ ],
+ "files": 96,
+ "missing": [],
+ "records": 108415,
+ "hit_records": 431,
+ "by_stage": {
+  "데이터센터 공사": {
+   "n": 3,
+   "tone": 1.9,
+   "dc": 2
+  },
+  "반도체 장비·소재": {
+   "n": 23,
+   "tone": 2.27,
+   "dc": 1
+  },
+  "발전": {
+   "n": 1,
+   "tone": -1.05,
+   "dc": 0
+  },
+  "서버·네트워크·부품": {
+   "n": 25,
+   "tone": -0.33,
+   "dc": 0
+  },
+  "전력·냉각 설비": {
+   "n": 28,
+   "tone": 1.01,
+   "dc": 1
+  },
+  "칩": {
+   "n": 369,
+   "tone": -1.37,
+   "dc": 7
+  }
+ },
+ "by_company": {
+  "INTC": 176,
+  "NVDA": 125,
+  "MU": 37,
+  "AMD": 35,
+  "BE": 20,
+  "AMAT": 20,
+  "LRCX": 17,
+  "WDC": 12,
+  "TSEM": 10,
+  "ANET": 9,
+  "MRVL": 8,
+  "AVGO": 6,
+  "SMCI": 4,
+  "PWR": 3,
+  "CMI": 3,
+  "CAT": 3,
+  "Q": 2,
+  "ETN": 2,
+  "CLS": 2,
+  "CEG": 1,
+  "CRDO": 1,
+  "LOGI": 1
+ },
+ "dc_hit_records": 10,
+ "unique_titles": 320,
+ "top": [
+  {
+   "t": "20261030193000",
+   "title": "Anthropic may not secure investment-grade rating after IPO, FT reports",
+   "url": "https://investinglive.com/stocks/anthropic-may-not-secure-investment-grade-rating-after-ipo-ft-reports/",
+   "src": "investinglive.com",
+   "ticks": [
+    "AMD",
+    "MRVL",
+    "CRDO",
+    "AMAT",
+    "WDC",
+    "ANET"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -1.6,
+   "dc": false,
+   "score": 15
+  },
+  {
+   "t": "20261030143000",
+   "title": "Semiconductor Stocks Fall as Intel Earnings Trigger Broad Tech Selloff",
+   "url": "https://www.morningstar.com/news/dow-jones/202610307484/semiconductor-stocks-fall-as-intel-earnings-trigger-broad-tech-selloff",
+   "src": "morningstar.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "INTC",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -4.64,
+   "dc": false,
+   "score": 12
+  },
+  {
+   "t": "20261030024500",
+   "title": "Intel's Data Center Business Is Now Almost As Big As Its PC Division After A 78% Surge, While Q4 Guidance Hints At Softer Revenue And Thinner Margins",
+   "url": "https://wccftech.com/intel-q3-2026-earnings-data-center-nearly-matches-pc-business/",
+   "src": "wccftech.com",
+   "ticks": [
+    "INTC",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -1.37,
+   "dc": true,
+   "score": 11
+  },
+  {
+   "t": "20261030163000",
+   "title": "Intel Leads Semiconductor Selloff as Philadelphia Index Falls More Than 7%",
+   "url": "https://econotimes.com/Intel-Leads-Semiconductor-Selloff-as-Philadelphia-Index-Falls-More-Than-7-1767054",
+   "src": "econotimes.com",
+   "ticks": [
+    "MU",
+    "INTC",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -7.43,
+   "dc": false,
+   "score": 10
+  },
+  {
+   "t": "20261030191500",
+   "title": "Chip stocks crash: Intel plunges 30%, AMD drops 12%, Nvidia and Broadcom also slide &#x2014; what's driving the selloff?",
+   "url": "https://www.livemint.com/market/stock-market-news/chip-stocks-crash-intel-plunges-30-amd-drops-12-nvidia-and-broadcom-also-slide-whats-driving-the-selloff-11793380373861.html",
+   "src": "livemint.com",
+   "ticks": [
+    "NVDA",
+    "AVGO",
+    "MU",
+    "INTC"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -1.41,
+   "dc": false,
+   "score": 9
+  },
+  {
+   "t": "20261030193000",
+   "title": "Stock market next week: Outlook for Nov. 2-6, 2026",
+   "url": "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html",
+   "src": "cnbc.com",
+   "ticks": [
+    "AMD",
+    "ANET",
+    "SMCI"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 0.15,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20261030193000",
+   "title": "Earnings next week: Can Apple, Palantir and AMD restore confidence?",
+   "url": "https://investinglive.com/stocks/earnings-next-week-can-apple-palantir-and-amd-restore-confidence/",
+   "src": "investinglive.com",
+   "ticks": [
+    "TSEM",
+    "ANET",
+    "SMCI"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 3.93,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20261030173000",
+   "title": "Stocks making the biggest moves midday: INTC, LITE, SNDK, TWLO, COIN",
+   "url": "https://www.cnbc.com/2026/10/30/stocks-making-the-biggest-moves-midday-intc-lite-sndk-twlo-coin.html",
+   "src": "cnbc.com",
+   "ticks": [
+    "MU",
+    "MRVL",
+    "ANET"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -1.14,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20261030080000",
+   "title": "Intel Reports Third-Quarter 2026 Financial Results &#x2013; Hartware",
+   "url": "https://www.hartware.de/2026/10/30/intel-reports-third-quarter-2026-financial-results/",
+   "src": "hartware.de",
+   "ticks": [
+    "INTC",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 4.69,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20261030023000",
+   "title": "Why GQG ETF Went From AI Bear to AI Bull in 4 Months",
+   "url": "https://www.morningstar.com/funds/why-this-etf-went-ai-bear-ai-bull-4-months",
+   "src": "morningstar.com",
+   "ticks": [
+    "MU",
+    "MRVL",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.67,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20261030131500",
+   "title": "Buy This Incredible Artificial Intelligence (AI) Stock Before It Soars 144% (Hint: It Will Outpace Nvidia's Growth)",
+   "url": "https://www.fool.com/investing/2026/10/30/buy-this-incredible-artificial-intelligence-ai-stock-before-it-soars-144-hint-it-will-outpace-nvidia-s-growth/",
+   "src": "fool.com",
+   "ticks": [
+    "NVDA",
+    "AMD",
+    "INTC"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 2.45,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20261030211500",
+   "title": "MasTec, Quanta Services Surge; Two Other Construction Stocks Break Out",
+   "url": "https://www.investors.com/news/mastec-quanta-services-granite-construction-stock-market-ai-data-center-earnings/",
+   "src": "investors.com",
+   "ticks": [
+    "PWR"
+   ],
+   "stages": [
+    "데이터센터 공사"
+   ],
+   "tone": 3.28,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20261030193000",
+   "title": "Tech gets crushed, defensive stocks shine. How we're making sense of it all",
+   "url": "https://www.cnbc.com/investingclub/2026/10/30/tech-gets-crushed-defensive-stocks-shine-how-were-making-sense-of-it-all.html",
+   "src": "cnbc.com",
+   "ticks": [
+    "AMD",
+    "Q"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.77,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20261030191500",
+   "title": "Intel Sinks 22%: PC Slump Overshadows 78% Data Center Surge",
+   "url": "https://www.hngn.com/articles/273640/20261030/intel-sinks-22-pc-slump-overshadows-78-data-center-surge.htm",
+   "src": "hngn.com",
+   "ticks": [
+    "INTC"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -0.52,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20261030174500",
+   "title": "Micron Peer Enthusiasm Entices Me To Buy Again",
+   "url": "https://www.aol.com/articles/micron-peer-enthusiasm-entices-buy-164543000.html",
+   "src": "aol.com",
+   "ticks": [
+    "MU",
+    "WDC"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 0.54,
+   "dc": false,
+   "score": 6
+  }
+ ],
+ "seconds": 203
+}

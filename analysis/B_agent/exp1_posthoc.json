@@ -1,0 +1,61 @@
+[
+ {
+  "date": "2026-08-18",
+  "added_excess_pct_vw": -0.62,
+  "per": {
+   "CRWV": -9.81,
+   "NBIS": -5.14,
+   "SNPS": -1.02,
+   "SPCX": null,
+   "RIOT": -3.13,
+   "IREN": -3.97,
+   "MSFT": 0.9,
+   "META": -3.49
+  }
+ },
+ {
+  "date": "2026-09-14",
+  "added_excess_pct_vw": 1.26,
+  "per": {
+   "AMZN": -0.63,
+   "CRWV": -5.24,
+   "NBIS": -3.9,
+   "SNPS": -3.26,
+   "SPCX": -0.54,
+   "RIOT": -0.72,
+   "IREN": 0.22,
+   "MSFT": 2.4,
+   "META": 3.33
+  }
+ },
+ {
+  "date": "2026-10-08",
+  "added_excess_pct_vw": -1.03,
+  "per": {
+   "AMZN": -1.65,
+   "CRWV": -6.4,
+   "NBIS": -5.84,
+   "SNPS": -0.28,
+   "SPCX": -2.85,
+   "RIOT": -7.58,
+   "IREN": -6.08,
+   "MSFT": -0.94,
+   "META": 0.56
+  }
+ },
+ {
+  "date": "2026-10-22",
+  "added_excess_pct_vw": -2.68,
+  "per": {
+   "AMZN": -2.85,
+   "CRWV": -5.8,
+   "NBIS": -2.6,
+   "SNPS": -4.47,
+   "SPCX": -5.39,
+   "RIOT": -3.48,
+   "IREN": -3.59,
+   "MSFT": -1.04,
+   "META": -5.23
+  }
+ }
+]

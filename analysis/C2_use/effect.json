@@ -1,0 +1,61 @@
+{
+ "chip_shock_days": 46,
+ "eval_trading_days": 271,
+ "eval_window": [
+  "2025-10-02",
+  "2026-10-29"
+ ],
+ "per_252_trading_days": 42.8,
+ "answers": [
+  {
+   "file": "_live-try-3.json",
+   "question": "11월 4일 미국에서 어디가 가장 크게 빠졌어?",
+   "seconds": 15.3,
+   "usd": 0.04163,
+   "evidence": 18,
+   "cited": 4,
+   "sentences": 9,
+   "failed_checks": 0
+  },
+  {
+   "file": "_live-try-4.json",
+   "question": "11월 5일 마이크론은 얼마나 빠졌어?",
+   "seconds": 12.5,
+   "usd": 0.041264,
+   "evidence": 18,
+   "cited": 6,
+   "sentences": 8,
+   "failed_checks": 0
+  },
+  {
+   "file": "_live-try-5.json",
+   "question": "11월 6일 국내 메모리 주식은 코스피보다 얼마나 더 빠졌어?",
+   "seconds": 9.4,
+   "usd": 0.043823,
+   "evidence": 18,
+   "cited": 2,
+   "sentences": 5,
+   "failed_checks": 0
+  },
+  {
+   "file": "_live-try-6.json",
+   "question": "KIC 보유 미국 종목과 이어진 국내 회사는?",
+   "seconds": 15.3,
+   "usd": 0.054554,
+   "evidence": 18,
+   "cited": 6,
+   "sentences": 10,
+   "failed_checks": 0
+  }
+ ],
+ "answer_seconds_range": [
+  9.4,
+  15.3
+ ],
+ "answer_usd_range": [
+  0.041,
+  0.055
+ ],
+ "answer_usd_mean": 0.0453,
+ "year_cost_usd_if_one_answer_per_shock_day": 1.94
+}

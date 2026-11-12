@@ -1,0 +1,85 @@
+{
+ "date": "2026-05-18",
+ "seen": [
+  {
+   "name": "pack(cases/2026-05-18/materials.md)",
+   "date": "2026-05-18"
+  },
+  {
+   "name": "mid(prices_long.csv.gz)",
+   "date": "2026-05-18"
+  },
+  {
+   "name": "newsstat(news/2026-05-18.json)",
+   "date": "2026-05-18"
+  },
+  {
+   "name": "pre(prices_long.csv.gz 2026-05-11~05-15)",
+   "date": "2026-05-15"
+  },
+  {
+   "name": "news_search 'semiconductor stocks fall Micron Lam Research' → Yahoo Finance 1건(제목만)",
+   "date": "2026-05-18"
+  }
+ ],
+ "tools": [
+  {
+   "tool": "newsstat",
+   "why": "바탕 자료 제목이 '왜 내렸나'를 묻기만 하고 까닭을 대지 않아 나머지 제목 확인"
+  },
+  {
+   "tool": "pre",
+   "why": "까닭 기사가 없으니 앞 며칠 흐름(되돌림인지, 전력 쪽이 같이 움직였는지) 확인"
+  },
+  {
+   "tool": "news_search",
+   "why": "까닭을 댄 출처 찾기(before=2026-05-19)"
+  }
+ ],
+ "cause": "규칙이 잘못 고른 날",
+ "evidence": [
+  {
+   "text": "Why Did Micron Stock Drop Today?",
+   "src": "fool.com N1 · yahoo.com N4 (까닭은 제목에 없음)",
+   "pub": "2026-05-18"
+  },
+  {
+   "text": "Potential Beijing Thaw Puts Lam Research Export And Supply Risks In Focus",
+   "src": "Yahoo Finance(news_search, 제목만)",
+   "pub": "2026-05-18"
+  },
+  {
+   "text": "Nasdaq Composite Falls Back To 26,000 In Test Of Support",
+   "src": "thebull.com.au(newsstat)",
+   "pub": "2026-05-18"
+  },
+  {
+   "text": "칩 9/9 내림이나 엔비디아 -1.3·브로드컴 -1.1·AMD -0.7·인텔 -0.6 은 작고, 작은 종목(TSEM -9.5, CRDO -9.2, ALAB -7.3)과 메모리(MU -6.0)가 큼. 장비 8/8(-4.02%p), 서버·부품 18/22(-2.79%p)",
+   "src": "mid 계산",
+   "pub": "2026-05-18"
+  },
+  {
+   "text": "앞 5거래일 칩이 +4.08, -3.16, +4.60, +1.06, -4.07 로 크게 오르내림. 전력 쪽은 같은 쪽으로 따라감(05-15 칩 -4.07·전력 -2.88)",
+   "src": "pre",
+   "pub": "2026-05-15"
+  },
+  {
+   "text": "전력·냉각 설비 기사 37건 논조 -0.83",
+   "src": "newsstat",
+   "pub": "2026-05-18"
+  }
+ ],
+ "conditions": {
+  "a": false,
+  "b": false,
+  "c": true,
+  "d": false,
+  "e": false
+ },
+ "verdict": "넘긴다",
+ "confidence": "낮음",
+ "counter": "번진다 쪽: 서버·부품 18/22 가 시장보다 더 빠졌고, 앞 주 내내 전력 쪽이 칩을 따라 움직였으며 그날 전력·냉각 설비 기사 논조가 음수. 안 번진다 쪽: 큰 칩 넷은 1% 안팎만 내렸고 시장은 보합(-0.07), 까닭을 AI 투자로 댄 기사가 없음.",
+ "dropped": 0,
+ "note": "까닭을 댄 출처가 하나(중국 관련 장비 수출 위험)뿐 — 출처 부족으로 넘김. 기울기는 '번진다' 쪽.",
+ "written_at": "2026-11-12T00:45:55+09:00"
+}

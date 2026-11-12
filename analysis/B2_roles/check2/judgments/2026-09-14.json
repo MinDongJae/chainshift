@@ -1,0 +1,23 @@
+{
+ "date": "2026-09-14",
+ "interp_verdict": "번진다",
+ "interp_cause": "AI 투자 전반",
+ "interp_confidence": "높음",
+ "rechecked": [
+  "N4 livemint 「Global AI stocks fall as industry chiefs call for slowing development」 · N6 investinglive 「AI and chip stocks tumble as weekend warnings challenge the sector's growth assumptions」 · N11 aol 「Marvell Falls 7% as AI Pacing Debate Collides With Fed Week…」 · N10 ibtimes.com.au 「SanDisk Shares Sink 5.18% as DeepSeek's Leaner AI Model Rattles Memory Chip Stocks…」 · N1 investinglive 「…Oil tops $100 as higher yields and AI worries pressure stocks」 — 다섯 다 2026-09-14 묶음에 글자 그대로 있고, 붙인 까닭(AI 개발 속도·둔화 걱정)을 직접 댐",
+  "R3: N6·N1 은 같은 investinglive → 하나로 세면 서로 다른 출처는 livemint · investinglive · aol 셋(N10 은 딥시크라는 다른 까닭)",
+  "mid 다시 냄: SPY -0.45 · 서버·부품 시장 대비 -6.28%p · 22/22 — 같음"
+ ],
+ "counter": "못 찾음. 시장 쪽 낱말로 찾아도 AI 가 앞에 나옴: France 24 「US stocks retreat on AI warnings as oil prices, bond yields rise」(2026-09-14). 유가·금리를 같이 대지만 그쪽(시장 전체)으로 읽어도 규칙상 판정은 같음. 칩 고유로 대는 것은 해석이 이미 적은 N10(딥시크의 가벼운 모델 → 메모리) 하나",
+ "final_verdict": "번진다",
+ "cause": "AI 투자 전반",
+ "changed": false,
+ "why": "근거 문장 다섯이 다 확인되고 서로 다른 출처가 셋 이상, 반대 갈래 독립 출처를 못 찾음, S 는 경계에서 5%p 넘게 밖",
+ "confidence": "높음",
+ "tools": [
+  "mid",
+  "news_search: Wall Street stocks oil yields Fed (1건)"
+ ],
+ "note": "leaked: 58종목 전체 -5.16% 를 미리 봄",
+ "written_at": "2026-11-12T01:01:07+09:00"
+}

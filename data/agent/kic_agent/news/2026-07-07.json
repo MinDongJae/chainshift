@@ -1,0 +1,353 @@
+{
+ "window_utc": [
+  "20260707000000",
+  "20260707234500"
+ ],
+ "files": 96,
+ "missing": [],
+ "records": 115514,
+ "hit_records": 391,
+ "by_stage": {
+  "데이터센터 공사": {
+   "n": 1,
+   "tone": 1.9,
+   "dc": 0
+  },
+  "반도체 장비·소재": {
+   "n": 21,
+   "tone": -1.15,
+   "dc": 0
+  },
+  "발전": {
+   "n": 6,
+   "tone": 1.12,
+   "dc": 1
+  },
+  "서버·네트워크·부품": {
+   "n": 60,
+   "tone": -1.31,
+   "dc": 1
+  },
+  "전력·냉각 설비": {
+   "n": 31,
+   "tone": 1.49,
+   "dc": 1
+  },
+  "칩": {
+   "n": 323,
+   "tone": -0.3,
+   "dc": 1
+  }
+ },
+ "by_company": {
+  "MU": 186,
+  "NVDA": 65,
+  "MRVL": 54,
+  "WDC": 45,
+  "AMD": 33,
+  "INTC": 20,
+  "LRCX": 16,
+  "AVGO": 16,
+  "AMAT": 13,
+  "BE": 12,
+  "ETN": 9,
+  "CEG": 6,
+  "CAT": 6,
+  "ANET": 6,
+  "STX": 5,
+  "CSCO": 4,
+  "CMI": 3,
+  "SMCI": 3,
+  "TSEM": 2,
+  "PWR": 1,
+  "JCI": 1
+ },
+ "dc_hit_records": 4,
+ "unique_titles": 255,
+ "top": [
+  {
+   "t": "20260707174500",
+   "title": "Nasdaq Composite Falls Back: Semiconductors Sell-off as SpaceX Added to NDX",
+   "url": "https://thebull.com.au/us-news/nasdaq-plunges-2-as-spacex-index-entry-triggers-semiconductor-selloff/",
+   "src": "thebull.com.au",
+   "ticks": [
+    "MU",
+    "MRVL",
+    "AMAT",
+    "LRCX",
+    "WDC",
+    "STX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -3.43,
+   "dc": false,
+   "score": 15
+  },
+  {
+   "t": "20260707210000",
+   "title": "Major US indices fall and are led lower by the Nasdaq index",
+   "url": "https://investinglive.com:443/stocks/major-us-indices-fall-and-are-led-lower-by-the-nasdaq-index-20260707/",
+   "src": "investinglive.com",
+   "ticks": [
+    "MU",
+    "MRVL",
+    "AMAT",
+    "LRCX",
+    "STX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -0.97,
+   "dc": false,
+   "score": 13
+  },
+  {
+   "t": "20260707181500",
+   "title": "London stocks mixed amid weak tech but FTSE 100 edges up",
+   "url": "https://www.lbc.co.uk/article/4797747d822b40eca1e77b146027ef9c-5HjddK4_2/",
+   "src": "lbc.co.uk",
+   "ticks": [
+    "MU",
+    "AMD",
+    "MRVL",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.1,
+   "dc": false,
+   "score": 12
+  },
+  {
+   "t": "20260707134500",
+   "title": "Wall Street today: U. S Stock Market today: Why are Nvidia, Micron Technology, Sandisk, Intel shares down on Tuesday?",
+   "url": "https://economictimes.indiatimes.com/news/international/us/u-s-stock-market-today-why-are-nvidia-micron-technology-sandisk-intel-shares-down-on-tuesday/articleshow/132240875.cms",
+   "src": "indiatimes.com",
+   "ticks": [
+    "NVDA",
+    "MU",
+    "INTC",
+    "MRVL",
+    "WDC"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -0.56,
+   "dc": false,
+   "score": 12
+  },
+  {
+   "t": "20260707233000",
+   "title": "Chip Stock Rally Boosts the Broader Market",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/chip-stock-rally-boosts-broader-152747118.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "MRVL",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.16,
+   "dc": false,
+   "score": 10
+  },
+  {
+   "t": "20260707220000",
+   "title": "Michael Burry Just Revealed His Next Big Short, and It's a Bet Against Nvidia, Micron, and AMD",
+   "url": "https://www.fool.com/investing/2026/07/07/michael-burry-revealed-short-bet-nvidia-micron-amd/?source=iedfolrf0000001",
+   "src": "fool.com",
+   "ticks": [
+    "NVDA",
+    "MU",
+    "MRVL",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 1.05,
+   "dc": false,
+   "score": 10
+  },
+  {
+   "t": "20260707230000",
+   "title": "Nasdaq ends down as Dow's record intraday high fades by the close",
+   "url": "https://www.proactiveinvestors.com/companies/news/1095045/nasdaq-ends-down-as-dow-s-record-intraday-high-fades-by-the-close-1095045.html",
+   "src": "proactiveinvestors.com",
+   "ticks": [
+    "AMAT",
+    "LRCX",
+    "WDC"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품"
+   ],
+   "tone": -1.68,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260707180000",
+   "title": "Nasdaq down as chip stocks sell off after Samsung earnings",
+   "url": "https://www.proactiveinvestors.com/companies/news/1095045/nasdaq-down-as-chip-stocks-sell-off-after-samsung-earnings-1095045.html",
+   "src": "proactiveinvestors.com",
+   "ticks": [
+    "AMAT",
+    "LRCX",
+    "WDC"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품"
+   ],
+   "tone": 0.0,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260707163000",
+   "title": "SanDisk shares crash 10% as AI chip selloff spreads to memory stocks",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/sandisk-shares-crash-10-as-ai-chip-selloff-spreads-to-memory-stocks/articleshow/132242786.cms",
+   "src": "indiatimes.com",
+   "ticks": [
+    "MU",
+    "MRVL",
+    "WDC"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 1.17,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260707151500",
+   "title": "Nvidia Shares Fall Nearly 2% After Report Says China's DeepSeek Is Developing Its Own AI Inference Chip",
+   "url": "https://www.ibtimes.com.au/nvidia-shares-dip-chinese-ai-firm-deepseek-develops-chip-1871977",
+   "src": "ibtimes.com.au",
+   "ticks": [
+    "NVDA",
+    "MU",
+    "WDC"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 0.19,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260707151500",
+   "title": "U.S. stock indexes rose following chipmaker shares",
+   "url": "https://news.am/en/news/1048293",
+   "src": "news.am",
+   "ticks": [
+    "MU",
+    "AMD",
+    "WDC"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 0.0,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260707143000",
+   "title": "AI stocks turn lower, weighing on Wall Street",
+   "url": "https://www.elpasoinc.com/news/ap_wire/ai-stocks-turn-lower-weighing-on-wall-street/article_f8a6fbcc-6ac2-535b-babe-835e6bfb5763.html",
+   "src": "elpasoinc.com",
+   "ticks": [
+    "MU",
+    "MRVL",
+    "WDC"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -2.8,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260707143000",
+   "title": "Micron, SanDisk, and Western Digital Sink 7% as Samsung Earnings Spark a Memory Selloff",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-western-digital-sink-134146131.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "WDC",
+    "STX"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -1.06,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260707143000",
+   "title": "Micron Shares Sink Nearly 7% as Samsung's Blowout Earnings Trigger Fresh Memory Chip Sector Selloff Today",
+   "url": "https://www.ibtimes.com.au/micron-shares-plunge-global-memory-chip-sell-off-1871960",
+   "src": "ibtimes.com.au",
+   "ticks": [
+    "MU",
+    "WDC",
+    "STX"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -1.38,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260707140000",
+   "title": "US stock market today: S&P 500, Nasdaq futures edge lower as chip stocks retreat; crude oil prices rise",
+   "url": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-futures-edge-lower-as-chip-stocks-retreat-crude-oil-prices-rise-11783422729837.html",
+   "src": "livemint.com",
+   "ticks": [
+    "MU",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -2.3,
+   "dc": false,
+   "score": 8
+  }
+ ],
+ "seconds": 335
+}

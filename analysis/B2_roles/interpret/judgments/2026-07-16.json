@@ -1,0 +1,77 @@
+{
+ "date": "2026-07-16",
+ "seen": [
+  {
+   "name": "pack(cases/2026-07-16/materials.md)",
+   "date": "2026-07-16"
+  },
+  {
+   "name": "mid(prices_long.csv.gz)",
+   "date": "2026-07-16"
+  },
+  {
+   "name": "newsstat(news/2026-07-16.json, 단계별 건수·논조만)",
+   "date": "2026-07-16"
+  },
+  {
+   "name": "pre(prices_long.csv.gz ~2026-07-15)",
+   "date": "2026-07-15"
+  }
+ ],
+ "tools": [
+  {
+   "tool": "newsstat",
+   "why": "바탕 자료로 (a)(c)가 찼으므로 전력 쪽 논조로 반대 근거 확인"
+  },
+  {
+   "tool": "pre",
+   "why": "이틀째 하락이라 전날 전력 쪽이 칩을 따라갔는지 확인"
+  }
+ ],
+ "cause": "AI 투자 전반",
+ "evidence": [
+  {
+   "text": "Marvell Drops 8% as AI Capex Slowdown Fears Weigh on Chips; Broadcom, AMD, and Intel Slide",
+   "src": "yahoo.com N12",
+   "pub": "2026-07-16"
+  },
+  {
+   "text": "AI and chip stocks continue to slide sending the Nasdaq down near -1.5%",
+   "src": "investinglive.com N11",
+   "pub": "2026-07-16"
+  },
+  {
+   "text": "Tech-heavy indexes fall globally as investors offload chip stocks",
+   "src": "irishtimes.com N3",
+   "pub": "2026-07-16"
+  },
+  {
+   "text": "칩 9/9(-6.14%), 장비 8/8(-3.34%p), 서버·부품 19/22(-4.15%p)",
+   "src": "mid 계산",
+   "pub": "2026-07-16"
+  },
+  {
+   "text": "전력·냉각 설비 기사 27건 논조 -0.45, 그 가운데 데이터센터 낱말 5건",
+   "src": "newsstat",
+   "pub": "2026-07-16"
+  },
+  {
+   "text": "전날(07-15) 칩 -3.37% 일 때 전력 쪽 -1.05%(시장 +0.40%)",
+   "src": "pre",
+   "pub": "2026-07-15"
+  }
+ ],
+ "conditions": {
+  "a": true,
+  "b": false,
+  "c": true,
+  "d": false,
+  "e": false
+ },
+ "verdict": "번진다",
+ "confidence": "중간",
+ "counter": "N1·N6 은 물가 지표와 실적으로 지수가 받쳐졌다고 적음 — 칩 밖은 버텼다는 읽기. 공사 기사 논조 +1.26. 전력 쪽을 이름으로 든 하락 기사는 못 봄((b) 미충족).",
+ "dropped": 0,
+ "note": "까닭이 'AI 설비투자 둔화 걱정'으로 데이터센터 투자 전체에 닿음.",
+ "written_at": "2026-11-12T00:48:43+09:00"
+}

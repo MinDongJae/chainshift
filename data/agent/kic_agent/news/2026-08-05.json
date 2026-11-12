@@ -1,0 +1,337 @@
+{
+ "window_utc": [
+  "20260805000000",
+  "20260805234500"
+ ],
+ "files": 96,
+ "missing": [],
+ "records": 117597,
+ "hit_records": 440,
+ "by_stage": {
+  "데이터센터 공사": {
+   "n": 3,
+   "tone": 1.23,
+   "dc": 0
+  },
+  "반도체 장비·소재": {
+   "n": 16,
+   "tone": -0.58,
+   "dc": 0
+  },
+  "발전": {
+   "n": 4,
+   "tone": 1.25,
+   "dc": 0
+  },
+  "서버·네트워크·부품": {
+   "n": 65,
+   "tone": 1.16,
+   "dc": 0
+  },
+  "전력·냉각 설비": {
+   "n": 110,
+   "tone": -1.87,
+   "dc": 6
+  },
+  "칩": {
+   "n": 264,
+   "tone": 0.7,
+   "dc": 5
+  }
+ },
+ "by_company": {
+  "MU": 120,
+  "NVDA": 78,
+  "AMD": 75,
+  "ETN": 56,
+  "BE": 36,
+  "ANET": 28,
+  "WDC": 21,
+  "MRVL": 11,
+  "INTC": 11,
+  "LRCX": 10,
+  "CAT": 10,
+  "AVGO": 9,
+  "AMAT": 9,
+  "CMI": 6,
+  "SMCI": 6,
+  "CSCO": 5,
+  "PWR": 3,
+  "STX": 3,
+  "JCI": 2,
+  "CLS": 2,
+  "SEI": 2,
+  "CEG": 2,
+  "GEV": 2,
+  "TER": 1,
+  "LOGI": 1,
+  "CRDO": 1
+ },
+ "dc_hit_records": 10,
+ "unique_titles": 308,
+ "top": [
+  {
+   "t": "20260805094500",
+   "title": "Volta Anthropic deal: $10bn pact at $2.4bn valuation",
+   "url": "https://bmmagazine.co.uk/ai/volta-anthropic-data-centre-deal-nvidia/",
+   "src": "bmmagazine.co.uk",
+   "ticks": [
+    "NVDA",
+    "BE"
+   ],
+   "stages": [
+    "전력·냉각 설비",
+    "칩"
+   ],
+   "tone": -0.56,
+   "dc": true,
+   "score": 9
+  },
+  {
+   "t": "20260805013000",
+   "title": "Stocks Supported by Easing Middle East Tensions",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-supported-easing-middle-east-141706149.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "LRCX",
+    "WDC"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -0.33,
+   "dc": false,
+   "score": 9
+  },
+  {
+   "t": "20260805223000",
+   "title": "S&P 500 Posts a New Record High on Strong Tech Earnings",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-record-high-141655624.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.32,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260805200000",
+   "title": "Nasdaq Futures Climb as Tech Rally Continues on Palantir Boost, U.S. JOLTS Report and SpaceX Earnings on Tap",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-climb-tech-rally-103857213.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "MRVL",
+    "ANET"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 1.22,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260805153000",
+   "title": "Wall Street Set To Extend Rally As Nvidia Partner Surges, Disney And Shopify Earnings Loom",
+   "url": "https://www.hngn.com/articles/272579/20260805/wall-street-set-extend-rally-nvidia-partner-surges-disney-shopify-earnings-loom.htm",
+   "src": "hngn.com",
+   "ticks": [
+    "NVDA",
+    "AMD",
+    "ANET"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 0.83,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260805143000",
+   "title": "Futures Hit New Record High On Strong Earnings Following Historic Call Buying Frenzy",
+   "url": "https://www.zerohedge.com/markets/futures-hit-new-record-high-strong-earnings-following-historic-call-buying-frenzy",
+   "src": "zerohedge.com",
+   "ticks": [
+    "MRVL",
+    "WDC",
+    "ANET"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -0.56,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260805051500",
+   "title": "Morning Bid: Semis fly again as AI capex shoots the moon",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-semis-fly-again-043445622.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "AMAT",
+    "LRCX",
+    "WDC"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품"
+   ],
+   "tone": -2.87,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260805000000",
+   "title": "U.S. stocks advance on strong earnings, lower oil prices-Xinhua",
+   "url": "https://english.news.cn/20260805/0bc623d782aa41a39693c89ddb88342f/c.html",
+   "src": "english.news.cn",
+   "ticks": [
+    "MU",
+    "AMD",
+    "MRVL"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 1.09,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20260805231500",
+   "title": "Stock Indices Rally on Strong Tech Earnings and US-Iran Peace Hopes",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-indices-rally-strong-tech-151504400.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.29,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260805230000",
+   "title": "S&P 500, Dow at record highs on Mideast deal hopes; SpaceX, AMD drag",
+   "url": "https://www.spokesman.com/stories/2026/aug/05/sp-500-dow-at-record-highs-on-mideast-deal-hopes-s/",
+   "src": "spokesman.com",
+   "ticks": [
+    "AMD",
+    "ANET"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -0.16,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260805210000",
+   "title": "Advanced Micro Devices (NASDAQ:AMD) Trading 1.8% Higher Following Analyst Upgrade",
+   "url": "https://www.dailypolitical.com/2026/08/05/advanced-micro-devices-nasdaqamd-trading-1-8-higher-following-analyst-upgrade.html",
+   "src": "dailypolitical.com",
+   "ticks": [
+    "AMD",
+    "SMCI"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 3.48,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260805201500",
+   "title": "Alphabet is slumping on the departure of another AI exec",
+   "url": "https://www.cnbc.com/2026/08/05/alphabet-is-slumping-on-the-departure-of-another-ai-exec.html",
+   "src": "cnbc.com",
+   "ticks": [
+    "WDC",
+    "CEG"
+   ],
+   "stages": [
+    "발전",
+    "서버·네트워크·부품"
+   ],
+   "tone": 1.1,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260805201500",
+   "title": "Markets News, Aug. 4, 2026: S&P 500, Dow Close at Records as Palantir, Caterpillar Shares Jump; Oil Drops on US-Iran Deal Optimism",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-futures-jump-105138179.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "AMD",
+    "CAT"
+   ],
+   "stages": [
+    "전력·냉각 설비",
+    "칩"
+   ],
+   "tone": -0.03,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260805184500",
+   "title": "Stock Market Midday, Aug. 5: Eli Lilly Pops and AMD Drops in Mixed Morning Markets",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/08/05/stock-market-midday-aug-5-eli-lilly-pops-and-amd-drops-in-mixed-morning-markets/?source=iedfolrf0000001",
+   "src": "fool.com",
+   "ticks": [
+    "AMD",
+    "WDC"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 0.0,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260805170000",
+   "title": "SpaceX gives Nvidia a much-needed boost. Cramer's 'undervalued' stock",
+   "url": "https://www.cnbc.com/2026/08/05/spacex-gives-nvidia-a-much-needed-boost-cramers-undervalued-stock-.html",
+   "src": "cnbc.com",
+   "ticks": [
+    "NVDA",
+    "ANET"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 1.56,
+   "dc": false,
+   "score": 6
+  }
+ ],
+ "seconds": 247
+}

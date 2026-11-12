@@ -1,0 +1,9229 @@
+{
+ "rows": [
+  {
+   "date": "2025-01-27",
+   "in46": false,
+   "in25": true,
+   "rule_shock": true,
+   "chip_pct": -14.56,
+   "chip_usd_e8": -9.94,
+   "chip_down_n": 9,
+   "smh_pct": -9.83,
+   "spy_pct": -1.41,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 18,
+     "usd_e8": 14.96,
+     "act_e8": -2.227,
+     "act_pct": -14.89,
+     "own_pct": -1.43,
+     "left_e8": {
+      "SPY": -1.912,
+      "OWN": -1.891,
+      "SMH": -1.513,
+      "OWN+SMH": -1.56
+     },
+     "left_pct": {
+      "SPY": 86.0,
+      "OWN": 85.0,
+      "SMH": 68.0,
+      "OWN+SMH": 70.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -22.21
+      ],
+      "OWN": [
+       -23.54
+      ],
+      "SMH": [
+       -7.25
+      ],
+      "OWN+SMH": [
+       -18.19,
+       -4.14
+      ]
+     },
+     "best": "SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 10,
+     "usd_e8": 9.73,
+     "act_e8": -1.008,
+     "act_pct": -10.35,
+     "own_pct": -1.34,
+     "left_e8": {
+      "SPY": -0.816,
+      "OWN": -0.823,
+      "SMH": -0.586,
+      "OWN+SMH": -0.662
+     },
+     "left_pct": {
+      "SPY": 81.0,
+      "OWN": 82.0,
+      "SMH": 58.0,
+      "OWN+SMH": 66.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -13.55
+      ],
+      "OWN": [
+       -13.81
+      ],
+      "SMH": [
+       -4.29
+      ],
+      "OWN+SMH": [
+       -11.18,
+       -1.99
+      ]
+     },
+     "best": "SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.575,
+     "act_pct": -20.9,
+     "own_pct": -1.34,
+     "left_e8": {
+      "SPY": -0.507,
+      "OWN": -0.514,
+      "SMH": -0.404,
+      "OWN+SMH": -0.425
+     },
+     "left_pct": {
+      "SPY": 88.0,
+      "OWN": 90.0,
+      "SMH": 70.0,
+      "OWN+SMH": 74.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.79
+      ],
+      "OWN": [
+       -4.5
+      ],
+      "SMH": [
+       -1.73
+      ],
+      "OWN+SMH": [
+       -3.04,
+       -1.11
+      ]
+     },
+     "best": "SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.644,
+     "act_pct": -26.01,
+     "own_pct": -1.86,
+     "left_e8": {
+      "SPY": -0.589,
+      "OWN": -0.574,
+      "SMH": -0.523,
+      "OWN+SMH": -0.453
+     },
+     "left_pct": {
+      "SPY": 91.0,
+      "OWN": 89.0,
+      "SMH": 81.0,
+      "OWN+SMH": 70.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -3.88
+      ],
+      "OWN": [
+       -3.76
+      ],
+      "SMH": [
+       -1.23
+      ],
+      "OWN+SMH": [
+       -3.76,
+       -1.23
+      ]
+     },
+     "best": "OWN+SMH"
+    }
+   },
+   "해석1": {
+    "cause": "AI 투자 전반",
+    "verdict": "번진다",
+    "confidence": "높음",
+    "evidence1": {
+     "text": "Tech stocks tank as a Chinese competitor threatens to upend the AI frenzy; Nvidia sinks nearly 17%",
+     "src": "tribstar.com N7",
+     "pub": "2025-01-27"
+    },
+    "counter": "까닭이 '값싼 모델이 칩을 덜 쓰게 한다'는 칩 수요 쪽 이야기라 전력 쪽은 덜 빠질 수 있음. 데이터센터 낱말이 든 기사는 3건뿐. 인텔 -2.6·AMD -6.4 로 칩 안에서도 차이가 큼."
+   },
+   "해석2": {
+    "cause": "AI 투자 전반",
+    "verdict": "번진다",
+    "confidence": "높음",
+    "evidence1": "tribstar.com(AP) 2025-01-27 「Tech stocks tank as a Chinese competitor threatens to upend the AI frenzy; Nvidia sinks nearly 17%」",
+    "counter": "딥시크 소식은 「더 싼 모델」이라 칩 수요만 줄고 전력 쪽은 덜 맞는다고 읽을 수도 있다. 서버 단계에서 HPQ +1.8 · LOGI +0.9 는 올랐다. 전력 쪽 좋은 소식 기사는 찾지 못했다."
+   }
+  },
+  {
+   "date": "2025-04-09",
+   "in46": false,
+   "in25": true,
+   "rule_shock": false,
+   "chip_pct": 19.34,
+   "chip_usd_e8": 13.21,
+   "chip_down_n": 0,
+   "smh_pct": 17.16,
+   "spy_pct": 10.5,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": 2.163,
+     "act_pct": 12.19,
+     "own_pct": 8.38,
+     "left_e8": {
+      "SPY": -0.973,
+      "OWN": -0.311,
+      "SMH": 0.009,
+      "OWN+SMH": -0.763
+     },
+     "left_pct": {
+      "SPY": -45.0,
+      "OWN": -14.0,
+      "SMH": 0.0,
+      "OWN+SMH": -35.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -29.86
+      ],
+      "OWN": [
+       -29.51
+      ],
+      "SMH": [
+       -12.55
+      ],
+      "OWN+SMH": [
+       -18.02,
+       -8.25
+      ]
+     },
+     "best": "SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": 1.44,
+     "act_pct": 11.51,
+     "own_pct": 8.88,
+     "left_e8": {
+      "SPY": -0.658,
+      "OWN": -0.265,
+      "SMH": 0.054,
+      "OWN+SMH": -0.504
+     },
+     "left_pct": {
+      "SPY": -46.0,
+      "OWN": -18.0,
+      "SMH": 4.0,
+      "OWN+SMH": -35.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -19.98
+      ],
+      "OWN": [
+       -19.2
+      ],
+      "SMH": [
+       -8.08
+      ],
+      "OWN+SMH": [
+       -12.7,
+       -4.76
+      ]
+     },
+     "best": "SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": 0.324,
+     "act_pct": 11.78,
+     "own_pct": 8.88,
+     "left_e8": {
+      "SPY": -0.165,
+      "OWN": -0.057,
+      "SMH": -0.053,
+      "OWN+SMH": -0.141
+     },
+     "left_pct": {
+      "SPY": -51.0,
+      "OWN": -18.0,
+      "SMH": -16.0,
+      "OWN+SMH": -44.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.66
+      ],
+      "OWN": [
+       -4.29
+      ],
+      "SMH": [
+       -2.19
+      ],
+      "OWN+SMH": [
+       -2.01,
+       -1.67
+      ]
+     },
+     "best": "SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": 0.399,
+     "act_pct": 16.1,
+     "own_pct": 5.29,
+     "left_e8": {
+      "SPY": -0.15,
+      "OWN": 0.145,
+      "SMH": 0.007,
+      "OWN+SMH": -0.123
+     },
+     "left_pct": {
+      "SPY": -38.0,
+      "OWN": 36.0,
+      "SMH": 2.0,
+      "OWN+SMH": -31.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.23
+      ],
+      "OWN": [
+       -4.8
+      ],
+      "SMH": [
+       -2.28
+      ],
+      "OWN+SMH": [
+       -3.64,
+       -1.92
+      ]
+     },
+     "best": "SMH"
+    }
+   },
+   "해석1": {
+    "cause": "규칙이 잘못 고른 날",
+    "verdict": "안 번진다",
+    "confidence": "중간",
+    "evidence1": {
+     "text": "SPY +10.50%, 칩 9종목 모두 오름(평균 +19.69%, 내린 종목 0/9). '시장 요인을 뺀 평균 -5.34%'는 시장이 하루 10% 오른 날 민감도를 곱해 뺀 셈에서 나온 값",
+     "src": "pack P1·P2, mid 계산",
+     "pub": "2025-04-09"
+    },
+    "counter": "채점이 시장 민감도를 뺀 값으로 이뤄지면, 전력 쪽도 시장이 10% 오른 날 '예상보다 덜 올랐다'로 잡혀 칩과 같은 쪽으로 계산될 수 있음(셈의 문제이지 충격의 번짐은 아님). 전날까지 관세 급락이 이어진 주간이고 N11 은 '엔비디아가 내려 데이터센터 종목도 내렸다'(인도 종목, 앞날 일)고 적음."
+   },
+   "해석2": {
+    "cause": "규칙이 잘못 고른 날",
+    "verdict": "사람에게 넘긴다",
+    "confidence": "낮음",
+    "evidence1": "mid: SPY +10.50%, 칩 9종목 모두 오름(평균 +19.69%, 내린 종목 0/9) — 「시장 요인을 뺀 값」만 -5.34%",
+    "counter": "민감도를 뺀 값으로는 서버·부품(-4.26)이 칩(-4.23)만큼 「덜 올랐다」. 이것을 번짐으로 읽을 수도 있으나, 하루 +10% 급등일에 250일 기울기를 곱해 뺀 값은 기울기 오차가 그대로 커진 것일 수 있다. theverge.com 「Trump signs executive order to power AI data centers with coal energy」는 전력 쪽에 좋은 소식."
+   }
+  },
+  {
+   "date": "2025-08-29",
+   "in46": false,
+   "in25": true,
+   "rule_shock": true,
+   "chip_pct": -3.67,
+   "chip_usd_e8": -2.5,
+   "chip_down_n": 9,
+   "smh_pct": -2.87,
+   "spy_pct": -0.6,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.504,
+     "act_pct": -2.84,
+     "own_pct": -0.8,
+     "left_e8": {
+      "SPY": -0.351,
+      "OWN": -0.282,
+      "SMH": -0.117,
+      "OWN+SMH": -0.142
+     },
+     "left_pct": {
+      "SPY": 70.0,
+      "OWN": 56.0,
+      "SMH": 23.0,
+      "OWN+SMH": 28.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -25.74
+      ],
+      "OWN": [
+       -27.89
+      ],
+      "SMH": [
+       -13.49
+      ],
+      "OWN+SMH": [
+       -15.51,
+       -8.3
+      ]
+     },
+     "best": "SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.373,
+     "act_pct": -2.98,
+     "own_pct": -0.92,
+     "left_e8": {
+      "SPY": -0.271,
+      "OWN": -0.207,
+      "SMH": -0.119,
+      "OWN+SMH": -0.131
+     },
+     "left_pct": {
+      "SPY": 72.0,
+      "OWN": 56.0,
+      "SMH": 32.0,
+      "OWN+SMH": 35.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -17.24
+      ],
+      "OWN": [
+       -18.07
+      ],
+      "SMH": [
+       -8.84
+      ],
+      "OWN+SMH": [
+       -11.11,
+       -4.87
+      ]
+     },
+     "best": "SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.07,
+     "act_pct": -2.56,
+     "own_pct": -0.92,
+     "left_e8": {
+      "SPY": -0.047,
+      "OWN": -0.034,
+      "SMH": -0.008,
+      "OWN+SMH": -0.01
+     },
+     "left_pct": {
+      "SPY": 67.0,
+      "OWN": 49.0,
+      "SMH": 12.0,
+      "OWN+SMH": 14.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -3.88
+      ],
+      "OWN": [
+       -3.94
+      ],
+      "SMH": [
+       -2.17
+      ],
+      "OWN+SMH": [
+       -1.72,
+       -1.55
+      ]
+     },
+     "best": "SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.061,
+     "act_pct": -2.44,
+     "own_pct": -0.04,
+     "left_e8": {
+      "SPY": -0.033,
+      "OWN": -0.058,
+      "SMH": 0.011,
+      "OWN+SMH": -0.006
+     },
+     "left_pct": {
+      "SPY": 54.0,
+      "OWN": 96.0,
+      "SMH": -18.0,
+      "OWN+SMH": 10.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.63
+      ],
+      "OWN": [
+       -5.21
+      ],
+      "SMH": [
+       -2.48
+      ],
+      "OWN+SMH": [
+       -3.27,
+       -1.84
+      ]
+     },
+     "best": "OWN+SMH"
+    }
+   },
+   "해석1": {
+    "cause": "칩 고유",
+    "verdict": "넘긴다",
+    "confidence": "낮음",
+    "evidence1": {
+     "text": "Marvell stock slumps 16% after data center revenue, forecast disappoint",
+     "src": "biztoc.com N12",
+     "pub": "2025-08-29"
+    },
+    "counter": "번진다 쪽: 마벨의 '데이터센터 매출 실망'과 델 실적 뒤 하락이 같은 날 겹쳐 서버·부품 18/22 가 시장보다 더 빠짐 — AI 장비 수요 전반의 눈높이 조정으로 읽을 수 있음. 안 번진다 쪽: 까닭 기사는 모두 회사별 실적·중국 생산 규제이고 전력 쪽을 든 기사가 없음."
+   },
+   "해석2": {
+    "cause": "칩 고유",
+    "verdict": "사람에게 넘긴다",
+    "confidence": "낮음",
+    "evidence1": "biztoc.com 2025-08-29 「Marvell stock slumps 16% after data center revenue, forecast disappoint」",
+    "counter": "마벨이 빠진 까닭이 「데이터센터 매출 실망」이라 AI 투자 전반으로 읽을 수도 있고, 그렇게 읽으면 서버·부품 -2.47%p 와 합쳐 「번진다」 조건이 된다. 반대로 서버·부품 약세는 델 실적 한 건(-8.9%)과 물가 걱정(proactiveinvestors 「renewed inflation fears」)으로도 설명된다."
+   }
+  },
+  {
+   "date": "2025-10-14",
+   "in46": true,
+   "in25": true,
+   "rule_shock": true,
+   "chip_pct": -3.63,
+   "chip_usd_e8": -2.48,
+   "chip_down_n": 8,
+   "smh_pct": -1.84,
+   "spy_pct": -0.12,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": 0.186,
+     "act_pct": 1.05,
+     "own_pct": 1.09,
+     "left_e8": {
+      "SPY": 0.217,
+      "OWN": -0.119,
+      "SMH": 0.443,
+      "OWN+SMH": 0.189
+     },
+     "left_pct": {
+      "SPY": 117.0,
+      "OWN": -64.0,
+      "SMH": 239.0,
+      "OWN+SMH": 102.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -25.87
+      ],
+      "OWN": [
+       -27.97
+      ],
+      "SMH": [
+       -13.99
+      ],
+      "OWN+SMH": [
+       -14.68,
+       -8.9
+      ]
+     },
+     "best": "OWN"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": 0.188,
+     "act_pct": 1.5,
+     "own_pct": 1.18,
+     "left_e8": {
+      "SPY": 0.209,
+      "OWN": -0.024,
+      "SMH": 0.355,
+      "OWN+SMH": 0.158
+     },
+     "left_pct": {
+      "SPY": 111.0,
+      "OWN": -13.0,
+      "SMH": 189.0,
+      "OWN+SMH": 84.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -17.26
+      ],
+      "OWN": [
+       -18.02
+      ],
+      "SMH": [
+       -9.1
+      ],
+      "OWN+SMH": [
+       -10.65,
+       -5.17
+      ]
+     },
+     "best": "OWN"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.013,
+     "act_pct": -0.49,
+     "own_pct": 1.18,
+     "left_e8": {
+      "SPY": -0.009,
+      "OWN": -0.06,
+      "SMH": 0.026,
+      "OWN+SMH": -0.006
+     },
+     "left_pct": {
+      "SPY": 65.0,
+      "OWN": 444.0,
+      "SMH": -197.0,
+      "OWN+SMH": 47.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -3.81
+      ],
+      "OWN": [
+       -3.92
+      ],
+      "SMH": [
+       -2.16
+      ],
+      "OWN+SMH": [
+       -1.77,
+       -1.51
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": 0.011,
+     "act_pct": 0.44,
+     "own_pct": 0.57,
+     "left_e8": {
+      "SPY": 0.017,
+      "OWN": -0.018,
+      "SMH": 0.061,
+      "OWN+SMH": 0.035
+     },
+     "left_pct": {
+      "SPY": 153.0,
+      "OWN": -166.0,
+      "SMH": 557.0,
+      "OWN+SMH": 319.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.8
+      ],
+      "OWN": [
+       -5.12
+      ],
+      "SMH": [
+       -2.73
+      ],
+      "OWN+SMH": [
+       -2.72,
+       -2.15
+      ]
+     },
+     "best": "SPY"
+    }
+   },
+   "해석1": {
+    "cause": "칩 고유",
+    "verdict": "안 번진다",
+    "confidence": "중간",
+    "evidence1": {
+     "text": "Arista Stock Falls As Nvidia Wins Meta, Oracle Orders For AI Networking Chips",
+     "src": "investors.com(newsstat)",
+     "pub": "2025-10-14"
+    },
+    "counter": "서버·부품이 시장 대비 -1.00%p 로 (e)의 선에 걸쳐 있음. 엔비디아(-4.4)·인텔(-4.3)도 내려 '기술주가 흔들렸다'(investopedia N3)는 읽기도 가능. (d)의 출처는 경쟁 칩을 댄 기사 하나와 숫자(두 종목이 평균을 끌어내림)로 채웠고, 아스테라랩스·크레도 하락을 직접 설명한 기사는 못 찾음."
+   },
+   "해석2": {
+    "cause": "칩 고유",
+    "verdict": "안 번진다",
+    "confidence": "중간",
+    "evidence1": "investors.com 2025-10-14 12:30 UTC 「Arista Stock Falls As Nvidia Wins Meta, Oracle Orders For AI Networking Chips」 — AI 연결 칩·장비 안의 자리 다툼",
+    "counter": "S 가 -0.9963 으로 경계 -1.0 에 닿아 있다(소수 둘째 자리로 반올림하면 -1.00). 아리스타 -5.9 · 셀레스티카 -5.1 · 코히런트 -5.0 처럼 AI 서버·광부품은 뚜렷이 빠졌다. 아스테라랩스·크레도가 빠진 까닭을 직접 댄 기사는 찾지 못했다(검색 2번 0건)."
+   }
+  },
+  {
+   "date": "2025-11-04",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -4.35,
+   "chip_usd_e8": -2.97,
+   "chip_down_n": 9,
+   "smh_pct": -3.64,
+   "spy_pct": -1.19,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.659,
+     "act_pct": -3.71,
+     "own_pct": -1.08,
+     "left_e8": {
+      "SPY": -0.351,
+      "OWN": -0.355,
+      "SMH": -0.132,
+      "OWN+SMH": -0.16
+     },
+     "left_pct": {
+      "SPY": 53.0,
+      "OWN": 54.0,
+      "SMH": 20.0,
+      "OWN+SMH": 24.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -25.96
+      ],
+      "OWN": [
+       -28.02
+      ],
+      "SMH": [
+       -14.44
+      ],
+      "OWN+SMH": [
+       -14.06,
+       -9.49
+      ]
+     },
+     "best": "SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.522,
+     "act_pct": -4.17,
+     "own_pct": -1.16,
+     "left_e8": {
+      "SPY": -0.318,
+      "OWN": -0.312,
+      "SMH": -0.183,
+      "OWN+SMH": -0.204
+     },
+     "left_pct": {
+      "SPY": 61.0,
+      "OWN": 60.0,
+      "SMH": 35.0,
+      "OWN+SMH": 39.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -17.25
+      ],
+      "OWN": [
+       -18.1
+      ],
+      "SMH": [
+       -9.32
+      ],
+      "OWN+SMH": [
+       -10.63,
+       -5.36
+      ]
+     },
+     "best": "SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.071,
+     "act_pct": -2.58,
+     "own_pct": -1.16,
+     "left_e8": {
+      "SPY": -0.025,
+      "OWN": -0.025,
+      "SMH": 0.012,
+      "OWN+SMH": 0.009
+     },
+     "left_pct": {
+      "SPY": 35.0,
+      "OWN": 36.0,
+      "SMH": -17.0,
+      "OWN+SMH": -13.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -3.89
+      ],
+      "OWN": [
+       -3.93
+      ],
+      "SMH": [
+       -2.28
+      ],
+      "OWN+SMH": [
+       -1.57,
+       -1.7
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.066,
+     "act_pct": -2.64,
+     "own_pct": -0.61,
+     "left_e8": {
+      "SPY": -0.008,
+      "OWN": -0.034,
+      "SMH": 0.038,
+      "OWN+SMH": 0.033
+     },
+     "left_pct": {
+      "SPY": 13.0,
+      "OWN": 51.0,
+      "SMH": -58.0,
+      "OWN+SMH": -50.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.82
+      ],
+      "OWN": [
+       -5.18
+      ],
+      "SMH": [
+       -2.84
+      ],
+      "OWN+SMH": [
+       -2.49,
+       -2.28
+      ]
+     },
+     "best": "SPY"
+    }
+   }
+  },
+  {
+   "date": "2025-11-11",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -2.94,
+   "chip_usd_e8": -2.01,
+   "chip_down_n": 8,
+   "smh_pct": -2.16,
+   "spy_pct": 0.23,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.331,
+     "act_pct": -1.86,
+     "own_pct": 0.09,
+     "left_e8": {
+      "SPY": -0.39,
+      "OWN": -0.357,
+      "SMH": -0.021,
+      "OWN+SMH": -0.132
+     },
+     "left_pct": {
+      "SPY": 118.0,
+      "OWN": 108.0,
+      "SMH": 6.0,
+      "OWN+SMH": 40.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -25.69
+      ],
+      "OWN": [
+       -28.1
+      ],
+      "SMH": [
+       -14.34
+      ],
+      "OWN+SMH": [
+       -13.14,
+       -9.8
+      ]
+     },
+     "best": "SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.233,
+     "act_pct": -1.87,
+     "own_pct": 0.03,
+     "left_e8": {
+      "SPY": -0.273,
+      "OWN": -0.238,
+      "SMH": -0.033,
+      "OWN+SMH": -0.114
+     },
+     "left_pct": {
+      "SPY": 117.0,
+      "OWN": 102.0,
+      "SMH": 14.0,
+      "OWN+SMH": 49.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -17.07
+      ],
+      "OWN": [
+       -18.16
+      ],
+      "SMH": [
+       -9.28
+      ],
+      "OWN+SMH": [
+       -9.94,
+       -5.65
+      ]
+     },
+     "best": "SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.036,
+     "act_pct": -1.3,
+     "own_pct": 0.03,
+     "left_e8": {
+      "SPY": -0.045,
+      "OWN": -0.037,
+      "SMH": 0.013,
+      "OWN+SMH": 0.001
+     },
+     "left_pct": {
+      "SPY": 125.0,
+      "OWN": 103.0,
+      "SMH": -37.0,
+      "OWN+SMH": -2.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -3.9
+      ],
+      "OWN": [
+       -4.04
+      ],
+      "SMH": [
+       -2.28
+      ],
+      "OWN+SMH": [
+       -1.55,
+       -1.71
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.062,
+     "act_pct": -2.49,
+     "own_pct": 0.5,
+     "left_e8": {
+      "SPY": -0.072,
+      "OWN": -0.087,
+      "SMH": -0.002,
+      "OWN+SMH": -0.026
+     },
+     "left_pct": {
+      "SPY": 118.0,
+      "OWN": 141.0,
+      "SMH": 3.0,
+      "OWN+SMH": 42.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.72
+      ],
+      "OWN": [
+       -5.11
+      ],
+      "SMH": [
+       -2.78
+      ],
+      "OWN+SMH": [
+       -2.46,
+       -2.23
+      ]
+     },
+     "best": "SMH"
+    }
+   }
+  },
+  {
+   "date": "2025-11-13",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -3.85,
+   "chip_usd_e8": -2.63,
+   "chip_down_n": 9,
+   "smh_pct": -3.01,
+   "spy_pct": -1.66,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.773,
+     "act_pct": -4.36,
+     "own_pct": -1.44,
+     "left_e8": {
+      "SPY": -0.347,
+      "OWN": -0.368,
+      "SMH": -0.339,
+      "OWN+SMH": -0.288
+     },
+     "left_pct": {
+      "SPY": 45.0,
+      "OWN": 48.0,
+      "SMH": 44.0,
+      "OWN+SMH": 37.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -25.64
+      ],
+      "OWN": [
+       -28.05
+      ],
+      "SMH": [
+       -14.41
+      ],
+      "OWN+SMH": [
+       -12.65,
+       -10.03
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.507,
+     "act_pct": -4.05,
+     "own_pct": -1.55,
+     "left_e8": {
+      "SPY": -0.224,
+      "OWN": -0.226,
+      "SMH": -0.226,
+      "OWN+SMH": -0.183
+     },
+     "left_pct": {
+      "SPY": 44.0,
+      "OWN": 45.0,
+      "SMH": 45.0,
+      "OWN+SMH": 36.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -17.03
+      ],
+      "OWN": [
+       -18.11
+      ],
+      "SMH": [
+       -9.33
+      ],
+      "OWN+SMH": [
+       -9.6,
+       -5.81
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.157,
+     "act_pct": -5.71,
+     "own_pct": -1.55,
+     "left_e8": {
+      "SPY": -0.092,
+      "OWN": -0.094,
+      "SMH": -0.088,
+      "OWN+SMH": -0.081
+     },
+     "left_pct": {
+      "SPY": 59.0,
+      "OWN": 60.0,
+      "SMH": 56.0,
+      "OWN+SMH": 52.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -3.89
+      ],
+      "OWN": [
+       -4.04
+      ],
+      "SMH": [
+       -2.28
+      ],
+      "OWN+SMH": [
+       -1.51,
+       -1.73
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.109,
+     "act_pct": -4.41,
+     "own_pct": -0.8,
+     "left_e8": {
+      "SPY": -0.031,
+      "OWN": -0.069,
+      "SMH": -0.025,
+      "OWN+SMH": -0.022
+     },
+     "left_pct": {
+      "SPY": 28.0,
+      "OWN": 63.0,
+      "SMH": 23.0,
+      "OWN+SMH": 20.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.71
+      ],
+      "OWN": [
+       -5.1
+      ],
+      "SMH": [
+       -2.79
+      ],
+      "OWN+SMH": [
+       -2.43,
+       -2.25
+      ]
+     },
+     "best": "OWN+SMH"
+    }
+   }
+  },
+  {
+   "date": "2025-11-20",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -4.65,
+   "chip_usd_e8": -3.18,
+   "chip_down_n": 9,
+   "smh_pct": -4.22,
+   "spy_pct": -1.52,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.728,
+     "act_pct": -4.11,
+     "own_pct": -1.54,
+     "left_e8": {
+      "SPY": -0.332,
+      "OWN": -0.29,
+      "SMH": -0.107,
+      "OWN+SMH": -0.099
+     },
+     "left_pct": {
+      "SPY": 46.0,
+      "OWN": 40.0,
+      "SMH": 15.0,
+      "OWN+SMH": 14.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -26.0
+      ],
+      "OWN": [
+       -28.4
+      ],
+      "SMH": [
+       -14.7
+      ],
+      "OWN+SMH": [
+       -12.21,
+       -10.43
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.493,
+     "act_pct": -3.94,
+     "own_pct": -1.68,
+     "left_e8": {
+      "SPY": -0.229,
+      "OWN": -0.185,
+      "SMH": -0.089,
+      "OWN+SMH": -0.078
+     },
+     "left_pct": {
+      "SPY": 46.0,
+      "OWN": 38.0,
+      "SMH": 18.0,
+      "OWN+SMH": 16.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -17.33
+      ],
+      "OWN": [
+       -18.39
+      ],
+      "SMH": [
+       -9.58
+      ],
+      "OWN+SMH": [
+       -9.31,
+       -6.13
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.117,
+     "act_pct": -4.27,
+     "own_pct": -1.68,
+     "left_e8": {
+      "SPY": -0.058,
+      "OWN": -0.049,
+      "SMH": -0.02,
+      "OWN+SMH": -0.019
+     },
+     "left_pct": {
+      "SPY": 49.0,
+      "OWN": 41.0,
+      "SMH": 17.0,
+      "OWN+SMH": 16.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -3.92
+      ],
+      "OWN": [
+       -4.1
+      ],
+      "SMH": [
+       -2.3
+      ],
+      "OWN+SMH": [
+       -1.54,
+       -1.73
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.118,
+     "act_pct": -4.75,
+     "own_pct": -0.73,
+     "left_e8": {
+      "SPY": -0.045,
+      "OWN": -0.081,
+      "SMH": 0.002,
+      "OWN+SMH": -0.003
+     },
+     "left_pct": {
+      "SPY": 38.0,
+      "OWN": 69.0,
+      "SMH": -1.0,
+      "OWN+SMH": 3.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.75
+      ],
+      "OWN": [
+       -5.06
+      ],
+      "SMH": [
+       -2.83
+      ],
+      "OWN+SMH": [
+       -2.29,
+       -2.31
+      ]
+     },
+     "best": "SMH"
+    }
+   }
+  },
+  {
+   "date": "2025-12-12",
+   "in46": true,
+   "in25": true,
+   "rule_shock": true,
+   "chip_pct": -5.56,
+   "chip_usd_e8": -3.8,
+   "chip_down_n": 9,
+   "smh_pct": -4.52,
+   "spy_pct": -1.08,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.983,
+     "act_pct": -5.54,
+     "own_pct": -0.63,
+     "left_e8": {
+      "SPY": -0.701,
+      "OWN": -0.801,
+      "SMH": -0.312,
+      "OWN+SMH": -0.433
+     },
+     "left_pct": {
+      "SPY": 71.0,
+      "OWN": 82.0,
+      "SMH": 32.0,
+      "OWN+SMH": 44.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -26.15
+      ],
+      "OWN": [
+       -28.71
+      ],
+      "SMH": [
+       -14.83
+      ],
+      "OWN+SMH": [
+       -12.57,
+       -10.39
+      ]
+     },
+     "best": "SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.631,
+     "act_pct": -5.04,
+     "own_pct": -0.63,
+     "left_e8": {
+      "SPY": -0.443,
+      "OWN": -0.513,
+      "SMH": -0.194,
+      "OWN+SMH": -0.297
+     },
+     "left_pct": {
+      "SPY": 70.0,
+      "OWN": 81.0,
+      "SMH": 31.0,
+      "OWN+SMH": 47.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -17.48
+      ],
+      "OWN": [
+       -18.66
+      ],
+      "SMH": [
+       -9.66
+      ],
+      "OWN+SMH": [
+       -9.79,
+       -6.01
+      ]
+     },
+     "best": "SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.146,
+     "act_pct": -5.32,
+     "own_pct": -0.63,
+     "left_e8": {
+      "SPY": -0.104,
+      "OWN": -0.12,
+      "SMH": -0.042,
+      "OWN+SMH": -0.059
+     },
+     "left_pct": {
+      "SPY": 71.0,
+      "OWN": 82.0,
+      "SMH": 29.0,
+      "OWN+SMH": 40.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -3.94
+      ],
+      "OWN": [
+       -4.11
+      ],
+      "SMH": [
+       -2.31
+      ],
+      "OWN+SMH": [
+       -1.57,
+       -1.72
+      ]
+     },
+     "best": "SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.206,
+     "act_pct": -8.31,
+     "own_pct": -0.66,
+     "left_e8": {
+      "SPY": -0.155,
+      "OWN": -0.172,
+      "SMH": -0.077,
+      "OWN+SMH": -0.084
+     },
+     "left_pct": {
+      "SPY": 75.0,
+      "OWN": 84.0,
+      "SMH": 37.0,
+      "OWN+SMH": 41.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.73
+      ],
+      "OWN": [
+       -5.03
+      ],
+      "SMH": [
+       -2.86
+      ],
+      "OWN+SMH": [
+       -2.06,
+       -2.39
+      ]
+     },
+     "best": "SMH"
+    }
+   },
+   "해석1": {
+    "cause": "AI 투자 전반",
+    "verdict": "번진다",
+    "confidence": "높음",
+    "evidence1": {
+     "text": "Oracle denies report on OpenAI data center delays but stocks crash continues",
+     "src": "indiatimes.com N8 · bnnbloomberg.ca N6",
+     "pub": "2025-12-12"
+    },
+    "counter": "브로드컴 하락은 실적 발표 뒤 '발언을 잘못 읽은 것'(cnbc N4)이라는 회사 고유의 설명이 있고, 오라클은 지연 보도를 부인함. 발전·공사 쪽 기사 논조는 양수(+0.94, +2.27)."
+   },
+   "해석2": {
+    "cause": "AI 투자 전반",
+    "verdict": "번진다",
+    "confidence": "높음",
+    "evidence1": "bnnbloomberg.ca 2025-12-12 「Oracle denies report on OpenAI data center delays」 — 데이터센터 공사 일정이 늦어진다는 보도가 그날 돌았음",
+    "counter": "오라클은 지연 보도를 부인했다. 브로드컴 하락은 CNBC 가 「실적 설명회 발언을 잘못 읽은 것」이라 했으니 칩 고유로 읽을 여지가 있다. 데이터센터 공사 단계 기사 5건의 어조는 +2.27 로 좋았다."
+   }
+  },
+  {
+   "date": "2026-01-05",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -0.68,
+   "chip_usd_e8": -0.46,
+   "chip_down_n": 8,
+   "smh_pct": 1.15,
+   "spy_pct": 0.67,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": 0.161,
+     "act_pct": 0.91,
+     "own_pct": 1.05,
+     "left_e8": {
+      "SPY": -0.018,
+      "OWN": -0.149,
+      "SMH": -0.014,
+      "OWN+SMH": -0.091
+     },
+     "left_pct": {
+      "SPY": -11.0,
+      "OWN": -93.0,
+      "SMH": -9.0,
+      "OWN+SMH": -56.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -26.83
+      ],
+      "OWN": [
+       -29.44
+      ],
+      "SMH": [
+       -15.25
+      ],
+      "OWN+SMH": [
+       -11.79,
+       -11.12
+      ]
+     },
+     "best": "SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": 0.121,
+     "act_pct": 0.96,
+     "own_pct": 1.18,
+     "left_e8": {
+      "SPY": 0.001,
+      "OWN": -0.106,
+      "SMH": 0.006,
+      "OWN+SMH": -0.065
+     },
+     "left_pct": {
+      "SPY": 1.0,
+      "OWN": -88.0,
+      "SMH": 5.0,
+      "OWN+SMH": -54.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -17.92
+      ],
+      "OWN": [
+       -19.13
+      ],
+      "SMH": [
+       -9.95
+      ],
+      "OWN+SMH": [
+       -9.39,
+       -6.46
+      ]
+     },
+     "best": "SPY"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": 0.03,
+     "act_pct": 1.08,
+     "own_pct": 1.18,
+     "left_e8": {
+      "SPY": 0.003,
+      "OWN": -0.02,
+      "SMH": 0.002,
+      "OWN+SMH": -0.009
+     },
+     "left_pct": {
+      "SPY": 9.0,
+      "OWN": -68.0,
+      "SMH": 8.0,
+      "OWN+SMH": -29.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.05
+      ],
+      "OWN": [
+       -4.23
+      ],
+      "SMH": [
+       -2.38
+      ],
+      "OWN+SMH": [
+       -1.44,
+       -1.85
+      ]
+     },
+     "best": "SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": 0.011,
+     "act_pct": 0.43,
+     "own_pct": 0.25,
+     "left_e8": {
+      "SPY": -0.022,
+      "OWN": -0.002,
+      "SMH": -0.023,
+      "OWN+SMH": -0.023
+     },
+     "left_pct": {
+      "SPY": -204.0,
+      "OWN": -18.0,
+      "SMH": -215.0,
+      "OWN+SMH": -215.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.86
+      ],
+      "OWN": [
+       -5.02
+      ],
+      "SMH": [
+       -2.92
+      ],
+      "OWN+SMH": [
+       -1.9,
+       -2.5
+      ]
+     },
+     "best": "OWN"
+    }
+   }
+  },
+  {
+   "date": "2026-01-08",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -2.67,
+   "chip_usd_e8": -1.82,
+   "chip_down_n": 8,
+   "smh_pct": -1.57,
+   "spy_pct": -0.01,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.298,
+     "act_pct": -1.68,
+     "own_pct": 0.83,
+     "left_e8": {
+      "SPY": -0.296,
+      "OWN": -0.542,
+      "SMH": -0.059,
+      "OWN+SMH": -0.226
+     },
+     "left_pct": {
+      "SPY": 99.0,
+      "OWN": 182.0,
+      "SMH": 20.0,
+      "OWN+SMH": 76.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -26.78
+      ],
+      "OWN": [
+       -29.26
+      ],
+      "SMH": [
+       -15.25
+      ],
+      "OWN+SMH": [
+       -11.98,
+       -10.98
+      ]
+     },
+     "best": "SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.081,
+     "act_pct": -0.65,
+     "own_pct": 0.75,
+     "left_e8": {
+      "SPY": -0.079,
+      "OWN": -0.224,
+      "SMH": 0.075,
+      "OWN+SMH": -0.053
+     },
+     "left_pct": {
+      "SPY": 98.0,
+      "OWN": 277.0,
+      "SMH": -93.0,
+      "OWN+SMH": 65.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -17.91
+      ],
+      "OWN": [
+       -19.0
+      ],
+      "SMH": [
+       -9.96
+      ],
+      "OWN+SMH": [
+       -9.47,
+       -6.37
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.151,
+     "act_pct": -5.48,
+     "own_pct": 0.75,
+     "left_e8": {
+      "SPY": -0.15,
+      "OWN": -0.182,
+      "SMH": -0.113,
+      "OWN+SMH": -0.132
+     },
+     "left_pct": {
+      "SPY": 100.0,
+      "OWN": 121.0,
+      "SMH": 75.0,
+      "OWN+SMH": 87.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.02
+      ],
+      "OWN": [
+       -4.15
+      ],
+      "SMH": [
+       -2.38
+      ],
+      "OWN+SMH": [
+       -1.36,
+       -1.86
+      ]
+     },
+     "best": "SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.067,
+     "act_pct": -2.69,
+     "own_pct": 1.3,
+     "left_e8": {
+      "SPY": -0.066,
+      "OWN": -0.133,
+      "SMH": -0.021,
+      "OWN+SMH": -0.054
+     },
+     "left_pct": {
+      "SPY": 99.0,
+      "OWN": 199.0,
+      "SMH": 31.0,
+      "OWN+SMH": 82.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.84
+      ],
+      "OWN": [
+       -5.07
+      ],
+      "SMH": [
+       -2.91
+      ],
+      "OWN+SMH": [
+       -2.03,
+       -2.46
+      ]
+     },
+     "best": "SMH"
+    }
+   }
+  },
+  {
+   "date": "2026-01-23",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -0.47,
+   "chip_usd_e8": -0.32,
+   "chip_down_n": 6,
+   "smh_pct": -0.68,
+   "spy_pct": 0.04,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.241,
+     "act_pct": -1.36,
+     "own_pct": -0.67,
+     "left_e8": {
+      "SPY": -0.251,
+      "OWN": -0.046,
+      "SMH": -0.138,
+      "OWN+SMH": -0.09
+     },
+     "left_pct": {
+      "SPY": 104.0,
+      "OWN": 19.0,
+      "SMH": 57.0,
+      "OWN+SMH": 37.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -26.77
+      ],
+      "OWN": [
+       -29.14
+      ],
+      "SMH": [
+       -15.25
+      ],
+      "OWN+SMH": [
+       -11.18,
+       -11.23
+      ]
+     },
+     "best": "OWN"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.176,
+     "act_pct": -1.4,
+     "own_pct": -0.77,
+     "left_e8": {
+      "SPY": -0.182,
+      "OWN": -0.03,
+      "SMH": -0.108,
+      "OWN+SMH": -0.062
+     },
+     "left_pct": {
+      "SPY": 104.0,
+      "OWN": 17.0,
+      "SMH": 62.0,
+      "OWN+SMH": 35.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -17.81
+      ],
+      "OWN": [
+       -18.81
+      ],
+      "SMH": [
+       -9.91
+      ],
+      "OWN+SMH": [
+       -8.99,
+       -6.48
+      ]
+     },
+     "best": "OWN"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.016,
+     "act_pct": -0.58,
+     "own_pct": -0.77,
+     "left_e8": {
+      "SPY": -0.017,
+      "OWN": 0.016,
+      "SMH": 0.0,
+      "OWN+SMH": 0.006
+     },
+     "left_pct": {
+      "SPY": 109.0,
+      "OWN": -100.0,
+      "SMH": -2.0,
+      "OWN+SMH": -39.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -3.98
+      ],
+      "OWN": [
+       -4.09
+      ],
+      "SMH": [
+       -2.39
+      ],
+      "OWN+SMH": [
+       -1.11,
+       -1.96
+      ]
+     },
+     "best": "SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.05,
+     "act_pct": -2.0,
+     "own_pct": -0.02,
+     "left_e8": {
+      "SPY": -0.051,
+      "OWN": -0.048,
+      "SMH": -0.03,
+      "OWN+SMH": -0.032
+     },
+     "left_pct": {
+      "SPY": 104.0,
+      "OWN": 98.0,
+      "SMH": 60.0,
+      "OWN+SMH": 65.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.97
+      ],
+      "OWN": [
+       -5.23
+      ],
+      "SMH": [
+       -2.96
+      ],
+      "OWN+SMH": [
+       -2.06,
+       -2.5
+      ]
+     },
+     "best": "SMH"
+    }
+   }
+  },
+  {
+   "date": "2026-01-26",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -1.08,
+   "chip_usd_e8": -0.74,
+   "chip_down_n": 7,
+   "smh_pct": -0.32,
+   "spy_pct": 0.51,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": 0.067,
+     "act_pct": 0.38,
+     "own_pct": 0.15,
+     "left_e8": {
+      "SPY": -0.069,
+      "OWN": 0.022,
+      "SMH": 0.115,
+      "OWN+SMH": 0.086
+     },
+     "left_pct": {
+      "SPY": -104.0,
+      "OWN": 33.0,
+      "SMH": 173.0,
+      "OWN+SMH": 128.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -26.77
+      ],
+      "OWN": [
+       -29.15
+      ],
+      "SMH": [
+       -15.29
+      ],
+      "OWN+SMH": [
+       -11.16,
+       -11.28
+      ]
+     },
+     "best": "OWN"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": 0.088,
+     "act_pct": 0.7,
+     "own_pct": 0.1,
+     "left_e8": {
+      "SPY": -0.002,
+      "OWN": 0.07,
+      "SMH": 0.12,
+      "OWN+SMH": 0.1
+     },
+     "left_pct": {
+      "SPY": -3.0,
+      "OWN": 79.0,
+      "SMH": 136.0,
+      "OWN+SMH": 113.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -17.81
+      ],
+      "OWN": [
+       -18.81
+      ],
+      "SMH": [
+       -9.92
+      ],
+      "OWN+SMH": [
+       -9.0,
+       -6.48
+      ]
+     },
+     "best": "SPY"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": 0.021,
+     "act_pct": 0.75,
+     "own_pct": 0.1,
+     "left_e8": {
+      "SPY": 0.0,
+      "OWN": 0.017,
+      "SMH": 0.028,
+      "OWN+SMH": 0.026
+     },
+     "left_pct": {
+      "SPY": 2.0,
+      "OWN": 81.0,
+      "SMH": 137.0,
+      "OWN+SMH": 125.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -3.99
+      ],
+      "OWN": [
+       -4.09
+      ],
+      "SMH": [
+       -2.4
+      ],
+      "OWN+SMH": [
+       -1.1,
+       -1.98
+      ]
+     },
+     "best": "SPY"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.042,
+     "act_pct": -1.7,
+     "own_pct": 0.49,
+     "left_e8": {
+      "SPY": -0.067,
+      "OWN": -0.068,
+      "SMH": -0.033,
+      "OWN+SMH": -0.044
+     },
+     "left_pct": {
+      "SPY": 160.0,
+      "OWN": 161.0,
+      "SMH": 78.0,
+      "OWN+SMH": 105.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.98
+      ],
+      "OWN": [
+       -5.23
+      ],
+      "SMH": [
+       -2.97
+      ],
+      "OWN+SMH": [
+       -2.03,
+       -2.52
+      ]
+     },
+     "best": "SMH"
+    }
+   }
+  },
+  {
+   "date": "2026-01-30",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -2.01,
+   "chip_usd_e8": -1.37,
+   "chip_down_n": 7,
+   "smh_pct": -3.37,
+   "spy_pct": -0.3,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.231,
+     "act_pct": -1.3,
+     "own_pct": -0.18,
+     "left_e8": {
+      "SPY": -0.155,
+      "OWN": -0.18,
+      "SMH": 0.249,
+      "OWN+SMH": 0.097
+     },
+     "left_pct": {
+      "SPY": 67.0,
+      "OWN": 78.0,
+      "SMH": -108.0,
+      "OWN+SMH": -42.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -25.77
+      ],
+      "OWN": [
+       -28.09
+      ],
+      "SMH": [
+       -14.27
+      ],
+      "OWN+SMH": [
+       -14.09,
+       -8.98
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.125,
+     "act_pct": -1.0,
+     "own_pct": -0.25,
+     "left_e8": {
+      "SPY": -0.073,
+      "OWN": -0.078,
+      "SMH": 0.194,
+      "OWN+SMH": 0.078
+     },
+     "left_pct": {
+      "SPY": 59.0,
+      "OWN": 63.0,
+      "SMH": -155.0,
+      "OWN+SMH": -63.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -17.27
+      ],
+      "OWN": [
+       -18.32
+      ],
+      "SMH": [
+       -9.46
+      ],
+      "OWN+SMH": [
+       -10.59,
+       -5.23
+      ]
+     },
+     "best": "SPY"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.054,
+     "act_pct": -1.98,
+     "own_pct": -0.25,
+     "left_e8": {
+      "SPY": -0.043,
+      "OWN": -0.045,
+      "SMH": 0.017,
+      "OWN+SMH": -0.002
+     },
+     "left_pct": {
+      "SPY": 79.0,
+      "OWN": 82.0,
+      "SMH": -32.0,
+      "OWN+SMH": 4.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -3.78
+      ],
+      "OWN": [
+       -3.88
+      ],
+      "SMH": [
+       -2.13
+      ],
+      "OWN+SMH": [
+       -1.79,
+       -1.41
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.052,
+     "act_pct": -2.11,
+     "own_pct": 0.26,
+     "left_e8": {
+      "SPY": -0.038,
+      "OWN": -0.065,
+      "SMH": 0.038,
+      "OWN+SMH": 0.017
+     },
+     "left_pct": {
+      "SPY": 73.0,
+      "OWN": 124.0,
+      "SMH": -72.0,
+      "OWN+SMH": -32.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.73
+      ],
+      "OWN": [
+       -4.77
+      ],
+      "SMH": [
+       -2.68
+      ],
+      "OWN+SMH": [
+       -2.04,
+       -2.22
+      ]
+     },
+     "best": "OWN+SMH"
+    }
+   }
+  },
+  {
+   "date": "2026-02-04",
+   "in46": true,
+   "in25": true,
+   "rule_shock": true,
+   "chip_pct": -5.63,
+   "chip_usd_e8": -3.85,
+   "chip_down_n": 9,
+   "smh_pct": -3.94,
+   "spy_pct": -0.48,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.661,
+     "act_pct": -3.72,
+     "own_pct": 0.31,
+     "left_e8": {
+      "SPY": -0.536,
+      "OWN": -0.747,
+      "SMH": -0.106,
+      "OWN+SMH": -0.364
+     },
+     "left_pct": {
+      "SPY": 81.0,
+      "OWN": 113.0,
+      "SMH": 16.0,
+      "OWN+SMH": 55.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -25.69
+      ],
+      "OWN": [
+       -28.11
+      ],
+      "SMH": [
+       -14.08
+      ],
+      "OWN+SMH": [
+       -14.69,
+       -8.67
+      ]
+     },
+     "best": "SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.266,
+     "act_pct": -2.12,
+     "own_pct": 0.27,
+     "left_e8": {
+      "SPY": -0.183,
+      "OWN": -0.315,
+      "SMH": 0.101,
+      "OWN+SMH": -0.1
+     },
+     "left_pct": {
+      "SPY": 69.0,
+      "OWN": 118.0,
+      "SMH": -38.0,
+      "OWN+SMH": 38.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -17.2
+      ],
+      "OWN": [
+       -18.36
+      ],
+      "SMH": [
+       -9.31
+      ],
+      "OWN+SMH": [
+       -11.06,
+       -4.97
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.159,
+     "act_pct": -5.8,
+     "own_pct": 0.27,
+     "left_e8": {
+      "SPY": -0.141,
+      "OWN": -0.17,
+      "SMH": -0.077,
+      "OWN+SMH": -0.111
+     },
+     "left_pct": {
+      "SPY": 89.0,
+      "OWN": 106.0,
+      "SMH": 48.0,
+      "OWN+SMH": 69.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -3.77
+      ],
+      "OWN": [
+       -3.89
+      ],
+      "SMH": [
+       -2.1
+      ],
+      "OWN+SMH": [
+       -1.88,
+       -1.37
+      ]
+     },
+     "best": "SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.235,
+     "act_pct": -9.5,
+     "own_pct": 0.56,
+     "left_e8": {
+      "SPY": -0.212,
+      "OWN": -0.261,
+      "SMH": -0.13,
+      "OWN+SMH": -0.159
+     },
+     "left_pct": {
+      "SPY": 90.0,
+      "OWN": 111.0,
+      "SMH": 55.0,
+      "OWN+SMH": 68.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.72
+      ],
+      "OWN": [
+       -4.62
+      ],
+      "SMH": [
+       -2.66
+      ],
+      "OWN+SMH": [
+       -2.01,
+       -2.22
+      ]
+     },
+     "best": "SMH"
+    }
+   },
+   "해석1": {
+    "cause": "AI 투자 전반",
+    "verdict": "넘긴다",
+    "confidence": "낮음",
+    "evidence1": {
+     "text": "Wall Street ends down as AI worries slam tech stocks",
+     "src": "businesstimes.com.sg N11",
+     "pub": "2026-02-04"
+    },
+    "counter": "번진다 쪽: 칩 9/9·장비 8/8·서버 15/22 로 폭이 넓고 까닭을 'AI 걱정'으로 댄 출처가 둘. 안 번진다 쪽: 가장 큰 하락은 AMD 실적 반응이고, 다우가 오른 날이라 돈이 기술주에서 산업재로 옮겨 간 모양 — 전력 쪽은 전날 칩이 내릴 때 올랐고 그날 기사 논조도 양수."
+   },
+   "해석2": {
+    "cause": "AI 투자 전반",
+    "verdict": "번진다",
+    "confidence": "낮음",
+    "evidence1": "businesstimes.com.sg(로이터) 2026-02-04 「Wall Street ends down as AI worries slam tech stocks」",
+    "counter": "가장 크게 빠진 AMD(-17.3%)는 전날 낸 자기 실적 때문이라 칩 고유로 읽을 수 있다(fortune). 서버·부품 안에서 슈퍼마이크로 +13.8 · 루멘텀 +7.0 은 크게 올랐고, 코히런트는 같은 날 「데이터센터 수요 강함」 실적을 냈다 — 서버 단계 약세는 암페놀 -11.6 · 플렉스 -10.9 몇 종목에 몰려 있다. S=-1.49 는 경계에서 0.49%p 밖."
+   }
+  },
+  {
+   "date": "2026-02-26",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -4.27,
+   "chip_usd_e8": -2.92,
+   "chip_down_n": 9,
+   "smh_pct": -3.32,
+   "spy_pct": -0.56,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.213,
+     "act_pct": -1.2,
+     "own_pct": 0.52,
+     "left_e8": {
+      "SPY": -0.069,
+      "OWN": -0.36,
+      "SMH": 0.261,
+      "OWN+SMH": 0.01
+     },
+     "left_pct": {
+      "SPY": 33.0,
+      "OWN": 169.0,
+      "SMH": -123.0,
+      "OWN+SMH": -5.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -25.79
+      ],
+      "OWN": [
+       -28.21
+      ],
+      "SMH": [
+       -14.25
+      ],
+      "OWN+SMH": [
+       -14.43,
+       -8.96
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.115,
+     "act_pct": -0.92,
+     "own_pct": 0.63,
+     "left_e8": {
+      "SPY": -0.019,
+      "OWN": -0.23,
+      "SMH": 0.197,
+      "OWN+SMH": -0.011
+     },
+     "left_pct": {
+      "SPY": 17.0,
+      "OWN": 200.0,
+      "SMH": -171.0,
+      "OWN+SMH": 10.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -17.21
+      ],
+      "OWN": [
+       -18.3
+      ],
+      "SMH": [
+       -9.38
+      ],
+      "OWN+SMH": [
+       -10.76,
+       -5.16
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.029,
+     "act_pct": -1.07,
+     "own_pct": 0.63,
+     "left_e8": {
+      "SPY": -0.008,
+      "OWN": -0.054,
+      "SMH": 0.042,
+      "OWN+SMH": 0.009
+     },
+     "left_pct": {
+      "SPY": 29.0,
+      "OWN": 183.0,
+      "SMH": -143.0,
+      "OWN+SMH": -30.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -3.76
+      ],
+      "OWN": [
+       -3.88
+      ],
+      "SMH": [
+       -2.15
+      ],
+      "OWN+SMH": [
+       -1.73,
+       -1.47
+      ]
+     },
+     "best": "SPY"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.068,
+     "act_pct": -2.76,
+     "own_pct": -0.13,
+     "left_e8": {
+      "SPY": -0.042,
+      "OWN": -0.062,
+      "SMH": 0.022,
+      "OWN+SMH": 0.01
+     },
+     "left_pct": {
+      "SPY": 61.0,
+      "OWN": 91.0,
+      "SMH": -32.0,
+      "OWN+SMH": -15.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.81
+      ],
+      "OWN": [
+       -4.67
+      ],
+      "SMH": [
+       -2.72
+      ],
+      "OWN+SMH": [
+       -2.07,
+       -2.28
+      ]
+     },
+     "best": "OWN+SMH"
+    }
+   }
+  },
+  {
+   "date": "2026-03-03",
+   "in46": true,
+   "in25": true,
+   "rule_shock": true,
+   "chip_pct": -3.0,
+   "chip_usd_e8": -2.05,
+   "chip_down_n": 9,
+   "smh_pct": -3.77,
+   "spy_pct": -0.88,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.688,
+     "act_pct": -3.88,
+     "own_pct": -1.77,
+     "left_e8": {
+      "SPY": -0.463,
+      "OWN": -0.197,
+      "SMH": -0.151,
+      "OWN+SMH": -0.098
+     },
+     "left_pct": {
+      "SPY": 67.0,
+      "OWN": 29.0,
+      "SMH": 22.0,
+      "OWN+SMH": 14.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -25.56
+      ],
+      "OWN": [
+       -27.82
+      ],
+      "SMH": [
+       -14.24
+      ],
+      "OWN+SMH": [
+       -14.29,
+       -8.96
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.574,
+     "act_pct": -4.59,
+     "own_pct": -1.93,
+     "left_e8": {
+      "SPY": -0.423,
+      "OWN": -0.224,
+      "SMH": -0.219,
+      "OWN+SMH": -0.172
+     },
+     "left_pct": {
+      "SPY": 74.0,
+      "OWN": 39.0,
+      "SMH": 38.0,
+      "OWN+SMH": 30.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -17.1
+      ],
+      "OWN": [
+       -18.08
+      ],
+      "SMH": [
+       -9.41
+      ],
+      "OWN+SMH": [
+       -10.62,
+       -5.2
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.046,
+     "act_pct": -1.68,
+     "own_pct": -1.93,
+     "left_e8": {
+      "SPY": -0.013,
+      "OWN": 0.028,
+      "SMH": 0.035,
+      "OWN+SMH": 0.042
+     },
+     "left_pct": {
+      "SPY": 29.0,
+      "OWN": -61.0,
+      "SMH": -75.0,
+      "OWN+SMH": -92.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -3.73
+      ],
+      "OWN": [
+       -3.84
+      ],
+      "SMH": [
+       -2.14
+      ],
+      "OWN+SMH": [
+       -1.78,
+       -1.44
+      ]
+     },
+     "best": "SPY"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.068,
+     "act_pct": -2.76,
+     "own_pct": -0.73,
+     "left_e8": {
+      "SPY": -0.027,
+      "OWN": -0.035,
+      "SMH": 0.033,
+      "OWN+SMH": 0.032
+     },
+     "left_pct": {
+      "SPY": 39.0,
+      "OWN": 52.0,
+      "SMH": -49.0,
+      "OWN+SMH": -47.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.73
+      ],
+      "OWN": [
+       -4.5
+      ],
+      "SMH": [
+       -2.69
+      ],
+      "OWN+SMH": [
+       -2.05,
+       -2.27
+      ]
+     },
+     "best": "SPY"
+    }
+   },
+   "해석1": {
+    "cause": "칩 고유",
+    "verdict": "넘긴다",
+    "confidence": "낮음",
+    "evidence1": {
+     "text": "Why Micron, SanDisk & Memory Stocks Are Crashing Today",
+     "src": "247wallst.com N1",
+     "pub": "2026-03-03"
+    },
+    "counter": "번진다 쪽: 장비 8/8·서버 19/22 로 칩 밖 중간 단계까지 넓게 빠졌고 앞 며칠 전력 쪽이 칩과 같이 움직였음. 위험 회피 장세면 많이 오른 AI 묶음이 함께 팔림. 안 번진다 쪽: 까닭 기사는 메모리 값과 이란 분쟁이고 전력 쪽 기사 논조는 양수. 분쟁은 에너지·발전 종목에는 오히려 오르는 까닭일 수 있음."
+   },
+   "해석2": {
+    "cause": "칩 고유",
+    "verdict": "사람에게 넘긴다",
+    "confidence": "낮음",
+    "evidence1": "247wallst.com 2026-03-03 「Why Micron, SanDisk & Memory Stocks Are Crashing Today」",
+    "counter": "「번진다」 쪽: 서버·부품이 시장보다 3%p 넘게 더 빠졌고, 이란 분쟁으로 시장이 함께 흔들린 날이라 칩 밖으로 퍼졌을 수 있다. 「안 번진다」 쪽: 서버·부품 약세는 메모리·저장장치(웨스턴디지털·씨게이트)와 광부품에 몰려 있어 메모리 값 문제의 연장일 수 있고, 전력 쪽 기사 어조는 나쁘지 않았다. 엔비디아가 루멘텀·코히런트에 20억 달러씩 넣는다는 좋은 소식도 같은 날 있었는데 루멘텀은 -11.3% 였다."
+   }
+  },
+  {
+   "date": "2026-03-30",
+   "in46": true,
+   "in25": true,
+   "rule_shock": true,
+   "chip_pct": -3.37,
+   "chip_usd_e8": -2.3,
+   "chip_down_n": 9,
+   "smh_pct": -3.13,
+   "spy_pct": -0.33,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.78,
+     "act_pct": -4.4,
+     "own_pct": -1.38,
+     "left_e8": {
+      "SPY": -0.695,
+      "OWN": -0.391,
+      "SMH": -0.335,
+      "OWN+SMH": -0.305
+     },
+     "left_pct": {
+      "SPY": 89.0,
+      "OWN": 50.0,
+      "SMH": 43.0,
+      "OWN+SMH": 39.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -25.52
+      ],
+      "OWN": [
+       -28.12
+      ],
+      "SMH": [
+       -14.2
+      ],
+      "OWN+SMH": [
+       -14.94,
+       -8.59
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.528,
+     "act_pct": -4.22,
+     "own_pct": -1.63,
+     "left_e8": {
+      "SPY": -0.47,
+      "OWN": -0.229,
+      "SMH": -0.229,
+      "OWN+SMH": -0.19
+     },
+     "left_pct": {
+      "SPY": 89.0,
+      "OWN": 43.0,
+      "SMH": 43.0,
+      "OWN+SMH": 36.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -17.26
+      ],
+      "OWN": [
+       -18.33
+      ],
+      "SMH": [
+       -9.53
+      ],
+      "OWN+SMH": [
+       -10.85,
+       -5.14
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.123,
+     "act_pct": -4.49,
+     "own_pct": -1.63,
+     "left_e8": {
+      "SPY": -0.111,
+      "OWN": -0.061,
+      "SMH": -0.057,
+      "OWN+SMH": -0.05
+     },
+     "left_pct": {
+      "SPY": 90.0,
+      "OWN": 49.0,
+      "SMH": 46.0,
+      "OWN+SMH": 41.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -3.68
+      ],
+      "OWN": [
+       -3.86
+      ],
+      "SMH": [
+       -2.11
+      ],
+      "OWN+SMH": [
+       -1.91,
+       -1.34
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.129,
+     "act_pct": -5.21,
+     "own_pct": 0.12,
+     "left_e8": {
+      "SPY": -0.114,
+      "OWN": -0.135,
+      "SMH": -0.049,
+      "OWN+SMH": -0.067
+     },
+     "left_pct": {
+      "SPY": 88.0,
+      "OWN": 104.0,
+      "SMH": 38.0,
+      "OWN+SMH": 52.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.58
+      ],
+      "OWN": [
+       -4.63
+      ],
+      "SMH": [
+       -2.57
+      ],
+      "OWN+SMH": [
+       -2.37,
+       -2.09
+      ]
+     },
+     "best": "SMH"
+    }
+   },
+   "해석1": {
+    "cause": "칩 고유",
+    "verdict": "넘긴다",
+    "confidence": "낮음",
+    "evidence1": {
+     "text": "Memory, storage and optical stock declines drag down chip sector",
+     "src": "seekingalpha.com N11",
+     "pub": "2026-03-30"
+    },
+    "counter": "번진다 쪽: '메모리를 덜 쓰게 하는 알고리즘'은 2025-01-27 의 값싼 모델 소식처럼 장비를 덜 사도 된다는 이야기로 번질 수 있고, 서버·부품 21/22 가 시장보다 4.78%p 더 빠짐. 안 번진다 쪽: 기사가 든 것은 메모리·저장·광부품이고 엔비디아는 -1.4 에 그침. 전력 쪽 기사는 오르는 문맥뿐."
+   },
+   "해석2": {
+    "cause": "칩 고유",
+    "verdict": "사람에게 넘긴다",
+    "confidence": "낮음",
+    "evidence1": "247wallst.com 2026-03-30 「Micron Slides 5% as Google's AI Memory Algorithm Sparks Fresh Fears Across the Semiconductor Sector」",
+    "counter": "「번진다」 쪽: 시장은 거의 그대로인데 서버·부품 22종목이 모두 내렸고 광부품(파브리넷 -10.9 · 코히런트 -9.8 · 시에나 -9.1)까지 빠져 메모리만의 일로 보기 어렵다. 「메모리를 덜 쓰는 AI」는 딥시크 때처럼 AI 설비 수요 전반 걱정으로 읽을 수도 있다. 「안 번진다」 쪽: 기사들은 메모리·저장장치 회사 이름만 대고, 전력 쪽 기사 어조는 좋았다."
+   }
+  },
+  {
+   "date": "2026-04-28",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -2.63,
+   "chip_usd_e8": -1.79,
+   "chip_down_n": 9,
+   "smh_pct": -2.97,
+   "spy_pct": -0.49,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.343,
+     "act_pct": -1.93,
+     "own_pct": -0.67,
+     "left_e8": {
+      "SPY": -0.199,
+      "OWN": -0.144,
+      "SMH": 0.076,
+      "OWN+SMH": 0.046
+     },
+     "left_pct": {
+      "SPY": 58.0,
+      "OWN": 42.0,
+      "SMH": -22.0,
+      "OWN+SMH": -13.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -29.65
+      ],
+      "OWN": [
+       -29.71
+      ],
+      "SMH": [
+       -14.09
+      ],
+      "OWN+SMH": [
+       -17.78,
+       -9.08
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.274,
+     "act_pct": -2.19,
+     "own_pct": -0.89,
+     "left_e8": {
+      "SPY": -0.174,
+      "OWN": -0.103,
+      "SMH": 0.012,
+      "OWN+SMH": 0.004
+     },
+     "left_pct": {
+      "SPY": 63.0,
+      "OWN": 38.0,
+      "SMH": -4.0,
+      "OWN+SMH": -1.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -20.59
+      ],
+      "OWN": [
+       -19.23
+      ],
+      "SMH": [
+       -9.62
+      ],
+      "OWN+SMH": [
+       -12.41,
+       -5.65
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.066,
+     "act_pct": -2.41,
+     "own_pct": -0.89,
+     "left_e8": {
+      "SPY": -0.044,
+      "OWN": -0.029,
+      "SMH": -0.002,
+      "OWN+SMH": -0.004
+     },
+     "left_pct": {
+      "SPY": 67.0,
+      "OWN": 44.0,
+      "SMH": 4.0,
+      "OWN+SMH": 6.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.5
+      ],
+      "OWN": [
+       -4.18
+      ],
+      "SMH": [
+       -2.15
+      ],
+      "OWN+SMH": [
+       -2.58,
+       -1.32
+      ]
+     },
+     "best": "SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.003,
+     "act_pct": -0.12,
+     "own_pct": 0.67,
+     "left_e8": {
+      "SPY": 0.019,
+      "OWN": -0.026,
+      "SMH": 0.066,
+      "OWN+SMH": 0.043
+     },
+     "left_pct": {
+      "SPY": -641.0,
+      "OWN": 884.0,
+      "SMH": -2208.0,
+      "OWN+SMH": -1438.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.56
+      ],
+      "OWN": [
+       -3.49
+      ],
+      "SMH": [
+       -2.33
+      ],
+      "OWN+SMH": [
+       -2.82,
+       -2.19
+      ]
+     },
+     "best": "SPY"
+    }
+   }
+  },
+  {
+   "date": "2026-05-07",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -0.87,
+   "chip_usd_e8": -0.6,
+   "chip_down_n": 8,
+   "smh_pct": -1.76,
+   "spy_pct": -0.31,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.798,
+     "act_pct": -4.5,
+     "own_pct": -1.6,
+     "left_e8": {
+      "SPY": -0.706,
+      "OWN": -0.322,
+      "SMH": -0.554,
+      "OWN+SMH": -0.351
+     },
+     "left_pct": {
+      "SPY": 88.0,
+      "OWN": 40.0,
+      "SMH": 69.0,
+      "OWN+SMH": 44.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -30.19
+      ],
+      "OWN": [
+       -29.66
+      ],
+      "SMH": [
+       -13.91
+      ],
+      "OWN+SMH": [
+       -18.29,
+       -8.74
+      ]
+     },
+     "best": "OWN"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.591,
+     "act_pct": -4.72,
+     "own_pct": -1.62,
+     "left_e8": {
+      "SPY": -0.526,
+      "OWN": -0.281,
+      "SMH": -0.423,
+      "OWN+SMH": -0.291
+     },
+     "left_pct": {
+      "SPY": 89.0,
+      "OWN": 48.0,
+      "SMH": 72.0,
+      "OWN+SMH": 49.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -21.02
+      ],
+      "OWN": [
+       -19.1
+      ],
+      "SMH": [
+       -9.53
+      ],
+      "OWN+SMH": [
+       -12.53,
+       -5.48
+      ]
+     },
+     "best": "OWN"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.103,
+     "act_pct": -3.75,
+     "own_pct": -1.62,
+     "left_e8": {
+      "SPY": -0.089,
+      "OWN": -0.035,
+      "SMH": -0.066,
+      "OWN+SMH": -0.037
+     },
+     "left_pct": {
+      "SPY": 86.0,
+      "OWN": 33.0,
+      "SMH": 64.0,
+      "OWN+SMH": 36.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.62
+      ],
+      "OWN": [
+       -4.23
+      ],
+      "SMH": [
+       -2.14
+      ],
+      "OWN+SMH": [
+       -2.72,
+       -1.26
+      ]
+     },
+     "best": "OWN"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.104,
+     "act_pct": -4.21,
+     "own_pct": -1.49,
+     "left_e8": {
+      "SPY": -0.09,
+      "OWN": -0.055,
+      "SMH": -0.065,
+      "OWN+SMH": -0.023
+     },
+     "left_pct": {
+      "SPY": 87.0,
+      "OWN": 52.0,
+      "SMH": 62.0,
+      "OWN+SMH": 22.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.55
+      ],
+      "OWN": [
+       -3.34
+      ],
+      "SMH": [
+       -2.24
+      ],
+      "OWN+SMH": [
+       -2.93,
+       -2.15
+      ]
+     },
+     "best": "OWN+SMH"
+    }
+   }
+  },
+  {
+   "date": "2026-05-12",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -1.39,
+   "chip_usd_e8": -0.95,
+   "chip_down_n": 8,
+   "smh_pct": -2.61,
+   "spy_pct": -0.15,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.195,
+     "act_pct": -1.1,
+     "own_pct": -0.29,
+     "left_e8": {
+      "SPY": -0.149,
+      "OWN": -0.106,
+      "SMH": 0.163,
+      "OWN+SMH": 0.083
+     },
+     "left_pct": {
+      "SPY": 76.0,
+      "OWN": 54.0,
+      "SMH": -84.0,
+      "OWN+SMH": -42.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -30.66
+      ],
+      "OWN": [
+       -30.19
+      ],
+      "SMH": [
+       -13.72
+      ],
+      "OWN+SMH": [
+       -19.62,
+       -8.43
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.139,
+     "act_pct": -1.11,
+     "own_pct": -0.39,
+     "left_e8": {
+      "SPY": -0.107,
+      "OWN": -0.062,
+      "SMH": 0.107,
+      "OWN+SMH": 0.052
+     },
+     "left_pct": {
+      "SPY": 77.0,
+      "OWN": 45.0,
+      "SMH": -77.0,
+      "OWN+SMH": -37.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -21.37
+      ],
+      "OWN": [
+       -19.52
+      ],
+      "SMH": [
+       -9.43
+      ],
+      "OWN+SMH": [
+       -13.35,
+       -5.31
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.035,
+     "act_pct": -1.28,
+     "own_pct": -0.39,
+     "left_e8": {
+      "SPY": -0.028,
+      "OWN": -0.018,
+      "SMH": 0.021,
+      "OWN+SMH": 0.009
+     },
+     "left_pct": {
+      "SPY": 79.0,
+      "OWN": 51.0,
+      "SMH": -59.0,
+      "OWN+SMH": -25.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.8
+      ],
+      "OWN": [
+       -4.37
+      ],
+      "SMH": [
+       -2.14
+      ],
+      "OWN+SMH": [
+       -2.92,
+       -1.24
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.021,
+     "act_pct": -0.84,
+     "own_pct": 0.32,
+     "left_e8": {
+      "SPY": -0.014,
+      "OWN": -0.032,
+      "SMH": 0.035,
+      "OWN+SMH": 0.023
+     },
+     "left_pct": {
+      "SPY": 67.0,
+      "OWN": 152.0,
+      "SMH": -170.0,
+      "OWN+SMH": -112.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.49
+      ],
+      "OWN": [
+       -3.38
+      ],
+      "SMH": [
+       -2.15
+      ],
+      "OWN+SMH": [
+       -3.02,
+       -2.07
+      ]
+     },
+     "best": "SPY"
+    }
+   }
+  },
+  {
+   "date": "2026-05-18",
+   "in46": true,
+   "in25": true,
+   "rule_shock": true,
+   "chip_pct": -1.99,
+   "chip_usd_e8": -1.36,
+   "chip_down_n": 9,
+   "smh_pct": -1.83,
+   "spy_pct": -0.07,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.734,
+     "act_pct": -4.14,
+     "own_pct": -0.22,
+     "left_e8": {
+      "SPY": -0.713,
+      "OWN": -0.668,
+      "SMH": -0.485,
+      "OWN+SMH": -0.542
+     },
+     "left_pct": {
+      "SPY": 97.0,
+      "OWN": 91.0,
+      "SMH": 66.0,
+      "OWN+SMH": 74.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -30.75
+      ],
+      "OWN": [
+       -30.63
+      ],
+      "SMH": [
+       -13.62
+      ],
+      "OWN+SMH": [
+       -20.15,
+       -8.13
+      ]
+     },
+     "best": "SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.462,
+     "act_pct": -3.69,
+     "own_pct": -0.38,
+     "left_e8": {
+      "SPY": -0.447,
+      "OWN": -0.387,
+      "SMH": -0.29,
+      "OWN+SMH": -0.316
+     },
+     "left_pct": {
+      "SPY": 97.0,
+      "OWN": 84.0,
+      "SMH": 63.0,
+      "OWN+SMH": 68.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -21.53
+      ],
+      "OWN": [
+       -19.8
+      ],
+      "SMH": [
+       -9.4
+      ],
+      "OWN+SMH": [
+       -13.66,
+       -5.14
+      ]
+     },
+     "best": "SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.168,
+     "act_pct": -6.11,
+     "own_pct": -0.38,
+     "left_e8": {
+      "SPY": -0.165,
+      "OWN": -0.151,
+      "SMH": -0.129,
+      "OWN+SMH": -0.135
+     },
+     "left_pct": {
+      "SPY": 98.0,
+      "OWN": 90.0,
+      "SMH": 77.0,
+      "OWN+SMH": 80.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.79
+      ],
+      "OWN": [
+       -4.38
+      ],
+      "SMH": [
+       -2.12
+      ],
+      "OWN+SMH": [
+       -2.95,
+       -1.21
+      ]
+     },
+     "best": "SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.104,
+     "act_pct": -4.21,
+     "own_pct": 0.79,
+     "left_e8": {
+      "SPY": -0.101,
+      "OWN": -0.132,
+      "SMH": -0.066,
+      "OWN+SMH": -0.092
+     },
+     "left_pct": {
+      "SPY": 97.0,
+      "OWN": 126.0,
+      "SMH": 63.0,
+      "OWN+SMH": 88.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.44
+      ],
+      "OWN": [
+       -3.5
+      ],
+      "SMH": [
+       -2.1
+      ],
+      "OWN+SMH": [
+       -3.12,
+       -2.0
+      ]
+     },
+     "best": "SMH"
+    }
+   },
+   "해석1": {
+    "cause": "규칙이 잘못 고른 날",
+    "verdict": "넘긴다",
+    "confidence": "낮음",
+    "evidence1": {
+     "text": "Why Did Micron Stock Drop Today?",
+     "src": "fool.com N1 · yahoo.com N4 (까닭은 제목에 없음)",
+     "pub": "2026-05-18"
+    },
+    "counter": "번진다 쪽: 서버·부품 18/22 가 시장보다 더 빠졌고, 앞 주 내내 전력 쪽이 칩을 따라 움직였으며 그날 전력·냉각 설비 기사 논조가 음수. 안 번진다 쪽: 큰 칩 넷은 1% 안팎만 내렸고 시장은 보합(-0.07), 까닭을 AI 투자로 댄 기사가 없음."
+   },
+   "해석2": {
+    "cause": "칩 고유",
+    "verdict": "사람에게 넘긴다",
+    "confidence": "낮음",
+    "evidence1": "CNBC 2026-05-18 「Seagate sparks memory sell-off as CEO says it would 'take too long' to build new factories」",
+    "counter": "「번진다」 쪽: 서버·부품이 시장보다 2.8%p 더 빠졌고 전력·냉각 설비 기사 어조가 음수였다. 씨게이트 대표의 「공장을 새로 짓기엔 너무 오래 걸린다」는 말은 AI 설비가 늘 속도 자체의 한계로 읽을 수도 있다. 「안 번진다」 쪽: 까닭을 직접 댄 출처는 CNBC 하나이고 메모리·저장장치 이야기다. 같은 날 시장은 이란 제재 완화 기대로 버텼다(proactiveinvestors)."
+   }
+  },
+  {
+   "date": "2026-06-04",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -2.64,
+   "chip_usd_e8": -1.8,
+   "chip_down_n": 6,
+   "smh_pct": -1.63,
+   "spy_pct": 0.38,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": 0.101,
+     "act_pct": 0.57,
+     "own_pct": 1.09,
+     "left_e8": {
+      "SPY": -0.018,
+      "OWN": -0.242,
+      "SMH": 0.324,
+      "OWN+SMH": 0.01
+     },
+     "left_pct": {
+      "SPY": -18.0,
+      "OWN": -240.0,
+      "SMH": 321.0,
+      "OWN+SMH": 10.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -31.41
+      ],
+      "OWN": [
+       -31.37
+      ],
+      "SMH": [
+       -13.74
+      ],
+      "OWN+SMH": [
+       -20.57,
+       -8.23
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": 0.04,
+     "act_pct": 0.32,
+     "own_pct": 1.21,
+     "left_e8": {
+      "SPY": -0.043,
+      "OWN": -0.205,
+      "SMH": 0.194,
+      "OWN+SMH": -0.043
+     },
+     "left_pct": {
+      "SPY": -110.0,
+      "OWN": -516.0,
+      "SMH": 488.0,
+      "OWN+SMH": -109.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -21.98
+      ],
+      "OWN": [
+       -20.15
+      ],
+      "SMH": [
+       -9.47
+      ],
+      "OWN+SMH": [
+       -13.82,
+       -5.21
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": 0.044,
+     "act_pct": 1.59,
+     "own_pct": 1.21,
+     "left_e8": {
+      "SPY": 0.025,
+      "OWN": -0.01,
+      "SMH": 0.078,
+      "OWN+SMH": 0.027
+     },
+     "left_pct": {
+      "SPY": 58.0,
+      "OWN": -23.0,
+      "SMH": 179.0,
+      "OWN+SMH": 61.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.87
+      ],
+      "OWN": [
+       -4.44
+      ],
+      "SMH": [
+       -2.11
+      ],
+      "OWN+SMH": [
+       -2.99,
+       -1.19
+      ]
+     },
+     "best": "OWN"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": 0.018,
+     "act_pct": 0.71,
+     "own_pct": 0.36,
+     "left_e8": {
+      "SPY": 0.0,
+      "OWN": 0.005,
+      "SMH": 0.053,
+      "OWN+SMH": 0.04
+     },
+     "left_pct": {
+      "SPY": 2.0,
+      "OWN": 27.0,
+      "SMH": 299.0,
+      "OWN+SMH": 225.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.56
+      ],
+      "OWN": [
+       -3.54
+      ],
+      "SMH": [
+       -2.15
+      ],
+      "OWN+SMH": [
+       -3.28,
+       -2.09
+      ]
+     },
+     "best": "SPY"
+    }
+   }
+  },
+  {
+   "date": "2026-06-05",
+   "in46": true,
+   "in25": true,
+   "rule_shock": true,
+   "chip_pct": -8.59,
+   "chip_usd_e8": -5.87,
+   "chip_down_n": 9,
+   "smh_pct": -9.22,
+   "spy_pct": -2.58,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.736,
+     "act_pct": -4.15,
+     "own_pct": -0.97,
+     "left_e8": {
+      "SPY": 0.075,
+      "OWN": -0.432,
+      "SMH": 0.523,
+      "OWN+SMH": 0.222
+     },
+     "left_pct": {
+      "SPY": -10.0,
+      "OWN": 59.0,
+      "SMH": -71.0,
+      "OWN+SMH": -30.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -31.42
+      ],
+      "OWN": [
+       -31.22
+      ],
+      "SMH": [
+       -13.66
+      ],
+      "OWN+SMH": [
+       -20.57,
+       -8.22
+      ]
+     },
+     "best": "SPY"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.508,
+     "act_pct": -4.06,
+     "own_pct": -1.12,
+     "left_e8": {
+      "SPY": 0.06,
+      "OWN": -0.283,
+      "SMH": 0.361,
+      "OWN+SMH": 0.13
+     },
+     "left_pct": {
+      "SPY": -12.0,
+      "OWN": 56.0,
+      "SMH": -71.0,
+      "OWN+SMH": -26.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -21.99
+      ],
+      "OWN": [
+       -20.03
+      ],
+      "SMH": [
+       -9.43
+      ],
+      "OWN+SMH": [
+       -13.76,
+       -5.24
+      ]
+     },
+     "best": "SPY"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.094,
+     "act_pct": -3.43,
+     "own_pct": -1.12,
+     "left_e8": {
+      "SPY": 0.032,
+      "OWN": -0.044,
+      "SMH": 0.099,
+      "OWN+SMH": 0.048
+     },
+     "left_pct": {
+      "SPY": -34.0,
+      "OWN": 47.0,
+      "SMH": -105.0,
+      "OWN+SMH": -51.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.88
+      ],
+      "OWN": [
+       -4.43
+      ],
+      "SMH": [
+       -2.1
+      ],
+      "OWN+SMH": [
+       -3.02,
+       -1.18
+      ]
+     },
+     "best": "SPY"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.134,
+     "act_pct": -5.42,
+     "own_pct": -0.05,
+     "left_e8": {
+      "SPY": -0.017,
+      "OWN": -0.132,
+      "SMH": 0.063,
+      "OWN+SMH": 0.059
+     },
+     "left_pct": {
+      "SPY": 13.0,
+      "OWN": 99.0,
+      "SMH": -47.0,
+      "OWN+SMH": -44.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.55
+      ],
+      "OWN": [
+       -3.54
+      ],
+      "SMH": [
+       -2.14
+      ],
+      "OWN+SMH": [
+       -3.28,
+       -2.08
+      ]
+     },
+     "best": "SPY"
+    }
+   },
+   "해석1": {
+    "cause": "AI 투자 전반",
+    "verdict": "번진다",
+    "confidence": "중간",
+    "evidence1": {
+     "text": "Tech stocks lead market bloodbath as fears of Fed rate hikes add to worries about the AI-fueled chip boom petering out",
+     "src": "Yahoo Finance(news_search, 제목만)",
+     "pub": "2026-06-05"
+    },
+    "counter": "전력 쪽 기사 논조는 양수(전력·냉각 설비 +1.36, 공사 +1.87)이고 전력·데이터센터 회사를 내리는 문맥으로 든 제목이 없음. N11 은 '헬스케어·금융은 버텼다'고 적어 기술주 밖으로는 안 번졌다는 읽기도 가능. 금리 걱정(고용 지표)이 겹쳐 시장 전체 까닭과 섞임."
+   },
+   "해석2": {
+    "cause": "AI 투자 전반",
+    "verdict": "번진다",
+    "confidence": "중간",
+    "evidence1": "foreignpolicyjournal.com 2026-06-05 「Broadcom Guidance Spooks AI Investors As Healthcare And Financials Hold Firm」",
+    "counter": "시장이 -2.58% 빠진 날이라 전력 쪽이 빠졌더라도 시장 몫을 빼면 남는 것이 없을 수 있다. 브로드컴 한 회사의 전망이 출발점이라 칩 고유로 읽을 수 있고, 「헬스케어·금융은 버팀」이라는 제목은 기술주만의 일임을 말한다. 민감도 뺀 S=-2.27 은 경계에서 1.27%p 밖이지만 큰 하락일의 민감도 값은 오차가 크다."
+   }
+  },
+  {
+   "date": "2026-06-16",
+   "in46": true,
+   "in25": true,
+   "rule_shock": true,
+   "chip_pct": -4.4,
+   "chip_usd_e8": -3.0,
+   "chip_down_n": 9,
+   "smh_pct": -4.81,
+   "spy_pct": -0.6,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": 0.052,
+     "act_pct": 0.29,
+     "own_pct": 0.61,
+     "left_e8": {
+      "SPY": 0.246,
+      "OWN": -0.14,
+      "SMH": 0.689,
+      "OWN+SMH": 0.312
+     },
+     "left_pct": {
+      "SPY": 475.0,
+      "OWN": -270.0,
+      "SMH": 1330.0,
+      "OWN+SMH": 602.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -32.55
+      ],
+      "OWN": [
+       -31.38
+      ],
+      "SMH": [
+       -13.25
+      ],
+      "OWN+SMH": [
+       -20.45,
+       -8.01
+      ]
+     },
+     "best": "OWN"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": 0.063,
+     "act_pct": 0.5,
+     "own_pct": 0.65,
+     "left_e8": {
+      "SPY": 0.199,
+      "OWN": -0.068,
+      "SMH": 0.501,
+      "OWN+SMH": 0.216
+     },
+     "left_pct": {
+      "SPY": 314.0,
+      "OWN": -107.0,
+      "SMH": 793.0,
+      "OWN+SMH": 342.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -22.73
+      ],
+      "OWN": [
+       -20.01
+      ],
+      "SMH": [
+       -9.11
+      ],
+      "OWN+SMH": [
+       -13.68,
+       -5.05
+      ]
+     },
+     "best": "OWN"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.032,
+     "act_pct": -1.15,
+     "own_pct": 0.65,
+     "left_e8": {
+      "SPY": -0.001,
+      "OWN": -0.061,
+      "SMH": 0.067,
+      "OWN+SMH": 0.004
+     },
+     "left_pct": {
+      "SPY": 3.0,
+      "OWN": 193.0,
+      "SMH": -212.0,
+      "OWN+SMH": -12.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.1
+      ],
+      "OWN": [
+       -4.47
+      ],
+      "SMH": [
+       -2.05
+      ],
+      "OWN+SMH": [
+       -3.03,
+       -1.14
+      ]
+     },
+     "best": "SPY"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": 0.02,
+     "act_pct": 0.81,
+     "own_pct": 0.34,
+     "left_e8": {
+      "SPY": 0.048,
+      "OWN": 0.009,
+      "SMH": 0.121,
+      "OWN+SMH": 0.109
+     },
+     "left_pct": {
+      "SPY": 240.0,
+      "OWN": 44.0,
+      "SMH": 602.0,
+      "OWN+SMH": 543.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.71
+      ],
+      "OWN": [
+       -3.31
+      ],
+      "SMH": [
+       -2.1
+      ],
+      "OWN+SMH": [
+       -3.21,
+       -2.08
+      ]
+     },
+     "best": "OWN"
+    }
+   },
+   "해석1": {
+    "cause": "규칙이 잘못 고른 날",
+    "verdict": "넘긴다",
+    "confidence": "낮음",
+    "evidence1": {
+     "text": "Stock Market Today, June 16: Nvidia, Broadcom, and Micron Technology Lead Drop in Nasdaq",
+     "src": "fool.com N2 (까닭은 제목에 없음)",
+     "pub": "2026-06-16"
+    },
+    "counter": "번진다 쪽: 앞 주에 전력 쪽이 칩과 한 묶음으로 오르내렸고(06-10 에는 전력이 더 빠짐), 서버·부품 16/22 가 시장보다 더 빠짐 — 급등 뒤 되돌림이면 같이 오른 전력 쪽도 같이 내릴 만함. 안 번진다 쪽: 까닭 기사가 없고 전력·냉각 설비 기사 논조는 +0.12 로 중립, 엔비디아는 -2.4 에 그침."
+   },
+   "해석2": {
+    "cause": "AI 투자 전반",
+    "verdict": "사람에게 넘긴다",
+    "confidence": "낮음",
+    "evidence1": "fool.com 2026-06-16 「Stock Market Today, June 16: Nvidia, Broadcom, and Micron Technology Lead Drop in Nasdaq」(까닭 없음)",
+    "counter": "「번진다」 쪽: 직전 다섯 거래일 내내 전력 쪽이 칩과 같은 방향으로 크게 움직였고 서버·부품도 -1.92%p 라, AI 묶음 전체의 되돌림이면 전력 쪽도 같이 빠졌을 것이다. 「안 번진다」 쪽: 까닭을 댄 기사가 하나도 없고, 저장장치와 커민스(데이터센터용 발전기 소식)는 좋았다."
+   }
+  },
+  {
+   "date": "2026-06-23",
+   "in46": true,
+   "in25": true,
+   "rule_shock": true,
+   "chip_pct": -5.7,
+   "chip_usd_e8": -3.89,
+   "chip_down_n": 9,
+   "smh_pct": -7.01,
+   "spy_pct": -1.45,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.978,
+     "act_pct": -5.51,
+     "own_pct": -1.62,
+     "left_e8": {
+      "SPY": -0.515,
+      "OWN": -0.466,
+      "SMH": -0.074,
+      "OWN+SMH": -0.092
+     },
+     "left_pct": {
+      "SPY": 53.0,
+      "OWN": 48.0,
+      "SMH": 8.0,
+      "OWN+SMH": 9.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -31.89
+      ],
+      "OWN": [
+       -31.56
+      ],
+      "SMH": [
+       -12.89
+      ],
+      "OWN+SMH": [
+       -20.91,
+       -7.8
+      ]
+     },
+     "best": "SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.741,
+     "act_pct": -5.92,
+     "own_pct": -2.01,
+     "left_e8": {
+      "SPY": -0.418,
+      "OWN": -0.336,
+      "SMH": -0.118,
+      "OWN+SMH": -0.114
+     },
+     "left_pct": {
+      "SPY": 56.0,
+      "OWN": 45.0,
+      "SMH": 16.0,
+      "OWN+SMH": 15.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -22.22
+      ],
+      "OWN": [
+       -20.16
+      ],
+      "SMH": [
+       -8.9
+      ],
+      "OWN+SMH": [
+       -13.9,
+       -4.97
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.155,
+     "act_pct": -5.63,
+     "own_pct": -2.01,
+     "left_e8": {
+      "SPY": -0.082,
+      "OWN": -0.065,
+      "SMH": -0.017,
+      "OWN+SMH": -0.016
+     },
+     "left_pct": {
+      "SPY": 53.0,
+      "OWN": 42.0,
+      "SMH": 11.0,
+      "OWN+SMH": 10.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.0
+      ],
+      "OWN": [
+       -4.49
+      ],
+      "SMH": [
+       -1.97
+      ],
+      "OWN+SMH": [
+       -3.12,
+       -1.09
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.082,
+     "act_pct": -3.3,
+     "own_pct": 0.77,
+     "left_e8": {
+      "SPY": -0.014,
+      "OWN": -0.106,
+      "SMH": 0.06,
+      "OWN+SMH": 0.035
+     },
+     "left_pct": {
+      "SPY": 17.0,
+      "OWN": 130.0,
+      "SMH": -74.0,
+      "OWN+SMH": -43.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.66
+      ],
+      "OWN": [
+       -3.21
+      ],
+      "SMH": [
+       -2.03
+      ],
+      "OWN+SMH": [
+       -3.15,
+       -2.02
+      ]
+     },
+     "best": "SPY"
+    }
+   },
+   "해석1": {
+    "cause": "AI 투자 전반",
+    "verdict": "번진다",
+    "confidence": "중간",
+    "evidence1": {
+     "text": "Wall Street ends lower on semiconductor selloff as AI spending concerns mount",
+     "src": "freemalaysiatoday.com · indiatimes.com(newsstat, 20:45 UTC)",
+     "pub": "2026-06-23"
+    },
+    "counter": "그날 발전 회사(CEG) 기사 28건의 논조가 +5.1 로 뚜렷이 좋음 — 발전 쪽에는 따로 좋은 소식이 있었을 수 있고, 다우는 보합이라 산업재 쪽은 버텼을 수 있음. N1 은 까닭을 '한국발 불안'으로 댐(메모리 쪽 고유 까닭일 수 있음)."
+   },
+   "해석2": {
+    "cause": "AI 투자 전반",
+    "verdict": "번진다",
+    "confidence": "중간",
+    "evidence1": "theglobeandmail.com 2026-06-23 「Premarket: Nasdaq futures drop over 2% as AI buildout costs, Fed rate outlook weigh」 — AI 설비 짓는 비용이 까닭으로 직접 나옴",
+    "counter": "SPY 가 -1.45% 로 민감도 보정 기준(±1.5%) 바로 안쪽이다. 민감도를 빼면 서버·부품은 -0.85 로 경계 -1.0 을 못 넘는다 — 기준을 0.05%p 만 달리 잡았으면 「넘김」이었다. 서버·부품 안에서 델 +2.2 · HPE +1.1 은 올랐고, 약세는 광부품·저장장치에 몰렸다. 「다우는 보합」이라 시장 전체가 아니라 기술주만의 일이다."
+   }
+  },
+  {
+   "date": "2026-06-26",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -3.01,
+   "chip_usd_e8": -2.05,
+   "chip_down_n": 9,
+   "smh_pct": -3.97,
+   "spy_pct": -0.72,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.911,
+     "act_pct": -5.13,
+     "own_pct": -1.32,
+     "left_e8": {
+      "SPY": -0.676,
+      "OWN": -0.491,
+      "SMH": -0.393,
+      "OWN+SMH": -0.323
+     },
+     "left_pct": {
+      "SPY": 74.0,
+      "OWN": 54.0,
+      "SMH": 43.0,
+      "OWN+SMH": 35.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -32.44
+      ],
+      "OWN": [
+       -31.84
+      ],
+      "SMH": [
+       -13.04
+      ],
+      "OWN+SMH": [
+       -20.67,
+       -7.95
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.691,
+     "act_pct": -5.52,
+     "own_pct": -1.59,
+     "left_e8": {
+      "SPY": -0.528,
+      "OWN": -0.368,
+      "SMH": -0.333,
+      "OWN+SMH": -0.27
+     },
+     "left_pct": {
+      "SPY": 76.0,
+      "OWN": 53.0,
+      "SMH": 48.0,
+      "OWN+SMH": 39.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -22.66
+      ],
+      "OWN": [
+       -20.38
+      ],
+      "SMH": [
+       -9.04
+      ],
+      "OWN+SMH": [
+       -13.8,
+       -5.1
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.162,
+     "act_pct": -5.88,
+     "own_pct": -1.59,
+     "left_e8": {
+      "SPY": -0.125,
+      "OWN": -0.09,
+      "SMH": -0.083,
+      "OWN+SMH": -0.069
+     },
+     "left_pct": {
+      "SPY": 77.0,
+      "OWN": 56.0,
+      "SMH": 51.0,
+      "OWN+SMH": 42.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.1
+      ],
+      "OWN": [
+       -4.52
+      ],
+      "SMH": [
+       -1.99
+      ],
+      "OWN+SMH": [
+       -3.1,
+       -1.11
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.058,
+     "act_pct": -2.32,
+     "own_pct": 0.33,
+     "left_e8": {
+      "SPY": -0.024,
+      "OWN": -0.068,
+      "SMH": 0.022,
+      "OWN+SMH": 0.012
+     },
+     "left_pct": {
+      "SPY": 41.0,
+      "OWN": 118.0,
+      "SMH": -38.0,
+      "OWN+SMH": -20.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.67
+      ],
+      "OWN": [
+       -3.14
+      ],
+      "SMH": [
+       -2.01
+      ],
+      "OWN+SMH": [
+       -3.11,
+       -2.0
+      ]
+     },
+     "best": "OWN+SMH"
+    }
+   }
+  },
+  {
+   "date": "2026-07-01",
+   "in46": true,
+   "in25": true,
+   "rule_shock": true,
+   "chip_pct": -4.06,
+   "chip_usd_e8": -2.77,
+   "chip_down_n": 9,
+   "smh_pct": -5.4,
+   "spy_pct": -0.14,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.84,
+     "act_pct": -4.73,
+     "own_pct": -1.01,
+     "left_e8": {
+      "SPY": -0.795,
+      "OWN": -0.512,
+      "SMH": -0.127,
+      "OWN+SMH": -0.196
+     },
+     "left_pct": {
+      "SPY": 95.0,
+      "OWN": 61.0,
+      "SMH": 15.0,
+      "OWN+SMH": 23.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -32.86
+      ],
+      "OWN": [
+       -32.44
+      ],
+      "SMH": [
+       -13.2
+      ],
+      "OWN+SMH": [
+       -20.86,
+       -8.02
+      ]
+     },
+     "best": "SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.572,
+     "act_pct": -4.57,
+     "own_pct": -1.01,
+     "left_e8": {
+      "SPY": -0.54,
+      "OWN": -0.361,
+      "SMH": -0.073,
+      "OWN+SMH": -0.15
+     },
+     "left_pct": {
+      "SPY": 95.0,
+      "OWN": 63.0,
+      "SMH": 13.0,
+      "OWN+SMH": 26.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -23.07
+      ],
+      "OWN": [
+       -20.86
+      ],
+      "SMH": [
+       -9.23
+      ],
+      "OWN+SMH": [
+       -13.96,
+       -5.2
+      ]
+     },
+     "best": "SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.127,
+     "act_pct": -4.62,
+     "own_pct": -1.01,
+     "left_e8": {
+      "SPY": -0.12,
+      "OWN": -0.081,
+      "SMH": -0.018,
+      "OWN+SMH": -0.035
+     },
+     "left_pct": {
+      "SPY": 94.0,
+      "OWN": 63.0,
+      "SMH": 14.0,
+      "OWN+SMH": 28.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.19
+      ],
+      "OWN": [
+       -4.6
+      ],
+      "SMH": [
+       -2.01
+      ],
+      "OWN+SMH": [
+       -3.12,
+       -1.11
+      ]
+     },
+     "best": "SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.141,
+     "act_pct": -5.7,
+     "own_pct": -1.01,
+     "left_e8": {
+      "SPY": -0.135,
+      "OWN": -0.109,
+      "SMH": -0.036,
+      "OWN+SMH": -0.003
+     },
+     "left_pct": {
+      "SPY": 96.0,
+      "OWN": 78.0,
+      "SMH": 25.0,
+      "OWN+SMH": 2.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.6
+      ],
+      "OWN": [
+       -3.14
+      ],
+      "SMH": [
+       -1.95
+      ],
+      "OWN+SMH": [
+       -3.2,
+       -1.96
+      ]
+     },
+     "best": "OWN+SMH"
+    }
+   },
+   "해석1": {
+    "cause": "AI 투자 전반",
+    "verdict": "번진다",
+    "confidence": "중간",
+    "evidence1": {
+     "text": "Nasdaq Composite Slides as AI Infrastructure Sells Down To Start H2",
+     "src": "thebull.com.au N1",
+     "pub": "2026-07-01"
+    },
+    "counter": "'대부분의 종목은 올랐고 기술주만 내렸다'(N8·N9)는 날이라 산업재로 분류되는 전력 설비는 오른 쪽에 섰을 수 있음. 전력·냉각 설비 기사 논조 +1.29, 발전 +1.58. 엔비디아는 -1.3 뿐이고 장비(-8.76%p)가 가장 크게 빠져 분기 초 차익 실현의 성격이 짙음. (b)는 버리의 공매도 대상에 캐터필러가 든 한 건."
+   },
+   "해석2": {
+    "cause": "AI 투자 전반",
+    "verdict": "번진다",
+    "confidence": "낮음",
+    "evidence1": "thebull.com.au 2026-07-01 「Nasdaq Composite Slides as AI Infrastructure Sells Down To Start H2」",
+    "counter": "전력 쪽 세 단계의 그날 기사 어조가 모두 좋았다(+1.16~+1.58). 「대부분의 주식은 올랐다」(AP)는 분기 첫날 기술주에서 다른 업종으로 돈이 옮겨 간 날로 읽을 수 있고, 그러면 산업재로 묶이는 전력 설비주는 오히려 받았을 수 있다. 장비·소재가 칩보다 더 빠진 것(-8.76 대 -6.53)은 반도체 안쪽 일이라는 신호일 수 있다."
+   }
+  },
+  {
+   "date": "2026-07-02",
+   "in46": true,
+   "in25": true,
+   "rule_shock": true,
+   "chip_pct": -2.97,
+   "chip_usd_e8": -2.03,
+   "chip_down_n": 9,
+   "smh_pct": -4.54,
+   "spy_pct": -0.13,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.544,
+     "act_pct": -3.07,
+     "own_pct": 0.5,
+     "left_e8": {
+      "SPY": -0.501,
+      "OWN": -0.706,
+      "SMH": 0.058,
+      "OWN+SMH": -0.279
+     },
+     "left_pct": {
+      "SPY": 92.0,
+      "OWN": 130.0,
+      "SMH": -11.0,
+      "OWN+SMH": 51.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -32.96
+      ],
+      "OWN": [
+       -32.72
+      ],
+      "SMH": [
+       -13.27
+      ],
+      "OWN+SMH": [
+       -20.83,
+       -8.12
+      ]
+     },
+     "best": "SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.336,
+     "act_pct": -2.68,
+     "own_pct": 0.3,
+     "left_e8": {
+      "SPY": -0.305,
+      "OWN": -0.399,
+      "SMH": 0.086,
+      "OWN+SMH": -0.137
+     },
+     "left_pct": {
+      "SPY": 91.0,
+      "OWN": 119.0,
+      "SMH": -26.0,
+      "OWN+SMH": 41.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -23.15
+      ],
+      "OWN": [
+       -21.01
+      ],
+      "SMH": [
+       -9.28
+      ],
+      "OWN+SMH": [
+       -13.91,
+       -5.29
+      ]
+     },
+     "best": "SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.126,
+     "act_pct": -4.57,
+     "own_pct": 0.3,
+     "left_e8": {
+      "SPY": -0.119,
+      "OWN": -0.14,
+      "SMH": -0.034,
+      "OWN+SMH": -0.083
+     },
+     "left_pct": {
+      "SPY": 95.0,
+      "OWN": 111.0,
+      "SMH": 27.0,
+      "OWN+SMH": 66.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.2
+      ],
+      "OWN": [
+       -4.63
+      ],
+      "SMH": [
+       -2.03
+      ],
+      "OWN+SMH": [
+       -3.11,
+       -1.13
+      ]
+     },
+     "best": "SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.083,
+     "act_pct": -3.34,
+     "own_pct": 1.7,
+     "left_e8": {
+      "SPY": -0.077,
+      "OWN": -0.138,
+      "SMH": 0.006,
+      "OWN+SMH": -0.048
+     },
+     "left_pct": {
+      "SPY": 93.0,
+      "OWN": 166.0,
+      "SMH": -8.0,
+      "OWN+SMH": 58.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.6
+      ],
+      "OWN": [
+       -3.22
+      ],
+      "SMH": [
+       -1.96
+      ],
+      "OWN+SMH": [
+       -3.2,
+       -1.96
+      ]
+     },
+     "best": "SMH"
+    }
+   },
+   "해석1": {
+    "cause": "AI 투자 전반",
+    "verdict": "번진다",
+    "confidence": "중간",
+    "evidence1": {
+     "text": "Stocks Fall on Weakness in Chipmakers and AI Stocks",
+     "src": "yahoo.com N3",
+     "pub": "2026-07-02"
+    },
+    "counter": "'대부분의 종목은 올랐고 기술주만 내렸다'(newsday N7), 다우 +400(N8) — 산업재로 묶이는 전력 설비는 오른 쪽에 섰을 수 있음. 까닭을 '기록적 상승 뒤 차익 실현'으로 댄 출처(N5·N12)는 칩에 한정된 읽기. 엔비디아 -1.4."
+   },
+   "해석2": {
+    "cause": "AI 투자 전반",
+    "verdict": "번진다",
+    "confidence": "중간",
+    "evidence1": "yahoo.com 2026-07-02 「Stocks Fall on Weakness in Chipmakers and AI Stocks」",
+    "counter": "AP 는 「대부분의 주식은 올랐다」고 했다 — 기술주에서 돈이 빠져 다른 업종으로 간 날이면 산업재로 묶이는 전력 설비주는 버텼을 수 있다. 까닭으로 든 것이 「기록적 상승 뒤 되돌림」이라 AI 투자 계획 자체가 바뀐 소식은 아니다. 전력 쪽 반대 소식은 따로 찾아보지 않았다(그래서 높음이 아님)."
+   }
+  },
+  {
+   "date": "2026-07-07",
+   "in46": true,
+   "in25": true,
+   "rule_shock": true,
+   "chip_pct": -2.03,
+   "chip_usd_e8": -1.39,
+   "chip_down_n": 8,
+   "smh_pct": -3.78,
+   "spy_pct": -0.48,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.681,
+     "act_pct": -3.84,
+     "own_pct": -1.25,
+     "left_e8": {
+      "SPY": -0.524,
+      "OWN": -0.272,
+      "SMH": -0.179,
+      "OWN+SMH": -0.109
+     },
+     "left_pct": {
+      "SPY": 77.0,
+      "OWN": 40.0,
+      "SMH": 26.0,
+      "OWN+SMH": 16.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -33.19
+      ],
+      "OWN": [
+       -32.64
+      ],
+      "SMH": [
+       -13.28
+      ],
+      "OWN+SMH": [
+       -20.5,
+       -8.34
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.518,
+     "act_pct": -4.14,
+     "own_pct": -1.71,
+     "left_e8": {
+      "SPY": -0.407,
+      "OWN": -0.157,
+      "SMH": -0.167,
+      "OWN+SMH": -0.077
+     },
+     "left_pct": {
+      "SPY": 79.0,
+      "OWN": 30.0,
+      "SMH": 32.0,
+      "OWN+SMH": 15.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -23.34
+      ],
+      "OWN": [
+       -21.04
+      ],
+      "SMH": [
+       -9.28
+      ],
+      "OWN+SMH": [
+       -13.79,
+       -5.4
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.108,
+     "act_pct": -3.94,
+     "own_pct": -1.71,
+     "left_e8": {
+      "SPY": -0.084,
+      "OWN": -0.029,
+      "SMH": -0.031,
+      "OWN+SMH": -0.012
+     },
+     "left_pct": {
+      "SPY": 77.0,
+      "OWN": 27.0,
+      "SMH": 29.0,
+      "OWN+SMH": 11.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.23
+      ],
+      "OWN": [
+       -4.62
+      ],
+      "SMH": [
+       -2.04
+      ],
+      "OWN+SMH": [
+       -3.01,
+       -1.19
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.055,
+     "act_pct": -2.22,
+     "own_pct": 1.58,
+     "left_e8": {
+      "SPY": -0.033,
+      "OWN": -0.103,
+      "SMH": 0.019,
+      "OWN+SMH": -0.03
+     },
+     "left_pct": {
+      "SPY": 60.0,
+      "OWN": 187.0,
+      "SMH": -35.0,
+      "OWN+SMH": 54.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.62
+      ],
+      "OWN": [
+       -3.02
+      ],
+      "SMH": [
+       -1.96
+      ],
+      "OWN+SMH": [
+       -3.13,
+       -1.98
+      ]
+     },
+     "best": "SMH"
+    }
+   },
+   "해석1": {
+    "cause": "칩 고유",
+    "verdict": "넘긴다",
+    "confidence": "낮음",
+    "evidence1": {
+     "text": "Micron, SanDisk, and Western Digital Sink 7% as Samsung Earnings Spark a Memory Selloff",
+     "src": "yahoo.com(newsstat, 14:30 UTC)",
+     "pub": "2026-07-07"
+    },
+    "counter": "번진다 쪽: 'AI 종목이 내렸다'는 출처가 둘(N9·N12)이고 장비 8/8·서버 16/22, 앞 며칠 전력 쪽이 칩을 그대로 따라감. 안 번진다 쪽: 가장 많은 출처가 든 까닭은 삼성 실적 뒤 메모리 매도이고 엔비디아는 올랐음. 전력 쪽 기사 논조 양수."
+   },
+   "해석2": {
+    "cause": "칩 고유",
+    "verdict": "사람에게 넘긴다",
+    "confidence": "낮음",
+    "evidence1": "proactiveinvestors.com 2026-07-07 「Nasdaq down as chip stocks sell off after Samsung earnings」",
+    "counter": "「번진다」 쪽: AP 와 indiatimes 는 「AI 주식」 매도라 했고 버리가 엔비디아·마이크론·AMD 를 공매도했다는 글(fool.com)도 같은 날 있다. 서버·부품이 2.4%p 더 빠졌다. 「안 번진다」 쪽: 가장 구체적인 까닭은 삼성 실적 뒤 메모리 매도이고, 서버·부품 약세도 저장장치에 몰렸으며, 엔비디아는 올랐고 전력 쪽 기사 어조는 좋았다."
+   }
+  },
+  {
+   "date": "2026-07-13",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -4.13,
+   "chip_usd_e8": -2.82,
+   "chip_down_n": 8,
+   "smh_pct": -4.16,
+   "spy_pct": -0.77,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.408,
+     "act_pct": -2.3,
+     "own_pct": -0.52,
+     "left_e8": {
+      "SPY": -0.154,
+      "OWN": -0.238,
+      "SMH": 0.145,
+      "OWN+SMH": 0.048
+     },
+     "left_pct": {
+      "SPY": 38.0,
+      "OWN": 58.0,
+      "SMH": -36.0,
+      "OWN+SMH": -12.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -33.29
+      ],
+      "OWN": [
+       -32.72
+      ],
+      "SMH": [
+       -13.31
+      ],
+      "OWN+SMH": [
+       -20.46,
+       -8.41
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.315,
+     "act_pct": -2.52,
+     "own_pct": -0.85,
+     "left_e8": {
+      "SPY": -0.136,
+      "OWN": -0.136,
+      "SMH": 0.071,
+      "OWN+SMH": 0.028
+     },
+     "left_pct": {
+      "SPY": 43.0,
+      "OWN": 43.0,
+      "SMH": -23.0,
+      "OWN+SMH": -9.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -23.37
+      ],
+      "OWN": [
+       -21.05
+      ],
+      "SMH": [
+       -9.29
+      ],
+      "OWN+SMH": [
+       -13.77,
+       -5.43
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.05,
+     "act_pct": -1.82,
+     "own_pct": -0.85,
+     "left_e8": {
+      "SPY": -0.01,
+      "OWN": -0.011,
+      "SMH": 0.036,
+      "OWN+SMH": 0.026
+     },
+     "left_pct": {
+      "SPY": 20.0,
+      "OWN": 22.0,
+      "SMH": -71.0,
+      "OWN+SMH": -52.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.25
+      ],
+      "OWN": [
+       -4.61
+      ],
+      "SMH": [
+       -2.06
+      ],
+      "OWN+SMH": [
+       -2.97,
+       -1.23
+      ]
+     },
+     "best": "SPY"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.043,
+     "act_pct": -1.74,
+     "own_pct": 1.51,
+     "left_e8": {
+      "SPY": -0.007,
+      "OWN": -0.087,
+      "SMH": 0.038,
+      "OWN+SMH": -0.007
+     },
+     "left_pct": {
+      "SPY": 17.0,
+      "OWN": 202.0,
+      "SMH": -89.0,
+      "OWN+SMH": 17.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.67
+      ],
+      "OWN": [
+       -2.91
+      ],
+      "SMH": [
+       -1.96
+      ],
+      "OWN+SMH": [
+       -3.12,
+       -2.0
+      ]
+     },
+     "best": "OWN+SMH"
+    }
+   }
+  },
+  {
+   "date": "2026-07-15",
+   "in46": true,
+   "in25": true,
+   "rule_shock": true,
+   "chip_pct": -1.58,
+   "chip_usd_e8": -1.08,
+   "chip_down_n": 7,
+   "smh_pct": -1.59,
+   "spy_pct": 0.4,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.219,
+     "act_pct": -1.23,
+     "own_pct": -0.32,
+     "left_e8": {
+      "SPY": -0.351,
+      "OWN": -0.114,
+      "SMH": -0.007,
+      "OWN+SMH": -0.02
+     },
+     "left_pct": {
+      "SPY": 161.0,
+      "OWN": 52.0,
+      "SMH": 3.0,
+      "OWN+SMH": 9.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -33.42
+      ],
+      "OWN": [
+       -32.86
+      ],
+      "SMH": [
+       -13.31
+      ],
+      "OWN+SMH": [
+       -20.34,
+       -8.44
+      ]
+     },
+     "best": "SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.152,
+     "act_pct": -1.22,
+     "own_pct": -0.22,
+     "left_e8": {
+      "SPY": -0.245,
+      "OWN": -0.107,
+      "SMH": -0.005,
+      "OWN+SMH": -0.036
+     },
+     "left_pct": {
+      "SPY": 161.0,
+      "OWN": 70.0,
+      "SMH": 3.0,
+      "OWN+SMH": 24.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -23.49
+      ],
+      "OWN": [
+       -21.16
+      ],
+      "SMH": [
+       -9.29
+      ],
+      "OWN+SMH": [
+       -13.74,
+       -5.44
+      ]
+     },
+     "best": "SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.048,
+     "act_pct": -1.76,
+     "own_pct": -0.22,
+     "left_e8": {
+      "SPY": -0.069,
+      "OWN": -0.038,
+      "SMH": -0.016,
+      "OWN+SMH": -0.023
+     },
+     "left_pct": {
+      "SPY": 143.0,
+      "OWN": 79.0,
+      "SMH": 33.0,
+      "OWN+SMH": 46.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.27
+      ],
+      "OWN": [
+       -4.62
+      ],
+      "SMH": [
+       -2.06
+      ],
+      "OWN+SMH": [
+       -2.94,
+       -1.23
+      ]
+     },
+     "best": "SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.018,
+     "act_pct": -0.73,
+     "own_pct": -0.94,
+     "left_e8": {
+      "SPY": -0.036,
+      "OWN": 0.008,
+      "SMH": 0.013,
+      "OWN+SMH": 0.043
+     },
+     "left_pct": {
+      "SPY": 203.0,
+      "OWN": -47.0,
+      "SMH": -73.0,
+      "OWN+SMH": -238.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.66
+      ],
+      "OWN": [
+       -2.8
+      ],
+      "SMH": [
+       -1.96
+      ],
+      "OWN+SMH": [
+       -3.07,
+       -2.01
+      ]
+     },
+     "best": "OWN"
+    }
+   },
+   "해석1": {
+    "cause": "규칙이 잘못 고른 날",
+    "verdict": "넘긴다",
+    "confidence": "낮음",
+    "evidence1": {
+     "text": "Intel Shares Tumble Almost 6% as Chip Sector Selloff Deepens Ahead of Its July 23 Earnings Report Today",
+     "src": "ibtimes.com.au N9",
+     "pub": "2026-07-15"
+    },
+    "counter": "번진다 쪽: 서버·부품 21/22 가 시장보다 4.71%p 더 빠져 칩보다 넓고 깊음 — 장비를 사는 쪽 전체의 일일 수 있음. 안 번진다 쪽: 큰 칩 둘은 올랐고 시장도 물가 지표로 올랐으며, 까닭 기사가 한 건(인텔 실적 앞 매도)뿐."
+   },
+   "해석2": {
+    "cause": "AI 투자 전반",
+    "verdict": "번진다",
+    "confidence": "낮음",
+    "evidence1": "Yahoo Finance 2026-07-15 「Dell leads broader AI hardware selloff as shares tumble 14%」",
+    "counter": "「AI 하드웨어 매도」를 직접 댄 것은 야후 한 곳이고, WSJ 글은 전날 IBM 이야기(AI 가 기존 IT 회사를 흔든다는 쪽)라 뜻이 다를 수 있다. 시장은 물가 지표로 올랐고 전력 쪽 기사 어조도 좋았다. 엔비디아·브로드컴은 올라, 칩 묶음이 고르게 빠진 날이 아니다(내린 종목 7/9). 기사는 델 -14% 라 했는데 종가 자료로는 -9.8% 다."
+   }
+  },
+  {
+   "date": "2026-07-16",
+   "in46": true,
+   "in25": true,
+   "rule_shock": true,
+   "chip_pct": -4.07,
+   "chip_usd_e8": -2.78,
+   "chip_down_n": 9,
+   "smh_pct": -3.7,
+   "spy_pct": -0.54,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.632,
+     "act_pct": -3.56,
+     "own_pct": 0.14,
+     "left_e8": {
+      "SPY": -0.451,
+      "OWN": -0.678,
+      "SMH": -0.139,
+      "OWN+SMH": -0.348
+     },
+     "left_pct": {
+      "SPY": 71.0,
+      "OWN": 107.0,
+      "SMH": 22.0,
+      "OWN+SMH": 55.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -33.36
+      ],
+      "OWN": [
+       -32.9
+      ],
+      "SMH": [
+       -13.32
+      ],
+      "OWN+SMH": [
+       -20.34,
+       -8.45
+      ]
+     },
+     "best": "SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.415,
+     "act_pct": -3.31,
+     "own_pct": 0.05,
+     "left_e8": {
+      "SPY": -0.288,
+      "OWN": -0.425,
+      "SMH": -0.071,
+      "OWN+SMH": -0.22
+     },
+     "left_pct": {
+      "SPY": 69.0,
+      "OWN": 103.0,
+      "SMH": 17.0,
+      "OWN+SMH": 53.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -23.44
+      ],
+      "OWN": [
+       -21.17
+      ],
+      "SMH": [
+       -9.3
+      ],
+      "OWN+SMH": [
+       -13.72,
+       -5.45
+      ]
+     },
+     "best": "SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.083,
+     "act_pct": -3.02,
+     "own_pct": 0.05,
+     "left_e8": {
+      "SPY": -0.054,
+      "OWN": -0.085,
+      "SMH": -0.007,
+      "OWN+SMH": -0.038
+     },
+     "left_pct": {
+      "SPY": 66.0,
+      "OWN": 103.0,
+      "SMH": 8.0,
+      "OWN+SMH": 46.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.25
+      ],
+      "OWN": [
+       -4.63
+      ],
+      "SMH": [
+       -2.06
+      ],
+      "OWN+SMH": [
+       -2.93,
+       -1.24
+      ]
+     },
+     "best": "SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.134,
+     "act_pct": -5.42,
+     "own_pct": 0.68,
+     "left_e8": {
+      "SPY": -0.109,
+      "OWN": -0.153,
+      "SMH": -0.062,
+      "OWN+SMH": -0.081
+     },
+     "left_pct": {
+      "SPY": 81.0,
+      "OWN": 114.0,
+      "SMH": 46.0,
+      "OWN+SMH": 60.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.67
+      ],
+      "OWN": [
+       -2.78
+      ],
+      "SMH": [
+       -1.95
+      ],
+      "OWN+SMH": [
+       -3.03,
+       -2.0
+      ]
+     },
+     "best": "SMH"
+    }
+   },
+   "해석1": {
+    "cause": "AI 투자 전반",
+    "verdict": "번진다",
+    "confidence": "중간",
+    "evidence1": {
+     "text": "Marvell Drops 8% as AI Capex Slowdown Fears Weigh on Chips; Broadcom, AMD, and Intel Slide",
+     "src": "yahoo.com N12",
+     "pub": "2026-07-16"
+    },
+    "counter": "N1·N6 은 물가 지표와 실적으로 지수가 받쳐졌다고 적음 — 칩 밖은 버텼다는 읽기. 공사 기사 논조 +1.26. 전력 쪽을 이름으로 든 하락 기사는 못 봄((b) 미충족)."
+   },
+   "해석2": {
+    "cause": "AI 투자 전반",
+    "verdict": "번진다",
+    "confidence": "높음",
+    "evidence1": "yahoo.com 2026-07-16 「Marvell Drops 8% as AI Capex Slowdown Fears Weigh on Chips; Broadcom, AMD, and Intel Slide」 — AI 설비 투자가 느려진다는 걱정이 까닭으로 직접 나옴",
+    "counter": "데이터센터 공사 단계 기사 8건의 어조는 +1.26 으로 좋았고, 시장 전체는 물가 지표가 좋아 -0.54% 에 그쳤다. 전력 쪽 회사 이름이 나쁜 소식 제목에 직접 나온 것은 찾지 못했다(어조 값과 낱말 건수뿐)."
+   }
+  },
+  {
+   "date": "2026-07-24",
+   "in46": true,
+   "in25": true,
+   "rule_shock": true,
+   "chip_pct": -3.04,
+   "chip_usd_e8": -2.08,
+   "chip_down_n": 9,
+   "smh_pct": -3.27,
+   "spy_pct": 0.1,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.486,
+     "act_pct": -2.74,
+     "own_pct": 0.38,
+     "left_e8": {
+      "SPY": -0.519,
+      "OWN": -0.609,
+      "SMH": -0.053,
+      "OWN+SMH": -0.276
+     },
+     "left_pct": {
+      "SPY": 107.0,
+      "OWN": 125.0,
+      "SMH": 11.0,
+      "OWN+SMH": 57.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -32.65
+      ],
+      "OWN": [
+       -32.44
+      ],
+      "SMH": [
+       -13.23
+      ],
+      "OWN+SMH": [
+       -19.54,
+       -8.69
+      ]
+     },
+     "best": "SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.237,
+     "act_pct": -1.9,
+     "own_pct": 0.4,
+     "left_e8": {
+      "SPY": -0.26,
+      "OWN": -0.32,
+      "SMH": 0.064,
+      "OWN+SMH": -0.106
+     },
+     "left_pct": {
+      "SPY": 110.0,
+      "OWN": 135.0,
+      "SMH": -27.0,
+      "OWN+SMH": 45.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -22.82
+      ],
+      "OWN": [
+       -20.89
+      ],
+      "SMH": [
+       -9.21
+      ],
+      "OWN+SMH": [
+       -13.24,
+       -5.6
+      ]
+     },
+     "best": "SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.125,
+     "act_pct": -4.56,
+     "own_pct": 0.4,
+     "left_e8": {
+      "SPY": -0.131,
+      "OWN": -0.144,
+      "SMH": -0.059,
+      "OWN+SMH": -0.096
+     },
+     "left_pct": {
+      "SPY": 104.0,
+      "OWN": 115.0,
+      "SMH": 47.0,
+      "OWN+SMH": 76.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.16
+      ],
+      "OWN": [
+       -4.61
+      ],
+      "SMH": [
+       -2.04
+      ],
+      "OWN+SMH": [
+       -2.89,
+       -1.26
+      ]
+     },
+     "best": "SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.123,
+     "act_pct": -4.99,
+     "own_pct": 0.28,
+     "left_e8": {
+      "SPY": -0.128,
+      "OWN": -0.131,
+      "SMH": -0.059,
+      "OWN+SMH": -0.066
+     },
+     "left_pct": {
+      "SPY": 104.0,
+      "OWN": 106.0,
+      "SMH": 47.0,
+      "OWN+SMH": 53.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.68
+      ],
+      "OWN": [
+       -2.69
+      ],
+      "SMH": [
+       -1.98
+      ],
+      "OWN+SMH": [
+       -2.93,
+       -2.02
+      ]
+     },
+     "best": "SMH"
+    }
+   },
+   "해석1": {
+    "cause": "칩 고유",
+    "verdict": "넘긴다",
+    "confidence": "낮음",
+    "evidence1": {
+     "text": "Why Intel, Micron and other major chip stocks are falling — even as the rest of tech holds up",
+     "src": "MarketWatch(news_search, 제목만)",
+     "pub": "2026-07-24"
+    },
+    "counter": "번진다 쪽: 서버·부품 16/22 가 시장보다 3.16%p 더 빠졌고, 버리의 캐터필러 공매도가 '7월 큰 하락'으로 이익을 냈다는 기사(N9)와 텍사스 데이터센터 전력 비용 논란(N4)이 그날 나옴. 안 번진다 쪽: '나머지 기술주는 버티는데 칩만 내린다'(MarketWatch)는 출처가 있고 전날 전력 쪽은 시장과 반대로 올랐음."
+   },
+   "해석2": {
+    "cause": "칩 고유",
+    "verdict": "사람에게 넘긴다",
+    "confidence": "낮음",
+    "evidence1": "MarketWatch 2026-07-24 「Why Intel, Micron and other major chip stocks are falling — even as the rest of tech holds up」 — 기술주 나머지는 버팀",
+    "counter": "「번진다」 쪽: 서버·부품이 시장보다 3%p 넘게 더 빠졌고, 슈퍼마이크로가 사흘 전 매출이 전망 아래쪽이라고 미리 알렸다. 「안 번진다」 쪽: MarketWatch 는 「기술주 나머지는 버틴다」고 했고, 인텔은 같은 주에 AI 데이터센터 수요로 투자를 늘린다고 했으며, 전력 쪽 기사 어조는 모두 좋았다."
+   }
+  },
+  {
+   "date": "2026-07-27",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -3.32,
+   "chip_usd_e8": -2.27,
+   "chip_down_n": 8,
+   "smh_pct": -2.25,
+   "spy_pct": 0.02,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.205,
+     "act_pct": -1.16,
+     "own_pct": 0.03,
+     "left_e8": {
+      "SPY": -0.213,
+      "OWN": -0.215,
+      "SMH": 0.093,
+      "OWN+SMH": -0.011
+     },
+     "left_pct": {
+      "SPY": 103.0,
+      "OWN": 105.0,
+      "SMH": -45.0,
+      "OWN+SMH": 6.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -32.56
+      ],
+      "OWN": [
+       -32.27
+      ],
+      "SMH": [
+       -13.26
+      ],
+      "OWN+SMH": [
+       -19.09,
+       -8.88
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.122,
+     "act_pct": -0.98,
+     "own_pct": 0.3,
+     "left_e8": {
+      "SPY": -0.127,
+      "OWN": -0.184,
+      "SMH": 0.085,
+      "OWN+SMH": -0.033
+     },
+     "left_pct": {
+      "SPY": 104.0,
+      "OWN": 150.0,
+      "SMH": -70.0,
+      "OWN+SMH": 27.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -22.77
+      ],
+      "OWN": [
+       -20.83
+      ],
+      "SMH": [
+       -9.2
+      ],
+      "OWN+SMH": [
+       -13.07,
+       -5.68
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.014,
+     "act_pct": -0.52,
+     "own_pct": 0.3,
+     "left_e8": {
+      "SPY": -0.015,
+      "OWN": -0.028,
+      "SMH": 0.032,
+      "OWN+SMH": 0.008
+     },
+     "left_pct": {
+      "SPY": 108.0,
+      "OWN": 194.0,
+      "SMH": -227.0,
+      "OWN+SMH": -58.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.09
+      ],
+      "OWN": [
+       -4.51
+      ],
+      "SMH": [
+       -2.07
+      ],
+      "OWN+SMH": [
+       -2.67,
+       -1.35
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.069,
+     "act_pct": -2.79,
+     "own_pct": -1.6,
+     "left_e8": {
+      "SPY": -0.07,
+      "OWN": -0.026,
+      "SMH": -0.024,
+      "OWN+SMH": 0.024
+     },
+     "left_pct": {
+      "SPY": 101.0,
+      "OWN": 38.0,
+      "SMH": 35.0,
+      "OWN+SMH": -34.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.69
+      ],
+      "OWN": [
+       -2.67
+      ],
+      "SMH": [
+       -2.0
+      ],
+      "OWN+SMH": [
+       -2.93,
+       -2.04
+      ]
+     },
+     "best": "OWN+SMH"
+    }
+   }
+  },
+  {
+   "date": "2026-07-28",
+   "in46": true,
+   "in25": true,
+   "rule_shock": true,
+   "chip_pct": -2.7,
+   "chip_usd_e8": -1.84,
+   "chip_down_n": 8,
+   "smh_pct": -3.45,
+   "spy_pct": 0.24,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.86,
+     "act_pct": -4.85,
+     "own_pct": -0.43,
+     "left_e8": {
+      "SPY": -0.938,
+      "OWN": -0.72,
+      "SMH": -0.402,
+      "OWN+SMH": -0.47
+     },
+     "left_pct": {
+      "SPY": 109.0,
+      "OWN": 84.0,
+      "SMH": 47.0,
+      "OWN+SMH": 55.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -32.57
+      ],
+      "OWN": [
+       -32.3
+      ],
+      "SMH": [
+       -13.26
+      ],
+      "OWN+SMH": [
+       -19.08,
+       -8.88
+      ]
+     },
+     "best": "SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.541,
+     "act_pct": -4.32,
+     "own_pct": -0.39,
+     "left_e8": {
+      "SPY": -0.596,
+      "OWN": -0.461,
+      "SMH": -0.224,
+      "OWN+SMH": -0.294
+     },
+     "left_pct": {
+      "SPY": 110.0,
+      "OWN": 85.0,
+      "SMH": 41.0,
+      "OWN+SMH": 54.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -22.78
+      ],
+      "OWN": [
+       -20.83
+      ],
+      "SMH": [
+       -9.19
+      ],
+      "OWN+SMH": [
+       -13.06,
+       -5.69
+      ]
+     },
+     "best": "SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.153,
+     "act_pct": -5.55,
+     "own_pct": -0.39,
+     "left_e8": {
+      "SPY": -0.165,
+      "OWN": -0.135,
+      "SMH": -0.081,
+      "OWN+SMH": -0.096
+     },
+     "left_pct": {
+      "SPY": 108.0,
+      "OWN": 89.0,
+      "SMH": 53.0,
+      "OWN+SMH": 63.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.09
+      ],
+      "OWN": [
+       -4.51
+      ],
+      "SMH": [
+       -2.07
+      ],
+      "OWN+SMH": [
+       -2.66,
+       -1.35
+      ]
+     },
+     "best": "SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.166,
+     "act_pct": -6.69,
+     "own_pct": -0.71,
+     "left_e8": {
+      "SPY": -0.177,
+      "OWN": -0.147,
+      "SMH": -0.097,
+      "OWN+SMH": -0.075
+     },
+     "left_pct": {
+      "SPY": 107.0,
+      "OWN": 88.0,
+      "SMH": 58.0,
+      "OWN+SMH": 45.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.7
+      ],
+      "OWN": [
+       -2.71
+      ],
+      "SMH": [
+       -2.0
+      ],
+      "OWN+SMH": [
+       -2.9,
+       -2.03
+      ]
+     },
+     "best": "OWN+SMH"
+    }
+   },
+   "해석1": {
+    "cause": "AI 투자 전반",
+    "verdict": "번진다",
+    "confidence": "중간",
+    "evidence1": {
+     "text": "Wall Street's flip from AI stocks to elsewhere accelerates, while oil prices keep easing",
+     "src": "AP 전재(wccbcharlotte.com N8 · union-bulletin.com N7 등)",
+     "pub": "2026-07-28"
+    },
+    "counter": "'기술주에서 산업재로 돈이 옮겨 간다'(investinglive)는 날이라 산업재로 분류되는 전력 설비·공사 종목은 받는 쪽일 수 있음. 전력·냉각 설비 기사 논조 +0.54, 공사 +1.64. N1 은 '메모리 급락'으로 좁혀 읽음. 엔비디아는 올랐음."
+   },
+   "해석2": {
+    "cause": "AI 투자 전반",
+    "verdict": "번진다",
+    "confidence": "중간",
+    "evidence1": "union-bulletin.com(AP) 2026-07-28 「Wall Street's flip from AI to less-loved stocks accelerates, while oil prices keep easing」",
+    "counter": "AP 는 돈이 「AI 에서 덜 사랑받던 주식으로」 옮겨 갔다고 했고 다우는 537 포인트 올랐다 — 산업재로 묶이는 전력 설비주가 받는 쪽이었을 수도 있다. 엔비디아(+0.3)·브로드컴(-0.6)은 거의 안 빠져 「메모리 폭락」이라는 칩 고유 읽기도 가능하다. 서버·부품 약세의 큰 몫은 코닝·씨게이트 자기 실적일 수 있다. 전력 쪽 반대 소식은 따로 찾아보지 않았다."
+   }
+  },
+  {
+   "date": "2026-07-29",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -4.7,
+   "chip_usd_e8": -3.21,
+   "chip_down_n": 9,
+   "smh_pct": -4.79,
+   "spy_pct": -1.54,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -1.053,
+     "act_pct": -5.94,
+     "own_pct": -2.78,
+     "left_e8": {
+      "SPY": -0.554,
+      "OWN": -0.151,
+      "SMH": -0.413,
+      "OWN+SMH": -0.094
+     },
+     "left_pct": {
+      "SPY": 53.0,
+      "OWN": 14.0,
+      "SMH": 39.0,
+      "OWN+SMH": 9.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -32.45
+      ],
+      "OWN": [
+       -32.52
+      ],
+      "SMH": [
+       -13.37
+      ],
+      "OWN+SMH": [
+       -18.94,
+       -9.04
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.79,
+     "act_pct": -6.31,
+     "own_pct": -3.19,
+     "left_e8": {
+      "SPY": -0.441,
+      "OWN": -0.121,
+      "SMH": -0.346,
+      "OWN+SMH": -0.099
+     },
+     "left_pct": {
+      "SPY": 56.0,
+      "OWN": 15.0,
+      "SMH": 44.0,
+      "OWN+SMH": 13.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -22.69
+      ],
+      "OWN": [
+       -20.93
+      ],
+      "SMH": [
+       -9.26
+      ],
+      "OWN+SMH": [
+       -12.91,
+       -5.81
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.152,
+     "act_pct": -5.52,
+     "own_pct": -3.19,
+     "left_e8": {
+      "SPY": -0.073,
+      "OWN": -0.006,
+      "SMH": -0.052,
+      "OWN+SMH": -0.001
+     },
+     "left_pct": {
+      "SPY": 48.0,
+      "OWN": 4.0,
+      "SMH": 34.0,
+      "OWN+SMH": 1.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.08
+      ],
+      "OWN": [
+       -4.55
+      ],
+      "SMH": [
+       -2.09
+      ],
+      "OWN+SMH": [
+       -2.64,
+       -1.38
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.112,
+     "act_pct": -4.51,
+     "own_pct": -0.2,
+     "left_e8": {
+      "SPY": -0.04,
+      "OWN": -0.106,
+      "SMH": -0.015,
+      "OWN+SMH": -0.008
+     },
+     "left_pct": {
+      "SPY": 35.0,
+      "OWN": 95.0,
+      "SMH": 13.0,
+      "OWN+SMH": 7.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.69
+      ],
+      "OWN": [
+       -2.77
+      ],
+      "SMH": [
+       -2.02
+      ],
+      "OWN+SMH": [
+       -2.93,
+       -2.05
+      ]
+     },
+     "best": "OWN+SMH"
+    }
+   }
+  },
+  {
+   "date": "2026-08-05",
+   "in46": true,
+   "in25": true,
+   "rule_shock": true,
+   "chip_pct": 0.78,
+   "chip_usd_e8": 0.53,
+   "chip_down_n": 5,
+   "smh_pct": -1.04,
+   "spy_pct": -0.2,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.014,
+     "act_pct": -0.08,
+     "own_pct": -0.22,
+     "left_e8": {
+      "SPY": 0.054,
+      "OWN": 0.058,
+      "SMH": 0.129,
+      "OWN+SMH": 0.124
+     },
+     "left_pct": {
+      "SPY": -390.0,
+      "OWN": -420.0,
+      "SMH": -924.0,
+      "OWN+SMH": -891.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -34.16
+      ],
+      "OWN": [
+       -33.22
+      ],
+      "SMH": [
+       -13.65
+      ],
+      "OWN+SMH": [
+       -19.01,
+       -9.24
+      ]
+     },
+     "best": "SPY"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": 0.076,
+     "act_pct": 0.61,
+     "own_pct": -0.03,
+     "left_e8": {
+      "SPY": 0.124,
+      "OWN": 0.081,
+      "SMH": 0.174,
+      "OWN+SMH": 0.141
+     },
+     "left_pct": {
+      "SPY": 163.0,
+      "OWN": 108.0,
+      "SMH": 230.0,
+      "OWN+SMH": 186.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -23.95
+      ],
+      "OWN": [
+       -21.38
+      ],
+      "SMH": [
+       -9.44
+      ],
+      "OWN+SMH": [
+       -13.1,
+       -5.88
+      ]
+     },
+     "best": "OWN"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.04,
+     "act_pct": -1.45,
+     "own_pct": -0.03,
+     "left_e8": {
+      "SPY": -0.029,
+      "OWN": -0.039,
+      "SMH": -0.017,
+      "OWN+SMH": -0.023
+     },
+     "left_pct": {
+      "SPY": 73.0,
+      "OWN": 97.0,
+      "SMH": 42.0,
+      "OWN+SMH": 58.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.46
+      ],
+      "OWN": [
+       -4.64
+      ],
+      "SMH": [
+       -2.21
+      ],
+      "OWN+SMH": [
+       -2.47,
+       -1.54
+      ]
+     },
+     "best": "SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.05,
+     "act_pct": -2.01,
+     "own_pct": -1.39,
+     "left_e8": {
+      "SPY": -0.04,
+      "OWN": -0.013,
+      "SMH": -0.029,
+      "OWN+SMH": 0.012
+     },
+     "left_pct": {
+      "SPY": 81.0,
+      "OWN": 26.0,
+      "SMH": 58.0,
+      "OWN+SMH": -24.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.75
+      ],
+      "OWN": [
+       -2.65
+      ],
+      "SMH": [
+       -2.0
+      ],
+      "OWN+SMH": [
+       -2.91,
+       -2.04
+      ]
+     },
+     "best": "OWN+SMH"
+    }
+   },
+   "해석1": {
+    "cause": "규칙이 잘못 고른 날",
+    "verdict": "안 번진다",
+    "confidence": "중간",
+    "evidence1": {
+     "text": "칩 9종목 중 내린 것은 5개. 아스테라랩스 -12.0·타워 -11.9·AMD -7.0 이 평균(-4.02%)을 끌어내렸고 엔비디아 +3.4, 인텔 +0.2, 마이크론 +0.1",
+     "src": "mid 계산",
+     "pub": "2026-08-05"
+    },
+    "counter": "그날 전력·냉각 설비 기사가 110건으로 평소의 서너 배이고 논조가 -1.87(이튼 56건·블룸에너지 36건) — 전력 쪽에 자기 까닭(실적 등)으로 나쁜 소식이 있었을 수 있고, 그렇다면 칩 충격이 번진 것은 아니어도 숫자로는 전력 쪽이 함께 빠진 날로 잡힐 수 있음. 제목은 확인하지 못함. 서버·부품도 16/22 가 시장보다 덜 올라 (e)는 선에 가까움."
+   },
+   "해석2": {
+    "cause": "칩 고유",
+    "verdict": "안 번진다",
+    "confidence": "중간",
+    "evidence1": "spokesman.com(로이터) 2026-08-05 「S&P 500, Dow at record highs on Mideast deal hopes; SpaceX, AMD drag」 — AMD 한 회사가 끌어내림",
+    "counter": "S=-0.95 는 경계 -1.0 에서 0.05%p 안쪽이다. 서버·부품 22종목 중 16종목이 시장보다 못했고 장비·소재는 -2.08%p 로 뚜렷이 빠졌다. 까닭을 글로 댄 기사는 로이터 한 건이고 나머지 둘은 「실적 다음 날 그 회사가 빠졌다」는 날짜 맞춤이다."
+   }
+  },
+  {
+   "date": "2026-08-10",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -2.58,
+   "chip_usd_e8": -1.76,
+   "chip_down_n": 8,
+   "smh_pct": -2.28,
+   "spy_pct": -0.03,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.11,
+     "act_pct": -0.62,
+     "own_pct": -0.14,
+     "left_e8": {
+      "SPY": -0.1,
+      "OWN": -0.065,
+      "SMH": 0.201,
+      "OWN+SMH": 0.126
+     },
+     "left_pct": {
+      "SPY": 91.0,
+      "OWN": 59.0,
+      "SMH": -183.0,
+      "OWN+SMH": -115.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -34.28
+      ],
+      "OWN": [
+       -33.19
+      ],
+      "SMH": [
+       -13.64
+      ],
+      "OWN+SMH": [
+       -19.01,
+       -9.23
+      ]
+     },
+     "best": "OWN"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.097,
+     "act_pct": -0.78,
+     "own_pct": -0.31,
+     "left_e8": {
+      "SPY": -0.09,
+      "OWN": -0.03,
+      "SMH": 0.118,
+      "OWN+SMH": 0.077
+     },
+     "left_pct": {
+      "SPY": 93.0,
+      "OWN": 31.0,
+      "SMH": -121.0,
+      "OWN+SMH": -80.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -23.96
+      ],
+      "OWN": [
+       -21.35
+      ],
+      "SMH": [
+       -9.42
+      ],
+      "OWN+SMH": [
+       -13.1,
+       -5.86
+      ]
+     },
+     "best": "OWN"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.037,
+     "act_pct": -1.36,
+     "own_pct": -0.31,
+     "left_e8": {
+      "SPY": -0.036,
+      "OWN": -0.023,
+      "SMH": 0.013,
+      "OWN+SMH": 0.005
+     },
+     "left_pct": {
+      "SPY": 96.0,
+      "OWN": 61.0,
+      "SMH": -35.0,
+      "OWN+SMH": -14.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.51
+      ],
+      "OWN": [
+       -4.64
+      ],
+      "SMH": [
+       -2.21
+      ],
+      "OWN+SMH": [
+       -2.48,
+       -1.54
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": 0.025,
+     "act_pct": 0.99,
+     "own_pct": 0.95,
+     "left_e8": {
+      "SPY": 0.026,
+      "OWN": -0.001,
+      "SMH": 0.07,
+      "OWN+SMH": 0.044
+     },
+     "left_pct": {
+      "SPY": 106.0,
+      "OWN": -3.0,
+      "SMH": 286.0,
+      "OWN+SMH": 177.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.81
+      ],
+      "OWN": [
+       -2.66
+      ],
+      "SMH": [
+       -2.01
+      ],
+      "OWN+SMH": [
+       -2.9,
+       -2.04
+      ]
+     },
+     "best": "OWN"
+    }
+   }
+  },
+  {
+   "date": "2026-08-18",
+   "in46": true,
+   "in25": true,
+   "rule_shock": true,
+   "chip_pct": -3.83,
+   "chip_usd_e8": -2.61,
+   "chip_down_n": 9,
+   "smh_pct": -4.09,
+   "spy_pct": -0.68,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.913,
+     "act_pct": -5.15,
+     "own_pct": -1.22,
+     "left_e8": {
+      "SPY": -0.684,
+      "OWN": -0.509,
+      "SMH": -0.356,
+      "OWN+SMH": -0.304
+     },
+     "left_pct": {
+      "SPY": 75.0,
+      "OWN": 56.0,
+      "SMH": 39.0,
+      "OWN+SMH": 33.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -33.95
+      ],
+      "OWN": [
+       -33.29
+      ],
+      "SMH": [
+       -13.61
+      ],
+      "OWN+SMH": [
+       -19.15,
+       -9.21
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.648,
+     "act_pct": -5.18,
+     "own_pct": -1.48,
+     "left_e8": {
+      "SPY": -0.488,
+      "OWN": -0.332,
+      "SMH": -0.263,
+      "OWN+SMH": -0.214
+     },
+     "left_pct": {
+      "SPY": 75.0,
+      "OWN": 51.0,
+      "SMH": 41.0,
+      "OWN+SMH": 33.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -23.76
+      ],
+      "OWN": [
+       -21.4
+      ],
+      "SMH": [
+       -9.41
+      ],
+      "OWN+SMH": [
+       -13.15,
+       -5.86
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.146,
+     "act_pct": -5.32,
+     "own_pct": -1.48,
+     "left_e8": {
+      "SPY": -0.11,
+      "OWN": -0.078,
+      "SMH": -0.056,
+      "OWN+SMH": -0.046
+     },
+     "left_pct": {
+      "SPY": 75.0,
+      "OWN": 53.0,
+      "SMH": 38.0,
+      "OWN+SMH": 32.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.43
+      ],
+      "OWN": [
+       -4.65
+      ],
+      "SMH": [
+       -2.22
+      ],
+      "OWN+SMH": [
+       -2.47,
+       -1.55
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.119,
+     "act_pct": -4.79,
+     "own_pct": 0.39,
+     "left_e8": {
+      "SPY": -0.086,
+      "OWN": -0.129,
+      "SMH": -0.037,
+      "OWN+SMH": -0.047
+     },
+     "left_pct": {
+      "SPY": 73.0,
+      "OWN": 109.0,
+      "SMH": 31.0,
+      "OWN+SMH": 40.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.76
+      ],
+      "OWN": [
+       -2.71
+      ],
+      "SMH": [
+       -1.99
+      ],
+      "OWN+SMH": [
+       -3.0,
+       -2.04
+      ]
+     },
+     "best": "SMH"
+    }
+   },
+   "해석1": {
+    "cause": "시장 전체",
+    "verdict": "번진다",
+    "confidence": "중간",
+    "evidence1": {
+     "text": "Tech selloff weighs down Wall Street as bond yields climb",
+     "src": "Reuters(news_search, 제목만) · businesstimes.com.sg N11",
+     "pub": "2026-08-18"
+    },
+    "counter": "'캐터필러가 다우를 255포인트 끌어내렸지만 대부분의 종목은 거의 영향이 없었다'는 제목은 캐터필러 한 회사의 일일 수 있음. 까닭이 금리라면 전력 쪽은 '시장만큼'만 빠질 수 있고, 앞 3거래일 전력 쪽은 칩과 엇갈려 움직였음(08-13 칩 +0.97·전력 -0.77, 08-14 +0.34·+1.56). 같은 날 '엔비디아가 OpenAI 데이터센터에 최대 1,050억 달러 투자'(N10)라는 좋은 소식도 있음."
+   },
+   "해석2": {
+    "cause": "시장 전체",
+    "verdict": "번진다",
+    "confidence": "중간",
+    "evidence1": "businesstimes.com.sg(로이터) 2026-08-18 「US stocks: Tech selloff weighs down Wall Street as bond yields climb」",
+    "counter": "SPY 는 -0.68% 뿐이라 「시장 전체」라기엔 시장이 덜 빠졌다. 서버·부품 약세의 큰 몫은 파브리넷 실적 한 건에서 광부품으로 퍼진 것일 수 있어, 전력 쪽과는 길이 다를 수 있다. 같은 날 「Nvidia to Invest Up to $105 Billion for OpenAI Data Center」는 데이터센터·전력 쪽에 좋은 소식이다. 금리가 오르면 빚이 많은 발전·공사 쪽이 더 맞는다는 읽기와, 유가가 오르면 발전 쪽이 버틴다는 읽기가 갈린다."
+   }
+  },
+  {
+   "date": "2026-08-24",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -3.35,
+   "chip_usd_e8": -2.29,
+   "chip_down_n": 9,
+   "smh_pct": -2.43,
+   "spy_pct": -0.29,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.291,
+     "act_pct": -1.64,
+     "own_pct": -0.54,
+     "left_e8": {
+      "SPY": -0.19,
+      "OWN": -0.107,
+      "SMH": 0.043,
+      "OWN+SMH": 0.04
+     },
+     "left_pct": {
+      "SPY": 65.0,
+      "OWN": 37.0,
+      "SMH": -15.0,
+      "OWN+SMH": -14.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -34.44
+      ],
+      "OWN": [
+       -33.84
+      ],
+      "SMH": [
+       -13.75
+      ],
+      "OWN+SMH": [
+       -19.57,
+       -9.23
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.209,
+     "act_pct": -1.67,
+     "own_pct": -0.69,
+     "left_e8": {
+      "SPY": -0.138,
+      "OWN": -0.059,
+      "SMH": 0.022,
+      "OWN+SMH": 0.027
+     },
+     "left_pct": {
+      "SPY": 66.0,
+      "OWN": 28.0,
+      "SMH": -11.0,
+      "OWN+SMH": -13.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -24.02
+      ],
+      "OWN": [
+       -21.65
+      ],
+      "SMH": [
+       -9.5
+      ],
+      "OWN+SMH": [
+       -13.32,
+       -5.89
+      ]
+     },
+     "best": "SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.083,
+     "act_pct": -3.0,
+     "own_pct": -0.69,
+     "left_e8": {
+      "SPY": -0.066,
+      "OWN": -0.05,
+      "SMH": -0.028,
+      "OWN+SMH": -0.027
+     },
+     "left_pct": {
+      "SPY": 80.0,
+      "OWN": 60.0,
+      "SMH": 34.0,
+      "OWN+SMH": 33.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.54
+      ],
+      "OWN": [
+       -4.75
+      ],
+      "SMH": [
+       -2.25
+      ],
+      "OWN+SMH": [
+       -2.54,
+       -1.56
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": 0.0,
+     "act_pct": 0.01,
+     "own_pct": 0.38,
+     "left_e8": {
+      "SPY": 0.015,
+      "OWN": -0.01,
+      "SMH": 0.049,
+      "OWN+SMH": 0.039
+     },
+     "left_pct": {
+      "SPY": 4347.0,
+      "OWN": -2995.0,
+      "SMH": 14546.0,
+      "OWN+SMH": 11456.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.88
+      ],
+      "OWN": [
+       -2.74
+      ],
+      "SMH": [
+       -2.01
+      ],
+      "OWN+SMH": [
+       -3.03,
+       -2.05
+      ]
+     },
+     "best": "OWN"
+    }
+   }
+  },
+  {
+   "date": "2026-08-28",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -3.12,
+   "chip_usd_e8": -2.13,
+   "chip_down_n": 9,
+   "smh_pct": -3.47,
+   "spy_pct": -0.23,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.559,
+     "act_pct": -3.15,
+     "own_pct": -0.86,
+     "left_e8": {
+      "SPY": -0.482,
+      "OWN": -0.268,
+      "SMH": -0.087,
+      "OWN+SMH": -0.072
+     },
+     "left_pct": {
+      "SPY": 86.0,
+      "OWN": 48.0,
+      "SMH": 15.0,
+      "OWN+SMH": 13.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -34.32
+      ],
+      "OWN": [
+       -33.83
+      ],
+      "SMH": [
+       -13.62
+      ],
+      "OWN+SMH": [
+       -19.88,
+       -9.11
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.358,
+     "act_pct": -2.86,
+     "own_pct": -0.93,
+     "left_e8": {
+      "SPY": -0.304,
+      "OWN": -0.157,
+      "SMH": -0.032,
+      "OWN+SMH": -0.031
+     },
+     "left_pct": {
+      "SPY": 85.0,
+      "OWN": 44.0,
+      "SMH": 9.0,
+      "OWN+SMH": 9.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -23.93
+      ],
+      "OWN": [
+       -21.67
+      ],
+      "SMH": [
+       -9.4
+      ],
+      "OWN+SMH": [
+       -13.53,
+       -5.8
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.119,
+     "act_pct": -4.33,
+     "own_pct": -0.93,
+     "left_e8": {
+      "SPY": -0.106,
+      "OWN": -0.075,
+      "SMH": -0.042,
+      "OWN+SMH": -0.041
+     },
+     "left_pct": {
+      "SPY": 89.0,
+      "OWN": 63.0,
+      "SMH": 35.0,
+      "OWN+SMH": 35.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.53
+      ],
+      "OWN": [
+       -4.77
+      ],
+      "SMH": [
+       -2.23
+      ],
+      "OWN+SMH": [
+       -2.62,
+       -1.53
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.082,
+     "act_pct": -3.33,
+     "own_pct": -0.45,
+     "left_e8": {
+      "SPY": -0.071,
+      "OWN": -0.07,
+      "SMH": -0.013,
+      "OWN+SMH": 0.002
+     },
+     "left_pct": {
+      "SPY": 87.0,
+      "OWN": 85.0,
+      "SMH": 16.0,
+      "OWN+SMH": -3.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.86
+      ],
+      "OWN": [
+       -2.73
+      ],
+      "SMH": [
+       -1.99
+      ],
+      "OWN+SMH": [
+       -3.06,
+       -2.04
+      ]
+     },
+     "best": "OWN+SMH"
+    }
+   }
+  },
+  {
+   "date": "2026-09-14",
+   "in46": true,
+   "in25": true,
+   "rule_shock": true,
+   "chip_pct": -4.31,
+   "chip_usd_e8": -2.94,
+   "chip_down_n": 9,
+   "smh_pct": -4.75,
+   "spy_pct": -0.45,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -1.049,
+     "act_pct": -5.91,
+     "own_pct": -1.39,
+     "left_e8": {
+      "SPY": -0.897,
+      "OWN": -0.584,
+      "SMH": -0.401,
+      "OWN+SMH": -0.341
+     },
+     "left_pct": {
+      "SPY": 86.0,
+      "OWN": 56.0,
+      "SMH": 38.0,
+      "OWN+SMH": 33.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -34.06
+      ],
+      "OWN": [
+       -33.57
+      ],
+      "SMH": [
+       -13.62
+      ],
+      "OWN+SMH": [
+       -19.43,
+       -9.23
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.734,
+     "act_pct": -5.86,
+     "own_pct": -1.42,
+     "left_e8": {
+      "SPY": -0.628,
+      "OWN": -0.429,
+      "SMH": -0.287,
+      "OWN+SMH": -0.267
+     },
+     "left_pct": {
+      "SPY": 86.0,
+      "OWN": 58.0,
+      "SMH": 39.0,
+      "OWN+SMH": 36.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -23.8
+      ],
+      "OWN": [
+       -21.55
+      ],
+      "SMH": [
+       -9.39
+      ],
+      "OWN+SMH": [
+       -13.4,
+       -5.83
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.139,
+     "act_pct": -5.06,
+     "own_pct": -1.42,
+     "left_e8": {
+      "SPY": -0.114,
+      "OWN": -0.072,
+      "SMH": -0.033,
+      "OWN+SMH": -0.029
+     },
+     "left_pct": {
+      "SPY": 82.0,
+      "OWN": 52.0,
+      "SMH": 24.0,
+      "OWN+SMH": 21.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.5
+      ],
+      "OWN": [
+       -4.73
+      ],
+      "SMH": [
+       -2.24
+      ],
+      "OWN+SMH": [
+       -2.55,
+       -1.56
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.176,
+     "act_pct": -7.11,
+     "own_pct": -1.2,
+     "left_e8": {
+      "SPY": -0.155,
+      "OWN": -0.145,
+      "SMH": -0.081,
+      "OWN+SMH": -0.044
+     },
+     "left_pct": {
+      "SPY": 88.0,
+      "OWN": 83.0,
+      "SMH": 46.0,
+      "OWN+SMH": 25.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.76
+      ],
+      "OWN": [
+       -2.56
+      ],
+      "SMH": [
+       -2.0
+      ],
+      "OWN+SMH": [
+       -2.88,
+       -2.05
+      ]
+     },
+     "best": "OWN+SMH"
+    }
+   },
+   "해석1": {
+    "cause": "AI 투자 전반",
+    "verdict": "번진다",
+    "confidence": "중간",
+    "evidence1": {
+     "text": "AI and chip stocks tumble as weekend warnings challenge the sector's growth assumptions",
+     "src": "investinglive.com N6",
+     "pub": "2026-09-14"
+    },
+    "counter": "전력 쪽 회사를 이름으로 든 하락 제목은 못 봄((b) 미충족 — 논조 수치만 음수). 발전 기사 논조 +1.94, 유가가 100달러를 넘은 날이라 에너지·발전 종목은 다른 까닭으로 오를 수 있음. 시장 전체는 -0.45% 로 작게 빠짐."
+   },
+   "해석2": {
+    "cause": "AI 투자 전반",
+    "verdict": "번진다",
+    "confidence": "높음",
+    "evidence1": "livemint.com 2026-09-14 「Global AI stocks fall as industry chiefs call for slowing development」",
+    "counter": "발전 단계 기사 5건의 어조는 +1.94 였고 유가가 100달러를 넘은 날이라 발전·가스 쪽은 다르게 움직였을 수 있다. 「US Data Centers To Burn More Natural Gas Than Most Nations」(zerohedge, 23:45 UTC — 장 마감 뒤)는 전력 수요가 크다는 쪽 글이다. 전력 쪽 회사에 좋은 소식을 전한 제목은 그 밖에 찾지 못했다."
+   }
+  },
+  {
+   "date": "2026-10-08",
+   "in46": true,
+   "in25": true,
+   "rule_shock": true,
+   "chip_pct": -3.76,
+   "chip_usd_e8": -2.57,
+   "chip_down_n": 9,
+   "smh_pct": -2.84,
+   "spy_pct": -0.42,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.32,
+     "act_pct": -1.8,
+     "own_pct": 0.42,
+     "left_e8": {
+      "SPY": -0.178,
+      "OWN": -0.46,
+      "SMH": 0.067,
+      "OWN+SMH": -0.146
+     },
+     "left_pct": {
+      "SPY": 56.0,
+      "OWN": 144.0,
+      "SMH": -21.0,
+      "OWN+SMH": 46.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -33.4
+      ],
+      "OWN": [
+       -33.71
+      ],
+      "SMH": [
+       -13.61
+      ],
+      "OWN+SMH": [
+       -20.0,
+       -9.06
+      ]
+     },
+     "best": "SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.142,
+     "act_pct": -1.13,
+     "own_pct": 0.33,
+     "left_e8": {
+      "SPY": -0.043,
+      "OWN": -0.214,
+      "SMH": 0.127,
+      "OWN+SMH": -0.022
+     },
+     "left_pct": {
+      "SPY": 30.0,
+      "OWN": 151.0,
+      "SMH": -89.0,
+      "OWN+SMH": 15.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -23.41
+      ],
+      "OWN": [
+       -21.71
+      ],
+      "SMH": [
+       -9.46
+      ],
+      "OWN+SMH": [
+       -13.65,
+       -5.82
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.055,
+     "act_pct": -2.0,
+     "own_pct": 0.33,
+     "left_e8": {
+      "SPY": -0.032,
+      "OWN": -0.071,
+      "SMH": 0.008,
+      "OWN+SMH": -0.021
+     },
+     "left_pct": {
+      "SPY": 59.0,
+      "OWN": 129.0,
+      "SMH": -14.0,
+      "OWN+SMH": 39.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.35
+      ],
+      "OWN": [
+       -4.72
+      ],
+      "SMH": [
+       -2.2
+      ],
+      "OWN+SMH": [
+       -2.65,
+       -1.5
+      ]
+     },
+     "best": "SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.123,
+     "act_pct": -4.97,
+     "own_pct": 0.93,
+     "left_e8": {
+      "SPY": -0.103,
+      "OWN": -0.15,
+      "SMH": -0.068,
+      "OWN+SMH": -0.096
+     },
+     "left_pct": {
+      "SPY": 84.0,
+      "OWN": 122.0,
+      "SMH": 55.0,
+      "OWN+SMH": 78.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.64
+      ],
+      "OWN": [
+       -2.9
+      ],
+      "SMH": [
+       -1.95
+      ],
+      "OWN+SMH": [
+       -3.16,
+       -1.99
+      ]
+     },
+     "best": "SMH"
+    }
+   },
+   "해석1": {
+    "cause": "전력 쪽 시작",
+    "verdict": "번진다",
+    "confidence": "중간",
+    "evidence1": {
+     "text": "Another One Bites The Dust: Nvidia-Backed Firmus Slashes IPO Price 25% As AI Data Center Window Slams Shut",
+     "src": "zerohedge.com N7",
+     "pub": "2026-10-08"
+    },
+    "counter": "그날 칩 하락의 까닭을 직접 댄 제목이 없음 — 데이터센터 운영사 상장 철회·가스 조달 기사와 칩 하락을 잇는 것은 내 읽기. 기사 논조는 전력·냉각 설비 +0.19, 공사 +1.58, 발전 +0.41 로 음수가 아님. 칩 쪽 고유 까닭(메모리 값·마이크론 파업 위험)을 댄 출처도 하나 있음. 가스를 트럭으로 나른다는 소식은 발전·설비 회사에는 일감일 수 있음."
+   },
+   "해석2": {
+    "cause": "전력 쪽 시작",
+    "verdict": "번진다",
+    "confidence": "낮음",
+    "evidence1": "ksevradio.com(로이터) 2026-10-08 「Australian Nvidia-backed AI data centre operator Firmus scraps $5 billion IPO」",
+    "counter": "칩이 빠진 까닭을 이 데이터센터 소식에 직접 이은 기사는 없다 — 내가 같은 날 소식을 이어 읽은 것이다. 메모리 쪽 까닭(파업 위험·낸드 값)이 따로 있어 칩 고유로 읽을 수 있다. 전력 쪽 기사 어조는 세 단계 모두 양수였다. 오라클이 가스를 트럭으로 나른다는 것은 발전·가스 회사에는 오히려 수요 소식일 수 있다."
+   }
+  },
+  {
+   "date": "2026-10-12",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -2.09,
+   "chip_usd_e8": -1.43,
+   "chip_down_n": 9,
+   "smh_pct": -2.05,
+   "spy_pct": -0.06,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.162,
+     "act_pct": -0.91,
+     "own_pct": 0.07,
+     "left_e8": {
+      "SPY": -0.141,
+      "OWN": -0.185,
+      "SMH": 0.118,
+      "OWN+SMH": 0.012
+     },
+     "left_pct": {
+      "SPY": 87.0,
+      "OWN": 114.0,
+      "SMH": -73.0,
+      "OWN+SMH": -7.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -34.15
+      ],
+      "OWN": [
+       -34.05
+      ],
+      "SMH": [
+       -13.69
+      ],
+      "OWN+SMH": [
+       -20.42,
+       -9.17
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.096,
+     "act_pct": -0.77,
+     "own_pct": -0.06,
+     "left_e8": {
+      "SPY": -0.081,
+      "OWN": -0.083,
+      "SMH": 0.099,
+      "OWN+SMH": 0.033
+     },
+     "left_pct": {
+      "SPY": 85.0,
+      "OWN": 86.0,
+      "SMH": -103.0,
+      "OWN+SMH": -34.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -23.99
+      ],
+      "OWN": [
+       -21.97
+      ],
+      "SMH": [
+       -9.53
+      ],
+      "OWN+SMH": [
+       -13.93,
+       -5.89
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.072,
+     "act_pct": -2.6,
+     "own_pct": -0.06,
+     "left_e8": {
+      "SPY": -0.068,
+      "OWN": -0.069,
+      "SMH": -0.026,
+      "OWN+SMH": -0.039
+     },
+     "left_pct": {
+      "SPY": 95.0,
+      "OWN": 96.0,
+      "SMH": 37.0,
+      "OWN+SMH": 54.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.46
+      ],
+      "OWN": [
+       -4.74
+      ],
+      "SMH": [
+       -2.21
+      ],
+      "OWN+SMH": [
+       -2.66,
+       -1.52
+      ]
+     },
+     "best": "SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": 0.006,
+     "act_pct": 0.23,
+     "own_pct": 0.85,
+     "left_e8": {
+      "SPY": 0.008,
+      "OWN": -0.018,
+      "SMH": 0.045,
+      "OWN+SMH": 0.02
+     },
+     "left_pct": {
+      "SPY": 151.0,
+      "OWN": -324.0,
+      "SMH": 814.0,
+      "OWN+SMH": 354.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.7
+      ],
+      "OWN": [
+       -2.78
+      ],
+      "SMH": [
+       -1.95
+      ],
+      "OWN+SMH": [
+       -3.18,
+       -2.02
+      ]
+     },
+     "best": "SPY"
+    }
+   }
+  },
+  {
+   "date": "2026-10-14",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -3.84,
+   "chip_usd_e8": -2.62,
+   "chip_down_n": 9,
+   "smh_pct": -3.98,
+   "spy_pct": -1.08,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.824,
+     "act_pct": -4.65,
+     "own_pct": -0.83,
+     "left_e8": {
+      "SPY": -0.458,
+      "OWN": -0.542,
+      "SMH": -0.281,
+      "OWN+SMH": -0.292
+     },
+     "left_pct": {
+      "SPY": 56.0,
+      "OWN": 66.0,
+      "SMH": 34.0,
+      "OWN+SMH": 35.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -33.89
+      ],
+      "OWN": [
+       -33.93
+      ],
+      "SMH": [
+       -13.66
+      ],
+      "OWN+SMH": [
+       -20.28,
+       -9.15
+      ]
+     },
+     "best": "SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.507,
+     "act_pct": -4.05,
+     "own_pct": -0.97,
+     "left_e8": {
+      "SPY": -0.249,
+      "OWN": -0.295,
+      "SMH": -0.128,
+      "OWN+SMH": -0.139
+     },
+     "left_pct": {
+      "SPY": 49.0,
+      "OWN": 58.0,
+      "SMH": 25.0,
+      "OWN+SMH": 27.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -23.86
+      ],
+      "OWN": [
+       -21.91
+      ],
+      "SMH": [
+       -9.53
+      ],
+      "OWN+SMH": [
+       -13.83,
+       -5.89
+      ]
+     },
+     "best": "SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.126,
+     "act_pct": -4.57,
+     "own_pct": -0.97,
+     "left_e8": {
+      "SPY": -0.066,
+      "OWN": -0.08,
+      "SMH": -0.037,
+      "OWN+SMH": -0.039
+     },
+     "left_pct": {
+      "SPY": 53.0,
+      "OWN": 63.0,
+      "SMH": 30.0,
+      "OWN+SMH": 31.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.46
+      ],
+      "OWN": [
+       -4.76
+      ],
+      "SMH": [
+       -2.23
+      ],
+      "OWN+SMH": [
+       -2.67,
+       -1.52
+      ]
+     },
+     "best": "SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.192,
+     "act_pct": -7.75,
+     "own_pct": -0.0,
+     "left_e8": {
+      "SPY": -0.143,
+      "OWN": -0.192,
+      "SMH": -0.116,
+      "OWN+SMH": -0.113
+     },
+     "left_pct": {
+      "SPY": 74.0,
+      "OWN": 100.0,
+      "SMH": 60.0,
+      "OWN+SMH": 59.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.56
+      ],
+      "OWN": [
+       -2.66
+      ],
+      "SMH": [
+       -1.91
+      ],
+      "OWN+SMH": [
+       -3.12,
+       -1.99
+      ]
+     },
+     "best": "OWN+SMH"
+    }
+   }
+  },
+  {
+   "date": "2026-10-16",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -3.44,
+   "chip_usd_e8": -2.35,
+   "chip_down_n": 9,
+   "smh_pct": -3.41,
+   "spy_pct": -1.11,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.274,
+     "act_pct": -1.54,
+     "own_pct": 0.18,
+     "left_e8": {
+      "SPY": 0.105,
+      "OWN": -0.335,
+      "SMH": 0.196,
+      "OWN+SMH": 0.007
+     },
+     "left_pct": {
+      "SPY": -38.0,
+      "OWN": 122.0,
+      "SMH": -72.0,
+      "OWN+SMH": -2.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -34.21
+      ],
+      "OWN": [
+       -34.15
+      ],
+      "SMH": [
+       -13.78
+      ],
+      "OWN+SMH": [
+       -20.13,
+       -9.29
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.17,
+     "act_pct": -1.36,
+     "own_pct": -0.08,
+     "left_e8": {
+      "SPY": 0.096,
+      "OWN": -0.153,
+      "SMH": 0.157,
+      "OWN+SMH": 0.045
+     },
+     "left_pct": {
+      "SPY": -56.0,
+      "OWN": 90.0,
+      "SMH": -92.0,
+      "OWN+SMH": -26.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -24.05
+      ],
+      "OWN": [
+       -21.99
+      ],
+      "SMH": [
+       -9.6
+      ],
+      "OWN+SMH": [
+       -13.69,
+       -5.99
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.053,
+     "act_pct": -1.92,
+     "own_pct": -0.08,
+     "left_e8": {
+      "SPY": 0.008,
+      "OWN": -0.049,
+      "SMH": 0.024,
+      "OWN+SMH": 0.002
+     },
+     "left_pct": {
+      "SPY": -16.0,
+      "OWN": 93.0,
+      "SMH": -45.0,
+      "OWN+SMH": -4.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.52
+      ],
+      "OWN": [
+       -4.78
+      ],
+      "SMH": [
+       -2.24
+      ],
+      "OWN+SMH": [
+       -2.64,
+       -1.55
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.051,
+     "act_pct": -2.04,
+     "own_pct": 1.76,
+     "left_e8": {
+      "SPY": 0.001,
+      "OWN": -0.097,
+      "SMH": 0.015,
+      "OWN+SMH": -0.037
+     },
+     "left_pct": {
+      "SPY": -2.0,
+      "OWN": 192.0,
+      "SMH": -31.0,
+      "OWN+SMH": 73.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.65
+      ],
+      "OWN": [
+       -2.65
+      ],
+      "SMH": [
+       -1.94
+      ],
+      "OWN+SMH": [
+       -3.12,
+       -2.02
+      ]
+     },
+     "best": "SPY"
+    }
+   }
+  },
+  {
+   "date": "2026-10-22",
+   "in46": true,
+   "in25": true,
+   "rule_shock": true,
+   "chip_pct": -5.44,
+   "chip_usd_e8": -3.71,
+   "chip_down_n": 9,
+   "smh_pct": -5.99,
+   "spy_pct": -1.18,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -1.305,
+     "act_pct": -7.35,
+     "own_pct": -0.66,
+     "left_e8": {
+      "SPY": -0.899,
+      "OWN": -1.077,
+      "SMH": -0.483,
+      "OWN+SMH": -0.616
+     },
+     "left_pct": {
+      "SPY": 69.0,
+      "OWN": 83.0,
+      "SMH": 37.0,
+      "OWN+SMH": 47.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -34.34
+      ],
+      "OWN": [
+       -34.3
+      ],
+      "SMH": [
+       -13.71
+      ],
+      "OWN+SMH": [
+       -20.44,
+       -9.22
+      ]
+     },
+     "best": "SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.834,
+     "act_pct": -6.66,
+     "own_pct": -0.94,
+     "left_e8": {
+      "SPY": -0.549,
+      "OWN": -0.626,
+      "SMH": -0.262,
+      "OWN+SMH": -0.348
+     },
+     "left_pct": {
+      "SPY": 66.0,
+      "OWN": 75.0,
+      "SMH": 31.0,
+      "OWN+SMH": 42.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -24.13
+      ],
+      "OWN": [
+       -22.17
+      ],
+      "SMH": [
+       -9.55
+      ],
+      "OWN+SMH": [
+       -13.94,
+       -5.92
+      ]
+     },
+     "best": "SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.212,
+     "act_pct": -7.7,
+     "own_pct": -0.94,
+     "left_e8": {
+      "SPY": -0.147,
+      "OWN": -0.167,
+      "SMH": -0.079,
+      "OWN+SMH": -0.095
+     },
+     "left_pct": {
+      "SPY": 70.0,
+      "OWN": 79.0,
+      "SMH": 37.0,
+      "OWN+SMH": 45.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.46
+      ],
+      "OWN": [
+       -4.76
+      ],
+      "SMH": [
+       -2.22
+      ],
+      "OWN+SMH": [
+       -2.63,
+       -1.54
+      ]
+     },
+     "best": "SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.259,
+     "act_pct": -10.45,
+     "own_pct": 1.03,
+     "left_e8": {
+      "SPY": -0.203,
+      "OWN": -0.284,
+      "SMH": -0.143,
+      "OWN+SMH": -0.168
+     },
+     "left_pct": {
+      "SPY": 78.0,
+      "OWN": 110.0,
+      "SMH": 55.0,
+      "OWN+SMH": 65.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.75
+      ],
+      "OWN": [
+       -2.49
+      ],
+      "SMH": [
+       -1.94
+      ],
+      "OWN+SMH": [
+       -3.06,
+       -2.03
+      ]
+     },
+     "best": "SMH"
+    }
+   },
+   "해석1": {
+    "cause": "AI 투자 전반",
+    "verdict": "번진다",
+    "confidence": "중간",
+    "evidence1": {
+     "text": "Stock Market Midday, Oct. 22: Tech Weakness Drags Nasdaq Lower as AI Spending Concerns Mount",
+     "src": "fool.com(newsstat, 17:15 UTC)",
+     "pub": "2026-10-22"
+    },
+    "counter": "전력 쪽 기사 논조는 음수가 아님(전력·냉각 설비 +0.29, 발전 +0.8, 공사 +1.82)이고 '문 닫은 원전을 다시 돌린다'(N7)는 전력 수요 기사가 같은 날 있음. '버핏식 시장은 잘 나간다'(N6)는 기술주 밖은 버텼다는 뜻. 모건스탠리의 '투자가 줄어도 버틸 AI 인프라 종목 24개'(N1)에 전력 쪽이 들었을 수 있음."
+   },
+   "해석2": {
+    "cause": "AI 투자 전반",
+    "verdict": "번진다",
+    "confidence": "중간",
+    "evidence1": "zerohedge.com 2026-10-22 「Futures Slide As Market Runs Out Of AI Patience, Oil Jumps On Saudi Attacks」",
+    "counter": "전력 쪽 세 단계의 기사 어조는 모두 양수였고 「US is reviving shuttered nuclear plants to meet growing electricity demand, data centers」(cbs2iowa)는 발전 쪽에 좋은 소식이다. 슈퍼마이크로는 이틀 전 매출이 전망을 크게 웃돈다고 알렸다. 블룸에너지 실적이 같은 날 장 마감 뒤에 나와(cnbc 「after hours: WDC, BE」) 그 방향은 이 판정에 쓰지 않았다."
+   }
+  },
+  {
+   "date": "2026-10-29",
+   "in46": true,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -2.27,
+   "chip_usd_e8": -1.55,
+   "chip_down_n": 9,
+   "smh_pct": -1.06,
+   "spy_pct": -0.38,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.279,
+     "act_pct": -1.57,
+     "own_pct": 0.99,
+     "left_e8": {
+      "SPY": -0.144,
+      "OWN": -0.624,
+      "SMH": -0.132,
+      "OWN+SMH": -0.38
+     },
+     "left_pct": {
+      "SPY": 51.0,
+      "OWN": 224.0,
+      "SMH": 47.0,
+      "OWN+SMH": 136.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -35.44
+      ],
+      "OWN": [
+       -34.69
+      ],
+      "SMH": [
+       -13.88
+      ],
+      "OWN+SMH": [
+       -20.28,
+       -9.47
+      ]
+     },
+     "best": "SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.335,
+     "act_pct": -2.68,
+     "own_pct": 0.97,
+     "left_e8": {
+      "SPY": -0.24,
+      "OWN": -0.553,
+      "SMH": -0.234,
+      "OWN+SMH": -0.406
+     },
+     "left_pct": {
+      "SPY": 72.0,
+      "OWN": 165.0,
+      "SMH": 70.0,
+      "OWN+SMH": 121.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -24.9
+      ],
+      "OWN": [
+       -22.36
+      ],
+      "SMH": [
+       -9.64
+      ],
+      "OWN+SMH": [
+       -13.83,
+       -6.08
+      ]
+     },
+     "best": "SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": 0.047,
+     "act_pct": 1.69,
+     "own_pct": 0.97,
+     "left_e8": {
+      "SPY": 0.068,
+      "OWN": -0.001,
+      "SMH": 0.07,
+      "OWN+SMH": 0.037
+     },
+     "left_pct": {
+      "SPY": 146.0,
+      "OWN": -2.0,
+      "SMH": 151.0,
+      "OWN+SMH": 79.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.59
+      ],
+      "OWN": [
+       -4.86
+      ],
+      "SMH": [
+       -2.24
+      ],
+      "OWN+SMH": [
+       -2.7,
+       -1.54
+      ]
+     },
+     "best": "OWN"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": 0.01,
+     "act_pct": 0.4,
+     "own_pct": 1.12,
+     "left_e8": {
+      "SPY": 0.029,
+      "OWN": -0.015,
+      "SMH": 0.031,
+      "OWN+SMH": -0.001
+     },
+     "left_pct": {
+      "SPY": 290.0,
+      "OWN": -155.0,
+      "SMH": 312.0,
+      "OWN+SMH": -10.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.94
+      ],
+      "OWN": [
+       -2.26
+      ],
+      "SMH": [
+       -1.99
+      ],
+      "OWN+SMH": [
+       -2.95,
+       -2.1
+      ]
+     },
+     "best": "OWN+SMH"
+    }
+   }
+  },
+  {
+   "date": "2026-10-30",
+   "in46": false,
+   "in25": true,
+   "rule_shock": true,
+   "chip_pct": -7.03,
+   "chip_usd_e8": -4.8,
+   "chip_down_n": 9,
+   "smh_pct": -6.98,
+   "spy_pct": -1.77,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -0.654,
+     "act_pct": -3.68,
+     "own_pct": -1.23,
+     "left_e8": {
+      "SPY": -0.023,
+      "OWN": -0.232,
+      "SMH": 0.315,
+      "OWN+SMH": 0.258
+     },
+     "left_pct": {
+      "SPY": 3.0,
+      "OWN": 35.0,
+      "SMH": -48.0,
+      "OWN+SMH": -40.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -35.59
+      ],
+      "OWN": [
+       -34.41
+      ],
+      "SMH": [
+       -13.88
+      ],
+      "OWN+SMH": [
+       -19.99,
+       -9.56
+      ]
+     },
+     "best": "SPY"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.562,
+     "act_pct": -4.49,
+     "own_pct": -1.6,
+     "left_e8": {
+      "SPY": -0.117,
+      "OWN": -0.206,
+      "SMH": 0.112,
+      "OWN+SMH": 0.087
+     },
+     "left_pct": {
+      "SPY": 21.0,
+      "OWN": 37.0,
+      "SMH": -20.0,
+      "OWN+SMH": -15.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -25.11
+      ],
+      "OWN": [
+       -22.18
+      ],
+      "SMH": [
+       -9.67
+      ],
+      "OWN+SMH": [
+       -13.56,
+       -6.18
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.09,
+     "act_pct": -3.26,
+     "own_pct": -1.6,
+     "left_e8": {
+      "SPY": 0.009,
+      "OWN": -0.012,
+      "SMH": 0.066,
+      "OWN+SMH": 0.06
+     },
+     "left_pct": {
+      "SPY": -9.0,
+      "OWN": 13.0,
+      "SMH": -73.0,
+      "OWN+SMH": -67.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.54
+      ],
+      "OWN": [
+       -4.85
+      ],
+      "SMH": [
+       -2.23
+      ],
+      "OWN+SMH": [
+       -2.72,
+       -1.53
+      ]
+     },
+     "best": "SPY"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.002,
+     "act_pct": -0.08,
+     "own_pct": 1.11,
+     "left_e8": {
+      "SPY": 0.086,
+      "OWN": -0.027,
+      "SMH": 0.137,
+      "OWN+SMH": 0.111
+     },
+     "left_pct": {
+      "SPY": -4398.0,
+      "OWN": 1382.0,
+      "SMH": -7031.0,
+      "OWN+SMH": -5726.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.93
+      ],
+      "OWN": [
+       -2.24
+      ],
+      "SMH": [
+       -1.99
+      ],
+      "OWN+SMH": [
+       -2.95,
+       -2.1
+      ]
+     },
+     "best": "OWN"
+    }
+   },
+   "해석1": {
+    "cause": "칩 고유",
+    "verdict": "넘긴다",
+    "confidence": "낮음",
+    "evidence1": {
+     "text": "Semiconductor Stocks Fall as Intel Earnings Trigger Broad Tech Selloff",
+     "src": "morningstar.com N2",
+     "pub": "2026-10-30"
+    },
+    "counter": "번진다 쪽: 인텔 실적이 '넓은 기술주 매도'를 불렀다는 출처가 둘이고 서버·부품 22/22 가 시장보다 5.04%p 더 빠짐. 시장도 -1.77%. 안 번진다 쪽: 까닭이 인텔의 PC 부진이고 데이터센터 매출은 78% 늘었음. 같은 날 공사 종목(마스텍·퀀타)이 급등했다는 제목이 있고 전날 전력 쪽은 칩을 따라가지 않았음."
+   },
+   "해석2": {
+    "cause": "칩 고유",
+    "verdict": "사람에게 넘긴다",
+    "confidence": "낮음",
+    "evidence1": "morningstar.com 2026-10-30 「Semiconductor Stocks Fall as Intel Earnings Trigger Broad Tech Selloff」",
+    "counter": "「안 번진다」 쪽이 더 무겁다: 까닭이 인텔의 PC 부진이고 데이터센터 매출은 오히려 늘었으며, 공사 단계의 마스텍·콴타가 그날 급등했고, 서버·부품에서 가장 빠진 델·HPQ 는 PC 회사다. 「번진다」 쪽: 필라델피아 반도체 지수가 7% 넘게 빠지며 「기술주 전반 매도」가 됐고 서버·부품 22종목이 모두 내렸다. 「Anthropic may not secure investment-grade rating after IPO」(FT 인용)는 AI 자금 조달 걱정이다."
+   }
+  },
+  {
+   "date": "2026-11-04",
+   "in46": false,
+   "in25": false,
+   "rule_shock": true,
+   "chip_pct": -3.28,
+   "chip_usd_e8": -2.24,
+   "chip_down_n": 8,
+   "smh_pct": -2.75,
+   "spy_pct": 1.65,
+   "scopes": {
+    "전력 쪽 19종목": {
+     "n": 19,
+     "usd_e8": 17.74,
+     "act_e8": -1.579,
+     "act_pct": -8.9,
+     "own_pct": -1.13,
+     "left_e8": {
+      "SPY": -2.167,
+      "OWN": -1.191,
+      "SMH": -1.202,
+      "OWN+SMH": -1.093
+     },
+     "left_pct": {
+      "SPY": 137.0,
+      "OWN": 75.0,
+      "SMH": 76.0,
+      "OWN+SMH": 69.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -35.57
+      ],
+      "OWN": [
+       -34.32
+      ],
+      "SMH": [
+       -13.74
+      ],
+      "OWN+SMH": [
+       -19.93,
+       -9.51
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "전력·냉각 설비": {
+     "n": 11,
+     "usd_e8": 12.52,
+     "act_e8": -0.907,
+     "act_pct": -7.24,
+     "own_pct": -1.09,
+     "left_e8": {
+      "SPY": -1.322,
+      "OWN": -0.667,
+      "SMH": -0.643,
+      "OWN+SMH": -0.59
+     },
+     "left_pct": {
+      "SPY": 146.0,
+      "OWN": 74.0,
+      "SMH": 71.0,
+      "OWN+SMH": 65.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -25.15
+      ],
+      "OWN": [
+       -22.09
+      ],
+      "SMH": [
+       -9.59
+      ],
+      "OWN+SMH": [
+       -13.47,
+       -6.18
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "데이터센터 공사": {
+     "n": 4,
+     "usd_e8": 2.75,
+     "act_e8": -0.35,
+     "act_pct": -12.75,
+     "own_pct": -1.09,
+     "left_e8": {
+      "SPY": -0.442,
+      "OWN": -0.298,
+      "SMH": -0.29,
+      "OWN+SMH": -0.279
+     },
+     "left_pct": {
+      "SPY": 126.0,
+      "OWN": 85.0,
+      "SMH": 83.0,
+      "OWN+SMH": 80.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -5.55
+      ],
+      "OWN": [
+       -4.85
+      ],
+      "SMH": [
+       -2.2
+      ],
+      "OWN+SMH": [
+       -2.75,
+       -1.51
+      ]
+     },
+     "best": "OWN+SMH"
+    },
+    "발전": {
+     "n": 4,
+     "usd_e8": 2.48,
+     "act_e8": -0.322,
+     "act_pct": -13.02,
+     "own_pct": -1.41,
+     "left_e8": {
+      "SPY": -0.403,
+      "OWN": -0.291,
+      "SMH": -0.269,
+      "OWN+SMH": -0.224
+     },
+     "left_pct": {
+      "SPY": 125.0,
+      "OWN": 90.0,
+      "SMH": 83.0,
+      "OWN+SMH": 69.0
+     },
+     "hedge_usd_e8": {
+      "SPY": [
+       -4.87
+      ],
+      "OWN": [
+       -2.21
+      ],
+      "SMH": [
+       -1.94
+      ],
+      "OWN+SMH": [
+       -3.0,
+       -2.06
+      ]
+     },
+     "best": "OWN+SMH"
+    }
+   }
+  }
+ ],
+ "groups": {
+  "46일": {
+   "days": 46,
+   "act_sum_e8": -22.74,
+   "loss_days": 41,
+   "SPY": {
+    "left_sum_e8": -16.12,
+    "left_pct_of_sum": 70.9,
+    "abs_left_pct": 73.4,
+    "median_abs_day_pct": 75.7,
+    "still_loss_days": 41,
+    "best_days": 2
+   },
+   "OWN": {
+    "left_sum_e8": -16.8,
+    "left_pct_of_sum": 73.9,
+    "abs_left_pct": 71.1,
+    "median_abs_day_pct": 62.5,
+    "still_loss_days": 44,
+    "best_days": 6
+   },
+   "SMH": {
+    "left_sum_e8": -2.39,
+    "left_pct_of_sum": 10.5,
+    "abs_left_pct": 42.6,
+    "median_abs_day_pct": 38.6,
+    "still_loss_days": 28,
+    "best_days": 18
+   },
+   "OWN+SMH": {
+    "left_sum_e8": -6.14,
+    "left_pct_of_sum": 27.0,
+    "abs_left_pct": 37.5,
+    "median_abs_day_pct": 37.3,
+    "still_loss_days": 31,
+    "best_days": 20
+   }
+  },
+  "25일": {
+   "days": 25,
+   "act_sum_e8": -14.41,
+   "loss_days": 22,
+   "SPY": {
+    "left_sum_e8": -13.03,
+    "left_pct_of_sum": 90.4,
+    "abs_left_pct": 74.0,
+    "median_abs_day_pct": 81.1,
+    "still_loss_days": 21,
+    "best_days": 3
+   },
+   "OWN": {
+    "left_sum_e8": -12.86,
+    "left_pct_of_sum": 89.3,
+    "abs_left_pct": 67.6,
+    "median_abs_day_pct": 64.0,
+    "still_loss_days": 24,
+    "best_days": 2
+   },
+   "SMH": {
+    "left_sum_e8": -3.01,
+    "left_pct_of_sum": 20.9,
+    "abs_left_pct": 38.9,
+    "median_abs_day_pct": 31.7,
+    "still_loss_days": 17,
+    "best_days": 15
+   },
+   "OWN+SMH": {
+    "left_sum_e8": -6.3,
+    "left_pct_of_sum": 43.7,
+    "abs_left_pct": 44.3,
+    "median_abs_day_pct": 44.0,
+    "still_loss_days": 20,
+    "best_days": 5
+   }
+  },
+  "25일 중 46일에 드는 날": {
+   "days": 21,
+   "act_sum_e8": -13.18,
+   "loss_days": 19,
+   "SPY": {
+    "left_sum_e8": -9.77,
+    "left_pct_of_sum": 74.1,
+    "abs_left_pct": 80.2,
+    "median_abs_day_pct": 85.5,
+    "still_loss_days": 17,
+    "best_days": 2
+   },
+   "OWN": {
+    "left_sum_e8": -10.14,
+    "left_pct_of_sum": 76.9,
+    "abs_left_pct": 75.1,
+    "median_abs_day_pct": 81.5,
+    "still_loss_days": 20,
+    "best_days": 2
+   },
+   "SMH": {
+    "left_sum_e8": -1.7,
+    "left_pct_of_sum": 12.9,
+    "abs_left_pct": 40.4,
+    "median_abs_day_pct": 31.7,
+    "still_loss_days": 15,
+    "best_days": 12
+   },
+   "OWN+SMH": {
+    "left_sum_e8": -4.09,
+    "left_pct_of_sum": 31.0,
+    "abs_left_pct": 42.4,
+    "median_abs_day_pct": 45.6,
+    "still_loss_days": 17,
+    "best_days": 5
+   }
+  }
+ },
+ "by_cause": {
+  "해석1 · 25일": {
+   "AI 투자 전반": {
+    "days": 11,
+    "act_sum_e8": -10.81,
+    "loss_days": 11,
+    "SPY": {
+     "left_sum_e8": -8.07,
+     "left_pct_of_sum": 74.6,
+     "abs_left_pct": 76.0,
+     "median_abs_day_pct": 81.1,
+     "still_loss_days": 10,
+     "best_days": 1
+    },
+    "OWN": {
+     "left_sum_e8": -8.61,
+     "left_pct_of_sum": 79.6,
+     "abs_left_pct": 79.6,
+     "median_abs_day_pct": 82.5,
+     "still_loss_days": 11,
+     "best_days": 0
+    },
+    "SMH": {
+     "left_sum_e8": -2.98,
+     "left_pct_of_sum": 27.5,
+     "abs_left_pct": 38.3,
+     "median_abs_day_pct": 31.7,
+     "still_loss_days": 9,
+     "best_days": 9
+    },
+    "OWN+SMH": {
+     "left_sum_e8": -4.48,
+     "left_pct_of_sum": 41.4,
+     "abs_left_pct": 45.5,
+     "median_abs_day_pct": 47.2,
+     "still_loss_days": 10,
+     "best_days": 1
+    },
+    "dates": [
+     "2025-01-27",
+     "2025-12-12",
+     "2026-02-04",
+     "2026-06-05",
+     "2026-06-23",
+     "2026-07-01",
+     "2026-07-02",
+     "2026-07-16",
+     "2026-07-28",
+     "2026-09-14",
+     "2026-10-22"
+    ]
+   },
+   "규칙이 잘못 고른 날": {
+    "days": 5,
+    "act_sum_e8": 1.25,
+    "loss_days": 3,
+    "SPY": {
+     "left_sum_e8": -1.74,
+     "left_pct_of_sum": null,
+     "abs_left_pct": 73.4,
+     "median_abs_day_pct": 160.3,
+     "still_loss_days": 3,
+     "best_days": 1
+    },
+    "OWN": {
+     "left_sum_e8": -1.18,
+     "left_pct_of_sum": null,
+     "abs_left_pct": 40.6,
+     "median_abs_day_pct": 91.0,
+     "still_loss_days": 4,
+     "best_days": 1
+    },
+    "SMH": {
+     "left_sum_e8": 0.33,
+     "left_pct_of_sum": null,
+     "abs_left_pct": 41.5,
+     "median_abs_day_pct": 66.1,
+     "still_loss_days": 2,
+     "best_days": 3
+    },
+    "OWN+SMH": {
+     "left_sum_e8": -0.89,
+     "left_pct_of_sum": null,
+     "abs_left_pct": 55.3,
+     "median_abs_day_pct": 73.8,
+     "still_loss_days": 3,
+     "best_days": 0
+    },
+    "dates": [
+     "2025-04-09",
+     "2026-05-18",
+     "2026-06-16",
+     "2026-07-15",
+     "2026-08-05"
+    ]
+   },
+   "시장 전체": {
+    "days": 1,
+    "act_sum_e8": -0.91,
+    "loss_days": 1,
+    "SPY": {
+     "left_sum_e8": -0.68,
+     "left_pct_of_sum": 74.9,
+     "abs_left_pct": 74.9,
+     "median_abs_day_pct": 74.9,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "OWN": {
+     "left_sum_e8": -0.51,
+     "left_pct_of_sum": 55.8,
+     "abs_left_pct": 55.8,
+     "median_abs_day_pct": 55.8,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "SMH": {
+     "left_sum_e8": -0.36,
+     "left_pct_of_sum": 39.0,
+     "abs_left_pct": 39.0,
+     "median_abs_day_pct": 39.0,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "OWN+SMH": {
+     "left_sum_e8": -0.3,
+     "left_pct_of_sum": 33.3,
+     "abs_left_pct": 33.3,
+     "median_abs_day_pct": 33.3,
+     "still_loss_days": 1,
+     "best_days": 1
+    },
+    "dates": [
+     "2026-08-18"
+    ]
+   },
+   "전력 쪽 시작": {
+    "days": 1,
+    "act_sum_e8": -0.32,
+    "loss_days": 1,
+    "SPY": {
+     "left_sum_e8": -0.18,
+     "left_pct_of_sum": 55.6,
+     "abs_left_pct": 55.6,
+     "median_abs_day_pct": 55.6,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "OWN": {
+     "left_sum_e8": -0.46,
+     "left_pct_of_sum": 143.8,
+     "abs_left_pct": 143.8,
+     "median_abs_day_pct": 143.8,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "SMH": {
+     "left_sum_e8": 0.07,
+     "left_pct_of_sum": -20.9,
+     "abs_left_pct": 20.9,
+     "median_abs_day_pct": 20.9,
+     "still_loss_days": 0,
+     "best_days": 1
+    },
+    "OWN+SMH": {
+     "left_sum_e8": -0.15,
+     "left_pct_of_sum": 45.6,
+     "abs_left_pct": 45.6,
+     "median_abs_day_pct": 45.6,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "dates": [
+     "2026-10-08"
+    ]
+   },
+   "칩 고유": {
+    "days": 7,
+    "act_sum_e8": -3.61,
+    "loss_days": 6,
+    "SPY": {
+     "left_sum_e8": -2.36,
+     "left_pct_of_sum": 65.4,
+     "abs_left_pct": 70.2,
+     "median_abs_day_pct": 76.9,
+     "still_loss_days": 6,
+     "best_days": 1
+    },
+    "OWN": {
+     "left_sum_e8": -2.1,
+     "left_pct_of_sum": 58.3,
+     "abs_left_pct": 52.8,
+     "median_abs_day_pct": 50.1,
+     "still_loss_days": 7,
+     "best_days": 1
+    },
+    "SMH": {
+     "left_sum_e8": -0.08,
+     "left_pct_of_sum": 2.1,
+     "abs_left_pct": 40.0,
+     "median_abs_day_pct": 26.3,
+     "still_loss_days": 5,
+     "best_days": 2
+    },
+    "OWN+SMH": {
+     "left_sum_e8": -0.48,
+     "left_pct_of_sum": 13.4,
+     "abs_left_pct": 34.6,
+     "median_abs_day_pct": 39.1,
+     "still_loss_days": 5,
+     "best_days": 3
+    },
+    "dates": [
+     "2025-08-29",
+     "2025-10-14",
+     "2026-03-03",
+     "2026-03-30",
+     "2026-07-07",
+     "2026-07-24",
+     "2026-10-30"
+    ]
+   }
+  },
+  "해석1 · 46일에 드는 날만": {
+   "AI 투자 전반": {
+    "days": 10,
+    "act_sum_e8": -8.59,
+    "loss_days": 10,
+    "SPY": {
+     "left_sum_e8": -6.16,
+     "left_pct_of_sum": 71.7,
+     "abs_left_pct": 73.5,
+     "median_abs_day_pct": 76.2,
+     "still_loss_days": 9,
+     "best_days": 1
+    },
+    "OWN": {
+     "left_sum_e8": -6.72,
+     "left_pct_of_sum": 78.3,
+     "abs_left_pct": 78.3,
+     "median_abs_day_pct": 82.0,
+     "still_loss_days": 10,
+     "best_days": 0
+    },
+    "SMH": {
+     "left_sum_e8": -1.46,
+     "left_pct_of_sum": 17.0,
+     "abs_left_pct": 30.6,
+     "median_abs_day_pct": 26.9,
+     "still_loss_days": 8,
+     "best_days": 8
+    },
+    "OWN+SMH": {
+     "left_sum_e8": -2.92,
+     "left_pct_of_sum": 34.0,
+     "abs_left_pct": 39.1,
+     "median_abs_day_pct": 45.6,
+     "still_loss_days": 9,
+     "best_days": 1
+    },
+    "dates": [
+     "2025-12-12",
+     "2026-02-04",
+     "2026-06-05",
+     "2026-06-23",
+     "2026-07-01",
+     "2026-07-02",
+     "2026-07-16",
+     "2026-07-28",
+     "2026-09-14",
+     "2026-10-22"
+    ]
+   },
+   "규칙이 잘못 고른 날": {
+    "days": 4,
+    "act_sum_e8": -0.91,
+    "loss_days": 3,
+    "SPY": {
+     "left_sum_e8": -0.76,
+     "left_pct_of_sum": 83.5,
+     "abs_left_pct": 133.9,
+     "median_abs_day_pct": 273.0,
+     "still_loss_days": 2,
+     "best_days": 1
+    },
+    "OWN": {
+     "left_sum_e8": -0.86,
+     "left_pct_of_sum": 94.4,
+     "abs_left_pct": 96.2,
+     "median_abs_day_pct": 180.1,
+     "still_loss_days": 3,
+     "best_days": 1
+    },
+    "SMH": {
+     "left_sum_e8": 0.33,
+     "left_pct_of_sum": -35.6,
+     "abs_left_pct": 128.6,
+     "median_abs_day_pct": 493.8,
+     "still_loss_days": 2,
+     "best_days": 2
+    },
+    "OWN+SMH": {
+     "left_sum_e8": -0.13,
+     "left_pct_of_sum": 13.8,
+     "abs_left_pct": 97.9,
+     "median_abs_day_pct": 336.9,
+     "still_loss_days": 2,
+     "best_days": 0
+    },
+    "dates": [
+     "2026-05-18",
+     "2026-06-16",
+     "2026-07-15",
+     "2026-08-05"
+    ]
+   },
+   "시장 전체": {
+    "days": 1,
+    "act_sum_e8": -0.91,
+    "loss_days": 1,
+    "SPY": {
+     "left_sum_e8": -0.68,
+     "left_pct_of_sum": 74.9,
+     "abs_left_pct": 74.9,
+     "median_abs_day_pct": 74.9,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "OWN": {
+     "left_sum_e8": -0.51,
+     "left_pct_of_sum": 55.8,
+     "abs_left_pct": 55.8,
+     "median_abs_day_pct": 55.8,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "SMH": {
+     "left_sum_e8": -0.36,
+     "left_pct_of_sum": 39.0,
+     "abs_left_pct": 39.0,
+     "median_abs_day_pct": 39.0,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "OWN+SMH": {
+     "left_sum_e8": -0.3,
+     "left_pct_of_sum": 33.3,
+     "abs_left_pct": 33.3,
+     "median_abs_day_pct": 33.3,
+     "still_loss_days": 1,
+     "best_days": 1
+    },
+    "dates": [
+     "2026-08-18"
+    ]
+   },
+   "전력 쪽 시작": {
+    "days": 1,
+    "act_sum_e8": -0.32,
+    "loss_days": 1,
+    "SPY": {
+     "left_sum_e8": -0.18,
+     "left_pct_of_sum": 55.6,
+     "abs_left_pct": 55.6,
+     "median_abs_day_pct": 55.6,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "OWN": {
+     "left_sum_e8": -0.46,
+     "left_pct_of_sum": 143.8,
+     "abs_left_pct": 143.8,
+     "median_abs_day_pct": 143.8,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "SMH": {
+     "left_sum_e8": 0.07,
+     "left_pct_of_sum": -20.9,
+     "abs_left_pct": 20.9,
+     "median_abs_day_pct": 20.9,
+     "still_loss_days": 0,
+     "best_days": 1
+    },
+    "OWN+SMH": {
+     "left_sum_e8": -0.15,
+     "left_pct_of_sum": 45.6,
+     "abs_left_pct": 45.6,
+     "median_abs_day_pct": 45.6,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "dates": [
+     "2026-10-08"
+    ]
+   },
+   "칩 고유": {
+    "days": 5,
+    "act_sum_e8": -2.45,
+    "loss_days": 4,
+    "SPY": {
+     "left_sum_e8": -1.98,
+     "left_pct_of_sum": 81.0,
+     "abs_left_pct": 85.7,
+     "median_abs_day_pct": 89.1,
+     "still_loss_days": 4,
+     "best_days": 0
+    },
+    "OWN": {
+     "left_sum_e8": -1.59,
+     "left_pct_of_sum": 64.8,
+     "abs_left_pct": 56.3,
+     "median_abs_day_pct": 50.1,
+     "still_loss_days": 5,
+     "best_days": 1
+    },
+    "SMH": {
+     "left_sum_e8": -0.27,
+     "left_pct_of_sum": 11.2,
+     "abs_left_pct": 41.2,
+     "median_abs_day_pct": 26.3,
+     "still_loss_days": 4,
+     "best_days": 1
+    },
+    "OWN+SMH": {
+     "left_sum_e8": -0.6,
+     "left_pct_of_sum": 24.5,
+     "abs_left_pct": 34.6,
+     "median_abs_day_pct": 39.1,
+     "still_loss_days": 4,
+     "best_days": 3
+    },
+    "dates": [
+     "2025-10-14",
+     "2026-03-03",
+     "2026-03-30",
+     "2026-07-07",
+     "2026-07-24"
+    ]
+   }
+  },
+  "해석2 · 25일": {
+   "AI 투자 전반": {
+    "days": 13,
+    "act_sum_e8": -10.98,
+    "loss_days": 12,
+    "SPY": {
+     "left_sum_e8": -8.17,
+     "left_pct_of_sum": 74.4,
+     "abs_left_pct": 79.5,
+     "median_abs_day_pct": 85.5,
+     "still_loss_days": 11,
+     "best_days": 1
+    },
+    "OWN": {
+     "left_sum_e8": -8.87,
+     "left_pct_of_sum": 80.8,
+     "abs_left_pct": 80.0,
+     "median_abs_day_pct": 82.5,
+     "still_loss_days": 13,
+     "best_days": 1
+    },
+    "SMH": {
+     "left_sum_e8": -2.29,
+     "left_pct_of_sum": 20.9,
+     "abs_left_pct": 43.6,
+     "median_abs_day_pct": 31.7,
+     "still_loss_days": 10,
+     "best_days": 10
+    },
+    "OWN+SMH": {
+     "left_sum_e8": -4.18,
+     "left_pct_of_sum": 38.1,
+     "abs_left_pct": 47.4,
+     "median_abs_day_pct": 47.2,
+     "still_loss_days": 11,
+     "best_days": 1
+    },
+    "dates": [
+     "2025-01-27",
+     "2025-12-12",
+     "2026-02-04",
+     "2026-06-05",
+     "2026-06-16",
+     "2026-06-23",
+     "2026-07-01",
+     "2026-07-02",
+     "2026-07-15",
+     "2026-07-16",
+     "2026-07-28",
+     "2026-09-14",
+     "2026-10-22"
+    ]
+   },
+   "규칙이 잘못 고른 날": {
+    "days": 1,
+    "act_sum_e8": 2.16,
+    "loss_days": 0,
+    "SPY": {
+     "left_sum_e8": -0.97,
+     "left_pct_of_sum": null,
+     "abs_left_pct": 45.0,
+     "median_abs_day_pct": 45.0,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "OWN": {
+     "left_sum_e8": -0.31,
+     "left_pct_of_sum": null,
+     "abs_left_pct": 14.4,
+     "median_abs_day_pct": 14.4,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "SMH": {
+     "left_sum_e8": 0.01,
+     "left_pct_of_sum": null,
+     "abs_left_pct": 0.4,
+     "median_abs_day_pct": 0.4,
+     "still_loss_days": 0,
+     "best_days": 1
+    },
+    "OWN+SMH": {
+     "left_sum_e8": -0.76,
+     "left_pct_of_sum": null,
+     "abs_left_pct": 35.3,
+     "median_abs_day_pct": 35.3,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "dates": [
+     "2025-04-09"
+    ]
+   },
+   "시장 전체": {
+    "days": 1,
+    "act_sum_e8": -0.91,
+    "loss_days": 1,
+    "SPY": {
+     "left_sum_e8": -0.68,
+     "left_pct_of_sum": 74.9,
+     "abs_left_pct": 74.9,
+     "median_abs_day_pct": 74.9,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "OWN": {
+     "left_sum_e8": -0.51,
+     "left_pct_of_sum": 55.8,
+     "abs_left_pct": 55.8,
+     "median_abs_day_pct": 55.8,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "SMH": {
+     "left_sum_e8": -0.36,
+     "left_pct_of_sum": 39.0,
+     "abs_left_pct": 39.0,
+     "median_abs_day_pct": 39.0,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "OWN+SMH": {
+     "left_sum_e8": -0.3,
+     "left_pct_of_sum": 33.3,
+     "abs_left_pct": 33.3,
+     "median_abs_day_pct": 33.3,
+     "still_loss_days": 1,
+     "best_days": 1
+    },
+    "dates": [
+     "2026-08-18"
+    ]
+   },
+   "전력 쪽 시작": {
+    "days": 1,
+    "act_sum_e8": -0.32,
+    "loss_days": 1,
+    "SPY": {
+     "left_sum_e8": -0.18,
+     "left_pct_of_sum": 55.6,
+     "abs_left_pct": 55.6,
+     "median_abs_day_pct": 55.6,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "OWN": {
+     "left_sum_e8": -0.46,
+     "left_pct_of_sum": 143.8,
+     "abs_left_pct": 143.8,
+     "median_abs_day_pct": 143.8,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "SMH": {
+     "left_sum_e8": 0.07,
+     "left_pct_of_sum": -20.9,
+     "abs_left_pct": 20.9,
+     "median_abs_day_pct": 20.9,
+     "still_loss_days": 0,
+     "best_days": 1
+    },
+    "OWN+SMH": {
+     "left_sum_e8": -0.15,
+     "left_pct_of_sum": 45.6,
+     "abs_left_pct": 45.6,
+     "median_abs_day_pct": 45.6,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "dates": [
+     "2026-10-08"
+    ]
+   },
+   "칩 고유": {
+    "days": 9,
+    "act_sum_e8": -4.36,
+    "loss_days": 8,
+    "SPY": {
+     "left_sum_e8": -3.02,
+     "left_pct_of_sum": 69.3,
+     "abs_left_pct": 75.3,
+     "median_abs_day_pct": 89.1,
+     "still_loss_days": 7,
+     "best_days": 2
+    },
+    "OWN": {
+     "left_sum_e8": -2.71,
+     "left_pct_of_sum": 62.3,
+     "abs_left_pct": 59.8,
+     "median_abs_day_pct": 56.0,
+     "still_loss_days": 8,
+     "best_days": 1
+    },
+    "SMH": {
+     "left_sum_e8": -0.43,
+     "left_pct_of_sum": 9.9,
+     "abs_left_pct": 46.7,
+     "median_abs_day_pct": 42.9,
+     "still_loss_days": 6,
+     "best_days": 3
+    },
+    "OWN+SMH": {
+     "left_sum_e8": -0.9,
+     "left_pct_of_sum": 20.7,
+     "abs_left_pct": 43.2,
+     "median_abs_day_pct": 39.4,
+     "still_loss_days": 6,
+     "best_days": 3
+    },
+    "dates": [
+     "2025-08-29",
+     "2025-10-14",
+     "2026-03-03",
+     "2026-03-30",
+     "2026-05-18",
+     "2026-07-07",
+     "2026-07-24",
+     "2026-08-05",
+     "2026-10-30"
+    ]
+   }
+  },
+  "해석2 · 46일에 드는 날만": {
+   "AI 투자 전반": {
+    "days": 12,
+    "act_sum_e8": -8.76,
+    "loss_days": 11,
+    "SPY": {
+     "left_sum_e8": -6.26,
+     "left_pct_of_sum": 71.5,
+     "abs_left_pct": 77.9,
+     "median_abs_day_pct": 83.3,
+     "still_loss_days": 10,
+     "best_days": 1
+    },
+    "OWN": {
+     "left_sum_e8": -6.98,
+     "left_pct_of_sum": 79.7,
+     "abs_left_pct": 78.8,
+     "median_abs_day_pct": 82.0,
+     "still_loss_days": 12,
+     "best_days": 1
+    },
+    "SMH": {
+     "left_sum_e8": -0.78,
+     "left_pct_of_sum": 8.9,
+     "abs_left_pct": 37.5,
+     "median_abs_day_pct": 26.9,
+     "still_loss_days": 9,
+     "best_days": 9
+    },
+    "OWN+SMH": {
+     "left_sum_e8": -2.62,
+     "left_pct_of_sum": 30.0,
+     "abs_left_pct": 41.7,
+     "median_abs_day_pct": 45.6,
+     "still_loss_days": 10,
+     "best_days": 1
+    },
+    "dates": [
+     "2025-12-12",
+     "2026-02-04",
+     "2026-06-05",
+     "2026-06-16",
+     "2026-06-23",
+     "2026-07-01",
+     "2026-07-02",
+     "2026-07-15",
+     "2026-07-16",
+     "2026-07-28",
+     "2026-09-14",
+     "2026-10-22"
+    ]
+   },
+   "시장 전체": {
+    "days": 1,
+    "act_sum_e8": -0.91,
+    "loss_days": 1,
+    "SPY": {
+     "left_sum_e8": -0.68,
+     "left_pct_of_sum": 74.9,
+     "abs_left_pct": 74.9,
+     "median_abs_day_pct": 74.9,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "OWN": {
+     "left_sum_e8": -0.51,
+     "left_pct_of_sum": 55.8,
+     "abs_left_pct": 55.8,
+     "median_abs_day_pct": 55.8,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "SMH": {
+     "left_sum_e8": -0.36,
+     "left_pct_of_sum": 39.0,
+     "abs_left_pct": 39.0,
+     "median_abs_day_pct": 39.0,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "OWN+SMH": {
+     "left_sum_e8": -0.3,
+     "left_pct_of_sum": 33.3,
+     "abs_left_pct": 33.3,
+     "median_abs_day_pct": 33.3,
+     "still_loss_days": 1,
+     "best_days": 1
+    },
+    "dates": [
+     "2026-08-18"
+    ]
+   },
+   "전력 쪽 시작": {
+    "days": 1,
+    "act_sum_e8": -0.32,
+    "loss_days": 1,
+    "SPY": {
+     "left_sum_e8": -0.18,
+     "left_pct_of_sum": 55.6,
+     "abs_left_pct": 55.6,
+     "median_abs_day_pct": 55.6,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "OWN": {
+     "left_sum_e8": -0.46,
+     "left_pct_of_sum": 143.8,
+     "abs_left_pct": 143.8,
+     "median_abs_day_pct": 143.8,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "SMH": {
+     "left_sum_e8": 0.07,
+     "left_pct_of_sum": -20.9,
+     "abs_left_pct": 20.9,
+     "median_abs_day_pct": 20.9,
+     "still_loss_days": 0,
+     "best_days": 1
+    },
+    "OWN+SMH": {
+     "left_sum_e8": -0.15,
+     "left_pct_of_sum": 45.6,
+     "abs_left_pct": 45.6,
+     "median_abs_day_pct": 45.6,
+     "still_loss_days": 1,
+     "best_days": 0
+    },
+    "dates": [
+     "2026-10-08"
+    ]
+   },
+   "칩 고유": {
+    "days": 7,
+    "act_sum_e8": -3.2,
+    "loss_days": 6,
+    "SPY": {
+     "left_sum_e8": -2.64,
+     "left_pct_of_sum": 82.7,
+     "abs_left_pct": 89.2,
+     "median_abs_day_pct": 97.1,
+     "still_loss_days": 5,
+     "best_days": 1
+    },
+    "OWN": {
+     "left_sum_e8": -2.2,
+     "left_pct_of_sum": 68.8,
+     "abs_left_pct": 64.8,
+     "median_abs_day_pct": 64.0,
+     "still_loss_days": 6,
+     "best_days": 1
+    },
+    "SMH": {
+     "left_sum_e8": -0.63,
+     "left_pct_of_sum": 19.7,
+     "abs_left_pct": 49.7,
+     "median_abs_day_pct": 42.9,
+     "still_loss_days": 5,
+     "best_days": 2
+    },
+    "OWN+SMH": {
+     "left_sum_e8": -1.02,
+     "left_pct_of_sum": 31.8,
+     "abs_left_pct": 46.0,
+     "median_abs_day_pct": 56.8,
+     "still_loss_days": 5,
+     "best_days": 3
+    },
+    "dates": [
+     "2025-10-14",
+     "2026-03-03",
+     "2026-03-30",
+     "2026-05-18",
+     "2026-07-07",
+     "2026-07-24",
+     "2026-08-05"
+    ]
+   }
+  }
+ },
+ "worst5_smh": {
+  "46일": [
+   "2026-05-07",
+   "2026-05-18",
+   "2026-10-22",
+   "2026-07-29",
+   "2026-07-28"
+  ],
+  "25일": [
+   "2025-01-27",
+   "2026-05-18",
+   "2026-10-22",
+   "2026-07-28",
+   "2026-09-14"
+  ]
+ }
+}

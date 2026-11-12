@@ -1,0 +1,331 @@
+{
+ "window_utc": [
+  "20250829000000",
+  "20250829234500"
+ ],
+ "files": 96,
+ "missing": [],
+ "records": 131303,
+ "hit_records": 487,
+ "by_stage": {
+  "데이터센터 공사": {
+   "n": 0,
+   "tone": null,
+   "dc": 0
+  },
+  "반도체 장비·소재": {
+   "n": 19,
+   "tone": -0.54,
+   "dc": 0
+  },
+  "발전": {
+   "n": 8,
+   "tone": -0.19,
+   "dc": 0
+  },
+  "서버·네트워크·부품": {
+   "n": 29,
+   "tone": 0.57,
+   "dc": 0
+  },
+  "전력·냉각 설비": {
+   "n": 42,
+   "tone": 0.02,
+   "dc": 1
+  },
+  "칩": {
+   "n": 409,
+   "tone": 0.21,
+   "dc": 5
+  }
+ },
+ "by_company": {
+  "NVDA": 224,
+  "MRVL": 98,
+  "INTC": 61,
+  "CAT": 23,
+  "AVGO": 19,
+  "LRCX": 17,
+  "ETN": 15,
+  "AMAT": 13,
+  "SMCI": 13,
+  "AMD": 11,
+  "MU": 9,
+  "CEG": 8,
+  "CSCO": 7,
+  "ANET": 5,
+  "LOGI": 3,
+  "BE": 3,
+  "CLS": 1,
+  "JCI": 1,
+  "WDC": 1
+ },
+ "dc_hit_records": 6,
+ "unique_titles": 391,
+ "top": [
+  {
+   "t": "20250829213000",
+   "title": "Why Applied Materials (AMAT) Shares Are Trading Lower Today",
+   "url": "https://markets.financialcontent.com/stocks/article/stockstory-2025-8-29-why-applied-materials-amat-shares-are-trading-lower-today",
+   "src": "financialcontent.com",
+   "ticks": [
+    "AMD",
+    "MRVL",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.77,
+   "dc": false,
+   "score": 10
+  },
+  {
+   "t": "20250829214500",
+   "title": "Stocks Supported by Signs the US Economy is Holding Up",
+   "url": "https://finance.yahoo.com/news/stocks-supported-signs-us-economy-141408937.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "MRVL",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.26,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20250829201500",
+   "title": "Why Lam Research (LRCX) Stock Is Trading Lower Today",
+   "url": "https://markets.financialcontent.com/stocks/article/stockstory-2025-8-29-why-lam-research-lrcx-stock-is-trading-lower-today",
+   "src": "financialcontent.com",
+   "ticks": [
+    "MRVL",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.22,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20250829200000",
+   "title": "Why KLA Corporation (KLAC) Shares Are Sliding Today",
+   "url": "https://markets.financialcontent.com/stocks/article/stockstory-2025-8-29-why-kla-corporation-klac-shares-are-sliding-today",
+   "src": "financialcontent.com",
+   "ticks": [
+    "MRVL",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.93,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20250829171500",
+   "title": "U.S. moves to restrict Intel, Samsung, and SK Hynix chip production in China",
+   "url": "https://news.az/news/us-moves-to-restrict-int-el-samsung-and-sk-hynix-chip-production-in-china",
+   "src": "news.az",
+   "ticks": [
+    "INTC",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.68,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20250829161500",
+   "title": "US restricts Samsung, Intel, SK Hynix chip production in China",
+   "url": "https://www.scmp.com/news/world/united-states-canada/article/3323722/us-restricts-samsung-intel-sk-hynix-chip-production-china",
+   "src": "scmp.com",
+   "ticks": [
+    "INTC",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -1.65,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20250829154500",
+   "title": "US to make it harder for Intel, SK Hynix and Samsung to produce chips in China",
+   "url": "https://asia.nikkei.com/business/tech/semiconductors/us-to-make-it-harder-for-intel-sk-hynix-and-samsung-to-produce-chips-in-china",
+   "src": "nikkei.com",
+   "ticks": [
+    "INTC",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -1.1,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20250829150000",
+   "title": "US may have bad news for Samsung, Intel and other chipmakers looking to make chips in China",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/us-may-have-bad-news-for-samsung-intel-and-other-chipmakers-looking-to-make-chips-in-china/articleshow/123587121.cms",
+   "src": "indiatimes.com",
+   "ticks": [
+    "INTC",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.37,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20250829143000",
+   "title": "US to make it harder for Intel, SK Hynix and Samsung to make chips in China",
+   "url": "https://www.aol.com/us-harder-intel-sk-hynix-130540179.html",
+   "src": "aol.com",
+   "ticks": [
+    "INTC",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.52,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20250829203000",
+   "title": "Want AI Exposure Without the Volatility? This ETF Might Be the Smartest Play",
+   "url": "https://finance.yahoo.com/news/want-ai-exposure-without-volatility-103200347.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "AMD",
+    "CSCO"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 1.97,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20250829183000",
+   "title": "Dow Jones Today: S&P 500, Dow Retreat From Record Highs as Tech Stocks Tumble; Nvidia, Broadcom Lead Chip Sector Slump",
+   "url": "https://www.investopedia.com/dow-jones-today-08292025-11800305",
+   "src": "investopedia.com",
+   "ticks": [
+    "MRVL",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -2.17,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20250829173000",
+   "title": "Marvell stock slumps 16% after data center revenue, forecast disappoint",
+   "url": "https://biztoc.com/x/d79cd95a4ed2679d",
+   "src": "biztoc.com",
+   "ticks": [
+    "MRVL"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -2.13,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20250829171500",
+   "title": "Ranked: The states paying the closest attention to America's manufacturing crisis",
+   "url": "http://www.t-g.com/premium/stacker/stories/ranked-the-states-paying-the-closest-attention-to-america039s-manufacturing-crisis,171494",
+   "src": "t-g.com",
+   "ticks": [
+    "MU",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 1.18,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20250829171500",
+   "title": "S&P 500, Dow Jones retreat from record highs on renewed inflation fears",
+   "url": "https://www.proactiveinvestors.com/companies/news/1077517/s-p-500-dow-jones-retreat-from-record-highs-on-renewed-inflation-fears-1077517.html",
+   "src": "proactiveinvestors.com",
+   "ticks": [
+    "MRVL",
+    "SMCI"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -2.5,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20250829161500",
+   "title": "Top Stock Movers Now: Caterpillar, Nvidia, Autodesk, and More",
+   "url": "https://finance.yahoo.com/news/top-stock-movers-now-caterpillar-154207478.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "NVDA",
+    "CAT"
+   ],
+   "stages": [
+    "전력·냉각 설비",
+    "칩"
+   ],
+   "tone": 1.68,
+   "dc": false,
+   "score": 6
+  }
+ ],
+ "seconds": 255
+}

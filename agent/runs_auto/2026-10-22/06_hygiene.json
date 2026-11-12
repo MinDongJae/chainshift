@@ -1,0 +1,142 @@
+{
+ "해석 A": {
+  "근거": [
+   {
+    "순번": 1,
+    "근거": "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
+    "해석이 적은 출처": "N3",
+    "해석이 적은 공개 시각": "2026-10-22 12:30",
+    "종류": "기사",
+    "기사 자료 번호": "N3",
+    "공개 시각(뉴욕)": "2026-10-22 12:30",
+    "주소": "https://www.aol.com/articles/chip-stocks-fall-supply-warning-154508000.html",
+    "기사 출처": "aol.com",
+    "남김": true,
+    "까닭": "기사 자료에 있고 마감 전"
+   },
+   {
+    "순번": 2,
+    "근거": "Stock Market Midday, Oct. 22: Tech Weakness Drags Nasdaq Lower as AI Spending Concerns Mount",
+    "해석이 적은 출처": "N13",
+    "해석이 적은 공개 시각": "2026-10-22 13:15",
+    "종류": "기사",
+    "기사 자료 번호": "N13",
+    "공개 시각(뉴욕)": "2026-10-22 13:15",
+    "주소": "https://www.fool.com/coverage/stock-market-today/2026/10/22/stock-market-midday-oct-22-tech-weakness-drags-nasdaq-lower-as-ai-spending-concerns-mount/",
+    "기사 출처": "fool.com",
+    "남김": true,
+    "까닭": "기사 자료에 있고 마감 전"
+   },
+   {
+    "순번": 3,
+    "근거": "Futures Slide As Market Runs Out Of AI Patience, Oil Jumps On Saudi Attacks",
+    "해석이 적은 출처": "N10",
+    "해석이 적은 공개 시각": "2026-10-22 14:00",
+    "종류": "기사",
+    "기사 자료 번호": "N10",
+    "공개 시각(뉴욕)": "2026-10-22 14:00",
+    "주소": "https://www.zerohedge.com/markets/futures-slide-market-runs-out-ai-patience-oil-jumps-saudi-attacks",
+    "기사 출처": "zerohedge.com",
+    "남김": true,
+    "까닭": "기사 자료에 있고 마감 전"
+   },
+   {
+    "순번": 4,
+    "근거": "24 AI Infrastructure Stocks Built to Hold up If Capex Slows: MS",
+    "해석이 적은 출처": "N1",
+    "해석이 적은 공개 시각": "2026-10-22 06:30",
+    "종류": "기사",
+    "기사 자료 번호": "N1",
+    "공개 시각(뉴욕)": "2026-10-22 06:30",
+    "주소": "https://www.businessinsider.com/ai-infrastructure-stocks-to-buy-hyperscaler-spending-capex-2026-10",
+    "기사 출처": "businessinsider.com",
+    "남김": true,
+    "까닭": "기사 자료에 있고 마감 전"
+   },
+   {
+    "순번": 5,
+    "근거": "SPY -1.18%에 칩 시장 몫 뺀 등락 -6.16%로 문턱 -2.93%를 크게 넘음. 시장보다 더 빠진 종목이 칩 9/9, 반도체 장비·소재 8/8, 서버·네트워크·부품 20/22로 칩 밖 단계까지 넓게 빠짐",
+    "해석이 적은 출처": "계산",
+    "해석이 적은 공개 시각": "2026-10-22 16:00 장 마감 기준 등락 표",
+    "종류": "기사",
+    "남김": false,
+    "까닭": "기사 자료에 제목이 없음 — 있는지 · 언제 나왔는지 확인 못 함"
+   }
+  ],
+  "기사 근거": 5,
+  "뺀 근거": 1,
+  "마감 뒤라서 뺌": 0,
+  "자료에 없어서 뺌": 1,
+  "절반 넘게 빠짐": false
+ },
+ "해석 B": {
+  "근거": [
+   {
+    "순번": 1,
+    "근거": "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
+    "해석이 적은 출처": "N3",
+    "해석이 적은 공개 시각": "2026-10-22 12:30",
+    "종류": "기사",
+    "기사 자료 번호": "N3",
+    "공개 시각(뉴욕)": "2026-10-22 12:30",
+    "주소": "https://www.aol.com/articles/chip-stocks-fall-supply-warning-154508000.html",
+    "기사 출처": "aol.com",
+    "남김": true,
+    "까닭": "기사 자료에 있고 마감 전"
+   },
+   {
+    "순번": 2,
+    "근거": "Stock Market Midday, Oct. 22: Tech Weakness Drags Nasdaq Lower as AI Spending Concerns Mount",
+    "해석이 적은 출처": "N13",
+    "해석이 적은 공개 시각": "2026-10-22 13:15",
+    "종류": "기사",
+    "기사 자료 번호": "N13",
+    "공개 시각(뉴욕)": "2026-10-22 13:15",
+    "주소": "https://www.fool.com/coverage/stock-market-today/2026/10/22/stock-market-midday-oct-22-tech-weakness-drags-nasdaq-lower-as-ai-spending-concerns-mount/",
+    "기사 출처": "fool.com",
+    "남김": true,
+    "까닭": "기사 자료에 있고 마감 전"
+   },
+   {
+    "순번": 3,
+    "근거": "Futures Slide As Market Runs Out Of AI Patience, Oil Jumps On Saudi Attacks",
+    "해석이 적은 출처": "N10",
+    "해석이 적은 공개 시각": "2026-10-22 14:00",
+    "종류": "기사",
+    "기사 자료 번호": "N10",
+    "공개 시각(뉴욕)": "2026-10-22 14:00",
+    "주소": "https://www.zerohedge.com/markets/futures-slide-market-runs-out-ai-patience-oil-jumps-saudi-attacks",
+    "기사 출처": "zerohedge.com",
+    "남김": true,
+    "까닭": "기사 자료에 있고 마감 전"
+   },
+   {
+    "순번": 4,
+    "근거": "칩(-6.95%p), 반도체 장비·소재(-8.45%p), 서버·네트워크·부품(-5.21%p)이 모두 시장보다 크게 빠졌다. 시장보다 더 빠진 종목은 9/9, 8/8, 20/22다. 칩만이 아니라 AI 공급망 위아래가 함께 빠졌다.",
+    "해석이 적은 출처": "계산",
+    "해석이 적은 공개 시각": "2026-10-22 16:00 (장 마감 기준)",
+    "종류": "기사",
+    "남김": false,
+    "까닭": "기사 자료에 제목이 없음 — 있는지 · 언제 나왔는지 확인 못 함"
+   },
+   {
+    "순번": 5,
+    "근거": "SPY는 -1.18%다. 칩에서 시장 몫을 뺀 등락은 -6.16%로 문턱 -2.93%를 넘는다. 그래서 시장 전체 탓이나 규칙이 잘못 고른 날로 보기 어렵다.",
+    "해석이 적은 출처": "계산",
+    "해석이 적은 공개 시각": "2026-10-22 16:00 (장 마감 기준)",
+    "종류": "기사",
+    "남김": false,
+    "까닭": "기사 자료에 제목이 없음 — 있는지 · 언제 나왔는지 확인 못 함"
+   }
+  ],
+  "기사 근거": 5,
+  "뺀 근거": 2,
+  "마감 뒤라서 뺌": 0,
+  "자료에 없어서 뺌": 2,
+  "절반 넘게 빠짐": false
+ },
+ "규칙": "「마감 시각 거름」 — 기사 근거가 기사 자료에 있고 공개 시각이 그날 16:00(뉴욕) 앞일 때만 남김. 한 해석이라도 기사 근거가 절반 넘게 빠지면 넘김",
+ "기사 자료": "agent/kic_agent/news/2026-10-22.json 의 제목 15건(마감 뒤 4건)",
+ "절반 넘게 빠진 해석": [],
+ "모델 점검 답": "없음 — 코드 거름만 적용 (06_check.input.md 는 써 둠)"
+}

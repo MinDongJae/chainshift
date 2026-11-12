@@ -1,0 +1,82 @@
+{
+ "date": "2026-07-07",
+ "seen": [
+  {
+   "name": "pack(cases/2026-07-07/materials.md)",
+   "date": "2026-07-07"
+  },
+  {
+   "name": "mid(prices_long.csv.gz)",
+   "date": "2026-07-07"
+  },
+  {
+   "name": "newsstat(news/2026-07-07.json)",
+   "date": "2026-07-07"
+  },
+  {
+   "name": "pre(prices_long.csv.gz ~2026-07-06)",
+   "date": "2026-07-06"
+  }
+ ],
+ "tools": [
+  {
+   "tool": "newsstat",
+   "why": "까닭이 삼성 실적(메모리)·지수 편입·경쟁 칩·'AI 종목 하락'으로 여럿이라 어느 쪽 출처가 많은지와 전력 쪽 논조 확인"
+  },
+  {
+   "tool": "pre",
+   "why": "앞 며칠 전력 쪽이 칩을 따라갔는지 확인"
+  }
+ ],
+ "cause": "칩 고유",
+ "evidence": [
+  {
+   "text": "Micron, SanDisk, and Western Digital Sink 7% as Samsung Earnings Spark a Memory Selloff",
+   "src": "yahoo.com(newsstat, 14:30 UTC)",
+   "pub": "2026-07-07"
+  },
+  {
+   "text": "Nasdaq down as chip stocks sell off after Samsung earnings",
+   "src": "proactiveinvestors.com N8",
+   "pub": "2026-07-07"
+  },
+  {
+   "text": "Nvidia Shares Fall Nearly 2% After Report Says China's DeepSeek Is Developing Its Own AI Inference Chip",
+   "src": "ibtimes.com.au N10",
+   "pub": "2026-07-07"
+  },
+  {
+   "text": "Nasdaq Composite Falls Back: Semiconductors Sell-off as SpaceX Added to NDX",
+   "src": "thebull.com.au N1",
+   "pub": "2026-07-07"
+  },
+  {
+   "text": "AI stocks turn lower, weighing on Wall Street",
+   "src": "elpasoinc.com N12",
+   "pub": "2026-07-07"
+  },
+  {
+   "text": "칩 8/9 내림(엔비디아 +0.7), 장비 8/8(-6.32%p), 서버·부품 16/22(-2.39%p, WDC -7.9 저장장치)",
+   "src": "mid 계산",
+   "pub": "2026-07-07"
+  },
+  {
+   "text": "전력·냉각 설비 기사 논조 +1.49, 발전 +1.12. 앞 이틀 전력 쪽은 칩을 따라감(07-02 칩 -5.75·전력 -2.90, 07-06 +3.45·+2.92)",
+   "src": "newsstat · pre",
+   "pub": "2026-07-07 · 2026-07-06"
+  }
+ ],
+ "conditions": {
+  "a": true,
+  "b": false,
+  "c": true,
+  "d": true,
+  "e": false
+ },
+ "verdict": "넘긴다",
+ "confidence": "낮음",
+ "counter": "번진다 쪽: 'AI 종목이 내렸다'는 출처가 둘(N9·N12)이고 장비 8/8·서버 16/22, 앞 며칠 전력 쪽이 칩을 그대로 따라감. 안 번진다 쪽: 가장 많은 출처가 든 까닭은 삼성 실적 뒤 메모리 매도이고 엔비디아는 올랐음. 전력 쪽 기사 논조 양수.",
+ "dropped": 0,
+ "note": "(a)(c)와 (d)가 함께 성립해 엇갈림.",
+ "written_at": "2026-11-12T00:48:01+09:00"
+}

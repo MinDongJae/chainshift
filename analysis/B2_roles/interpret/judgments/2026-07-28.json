@@ -1,0 +1,77 @@
+{
+ "date": "2026-07-28",
+ "seen": [
+  {
+   "name": "pack(cases/2026-07-28/materials.md)",
+   "date": "2026-07-28"
+  },
+  {
+   "name": "mid(prices_long.csv.gz)",
+   "date": "2026-07-28"
+  },
+  {
+   "name": "newsstat(news/2026-07-28.json)",
+   "date": "2026-07-28"
+  },
+  {
+   "name": "pre(prices_long.csv.gz ~2026-07-27)",
+   "date": "2026-07-27"
+  }
+ ],
+ "tools": [
+  {
+   "tool": "newsstat",
+   "why": "바탕 자료로 (a)(c)가 찼으나 다우가 537 오른 날이라, 전력 쪽이 'AI 묶음'으로 팔렸는지 '산업재'로 샀는지 가를 근거 찾기"
+  },
+  {
+   "tool": "pre",
+   "why": "앞 이틀 전력 쪽이 칩을 따라 내렸는지 확인"
+  }
+ ],
+ "cause": "AI 투자 전반",
+ "evidence": [
+  {
+   "text": "Wall Street's flip from AI stocks to elsewhere accelerates, while oil prices keep easing",
+   "src": "AP 전재(wccbcharlotte.com N8 · union-bulletin.com N7 등)",
+   "pub": "2026-07-28"
+  },
+  {
+   "text": "The Dow jumps as the AI trade wobbles.",
+   "src": "cnbc.com N3",
+   "pub": "2026-07-28"
+  },
+  {
+   "text": "Nasdaq enters correction as sell-off deepens, while Coke and Sherwin-Williams lead Dow",
+   "src": "proactiveinvestors.com N2",
+   "pub": "2026-07-28"
+  },
+  {
+   "text": "US stocks continue to rotate out of technology and into industrials",
+   "src": "investinglive.com(newsstat, 16:15 UTC)",
+   "pub": "2026-07-28"
+  },
+  {
+   "text": "칩 8/9(-6.22%, 엔비디아 +0.3), 장비 8/8(-6.20%p), 서버·부품 16/22(-3.09%p, 기사 논조 -1.35)",
+   "src": "mid 계산 · newsstat",
+   "pub": "2026-07-28"
+  },
+  {
+   "text": "앞 이틀 시장은 보합인데 전력 쪽이 칩을 따라 내림(07-24 칩 -6.67·전력 -3.16, 07-27 -2.75·-0.75)",
+   "src": "pre",
+   "pub": "2026-07-27"
+  }
+ ],
+ "conditions": {
+  "a": true,
+  "b": false,
+  "c": true,
+  "d": false,
+  "e": false
+ },
+ "verdict": "번진다",
+ "confidence": "중간",
+ "counter": "'기술주에서 산업재로 돈이 옮겨 간다'(investinglive)는 날이라 산업재로 분류되는 전력 설비·공사 종목은 받는 쪽일 수 있음. 전력·냉각 설비 기사 논조 +0.54, 공사 +1.64. N1 은 '메모리 급락'으로 좁혀 읽음. 엔비디아는 올랐음.",
+ "dropped": 0,
+ "note": "07-24 는 '넘긴다'로 써 둔 날인데 pre 로 그날 전력 쪽 -3.16 을 봄(그날 판정은 이미 써 둠).",
+ "written_at": "2026-11-12T00:49:25+09:00"
+}

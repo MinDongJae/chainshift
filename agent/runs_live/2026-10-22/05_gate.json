@@ -1,0 +1,37 @@
+{
+ "규칙": "두 해석의 판정이 같은 확정(번진다 · 안 번진다)이면 통과, 아니면 사람에게 넘김",
+ "결과": "통과",
+ "같이 낸 판정": "번진다",
+ "갈린 지점 한 줄": "두 해석이 같은 확정 「번진다」",
+ "까닭 갈래 같음": true,
+ "담당자가 받는 것": {
+  "해석 A": {
+   "판정": "번진다",
+   "까닭 갈래": "AI 투자 전반",
+   "확신": "중간",
+   "근거": [
+    "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
+    "Stock Market Midday, Oct. 22: Tech Weakness Drags Nasdaq Lower as AI Spending Concerns Mount",
+    "Futures Slide As Market Runs Out Of AI Patience, Oil Jumps On Saudi Attacks",
+    "24 AI Infrastructure Stocks Built to Hold up If Capex Slows: MS",
+    "칩 시장 몫 뺀 등락 -6.16%로 문턱 -2.93%를 넘었고, SPY는 -1.18%에 그쳐 시장 전체 하락으로는 설명되지 않는다.",
+    "하락이 칩(-8.13%, 9/9)에 그치지 않고 반도체 장비·소재(-9.63%, 8/8), 서버·네트워크·부품(-6.39%, 20/22)까지 시장보다 더 빠졌다."
+   ],
+   "스스로 적은 반대 근거": "N3 「Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%」의 'Supply Warning'은 계기가 칩 고유의 공급 문제였을 수 있음을 가리킨다.",
+   "스스로 적은 덧말": "전력 쪽 세 단계의 그날 등락은 입력에 없어, 기사 제목이 가리키는 AI 투자 우려와 앞 단계들의 동반 하락만으로 추정한 판정이다."
+  },
+  "해석 B": {
+   "판정": "번진다",
+   "까닭 갈래": "AI 투자 전반",
+   "확신": "낮음",
+   "근거": [
+    "Stock Market Midday, Oct. 22: Tech Weakness Drags Nasdaq Lower as AI Spending Concerns Mount",
+    "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
+    "Futures Slide As Market Runs Out Of AI Patience, Oil Jumps On Saudi Attacks",
+    "칩 시장 대비 -6.95%p(9/9), 반도체 장비·소재 -8.45%p(8/8), 서버·네트워크·부품 -5.21%p(20/22). 칩만이 아니라 AI 공급망 여러 단계가 함께 시장보다 크게 빠졌다. 칩의 시장 몫 뺀 등락 -6.16%는 문턱 -2.93%를 넘는다."
+   ],
+   "스스로 적은 반대 근거": "N1 「24 AI Infrastructure Stocks Built to Hold up If Capex Slows: MS」(06:30)는 투자 둔화에도 버틸 AI 기반 종목이 있다고 본다. N15 「Bloom Energy vs. Constellation Energy: Which AI Power Stock Is the Better Buy?」(11:00)도 전력 종목 약세를 말하지 않는다. 장 마감 전 기사 중 전력·냉각·데이터센터 공사·발전 종목이 빠졌다고 직접 쓴 것은 없다.",
+   "스스로 적은 덧말": "하락 까닭이 칩 고유 문제가 아니라 AI 투자 지출 우려(N13·N10)이고 장비·서버 단계까지 함께 빠져서, 같은 투자 흐름에 기대는 전력 쪽으로도 번졌다고 본다. 다만 전력 쪽 그날 등락과 직접 기사가 입력에 없어 확신은 낮게 둔다. CEG–MSFT·CEG–META 공급 관계(US-041, US-042)는 노출 경로일 뿐 그날 하락의 증거는 아니다."
+  }
+ }
+}

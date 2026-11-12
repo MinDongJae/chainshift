@@ -1,0 +1,69 @@
+{
+ "date": "2026-07-02",
+ "seen": [
+  {
+   "name": "pack(cases/2026-07-02/materials.md)",
+   "date": "2026-07-02"
+  },
+  {
+   "name": "mid(prices_long.csv.gz)",
+   "date": "2026-07-02"
+  },
+  {
+   "name": "pre(prices_long.csv.gz 2026-06-25~07-01)",
+   "date": "2026-07-01"
+  }
+ ],
+ "tools": [
+  {
+   "tool": "pre",
+   "why": "바탕 자료로 (b)(c)가 찼고 이틀째 하락이라, 전날까지 전력 쪽이 칩을 따라갔는지로 반대 근거 확인"
+  }
+ ],
+ "cause": "AI 투자 전반",
+ "evidence": [
+  {
+   "text": "Stocks Fall on Weakness in Chipmakers and AI Stocks",
+   "src": "yahoo.com N3",
+   "pub": "2026-07-02"
+  },
+  {
+   "text": "Why Michael Burry's Caterpillar Short Is Bigger News Than His AI Bets Against Nvidia and Tesla",
+   "src": "ibtimes.co.uk N4",
+   "pub": "2026-07-02"
+  },
+  {
+   "text": "Chip Stocks Sell Off to Start Q3 After Record $2 Trillion Rally",
+   "src": "memeburn.com N12",
+   "pub": "2026-07-02"
+  },
+  {
+   "text": "US Stocks: Micron, Intel and other chip stocks fall up to 11% after record-breaking rally",
+   "src": "indiatimes.com N5",
+   "pub": "2026-07-02"
+  },
+  {
+   "text": "칩 9/9(-5.75%), 장비 8/8(-8.78%p), 서버·부품 22/22(-6.14%p)",
+   "src": "mid 계산",
+   "pub": "2026-07-02"
+  },
+  {
+   "text": "전날까지 5거래일 전력 쪽이 칩과 같은 쪽으로 움직임(06-26 칩 -4.76·전력 -4.82, 07-01 칩 -6.67·전력 -4.17)",
+   "src": "pre",
+   "pub": "2026-07-01"
+  }
+ ],
+ "conditions": {
+  "a": true,
+  "b": true,
+  "c": true,
+  "d": false,
+  "e": false
+ },
+ "verdict": "번진다",
+ "confidence": "중간",
+ "counter": "'대부분의 종목은 올랐고 기술주만 내렸다'(newsday N7), 다우 +400(N8) — 산업재로 묶이는 전력 설비는 오른 쪽에 섰을 수 있음. 까닭을 '기록적 상승 뒤 차익 실현'으로 댄 출처(N5·N12)는 칩에 한정된 읽기. 엔비디아 -1.4.",
+ "dropped": 0,
+ "note": "pre 로 전날(07-01) 전력 쪽 값(-4.17)을 봄 — 07-01 판정은 그보다 먼저 써 둠(order_log).",
+ "written_at": "2026-11-12T00:47:40+09:00"
+}

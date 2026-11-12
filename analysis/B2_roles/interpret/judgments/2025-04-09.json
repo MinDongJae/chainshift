@@ -1,0 +1,59 @@
+{
+ "date": "2025-04-09",
+ "seen": [
+  {
+   "name": "pack(cases/2025-04-09/materials.md)",
+   "date": "2025-04-09"
+  },
+  {
+   "name": "mid(prices_long.csv.gz)",
+   "date": "2025-04-09"
+  },
+  {
+   "name": "newsstat(news/2025-04-09.json)",
+   "date": "2025-04-09"
+  }
+ ],
+ "tools": [
+  {
+   "tool": "newsstat",
+   "why": "숫자가 '규칙이 잘못 고른 날'을 가리켜 (d)(e)가 찼으므로, 그날 따로 내리는 쪽 까닭 기사가 있는지 반대 근거를 한 번 확인"
+  }
+ ],
+ "cause": "규칙이 잘못 고른 날",
+ "evidence": [
+  {
+   "text": "SPY +10.50%, 칩 9종목 모두 오름(평균 +19.69%, 내린 종목 0/9). '시장 요인을 뺀 평균 -5.34%'는 시장이 하루 10% 오른 날 민감도를 곱해 뺀 셈에서 나온 값",
+   "src": "pack P1·P2, mid 계산",
+   "pub": "2025-04-09"
+  },
+  {
+   "text": "Nvidia, Supermicro Surge as Chip and AI Stocks Rebound From Tariff Rout",
+   "src": "yahoo.com N2",
+   "pub": "2025-04-09"
+  },
+  {
+   "text": "서버·부품 +13.96%(시장 대비 +3.46%p), 시장보다 덜 오른 종목 5/22",
+   "src": "mid 계산",
+   "pub": "2025-04-09"
+  },
+  {
+   "text": "Trump signs executive order to power AI data centers with coal energy",
+   "src": "theverge.com N3",
+   "pub": "2025-04-09"
+  }
+ ],
+ "conditions": {
+  "a": false,
+  "b": false,
+  "c": false,
+  "d": true,
+  "e": true
+ },
+ "verdict": "안 번진다",
+ "confidence": "중간",
+ "counter": "채점이 시장 민감도를 뺀 값으로 이뤄지면, 전력 쪽도 시장이 10% 오른 날 '예상보다 덜 올랐다'로 잡혀 칩과 같은 쪽으로 계산될 수 있음(셈의 문제이지 충격의 번짐은 아님). 전날까지 관세 급락이 이어진 주간이고 N11 은 '엔비디아가 내려 데이터센터 종목도 내렸다'(인도 종목, 앞날 일)고 적음.",
+ "dropped": 0,
+ "note": "그날은 관세 유예로 시장이 급등한 날. 칩 충격으로 볼 까닭 기사가 그날 자료에 없음.",
+ "written_at": "2026-11-12T00:43:09+09:00"
+}

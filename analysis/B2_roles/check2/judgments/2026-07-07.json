@@ -1,0 +1,24 @@
+{
+ "date": "2026-07-07",
+ "interp_verdict": "사람에게 넘긴다",
+ "interp_cause": "칩 고유",
+ "interp_confidence": "낮음",
+ "rechecked": [
+  "N8 proactiveinvestors 「Nasdaq down as chip stocks sell off after Samsung earnings」 · N10 ibtimes.com.au 「Nvidia Shares Fall Nearly 2% After Report Says China's DeepSeek Is Developing Its Own AI Inference Chip」 · N12 AP 「AI stocks turn lower, weighing on Wall Street」 · N9 indiatimes — 묶음에 있음",
+  "Yahoo 「Micron, SanDisk, and Western Digital Sink 7% as Samsung Earnings Spark a Memory Selloff」 — 내 검색에서 2026-07-07 로 다시 나옴(24/7 Wall St. 글의 옮김)",
+  "N10 은 「엔비디아가 2% 가까이 내렸다」고 하나 mid 로는 엔비디아가 그날 +0.7% 로 마감 — 장중 글이고 마감 값과 어긋남. 까닭 출처로는 약함",
+  "mid 다시 냄: SPY -0.48 · 서버·부품 시장 대비 -2.39%p(16/22) — 같음"
+ ],
+ "counter": "AI 투자 전반 쪽 독립 출처 셋: AP 「AI stocks sink and drag markets lower worldwide」 · Reuters 「Nasdaq sinks as AI worries hit chipmakers」 · indiatimes N9 「…AI chip selloff spreads to memory stocks」(모두 2026-07-07). 칩 고유(삼성 실적 뒤 메모리 매도) 쪽은 더 많음: proactive N8 · 24/7 Wall St. · CNBC 「Chip stocks sell off after Samsung earnings fall short of high AI bar」 · Bloomberg 「Samsung's Record Profit Fails to Impress After AI Chip Rally」(모두 2026-07-07). Reuters 「Korean chip stocks flip to losses on lingering AI, memory pricing concerns」는 두 갈래에 걸침",
+ "final_verdict": "사람에게 넘긴다",
+ "cause": "칩 고유",
+ "changed": false,
+ "why": "AI 투자 전반 3 대 칩 고유 4 — 반대 갈래가 더 많지 않아 갈래를 못 뒤집음. 칩 고유인데 서버·부품이 2.39%p 더 빠진 엇갈림이 남아 그대로 넘김. 한 건만 더 기울면 「번진다」가 되는 아슬한 날",
+ "confidence": "낮음",
+ "tools": [
+  "mid",
+  "news_search: AI stocks Wall Street lower (3건)",
+  "news_search: Samsung earnings memory selloff (5건)"
+ ],
+ "written_at": "2026-11-12T00:58:13+09:00"
+}

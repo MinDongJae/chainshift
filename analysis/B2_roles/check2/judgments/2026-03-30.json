@@ -1,0 +1,26 @@
+{
+ "date": "2026-03-30",
+ "interp_verdict": "사람에게 넘긴다",
+ "interp_cause": "칩 고유",
+ "interp_confidence": "낮음",
+ "rechecked": [
+  "N11 seekingalpha 「Memory, storage and optical stock declines drag down chip sector」 · N5 digitimes 「Micron's Singapore expansion could trigger global transformer shortage…」 — 그날 묶음에 있음",
+  "247wallst 「Micron Slides 5% as Google's AI Memory Algorithm Sparks Fresh Fears…」 — newsstat 13위 뒤 제목(2026-03-30 15:15 UTC, 장중)에 있음",
+  "Motley Fool 「Google Just Announced Really Bad News for Micron and Sandisk」 — 내 검색에는 안 나와 다시 확인 못 함(해석의 검색 기록만 있음)",
+  "N5 digitimes 는 마이크론 증설이 변압기를 모자라게 한다는 글이지 그날 하락 까닭을 대는 글이 아님 — 까닭 출처로는 세지 않음(해석도 까닭 수에 넣지 않았음)",
+  "mid 다시 냄: 서버·부품 시장 대비 -4.78%p · 22/22 내림 — 같음"
+ ],
+ "counter": "다른 까닭을 대는 출처가 갈래마다 하나씩만 나옴: Motley Fool 「Everyone Is Rotating Out of Artificial Intelligence (AI) Stocks…」(2026-03-30, AI 투자 전반) · Reuters 「Wall Street indexes mostly fall as Iran war widens」(2026-03-30, 시장 전체). 칩 고유 쪽은 하나 더: CNBC 「Micron stock sinks 10%, further cratering in post-earnings sell-off」(2026-03-30 — 구글 알고리즘이 아니라 실적 뒤 매도라는 다른 칩 고유 까닭). 한 갈래에 둘이 안 됨",
+ "final_verdict": "사람에게 넘긴다",
+ "cause": "칩 고유",
+ "changed": false,
+ "why": "칩 고유 출처는 확인된 것만 셋(247wallst·seekingalpha·CNBC), 반대 갈래는 각각 하나라 갈래를 못 바꿈. 칩 고유인데 서버·부품이 시장보다 4.78%p 더 빠진 엇갈림은 그대로",
+ "confidence": "낮음",
+ "tools": [
+  "mid",
+  "newsstat",
+  "news_search: AI stocks fall optical networking stocks Coherent Fabrinet (0건)",
+  "news_search: AI stocks selloff today (4건)"
+ ],
+ "written_at": "2026-11-12T00:55:26+09:00"
+}

@@ -1,0 +1,25 @@
+{
+ "date": "2026-07-15",
+ "interp_verdict": "번진다",
+ "interp_cause": "AI 투자 전반",
+ "interp_confidence": "낮음",
+ "rechecked": [
+  "Yahoo Finance 「Dell leads broader AI hardware selloff as shares tumble 14%」 · 「Dell Falls 14%, HPE and Super Micro Slide as AI Hardware Stocks Give Back Gains」 — 내 검색에서 둘 다 2026-07-15 로 다시 나옴. 뒤 글은 24/7 Wall St. 글의 옮김이라, 둘은 한 매체가 아니라 서로 다른 글 둘로 볼 수 있음",
+  "R1: WSJ 「IBM Loses $69 Billion…Latest AI-Fueled Selloff」(07-14)는 전날 IBM 일이고 07-15 하락의 까닭을 대지 않음 — 까닭 출처에서 뺌. 해석이 센 「야후 · WSJ 둘」은 「야후에 실린 글 · 24/7 Wall St. 둘」로 바뀜",
+  "N9 ibtimes.com.au 「Intel Shares Tumble Almost 6% as Chip Sector Selloff Deepens…」 — 묶음에 있음",
+  "mid 다시 냄: SPY +0.40 · 서버·부품 시장 대비 -4.71%p(21/22) · 델 종가 -9.8 — 같음. 기사의 「델 -14%」는 장중 값으로 보이고 종가와 다름"
+ ],
+ "counter": "다른 까닭(칩 고유 — 중국 경쟁 걱정)을 대는 출처 하나: 24/7 Wall St. 「Micron Drops 8% on China Competition Fears, Dragging Intel, AMD, and Marvell」(2026-07-15, Yahoo Finance 는 옮김). 해석 쪽으로 하나 더: Yahoo Finance 「Dell, Micron, SanDisk tumble as AI hardware rally hits reversal」(2026-07-15). 반대 갈래는 한 건뿐",
+ "final_verdict": "번진다",
+ "cause": "AI 투자 전반",
+ "changed": false,
+ "why": "WSJ 를 빼도 「AI 하드웨어 전반 매도」를 대는 서로 다른 글이 둘 이상 남고(24/7 Wall St. · 야후에 실린 다른 글 둘), 반대 갈래는 하나라 사전 고정대로 둠. S -4.71 은 넉넉함",
+ "confidence": "낮음",
+ "tools": [
+  "mid",
+  "news_search: Dell shares tumble AI hardware (5건)",
+  "news_search: Micron Marvell stock falls (5건)"
+ ],
+ "note": "낮음인 까닭: 야후에 실린 글들의 원 매체를 제목만으로 못 가려 「서로 다른 출처 둘」이 빠듯하고, 같은 24/7 Wall St. 가 칩 쪽은 중국 경쟁이라는 다른 까닭을 댐",
+ "written_at": "2026-11-12T00:58:42+09:00"
+}

@@ -1,0 +1,24 @@
+{
+ "date": "2026-03-03",
+ "interp_verdict": "사람에게 넘긴다",
+ "interp_cause": "칩 고유",
+ "interp_confidence": "낮음",
+ "rechecked": [
+  "N1 247wallst 「Why Micron, SanDisk & Memory Stocks Are Crashing Today」 · N4 proactiveinvestors 「…memory chip crisis deepens amid Middle East turmoil」 · N2 「Nasdaq leads losses as Iran conflict widens…」 — 셋 다 그날 묶음에 글자 그대로 있음",
+  "N4 는 메모리와 중동을 한 제목에 같이 댐 — 「칩 고유」 출처로만 센 것은 반쪽(두 갈래에 걸침)",
+  "mid 다시 냄: 서버·부품 시장 대비 -3.18%p · 19/22 가 시장보다 더 빠짐 — 해석 값과 같음"
+ ],
+ "counter": "시장 전체 쪽 독립 출처를 찾음: Reuters 「Wall Street indexes end lower as Middle East conflict fans inflation fears」(2026-03-03) · CNN 「Why stocks are acting so weird about a spiraling war with Iran」(2026-03-03) — 해석이 「한 매체뿐」이라 한 것은 묶음 안에서만 맞음. 반대로 칩 고유 쪽도 더 나옴: ETF.com 「EWY's 10% Drop Looks More Like a Chip Selloff Than an Oil Shock」(2026-03-03) · Seeking Alpha 「South Korea plunges 7%, triggering chip sell-off」(2026-03-03). 세면 칩 고유 4(247wallst·proactive N4·ETF.com·Seeking Alpha) 대 시장 전체 3(proactive·Reuters·CNN)",
+ "final_verdict": "사람에게 넘긴다",
+ "cause": "칩 고유",
+ "changed": false,
+ "why": "시장 전체 쪽 출처가 둘 이상 나왔지만 칩 고유 쪽보다 많지 않아 갈래를 못 뒤집음. 칩 고유로 두면 S -3.18 과 엇갈리고, 시장 전체로도 못 정하므로 어느 길로도 넘김",
+ "confidence": "낮음",
+ "tools": [
+  "mid",
+  "news_search: Wall Street stocks fall Iran conflict (4건)",
+  "news_search: chip stocks semiconductor selloff why (5건)"
+ ],
+ "note": "검색 결과의 발행 시각은 모두 08:00 GMT 로 찍혀 날짜까지만 확인됨(장 마감 앞뒤는 못 가름)",
+ "written_at": "2026-11-12T00:54:58+09:00"
+}

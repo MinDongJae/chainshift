@@ -1,0 +1,2278 @@
+[
+ {
+  "edge_id": "KR-E001",
+  "from": {
+   "name": "삼성전자",
+   "id": "KRX:005930"
+  },
+  "to": {
+   "name": "Alphabet(Google)",
+   "id": "TICKER:GOOGL"
+  },
+  "relation": "supplies_to",
+  "what": "제품 판매 — 2026년 반기 주요 매출처 5곳 중 하나(품목은 안 적힘, 5곳 합계 매출 비중 약 25%)",
+  "evidence": [
+   {
+    "quote": "2026년 반기 당사의 주요 매출처는 Alphabet, Amazon, Apple, Hong Kong Techtronics, Supreme Electronics 등(알파벳순) 입니다. 당사의 주요 5대 매출처에 대한 매출 비중은 전체 매출액 대비 약 25% 수준입니다.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003699",
+    "source_kind": "DART",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T10:43:19+09:00",
+    "raw_file": "raw/dart/20260814003699.txt",
+    "text_sha256": "0ccb7b1c03394a771d50eb95c01ade169f9ed5c0937d1b60794069364a82469a"
+   },
+   {
+    "quote": "2025년 당사의 주요 매출처는 Alphabet, Apple, Deutsche Telekom, Hong Kong Techtronics, Supreme Electronics 등(알파벳순) 입니다.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260310002820",
+    "source_kind": "DART",
+    "published_at": "2026-03-10",
+    "retrieved_at": "2026-11-10T10:44:08+09:00",
+    "raw_file": "raw/dart/20260310002820.txt",
+    "text_sha256": "1e4a598c8e21aed45cf13a70bcf9733708f9b95f6c7811930b775c5ffb125833"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "알파벳이 삼성전자 5대 매출처라 미국 빅테크 데이터센터 투자 위축 우려가 삼성전자 매출 기대로 이어질 수 있는 직접 통로(삼성전자 11/5 -7.57%, 11/6 -6.35%; 인과는 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E002",
+  "from": {
+   "name": "삼성전자",
+   "id": "KRX:005930"
+  },
+  "to": {
+   "name": "Amazon",
+   "id": "TICKER:AMZN"
+  },
+  "relation": "supplies_to",
+  "what": "제품 판매 — 2026년 반기 주요 매출처 5곳 중 하나(품목은 안 적힘). 2025년 사업보고서 매출처 5곳에는 없었음",
+  "evidence": [
+   {
+    "quote": "2026년 반기 당사의 주요 매출처는 Alphabet, Amazon, Apple, Hong Kong Techtronics, Supreme Electronics 등(알파벳순) 입니다. 당사의 주요 5대 매출처에 대한 매출 비중은 전체 매출액 대비 약 25% 수준입니다.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003699",
+    "source_kind": "DART",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T10:43:19+09:00",
+    "raw_file": "raw/dart/20260814003699.txt",
+    "text_sha256": "0ccb7b1c03394a771d50eb95c01ade169f9ed5c0937d1b60794069364a82469a"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "아마존이 2026년 상반기 새로 5대 매출처에 들어 데이터센터 규제 우려가 닿는 통로(아마존은 11/4 미국장 +6.12%로 반대로 움직임, kr/findings.md 1장; 인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E003",
+  "from": {
+   "name": "삼성전자",
+   "id": "KRX:005930"
+  },
+  "to": {
+   "name": "Apple",
+   "id": "TICKER:AAPL"
+  },
+  "relation": "supplies_to",
+  "what": "제품 판매 — 2025년·2026년 반기 주요 매출처 5곳 중 하나(품목은 안 적힘)",
+  "evidence": [
+   {
+    "quote": "2026년 반기 당사의 주요 매출처는 Alphabet, Amazon, Apple, Hong Kong Techtronics, Supreme Electronics 등(알파벳순) 입니다. 당사의 주요 5대 매출처에 대한 매출 비중은 전체 매출액 대비 약 25% 수준입니다.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003699",
+    "source_kind": "DART",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T10:43:19+09:00",
+    "raw_file": "raw/dart/20260814003699.txt",
+    "text_sha256": "0ccb7b1c03394a771d50eb95c01ade169f9ed5c0937d1b60794069364a82469a"
+   },
+   {
+    "quote": "2025년 당사의 주요 매출처는 Alphabet, Apple, Deutsche Telekom, Hong Kong Techtronics, Supreme Electronics 등(알파벳순) 입니다.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260310002820",
+    "source_kind": "DART",
+    "published_at": "2026-03-10",
+    "retrieved_at": "2026-11-10T10:44:08+09:00",
+    "raw_file": "raw/dart/20260310002820.txt",
+    "text_sha256": "1e4a598c8e21aed45cf13a70bcf9733708f9b95f6c7811930b775c5ffb125833"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E004",
+  "from": {
+   "name": "삼성전자",
+   "id": "KRX:005930"
+  },
+  "to": {
+   "name": "Tesla, Inc.",
+   "id": "TICKER:TSLA"
+  },
+  "relation": "contract_counterparty",
+  "what": "반도체 위탁생산 공급계약 USD 16,544백만(2025-07-26 체결, 2033-12-31까지). 최초 공시(2025-07-28)는 상대를 '글로벌 대형기업'으로 가렸고 정정 공시(2025-07-31)에서 공개",
+  "evidence": [
+   {
+    "quote": "3. 계약상대 | 글로벌 대형기업 | 테슬라(Tesla, Inc.)",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250731800028",
+    "source_kind": "DART",
+    "published_at": "2025-07-31",
+    "retrieved_at": "2026-11-10T10:48:50+09:00",
+    "raw_file": "raw/dart/20250731800028.txt",
+    "text_sha256": "b8c4f1d0d67a4b0656945ac501715ebe29da252068839194cabb839d58bbbf29"
+   },
+   {
+    "quote": "- 계약명: 반도체 위탁생산 공급계약 - 계약상대방: Tesla, Inc. - 계약기간 : 2025.7월~2033.12월",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003699",
+    "source_kind": "DART",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T10:43:19+09:00",
+    "raw_file": "raw/dart/20260814003699.txt",
+    "text_sha256": "0ccb7b1c03394a771d50eb95c01ade169f9ed5c0937d1b60794069364a82469a"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E005",
+  "from": {
+   "name": "Micron Technology",
+   "id": "TICKER:MU"
+  },
+  "to": {
+   "name": "삼성전자",
+   "id": "KRX:005930"
+  },
+  "relation": "supplies_to",
+  "what": "모바일용 메모리(삼성전자 DX 부문 원재료, 2026년 반기 매입액 5조 426억원·12.2%의 주요 매입처 중 하나)",
+  "evidence": [
+   {
+    "quote": "DX 부문은 모바일AP 솔루션, 모바일용 메모리, Camera Module 등을 Qualcomm, Micron, 삼성전기㈜ 등에서 공급받고 있으며 … 모바일용 메모리 | 모바일용 메모리 | 50,426 | 12.2% | Micron, Kioxia 등",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003699",
+    "source_kind": "DART",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T10:43:19+09:00",
+    "raw_file": "raw/dart/20260814003699.txt",
+    "text_sha256": "0ccb7b1c03394a771d50eb95c01ade169f9ed5c0937d1b60794069364a82469a"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": false
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E006",
+  "from": {
+   "name": "NVIDIA",
+   "id": "TICKER:NVDA"
+  },
+  "to": {
+   "name": "삼성전자",
+   "id": "KRX:005930"
+  },
+  "relation": "supplies_to",
+  "what": "SOC·통신 모듈 — 종속회사 Harman 의 원재료(전장용)",
+  "evidence": [
+   {
+    "quote": "Harman은 MCU(Micro Controller Unit)를 포함한 SOC(System-On-Chip), 통신 모듈 등을 NVIDIA, WNC 등에서 공급받고 있습니다.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003699",
+    "source_kind": "DART",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T10:43:19+09:00",
+    "raw_file": "raw/dart/20260814003699.txt",
+    "text_sha256": "0ccb7b1c03394a771d50eb95c01ade169f9ed5c0937d1b60794069364a82469a"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": false
+  },
+  "case_relevance": "낮음 — 전장(Harman)용 매입이라 AI 데이터센터 경로와 다름"
+ },
+ {
+  "edge_id": "KR-E007",
+  "from": {
+   "name": "Qualcomm",
+   "id": "TICKER:QCOM"
+  },
+  "to": {
+   "name": "삼성전자",
+   "id": "KRX:005930"
+  },
+  "relation": "supplies_to",
+  "what": "모바일AP 솔루션(DX 부문 원재료)",
+  "evidence": [
+   {
+    "quote": "DX 부문은 모바일AP 솔루션, 모바일용 메모리, Camera Module 등을 Qualcomm, Micron, 삼성전기㈜ 등에서 공급받고 있으며",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003699",
+    "source_kind": "DART",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T10:43:19+09:00",
+    "raw_file": "raw/dart/20260814003699.txt",
+    "text_sha256": "0ccb7b1c03394a771d50eb95c01ade169f9ed5c0937d1b60794069364a82469a"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": false
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E008",
+  "from": {
+   "name": "삼성전자",
+   "id": "KRX:005930"
+  },
+  "to": {
+   "name": "Marvell Technology, Inc.",
+   "id": "TICKER:MRVL"
+  },
+  "relation": "owns_stake_in",
+  "what": "상장주식 보유(공정가치 측정 금융자산 '상장주식 세부내역' 표에 이름이 있음, 지분율·금액은 표 칸 정렬을 못 맞춰 안 적음)",
+  "evidence": [
+   {
+    "quote": "㈜원익아이피에스 | ㈜동진쎄미켐 | 솔브레인㈜ | ㈜에스앤에스텍 | ㈜와이씨 | ㈜케이씨텍 | ㈜엘오티베큠 | ㈜뉴파워프라즈마 | ㈜에프에스티 | ㈜디엔에프 | Marvell Technology, Inc.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003699",
+    "source_kind": "DART",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T10:43:19+09:00",
+    "raw_file": "raw/dart/20260814003699.txt",
+    "text_sha256": "0ccb7b1c03394a771d50eb95c01ade169f9ed5c0937d1b60794069364a82469a"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E009",
+  "from": {
+   "name": "삼성전자",
+   "id": "KRX:005930"
+  },
+  "to": {
+   "name": "Corning Incorporated",
+   "id": "TICKER:GLW"
+  },
+  "relation": "owns_stake_in",
+  "what": "상장주식 보유(연결 '공정가치금융자산 중 상장주식 세부내역' 표)",
+  "evidence": [
+   {
+    "quote": "공정가치금융자산 중 상장주식 세부내역에 대한 공시 … ㈜원익홀딩스 | ㈜원익아이피에스 | Wacom Co., Ltd. | Corning Incorporated | 기타",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003699",
+    "source_kind": "DART",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T10:43:19+09:00",
+    "raw_file": "raw/dart/20260814003699.txt",
+    "text_sha256": "0ccb7b1c03394a771d50eb95c01ade169f9ed5c0937d1b60794069364a82469a"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E010",
+  "from": {
+   "name": "삼성전자",
+   "id": "KRX:005930"
+  },
+  "to": {
+   "name": "원익IPS",
+   "id": "KRX:240810"
+  },
+  "relation": "owns_stake_in",
+  "what": "상장주식 보유(연결 '공정가치금융자산 중 상장주식 세부내역' 표)",
+  "evidence": [
+   {
+    "quote": "공정가치금융자산 중 상장주식 세부내역에 대한 공시 … ㈜원익홀딩스 | ㈜원익아이피에스 | Wacom Co., Ltd. | Corning Incorporated | 기타",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003699",
+    "source_kind": "DART",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T10:43:19+09:00",
+    "raw_file": "raw/dart/20260814003699.txt",
+    "text_sha256": "0ccb7b1c03394a771d50eb95c01ade169f9ed5c0937d1b60794069364a82469a"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": false
+  },
+  "case_relevance": "국내 고리 — 원익IPS 11/5 -15.74%(지수 대비 -10.63%p)였고 삼성전자가 주주; 하락 경로로 이어지는지는 검증 안 함"
+ },
+ {
+  "edge_id": "KR-E011",
+  "from": {
+   "name": "삼성전자",
+   "id": "KRX:005930"
+  },
+  "to": {
+   "name": "Alphabet(Google)",
+   "id": "TICKER:GOOGL"
+  },
+  "relation": "contract_counterparty",
+  "what": "상호 특허 사용 계약(2014-01-25, 영구) · EMADA(구글 앱 사용 라이선스, 2019-02-27~2027-03-31)",
+  "evidence": [
+   {
+    "quote": "Google | 계약 유형 | 상호 특허 사용 계약 | 체결시기 | 2014.01.25 … Google | 계약 유형 | EMADA | 체결시기 및 기간 | 2019.02.27~2027.03.31",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003699",
+    "source_kind": "DART",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T10:43:19+09:00",
+    "raw_file": "raw/dart/20260814003699.txt",
+    "text_sha256": "0ccb7b1c03394a771d50eb95c01ade169f9ed5c0937d1b60794069364a82469a"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "낮음 — 특허·앱 라이선스라 데이터센터 경로와 다름"
+ },
+ {
+  "edge_id": "KR-E012",
+  "from": {
+   "name": "삼성전자",
+   "id": "KRX:005930"
+  },
+  "to": {
+   "name": "AMD",
+   "id": "TICKER:AMD"
+  },
+  "relation": "supplies_to",
+  "what": "HBM4 우선 공급업체 지정(2026-03-18 MOU, MI455X용), MI350 시리즈에 HBM3E 공급",
+  "evidence": [
+   {
+    "quote": "삼성전자는 오늘(18일) 평택사업장에서 AMD와 차세대 AI 메모리·컴퓨팅 기술 분야 협력을 확대하는 업무협약(MOU)을 체결하고 AMD AI 가속기에 탑재되는 HBM4 우선 공급업체로 지정됐다고 밝혔습니다.",
+    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8511991&ref=A",
+    "source_kind": "press",
+    "published_at": "2026-03-18",
+    "retrieved_at": "2026-11-10T10:52:53+09:00",
+    "raw_file": "raw/news/n002_3.txt",
+    "text_sha256": "62c245f639d258bf66a27bb462a103314321f7c9d1273d53f7dabecb74688a8a"
+   },
+   {
+    "quote": "삼성전자는 이미 AMD의 차세대 AI 가속기용 HBM4 우선 공급업체로 선정됐다. … 삼성전자는 기존 MI350 시리즈에도 HBM3E를 공급해 왔다.",
+    "url": "https://www.edaily.co.kr/News/Read?newsId=05175846645642440&mediaCodeNo=257&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+    "source_kind": "press",
+    "published_at": "2026-11-04",
+    "retrieved_at": "2026-11-10T10:52:21+09:00",
+    "raw_file": "raw/news/n001_8.txt",
+    "text_sha256": "4b31ccff55a171c5989f10d610093c924181231f23519202faef374353c5faa6"
+   }
+  ],
+  "as_of": "2026-11-04",
+  "status": "press_report",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "AI 가속기 메모리 직접 공급 — 미국 AI 칩 수요 위축 우려가 삼성전자 HBM 기대로 번지는 통로(인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E013",
+  "from": {
+   "name": "삼성전자",
+   "id": "KRX:005930"
+  },
+  "to": {
+   "name": "NVIDIA",
+   "id": "TICKER:NVDA"
+  },
+  "relation": "supplies_to",
+  "what": "HBM4(2026년 2월 중순 첫 공급이라고 보도) · eSSD 'PM1763'(베라 루빈 탑재 예정, 양산 돌입 보도)",
+  "evidence": [
+   {
+    "quote": "지난달 중순 엔비디아에 HBM4를 처음 공급한 것을 시작으로, SK하이닉스가 주도해 온 HBM 시장의 판을 흔들고 있는 것으로 풀이된다.",
+    "url": "http://www.fnnews.com/news/202603181823147182",
+    "source_kind": "press",
+    "published_at": "2026-03-18",
+    "retrieved_at": "2026-11-10T10:52:53+09:00",
+    "raw_file": "raw/news/n002_5.txt",
+    "text_sha256": "dd121f7907ac3a0859cfdade1d85600ddc8faa694d8a199985d43310f724049d"
+   },
+   {
+    "quote": "삼성전자가 엔비디아 차세대 인공지능(AI) 가속기 '베라 루빈'에 탑재되는 기업용 SSD(eSSD) 'PM1763' 양산에 돌입했다.",
+    "url": "http://www.fnnews.com/news/202607080924335351",
+    "source_kind": "press",
+    "published_at": "2026-07-08",
+    "retrieved_at": "2026-11-10T10:52:55+09:00",
+    "raw_file": "raw/news/n003_1.txt",
+    "text_sha256": "77df3833ebfb477d3e0361cda6f278971f99e72c292fb5ad72f1ea0ba43addf2"
+   }
+  ],
+  "as_of": "2026-07-08",
+  "status": "press_report",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "엔비디아 GPU 수요 → 삼성전자 메모리 수요의 직접 통로(11/5 미국 칩 9종목 평균 -14.5% 다음 한국장 삼성전자 -6.35%; 인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E014",
+  "from": {
+   "name": "삼성전자",
+   "id": "KRX:005930"
+  },
+  "to": {
+   "name": "Micron Technology",
+   "id": "TICKER:MU"
+  },
+  "relation": "competitor_of",
+  "what": "HBM4 시장 경쟁(점유율 전망 삼성전자 28%·마이크론 18%라고 보도)",
+  "evidence": [
+   {
+    "quote": "글로벌 HBM4 시장 점유율 전망은 SK하이닉스 54%, 삼성전자 28%, 미국 마이크론 18%였다.",
+    "url": "https://www.dt.co.kr/article/12094102",
+    "source_kind": "press",
+    "published_at": "2026-11-09",
+    "retrieved_at": "2026-11-10T10:52:21+09:00",
+    "raw_file": "raw/news/n001_3.txt",
+    "text_sha256": "3030485794a4ff6c6cf70b6abf22ef9884ca2c0935b124c5c575d5614e1e3783"
+   }
+  ],
+  "as_of": "2026-11-09",
+  "status": "press_report",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "같은 메모리 수요 충격을 함께 받는 경쟁사(미국 Micron -17.5%, 삼성전자 11/5 -7.57%; 마이크론 대만 공장 중단 소식이 섞임, kr/findings.md 4장)"
+ },
+ {
+  "edge_id": "KR-E015",
+  "from": {
+   "name": "SK하이닉스",
+   "id": "KRX:000660"
+  },
+  "to": {
+   "name": "NVIDIA",
+   "id": "TICKER:NVDA"
+  },
+  "relation": "supplies_to",
+  "what": "메모리 반도체 공급을 포함한 차세대 메모리 기술 협력(2026년 6월 발표, 투자설명서 원문) · HBM3E(GB300 탑재)·LPDDR5X(DGX Spark 탑재)는 회사 뉴스룸이 적음 · HBM4 공급(2025-12 양산 공급 시작, 베라 루빈용 수요 약 70%)은 보도로만 확인",
+  "evidence": [
+   {
+    "quote": "2026년 6월 당사는 NVIDIA Corporation(이하 \"NVIDIA\")과 차세대 메모리 개발을 위한 기술 협력을 발표하였으며, 동 협력은 NVIDIA의 AI 인프라 로드맵에 부합하는 메모리 개발과 더불어 메모리 반도체의 공급을 포함합니다.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260710000012",
+    "source_kind": "DART",
+    "published_at": "2026-07-10",
+    "retrieved_at": "2026-11-10T11:03:01+09:00",
+    "raw_file": "raw/dart/20260710000012.txt",
+    "text_sha256": "0e3cbdc9e1210719b0abca292bfb952392f05e37e6744ba1b7090e993ecc48da"
+   },
+   {
+    "quote": "오른쪽에는 엔비디아의 최신 AI 가속기 ‘GB300’ 실물과 이에 탑재되는 ‘HBM3E’가 함께 놓였다. … 엔비디아의 최신 슈퍼컴퓨터 ‘DGX Spark’ 실물 아래 이 제품에 탑재된 SK하이닉스의 ‘LPDDR5X",
+    "url": "https://news.skhynix.co.kr/computex-2026/",
+    "source_kind": "IR",
+    "published_at": "2026-06-02",
+    "retrieved_at": "2026-11-10T10:55:36+09:00",
+    "raw_file": "raw/ir/skhynix_computex-2026.txt",
+    "text_sha256": "00ed4ed32db2477afb946e4f556074c4ea3e3d424da2ad95a65e761117e31166"
+   },
+   {
+    "quote": "최대 고객사인 엔비디아에 HBM4를 공급하기 시작한 것으로 알려졌다.",
+    "url": "https://www.newsis.com/view/NISX20251215_0003442038",
+    "source_kind": "press",
+    "published_at": "2025-12-15",
+    "retrieved_at": "2026-11-10T10:53:37+09:00",
+    "raw_file": "raw/news/n004_9.txt",
+    "text_sha256": "d3eec88d50077b05cd6fe3a0632dd007ef351dcffa86bc9efb772cd6a83984d0"
+   },
+   {
+    "quote": "특히 SK하이닉스는 올해 엔비디아의 차세대 베라 루빈 플랫폼용 HBM4 수요 가운데 약 70%를 확보한 것으로 전해졌다.",
+    "url": "https://www.dt.co.kr/article/12094102",
+    "source_kind": "press",
+    "published_at": "2026-11-09",
+    "retrieved_at": "2026-11-10T10:52:21+09:00",
+    "raw_file": "raw/news/n001_3.txt",
+    "text_sha256": "3030485794a4ff6c6cf70b6abf22ef9884ca2c0935b124c5c575d5614e1e3783"
+   }
+  ],
+  "as_of": "2026-07-10",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "이번 급락의 가장 굵은 국내 고리 후보 — 엔비디아 GPU 수요가 SK하이닉스 HBM 수요로 이어짐(11/5 미국 칩 급락 다음 한국장 SK하이닉스 -10.44%, 지수 대비 -4.42%p; 인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E016",
+  "from": {
+   "name": "SK하이닉스",
+   "id": "KRX:000660"
+  },
+  "to": {
+   "name": "Intel Corporation",
+   "id": "TICKER:INTC"
+  },
+  "relation": "contract_counterparty",
+  "what": "인텔 NAND 사업 영업양수(계약 2020-10-20, 2025-03-28 최종 종결)",
+  "evidence": [
+   {
+    "quote": "Intel Corporation | 계약 유형 | 영업양수도 | - | 계약 체결일 | 2020년 10월 20일 | 목적 및 내용 | Intel의 NAND 사업 영업양수",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260317000635",
+    "source_kind": "DART",
+    "published_at": "2026-03-17",
+    "retrieved_at": "2026-11-10T10:44:06+09:00",
+    "raw_file": "raw/dart/20260317000635.txt",
+    "text_sha256": "1b41fc10bc305e2b8f9e9d0c4f90b039d0701b2d2ca4f98781c63584ad3cfcce"
+   }
+  ],
+  "as_of": "2025-12-31",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E017",
+  "from": {
+   "name": "SK하이닉스",
+   "id": "KRX:000660"
+  },
+  "to": {
+   "name": "Micron Technology",
+   "id": "TICKER:MU"
+  },
+  "relation": "competitor_of",
+  "what": "DRAM·NAND 주요 경쟁사(투자설명서 원문) · HBM4 점유율 전망 SK하이닉스 54%·마이크론 18%(보도)",
+  "evidence": [
+   {
+    "quote": "IDC에 따르면 DRAM 시장의 주요 경쟁사로는 삼성전자(주)(이하 \"삼성전자\") 및 Micron Technology, Inc.(이하 \"Micron Technology\") 등이 있으며",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260710000012",
+    "source_kind": "DART",
+    "published_at": "2026-07-10",
+    "retrieved_at": "2026-11-10T11:03:01+09:00",
+    "raw_file": "raw/dart/20260710000012.txt",
+    "text_sha256": "0e3cbdc9e1210719b0abca292bfb952392f05e37e6744ba1b7090e993ecc48da"
+   },
+   {
+    "quote": "IDC에 따르면 NAND Flash 메모리 시장의 주요 경쟁사로는 삼성전자, KIOXIA Holdings Corporation(이하 \"Kioxia\"), Micron Technology 및 Sandisk Corporation(이하 \"Sandisk\") 등이 있으며",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260710000012",
+    "source_kind": "DART",
+    "published_at": "2026-07-10",
+    "retrieved_at": "2026-11-10T11:03:01+09:00",
+    "raw_file": "raw/dart/20260710000012.txt",
+    "text_sha256": "0e3cbdc9e1210719b0abca292bfb952392f05e37e6744ba1b7090e993ecc48da"
+   },
+   {
+    "quote": "글로벌 HBM4 시장 점유율 전망은 SK하이닉스 54%, 삼성전자 28%, 미국 마이크론 18%였다.",
+    "url": "https://www.dt.co.kr/article/12094102",
+    "source_kind": "press",
+    "published_at": "2026-11-09",
+    "retrieved_at": "2026-11-10T10:52:21+09:00",
+    "raw_file": "raw/news/n001_3.txt",
+    "text_sha256": "3030485794a4ff6c6cf70b6abf22ef9884ca2c0935b124c5c575d5614e1e3783"
+   }
+  ],
+  "as_of": "2026-07-10",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "같은 메모리 수요 충격을 함께 받는 경쟁사(마이크론 대만 공장 중단 소식이 섞임)"
+ },
+ {
+  "edge_id": "KR-E018",
+  "from": {
+   "name": "SK하이닉스",
+   "id": "KRX:000660"
+  },
+  "to": {
+   "name": "삼성전자",
+   "id": "KRX:005930"
+  },
+  "relation": "competitor_of",
+  "what": "DRAM·NAND 주요 경쟁사(투자설명서 원문)",
+  "evidence": [
+   {
+    "quote": "IDC에 따르면 DRAM 시장의 주요 경쟁사로는 삼성전자(주)(이하 \"삼성전자\") 및 Micron Technology, Inc.(이하 \"Micron Technology\") 등이 있으며",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260710000012",
+    "source_kind": "DART",
+    "published_at": "2026-07-10",
+    "retrieved_at": "2026-11-10T11:03:01+09:00",
+    "raw_file": "raw/dart/20260710000012.txt",
+    "text_sha256": "0e3cbdc9e1210719b0abca292bfb952392f05e37e6744ba1b7090e993ecc48da"
+   },
+   {
+    "quote": "IDC에 따르면 NAND Flash 메모리 시장의 주요 경쟁사로는 삼성전자, KIOXIA Holdings Corporation(이하 \"Kioxia\"), Micron Technology 및 Sandisk Corporation(이하 \"Sandisk\") 등이 있으며",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260710000012",
+    "source_kind": "DART",
+    "published_at": "2026-07-10",
+    "retrieved_at": "2026-11-10T11:03:01+09:00",
+    "raw_file": "raw/dart/20260710000012.txt",
+    "text_sha256": "0e3cbdc9e1210719b0abca292bfb952392f05e37e6744ba1b7090e993ecc48da"
+   }
+  ],
+  "as_of": "2026-07-10",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": false
+  },
+  "case_relevance": "같은 메모리 수요 충격을 함께 받는 국내 경쟁사(11/5 SK하이닉스 -9.46%, 삼성전자 -7.57%)"
+ },
+ {
+  "edge_id": "KR-E019",
+  "from": {
+   "name": "SK하이닉스",
+   "id": "KRX:000660"
+  },
+  "to": {
+   "name": "Sandisk Corporation",
+   "id": "TICKER:SNDK"
+  },
+  "relation": "competitor_of",
+  "what": "NAND 주요 경쟁사(투자설명서 원문)",
+  "evidence": [
+   {
+    "quote": "IDC에 따르면 NAND Flash 메모리 시장의 주요 경쟁사로는 삼성전자, KIOXIA Holdings Corporation(이하 \"Kioxia\"), Micron Technology 및 Sandisk Corporation(이하 \"Sandisk\") 등이 있으며",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260710000012",
+    "source_kind": "DART",
+    "published_at": "2026-07-10",
+    "retrieved_at": "2026-11-10T11:03:01+09:00",
+    "raw_file": "raw/dart/20260710000012.txt",
+    "text_sha256": "0e3cbdc9e1210719b0abca292bfb952392f05e37e6744ba1b7090e993ecc48da"
+   }
+  ],
+  "as_of": "2026-07-10",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": false
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E020",
+  "from": {
+   "name": "한미반도체",
+   "id": "KRX:042700"
+  },
+  "to": {
+   "name": "Micron Technology",
+   "id": "TICKER:MU"
+  },
+  "relation": "supplies_to",
+  "what": "반도체 장비(주요매출처 고객사 목록, 품목·금액은 안 적힘)",
+  "evidence": [
+   {
+    "quote": "현재 당사가 확보하고 있는 고객사로는 글로벌 반도체 기업인 SK하이닉스, Micron Technology, ASE, AmKor, JCET, Huatian Technology, TFME, Infineon, ST Micro, PTI, Skyworks, Luxshare 등이 있으며",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003665",
+    "source_kind": "DART",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T10:43:20+09:00",
+    "raw_file": "raw/dart/20260814003665.txt",
+    "text_sha256": "5b9d699fdcca2c57c7142a72cd09b5e387ba23a71b8bfa9083b23e6144dddac1"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "마이크론 HBM 투자 위축 우려가 장비 주문 기대로 번지는 통로(한미반도체 11/5 -9.13%; 인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E021",
+  "from": {
+   "name": "한미반도체",
+   "id": "KRX:042700"
+  },
+  "to": {
+   "name": "Amkor Technology",
+   "id": "TICKER:AMKR"
+  },
+  "relation": "supplies_to",
+  "what": "반도체 장비(주요매출처 고객사 목록, 원문 표기 'AmKor')",
+  "evidence": [
+   {
+    "quote": "현재 당사가 확보하고 있는 고객사로는 글로벌 반도체 기업인 SK하이닉스, Micron Technology, ASE, AmKor, JCET, Huatian Technology, TFME, Infineon, ST Micro, PTI, Skyworks, Luxshare 등이 있으며",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003665",
+    "source_kind": "DART",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T10:43:20+09:00",
+    "raw_file": "raw/dart/20260814003665.txt",
+    "text_sha256": "5b9d699fdcca2c57c7142a72cd09b5e387ba23a71b8bfa9083b23e6144dddac1"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": false
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E022",
+  "from": {
+   "name": "한미반도체",
+   "id": "KRX:042700"
+  },
+  "to": {
+   "name": "SK하이닉스",
+   "id": "KRX:000660"
+  },
+  "relation": "supplies_to",
+  "what": "HBM 제조용 TC 본더(2025-01-14·2025-05-16·2025-11-17·2026-01-14·2026-06-08 공급계약 공시)",
+  "evidence": [
+   {
+    "quote": "HBM4 제조용 'TC BONDER 4.5 GRIFFIN' 장비 수주 … 3. 계약상대 | SK하이닉스(SK Hynix Inc.)",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260608800436",
+    "source_kind": "DART",
+    "published_at": "2026-06-08",
+    "retrieved_at": "2026-11-10T10:48:54+09:00",
+    "raw_file": "raw/dart/20260608800436.txt",
+    "text_sha256": "1aa3395dded714f80c2c0f0f82a2bedfc547c2eed8711dceab0a2277ca2021cd"
+   },
+   {
+    "quote": "HBM 제조용 'DUAL TC BONDER GRIFFIN' 장비 수주 … 3. 계약상대 | SK하이닉스(SK Hynix Inc.)",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250516800319",
+    "source_kind": "DART",
+    "published_at": "2025-05-16",
+    "retrieved_at": "2026-11-10T10:48:58+09:00",
+    "raw_file": "raw/dart/20250516800319.txt",
+    "text_sha256": "a85f8a7e87b8a59d9e0780284f7a2820005f0780b8a7a84881ef8763d8859632"
+   }
+  ],
+  "as_of": "2026-06-08",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": false
+  },
+  "case_relevance": "국내 고리 — SK하이닉스 HBM 증설 기대가 꺾이면 장비 주문 기대가 같이 꺾이는 통로(한미반도체 11/5 -9.13%, 11/6 -4.55%; 인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E023",
+  "from": {
+   "name": "한미반도체",
+   "id": "KRX:042700"
+  },
+  "to": {
+   "name": "삼성전기",
+   "id": "KRX:009150"
+  },
+  "relation": "supplies_to",
+  "what": "AI 반도체 기판 제조용 대면적 MSVP 장비(244.8억원, 2026-10-02 수주)",
+  "evidence": [
+   {
+    "quote": "AI 반도체 기판 제조용 대면적 micro SAW & VISION PLACEMENT(MSVP) 장비 수주 … 3. 계약상대 | 삼성전기 (SAMSUNG ELECTRO-MECHANICS CO., LTD.)",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261006800023",
+    "source_kind": "DART",
+    "published_at": "2026-10-06",
+    "retrieved_at": "2026-11-10T10:48:52+09:00",
+    "raw_file": "raw/dart/20261006800023.txt",
+    "text_sha256": "f0dfedf95e4069dfad10e0516b6775dec6c60746c97cab2627dc958142fa735b"
+   }
+  ],
+  "as_of": "2026-10-06",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": false
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E024",
+  "from": {
+   "name": "효성중공업",
+   "id": "KRX:298040"
+  },
+  "to": {
+   "name": "American Electric Power",
+   "id": "TICKER:AEP"
+  },
+  "relation": "supplies_to",
+  "what": "종속회사 HICO America Sales & Tech 를 거쳐 공급 — 변압기·차단기·전동기 등 (최종 고객 기준 매출 비중 2026년 상반기 17%, 2025년 21%)",
+  "evidence": [
+   {
+    "quote": "최종 고객기준 주요 매출처는 Eversource Energy(22%), American Electric Power(17%) Intersect power(15%), Wesco International(7%) 등입니다.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001554",
+    "source_kind": "DART",
+    "published_at": "2026-08-13",
+    "retrieved_at": "2026-11-10T10:43:21+09:00",
+    "raw_file": "raw/dart/20260813001554.txt",
+    "text_sha256": "ea76a51bf9a8e137e29615804c733510ca8268fd2a07fd99702eebfb8cfe9ae9"
+   },
+   {
+    "quote": "LS Power, Constellation, AEP,Dominion, QTS, Eversource,Southern 등 북미 유력 전력청,신재생 Developer 및 데이터센터개발업체",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001554",
+    "source_kind": "DART",
+    "published_at": "2026-08-13",
+    "retrieved_at": "2026-11-10T10:43:21+09:00",
+    "raw_file": "raw/dart/20260813001554.txt",
+    "text_sha256": "ea76a51bf9a8e137e29615804c733510ca8268fd2a07fd99702eebfb8cfe9ae9"
+   },
+   {
+    "quote": "최종 고객기준 주요 매출처는 Eversource Energy(24%), American Electric Power(21%) Intersect power(15%), Georgia power(8%) 등 입니다.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260311004208",
+    "source_kind": "DART",
+    "published_at": "2026-03-11",
+    "retrieved_at": "2026-11-10T10:44:10+09:00",
+    "raw_file": "raw/dart/20260311004208.txt",
+    "text_sha256": "875f0a375a9b0ed0f8665ddda0de4b3d719a95089d1d2ec721412c1dc21abe4b"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "미국 전력회사·데이터센터 개발사 발주가 효성중공업 수주로 이어지는 통로(효성중공업 11/5 -12.59%, 11/6 -11.95%; 인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E025",
+  "from": {
+   "name": "효성중공업",
+   "id": "KRX:298040"
+  },
+  "to": {
+   "name": "Eversource Energy",
+   "id": "TICKER:ES"
+  },
+  "relation": "supplies_to",
+  "what": "종속회사 HICO America Sales & Tech 를 거쳐 공급 — 변압기·차단기·전동기 등 (최종 고객 기준 매출 비중 2026년 상반기 22%, 2025년 24%)",
+  "evidence": [
+   {
+    "quote": "최종 고객기준 주요 매출처는 Eversource Energy(22%), American Electric Power(17%) Intersect power(15%), Wesco International(7%) 등입니다.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001554",
+    "source_kind": "DART",
+    "published_at": "2026-08-13",
+    "retrieved_at": "2026-11-10T10:43:21+09:00",
+    "raw_file": "raw/dart/20260813001554.txt",
+    "text_sha256": "ea76a51bf9a8e137e29615804c733510ca8268fd2a07fd99702eebfb8cfe9ae9"
+   },
+   {
+    "quote": "LS Power, Constellation, AEP,Dominion, QTS, Eversource,Southern 등 북미 유력 전력청,신재생 Developer 및 데이터센터개발업체",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001554",
+    "source_kind": "DART",
+    "published_at": "2026-08-13",
+    "retrieved_at": "2026-11-10T10:43:21+09:00",
+    "raw_file": "raw/dart/20260813001554.txt",
+    "text_sha256": "ea76a51bf9a8e137e29615804c733510ca8268fd2a07fd99702eebfb8cfe9ae9"
+   },
+   {
+    "quote": "최종 고객기준 주요 매출처는 Eversource Energy(24%), American Electric Power(21%) Intersect power(15%), Georgia power(8%) 등 입니다.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260311004208",
+    "source_kind": "DART",
+    "published_at": "2026-03-11",
+    "retrieved_at": "2026-11-10T10:44:10+09:00",
+    "raw_file": "raw/dart/20260311004208.txt",
+    "text_sha256": "875f0a375a9b0ed0f8665ddda0de4b3d719a95089d1d2ec721412c1dc21abe4b"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "미국 전력회사·데이터센터 개발사 발주가 효성중공업 수주로 이어지는 통로(효성중공업 11/5 -12.59%, 11/6 -11.95%; 인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E026",
+  "from": {
+   "name": "효성중공업",
+   "id": "KRX:298040"
+  },
+  "to": {
+   "name": "Intersect Power",
+   "id": "UNLISTED:Intersect Power"
+  },
+  "relation": "supplies_to",
+  "what": "종속회사 HICO America Sales & Tech 를 거쳐 공급 — 변압기·차단기·전동기 등 (최종 고객 기준 매출 비중 2026년 상반기 15%, 2025년 15%)",
+  "evidence": [
+   {
+    "quote": "최종 고객기준 주요 매출처는 Eversource Energy(22%), American Electric Power(17%) Intersect power(15%), Wesco International(7%) 등입니다.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001554",
+    "source_kind": "DART",
+    "published_at": "2026-08-13",
+    "retrieved_at": "2026-11-10T10:43:21+09:00",
+    "raw_file": "raw/dart/20260813001554.txt",
+    "text_sha256": "ea76a51bf9a8e137e29615804c733510ca8268fd2a07fd99702eebfb8cfe9ae9"
+   },
+   {
+    "quote": "최종 고객기준 주요 매출처는 Eversource Energy(24%), American Electric Power(21%) Intersect power(15%), Georgia power(8%) 등 입니다.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260311004208",
+    "source_kind": "DART",
+    "published_at": "2026-03-11",
+    "retrieved_at": "2026-11-10T10:44:10+09:00",
+    "raw_file": "raw/dart/20260311004208.txt",
+    "text_sha256": "875f0a375a9b0ed0f8665ddda0de4b3d719a95089d1d2ec721412c1dc21abe4b"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": false
+  },
+  "case_relevance": "미국 전력회사·데이터센터 개발사 발주가 효성중공업 수주로 이어지는 통로(효성중공업 11/5 -12.59%, 11/6 -11.95%; 인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E027",
+  "from": {
+   "name": "효성중공업",
+   "id": "KRX:298040"
+  },
+  "to": {
+   "name": "Wesco International",
+   "id": "TICKER:WCC"
+  },
+  "relation": "supplies_to",
+  "what": "종속회사 HICO America Sales & Tech 를 거쳐 공급 — 변압기·차단기·전동기 등 (최종 고객 기준 매출 비중 2026년 상반기 7%)",
+  "evidence": [
+   {
+    "quote": "최종 고객기준 주요 매출처는 Eversource Energy(22%), American Electric Power(17%) Intersect power(15%), Wesco International(7%) 등입니다.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001554",
+    "source_kind": "DART",
+    "published_at": "2026-08-13",
+    "retrieved_at": "2026-11-10T10:43:21+09:00",
+    "raw_file": "raw/dart/20260813001554.txt",
+    "text_sha256": "ea76a51bf9a8e137e29615804c733510ca8268fd2a07fd99702eebfb8cfe9ae9"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": false
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E028",
+  "from": {
+   "name": "효성중공업",
+   "id": "KRX:298040"
+  },
+  "to": {
+   "name": "Georgia Power",
+   "id": "UNLISTED:Georgia Power"
+  },
+  "relation": "supplies_to",
+  "what": "종속회사 HICO America Sales & Tech 를 거쳐 공급 — 변압기·차단기·전동기 등 (최종 고객 기준 매출 비중 2025년 8%; 2026년 반기 목록에는 없음)",
+  "evidence": [
+   {
+    "quote": "최종 고객기준 주요 매출처는 Eversource Energy(24%), American Electric Power(21%) Intersect power(15%), Georgia power(8%) 등 입니다.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260311004208",
+    "source_kind": "DART",
+    "published_at": "2026-03-11",
+    "retrieved_at": "2026-11-10T10:44:10+09:00",
+    "raw_file": "raw/dart/20260311004208.txt",
+    "text_sha256": "875f0a375a9b0ed0f8665ddda0de4b3d719a95089d1d2ec721412c1dc21abe4b"
+   }
+  ],
+  "as_of": "2025-12-31",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": false
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E029",
+  "from": {
+   "name": "효성중공업",
+   "id": "KRX:298040"
+  },
+  "to": {
+   "name": "Constellation(원문 표기)",
+   "id": "TICKER:CEG"
+  },
+  "relation": "supplies_to",
+  "what": "종속회사 HICO America Sales & Tech 를 거쳐 공급 — 변압기·차단기·전동기 등 (HICO America 주요 매출처 칸 목록. 원문은 'Constellation'뿐이며 전력청 목록 안이라 Constellation Energy 로 대응 — 대응은 이 조사의 판단)",
+  "evidence": [
+   {
+    "quote": "LS Power, Constellation, AEP,Dominion, QTS, Eversource,Southern 등 북미 유력 전력청,신재생 Developer 및 데이터센터개발업체",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001554",
+    "source_kind": "DART",
+    "published_at": "2026-08-13",
+    "retrieved_at": "2026-11-10T10:43:21+09:00",
+    "raw_file": "raw/dart/20260813001554.txt",
+    "text_sha256": "ea76a51bf9a8e137e29615804c733510ca8268fd2a07fd99702eebfb8cfe9ae9"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "미국 전력회사·데이터센터 개발사 발주가 효성중공업 수주로 이어지는 통로(효성중공업 11/5 -12.59%, 11/6 -11.95%; 인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E030",
+  "from": {
+   "name": "효성중공업",
+   "id": "KRX:298040"
+  },
+  "to": {
+   "name": "Dominion(원문 표기)",
+   "id": "TICKER:D"
+  },
+  "relation": "supplies_to",
+  "what": "종속회사 HICO America Sales & Tech 를 거쳐 공급 — 변압기·차단기·전동기 등 (HICO America 주요 매출처 칸 목록, 원문 'Dominion' → Dominion Energy 대응은 이 조사의 판단)",
+  "evidence": [
+   {
+    "quote": "LS Power, Constellation, AEP,Dominion, QTS, Eversource,Southern 등 북미 유력 전력청,신재생 Developer 및 데이터센터개발업체",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001554",
+    "source_kind": "DART",
+    "published_at": "2026-08-13",
+    "retrieved_at": "2026-11-10T10:43:21+09:00",
+    "raw_file": "raw/dart/20260813001554.txt",
+    "text_sha256": "ea76a51bf9a8e137e29615804c733510ca8268fd2a07fd99702eebfb8cfe9ae9"
+   },
+   {
+    "quote": "Dominion, Southern, AEP, Intersect, QTS, SCE, Eversource 등 미국내 유력 전력청, 신재생 Developer 및 데이터센터 개발업체",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260311004208",
+    "source_kind": "DART",
+    "published_at": "2026-03-11",
+    "retrieved_at": "2026-11-10T10:44:10+09:00",
+    "raw_file": "raw/dart/20260311004208.txt",
+    "text_sha256": "875f0a375a9b0ed0f8665ddda0de4b3d719a95089d1d2ec721412c1dc21abe4b"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "미국 전력회사·데이터센터 개발사 발주가 효성중공업 수주로 이어지는 통로(효성중공업 11/5 -12.59%, 11/6 -11.95%; 인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E031",
+  "from": {
+   "name": "효성중공업",
+   "id": "KRX:298040"
+  },
+  "to": {
+   "name": "Southern(원문 표기)",
+   "id": "TICKER:SO"
+  },
+  "relation": "supplies_to",
+  "what": "종속회사 HICO America Sales & Tech 를 거쳐 공급 — 변압기·차단기·전동기 등 (HICO America 주요 매출처 칸 목록, 원문 'Southern' → Southern Co 대응은 이 조사의 판단)",
+  "evidence": [
+   {
+    "quote": "LS Power, Constellation, AEP,Dominion, QTS, Eversource,Southern 등 북미 유력 전력청,신재생 Developer 및 데이터센터개발업체",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001554",
+    "source_kind": "DART",
+    "published_at": "2026-08-13",
+    "retrieved_at": "2026-11-10T10:43:21+09:00",
+    "raw_file": "raw/dart/20260813001554.txt",
+    "text_sha256": "ea76a51bf9a8e137e29615804c733510ca8268fd2a07fd99702eebfb8cfe9ae9"
+   },
+   {
+    "quote": "Dominion, Southern, AEP, Intersect, QTS, SCE, Eversource 등 미국내 유력 전력청, 신재생 Developer 및 데이터센터 개발업체",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260311004208",
+    "source_kind": "DART",
+    "published_at": "2026-03-11",
+    "retrieved_at": "2026-11-10T10:44:10+09:00",
+    "raw_file": "raw/dart/20260311004208.txt",
+    "text_sha256": "875f0a375a9b0ed0f8665ddda0de4b3d719a95089d1d2ec721412c1dc21abe4b"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "미국 전력회사·데이터센터 개발사 발주가 효성중공업 수주로 이어지는 통로(효성중공업 11/5 -12.59%, 11/6 -11.95%; 인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E032",
+  "from": {
+   "name": "효성중공업",
+   "id": "KRX:298040"
+  },
+  "to": {
+   "name": "QTS",
+   "id": "UNLISTED:QTS"
+  },
+  "relation": "supplies_to",
+  "what": "종속회사 HICO America Sales & Tech 를 거쳐 공급 — 변압기·차단기·전동기 등 (HICO America 주요 매출처 칸 목록 — 원문 범주 '데이터센터개발업체' 포함)",
+  "evidence": [
+   {
+    "quote": "LS Power, Constellation, AEP,Dominion, QTS, Eversource,Southern 등 북미 유력 전력청,신재생 Developer 및 데이터센터개발업체",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001554",
+    "source_kind": "DART",
+    "published_at": "2026-08-13",
+    "retrieved_at": "2026-11-10T10:43:21+09:00",
+    "raw_file": "raw/dart/20260813001554.txt",
+    "text_sha256": "ea76a51bf9a8e137e29615804c733510ca8268fd2a07fd99702eebfb8cfe9ae9"
+   },
+   {
+    "quote": "Dominion, Southern, AEP, Intersect, QTS, SCE, Eversource 등 미국내 유력 전력청, 신재생 Developer 및 데이터센터 개발업체",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260311004208",
+    "source_kind": "DART",
+    "published_at": "2026-03-11",
+    "retrieved_at": "2026-11-10T10:44:10+09:00",
+    "raw_file": "raw/dart/20260311004208.txt",
+    "text_sha256": "875f0a375a9b0ed0f8665ddda0de4b3d719a95089d1d2ec721412c1dc21abe4b"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": false
+  },
+  "case_relevance": "데이터센터 개발사가 직접 고객 — 데이터센터 건설 규제 우려가 닿는 가장 직접적인 전력기기 통로(인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E033",
+  "from": {
+   "name": "효성중공업",
+   "id": "KRX:298040"
+  },
+  "to": {
+   "name": "LS Power",
+   "id": "UNLISTED:LS Power"
+  },
+  "relation": "supplies_to",
+  "what": "종속회사 HICO America Sales & Tech 를 거쳐 공급 — 변압기·차단기·전동기 등 (HICO America 주요 매출처 칸 목록)",
+  "evidence": [
+   {
+    "quote": "LS Power, Constellation, AEP,Dominion, QTS, Eversource,Southern 등 북미 유력 전력청,신재생 Developer 및 데이터센터개발업체",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001554",
+    "source_kind": "DART",
+    "published_at": "2026-08-13",
+    "retrieved_at": "2026-11-10T10:43:21+09:00",
+    "raw_file": "raw/dart/20260813001554.txt",
+    "text_sha256": "ea76a51bf9a8e137e29615804c733510ca8268fd2a07fd99702eebfb8cfe9ae9"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": false
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E034",
+  "from": {
+   "name": "효성중공업",
+   "id": "KRX:298040"
+  },
+  "to": {
+   "name": "SCE(원문 표기)",
+   "id": "UNLISTED:SCE"
+  },
+  "relation": "supplies_to",
+  "what": "종속회사 HICO America Sales & Tech 를 거쳐 공급 — 변압기·차단기·전동기 등 (2025년 사업보고서 HICO America 주요 매출처 칸 목록, 원문 'SCE')",
+  "evidence": [
+   {
+    "quote": "Dominion, Southern, AEP, Intersect, QTS, SCE, Eversource 등 미국내 유력 전력청, 신재생 Developer 및 데이터센터 개발업체",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260311004208",
+    "source_kind": "DART",
+    "published_at": "2026-03-11",
+    "retrieved_at": "2026-11-10T10:44:10+09:00",
+    "raw_file": "raw/dart/20260311004208.txt",
+    "text_sha256": "875f0a375a9b0ed0f8665ddda0de4b3d719a95089d1d2ec721412c1dc21abe4b"
+   }
+  ],
+  "as_of": "2025-12-31",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": false
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E035",
+  "from": {
+   "name": "효성중공업",
+   "id": "KRX:298040"
+  },
+  "to": {
+   "name": "Quanta Services Inc.",
+   "id": "TICKER:PWR"
+  },
+  "relation": "contract_counterparty",
+  "what": "미국 차단기 합작법인 Hyosung HICO Breaker, LLC 공동 설립(2026년 6월, 공동기업투자로 분류)",
+  "evidence": [
+   {
+    "quote": "Hyosung HICO Breaker, LLC(Hyosung HICOㆍQuanta 합작) 설립 … 연결그룹과 Quanta Services Inc.이 피투자자에 대한 공동지배력을 보유하고 있어 공동기업투자로 분류하였습니다.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001554",
+    "source_kind": "DART",
+    "published_at": "2026-08-13",
+    "retrieved_at": "2026-11-10T10:43:21+09:00",
+    "raw_file": "raw/dart/20260813001554.txt",
+    "text_sha256": "ea76a51bf9a8e137e29615804c733510ca8268fd2a07fd99702eebfb8cfe9ae9"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "미국 송전·데이터센터 전력 공사 회사와의 합작 — 미국 전력망 투자 경로(인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E036",
+  "from": {
+   "name": "HD현대일렉트릭",
+   "id": "KRX:267260"
+  },
+  "to": {
+   "name": "NextEra Energy",
+   "id": "TICKER:NEE"
+  },
+  "relation": "supplies_to",
+  "what": "전력기기 — 연결 매출의 5% 넘는 주요 매출처(2026년 상반기 3,472억원·15.9%, 2025년 3,589억원·8.8%)",
+  "evidence": [
+   {
+    "quote": "주요매출처 | (단위 : 백만원) | 매출처명 | 금액 | 비율 | NextEra Energy | 347,203 | 15.9%",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003228",
+    "source_kind": "DART",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T10:43:22+09:00",
+    "raw_file": "raw/dart/20260814003228.txt",
+    "text_sha256": "652f37f6332f33d9f0a95531417a77be390cb4cf399b6e6d3721d685f1e7b8da"
+   },
+   {
+    "quote": "Xcel Energy | 406,676 | 9.9% | NextEra Energy | 358,881 | 8.8%",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260316000940",
+    "source_kind": "DART",
+    "published_at": "2026-03-16",
+    "retrieved_at": "2026-11-10T10:44:12+09:00",
+    "raw_file": "raw/dart/20260316000940.txt",
+    "text_sha256": "63691c7997bbab7261d4871d4c3d8a252937fc3ac763309fc468d43d7cd9502d"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "미국 전력회사 매출 비중이 커 미국 전력·데이터센터 수요 우려가 닿는 통로(HD현대일렉트릭 11/5 -8.44%, 11/6 -8.72%; 인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E037",
+  "from": {
+   "name": "HD현대일렉트릭",
+   "id": "KRX:267260"
+  },
+  "to": {
+   "name": "Xcel Energy",
+   "id": "TICKER:XEL"
+  },
+  "relation": "supplies_to",
+  "what": "전력기기 — 2025년 주요 매출처(4,067억원·9.9%), 765kV 초고압 변압기·리액터 1,730억원 계약(2026-05-07 공시, 미국 법인 경유)",
+  "evidence": [
+   {
+    "quote": "사우디 전력청 | 421,224 | 10.3% | Xcel Energy | 406,676 | 9.9%",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260316000940",
+    "source_kind": "DART",
+    "published_at": "2026-03-16",
+    "retrieved_at": "2026-11-10T10:44:12+09:00",
+    "raw_file": "raw/dart/20260316000940.txt",
+    "text_sha256": "63691c7997bbab7261d4871d4c3d8a252937fc3ac763309fc468d43d7cd9502d"
+   },
+   {
+    "quote": "계약명 : 765KV 초고압 변압기 및 리액터 계약상대방 : HD Hyundai Electric America (미국 Xcel) 계약기간 : '26.05.06~'29.08.31",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003228",
+    "source_kind": "DART",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T10:43:22+09:00",
+    "raw_file": "raw/dart/20260814003228.txt",
+    "text_sha256": "652f37f6332f33d9f0a95531417a77be390cb4cf399b6e6d3721d685f1e7b8da"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "미국 전력회사 매출 비중이 커 미국 전력·데이터센터 수요 우려가 닿는 통로(HD현대일렉트릭 11/5 -8.44%, 11/6 -8.72%; 인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E038",
+  "from": {
+   "name": "HD현대일렉트릭",
+   "id": "KRX:267260"
+  },
+  "to": {
+   "name": "American Electric Power",
+   "id": "TICKER:AEP"
+  },
+  "relation": "supplies_to",
+  "what": "765kV 초고압 변압기 983억원 계약(2026-01-06 공시, 미국 법인 경유. 최초 공시는 '미국 내 최대 765kV 송전망 운영 전력 회사'로만 적었고 반기보고서가 'AEP'를 적음)",
+  "evidence": [
+   {
+    "quote": "계약명 : 765KV 초고압 변압기 계약상대방 : HD Hyundai Electric America (미국AEP ) 계약기간 : '26.01.05~'28.11.09",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003228",
+    "source_kind": "DART",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T10:43:22+09:00",
+    "raw_file": "raw/dart/20260814003228.txt",
+    "text_sha256": "652f37f6332f33d9f0a95531417a77be390cb4cf399b6e6d3721d685f1e7b8da"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "미국 전력회사 매출 비중이 커 미국 전력·데이터센터 수요 우려가 닿는 통로(HD현대일렉트릭 11/5 -8.44%, 11/6 -8.72%; 인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E039",
+  "from": {
+   "name": "HD현대일렉트릭",
+   "id": "KRX:267260"
+  },
+  "to": {
+   "name": "Duke Energy business services, LLC",
+   "id": "TICKER:DUK"
+  },
+  "relation": "contract_counterparty",
+  "what": "공사이행보증의 보증수혜자(USD 54,826천, 보증 제공처 HD Hyundai Electric America Corporation) — 듀크 에너지 쪽 공사 계약이 있다는 뜻이나 계약 내용은 안 적힘",
+  "evidence": [
+   {
+    "quote": "Duke Energy business services, LLC | 공사이행보증 | USD | 54,826 | HD Hyundai Electric AmericaCorporation",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260316000940",
+    "source_kind": "DART",
+    "published_at": "2026-03-16",
+    "retrieved_at": "2026-11-10T10:44:12+09:00",
+    "raw_file": "raw/dart/20260316000940.txt",
+    "text_sha256": "63691c7997bbab7261d4871d4c3d8a252937fc3ac763309fc468d43d7cd9502d"
+   }
+  ],
+  "as_of": "2025-12-31",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E040",
+  "from": {
+   "name": "HD현대일렉트릭",
+   "id": "KRX:267260"
+  },
+  "to": {
+   "name": "City of Santa Clara",
+   "id": "UNLISTED:City of Santa Clara"
+  },
+  "relation": "supplies_to",
+  "what": "230kV 변압기 등 9대(미국 법인과 산타클라라 계약 USD 60,643,424, 2026-07-31 정정 공시)",
+  "evidence": [
+   {
+    "quote": "美 City of Santa Clara(이하 산타클라라)로부터 수주받은 후 당사로 재 발주한 공급계약임",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260731801146",
+    "source_kind": "DART",
+    "published_at": "2026-07-31",
+    "retrieved_at": "2026-11-10T10:49:28+09:00",
+    "raw_file": "raw/dart/20260731801146.txt",
+    "text_sha256": "8c78c6bbdae0ad0a2f65a3ea897f11e9af45f31107ddb583282a3f03b351f444"
+   }
+  ],
+  "as_of": "2026-07-31",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": false
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E041",
+  "from": {
+   "name": "HD현대일렉트릭",
+   "id": "KRX:267260"
+  },
+  "to": {
+   "name": "GE Vernova",
+   "id": "TICKER:GEV"
+  },
+  "relation": "competitor_of",
+  "what": "고압 전력기기 시장 경쟁(선진업체로 이름을 듦)",
+  "evidence": [
+   {
+    "quote": "Siemens Energy, GE Vernova, Hitachi Energy(舊 ABB) 등 전력기기 산업 선진업체들이 높은 시장",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003228",
+    "source_kind": "DART",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T10:43:22+09:00",
+    "raw_file": "raw/dart/20260814003228.txt",
+    "text_sha256": "652f37f6332f33d9f0a95531417a77be390cb4cf399b6e6d3721d685f1e7b8da"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "같은 미국 전력기기 수요를 두고 경쟁 — GE Vernova 의 같은 날 움직임은 미국 갈래 몫"
+ },
+ {
+  "edge_id": "KR-E042",
+  "from": {
+   "name": "LS ELECTRIC",
+   "id": "KRX:010120"
+  },
+  "to": {
+   "name": "Bloom Energy",
+   "id": "TICKER:BE"
+  },
+  "relation": "supplies_to",
+  "what": "북미 데이터센터용 연료전지 전력설비(수배전반·배전변압기) — USD 216,526,100(2026-04-29 공시, 05-14 정정) · USD 138,458,284(펜실베니아, 2026-10-13 공시), 미국 법인 LS ELECTRIC AMERICA 경유",
+  "evidence": [
+   {
+    "quote": "본 계약은 Bloom Energy가 발주한 북미 데이터센터용 연료전지 기반 전력설비 공급 프로젝트를 수주한 LS ELECTRIC AMERICA Inc.에 당사가 수배전반 및 배전변압기를 공급하는 사업임.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260514800292",
+    "source_kind": "DART",
+    "published_at": "2026-05-14",
+    "retrieved_at": "2026-11-10T10:48:17+09:00",
+    "raw_file": "raw/dart/20260514800292.txt",
+    "text_sha256": "275fd110ab84d121facd5a28414df63896441879521657bd230a7ea1f0a804f0"
+   },
+   {
+    "quote": "본 계약은 Bloom Energy가 발주한 북미 데이터센터용 연료전지 기반 전력설비 공급 프로젝트를 수주한 LS ELECTRIC AMERICA Inc.에 당사가 수배전반 및 배전변압기를 공급하는 사업임.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261013800054",
+    "source_kind": "DART",
+    "published_at": "2026-10-13",
+    "retrieved_at": "2026-11-10T10:48:12+09:00",
+    "raw_file": "raw/dart/20261013800054.txt",
+    "text_sha256": "dd69caaa8391e2e91e95152c5fa4a099ed012492b862f8689d4e72596c0a4ebb"
+   },
+   {
+    "quote": "Bloom Energy(Data Center PJT)",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003088",
+    "source_kind": "DART",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T10:43:24+09:00",
+    "raw_file": "raw/dart/20260814003088.txt",
+    "text_sha256": "afb8d997e7893d9087c33585a4c60171febaecc139ce744d99c85107c27f9dff"
+   }
+  ],
+  "as_of": "2026-10-13",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "데이터센터 전력 공급사가 직접 발주처 — 데이터센터 건설 규제 우려가 닿는 통로(LS ELECTRIC 11/5 -13.87%, 11/6 -10.25%; 인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E043",
+  "from": {
+   "name": "LS ELECTRIC",
+   "id": "KRX:010120"
+  },
+  "to": {
+   "name": "xAI",
+   "id": "UNLISTED:xAI"
+  },
+  "relation": "contract_counterparty",
+  "what": "'xAI Tulane PJT' — 원가기준 투입법 주요 계약(계약일 2025-03-17, 완성기한 2026-05-31, 2025년 반기말 진행률 0.5483). 2026년 반기보고서 목록에는 없음",
+  "evidence": [
+   {
+    "quote": "당반기 중 원가기준 투입법을 적용하여 기간에 걸쳐 수익을 인식한 계약으로서 계약금액이 전기 매출액의 5% 이상인 주요 계약의 내역은 다음과 같습니다. … Taylor FAB1 Project Pkg | 대만 카오슝 옐로우라인 | xAI Tulane PJT | 계약일 | 2015-05-10 | 2018-01-16 | 2021-12-24 | 2022-11-11 | 2022-10-17 | 2025-03-17",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251031000010",
+    "source_kind": "DART",
+    "published_at": "2025-10-31",
+    "retrieved_at": "2026-11-10T11:03:03+09:00",
+    "raw_file": "raw/dart/20251031000010.txt",
+    "text_sha256": "c2253c5d6d6ccd99f4c063f1a84df62d46098887948ccb27048ee88f9706a11e"
+   }
+  ],
+  "as_of": "2025-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": false
+  },
+  "case_relevance": "AI 데이터센터 운영사와의 직접 계약 — 데이터센터 건설 위축 우려가 닿는 통로(인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E044",
+  "from": {
+   "name": "산일전기",
+   "id": "KRX:062040"
+  },
+  "to": {
+   "name": "Bloom Energy",
+   "id": "TICKER:BE"
+  },
+  "relation": "supplies_to",
+  "what": "미국 데이터센터용 변압기 USD 33,875,000(2026-04-30 공시, 계약기간 2026-04-24~2027-03-29)",
+  "evidence": [
+   {
+    "quote": "- 체결계약명 | 미국 Data Center용 변압기 공급 … 3. 계약상대 | Bloom Energy",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260430800407",
+    "source_kind": "DART",
+    "published_at": "2026-04-30",
+    "retrieved_at": "2026-11-10T10:49:04+09:00",
+    "raw_file": "raw/dart/20260430800407.txt",
+    "text_sha256": "9c87dcf444903e587f22c8f37879109807ca7c805c875b907d1877b57ec08798"
+   }
+  ],
+  "as_of": "2026-04-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "미국 데이터센터·전력저장 변압기 직접 공급 — 데이터센터 규제 우려가 닿는 통로(산일전기 11/5 -17.23%, 지수 대비 -11.95%p; 인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E045",
+  "from": {
+   "name": "산일전기",
+   "id": "KRX:062040"
+  },
+  "to": {
+   "name": "EPC Power Corporation",
+   "id": "UNLISTED:EPC Power Corporation"
+  },
+  "relation": "supplies_to",
+  "what": "미국 데이터센터용 Pad Mount 변압기 USD 29,542,752(2025-12-24 공시)",
+  "evidence": [
+   {
+    "quote": "- 체결계약명 | 미국 Data Center용 Pad Mount 변압기 공급 … 3. 계약상대 | EPC Power Corporation",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251224800181",
+    "source_kind": "DART",
+    "published_at": "2025-12-24",
+    "retrieved_at": "2026-11-10T10:49:07+09:00",
+    "raw_file": "raw/dart/20251224800181.txt",
+    "text_sha256": "ea2adc19ab1bb2800f921f43b3d1fed67593c0d88c6545a35f6823c8504ed7db"
+   }
+  ],
+  "as_of": "2025-12-24",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": false
+  },
+  "case_relevance": "미국 데이터센터·전력저장 변압기 직접 공급 — 데이터센터 규제 우려가 닿는 통로(산일전기 11/5 -17.23%, 지수 대비 -11.95%p; 인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E046",
+  "from": {
+   "name": "산일전기",
+   "id": "KRX:062040"
+  },
+  "to": {
+   "name": "GE Vernova",
+   "id": "TICKER:GEV"
+  },
+  "relation": "supplies_to",
+  "what": "미국 태양광 BESS·풍력용 변압기 — 2025년 공급계약 5건(2025-01-10 풍력 USD 17,876,000, 01-23·02-25·05-02·06-02 BESS), 상대는 GE Vernova 계열 법인",
+  "evidence": [
+   {
+    "quote": "1. 본 계약은 미국 GE VERNOVA가 수주한 태양광 BESS용 변압기를 공급하는 건입니다.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250225800942",
+    "source_kind": "DART",
+    "published_at": "2025-02-25",
+    "retrieved_at": "2026-11-10T10:49:13+09:00",
+    "raw_file": "raw/dart/20250225800942.txt",
+    "text_sha256": "ac491adeebb0c9f8b0d9399531914bdfc536c1a7b8d9d81f2676ee53378d3833"
+   },
+   {
+    "quote": "본 계약은 미국 GE VERNOVA가 수주한 전력저장설비에 사용될 변압기를 공급하는 건입니다.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250123800030",
+    "source_kind": "DART",
+    "published_at": "2025-01-23",
+    "retrieved_at": "2026-11-10T10:49:14+09:00",
+    "raw_file": "raw/dart/20250123800030.txt",
+    "text_sha256": "8ce9d46d93f9112a0da0c91d11c6af997c51b2ce59352cb25a74c827c839f537"
+   },
+   {
+    "quote": "3. 계약상대 | GE VERNOVA (GE Renewable North America, LLC)",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250110800348",
+    "source_kind": "DART",
+    "published_at": "2025-01-10",
+    "retrieved_at": "2026-11-10T10:49:15+09:00",
+    "raw_file": "raw/dart/20250110800348.txt",
+    "text_sha256": "00b975008b2ec1726d50f245faacdad45ee18369afd9e97a007d7f352c6580be"
+   }
+  ],
+  "as_of": "2025-06-02",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E047",
+  "from": {
+   "name": "산일전기",
+   "id": "KRX:062040"
+  },
+  "to": {
+   "name": "TMEIC USA",
+   "id": "UNLISTED:TMEIC USA"
+  },
+  "relation": "supplies_to",
+  "what": "미국 TMEIC 인버터용 리액터 USD 36,284,748(2026-08-20 공시)",
+  "evidence": [
+   {
+    "quote": "1. 본 계약은 미국 TMEIC 인버터용 리액터를 공급하는 계약 건입니다. … 3. 계약상대 | TMEIC USA",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260820800341",
+    "source_kind": "DART",
+    "published_at": "2026-08-20",
+    "retrieved_at": "2026-11-10T10:49:02+09:00",
+    "raw_file": "raw/dart/20260820800341.txt",
+    "text_sha256": "4b96409844c89ab91f7a6349eea3a64b8f913e4e5245d237a892a5fae5208ef1"
+   }
+  ],
+  "as_of": "2026-08-20",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": false
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E048",
+  "from": {
+   "name": "삼성전기",
+   "id": "KRX:009150"
+  },
+  "to": {
+   "name": "Alphabet(Google)",
+   "id": "TICKER:GOOGL"
+  },
+  "relation": "supplies_to",
+  "what": "수동소자·카메라모듈·반도체패키지기판 등 — 지역별 정보 표 '국내' 칸 주요고객(원문 'Google')",
+  "evidence": [
+   {
+    "quote": "국내 | 중국및동남아 | 일본 | 미주 | 유럽 | 주요재화 및 용역 … 주요고객 | 삼성전자, TSMC, Google 등 | 삼성전자, Xiaomi, Tesla 등 | Shinko, Sony 등 | Intel, Future, Bosch 등 | Bosch, Continental, Rutronik 등",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003805",
+    "source_kind": "DART",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T10:43:34+09:00",
+    "raw_file": "raw/dart/20260814003805.txt",
+    "text_sha256": "36feee950a29f81fcbb3d938a1f6dd7ea5f326b20361a63d5bedfdb38f62708f"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "기판·부품 쪽 미국 빅테크 고객 — 삼성전기 11/5 -15.34%(지수 대비 -10.06%p); 인과 검증 안 함"
+ },
+ {
+  "edge_id": "KR-E049",
+  "from": {
+   "name": "삼성전기",
+   "id": "KRX:009150"
+  },
+  "to": {
+   "name": "Tesla, Inc.",
+   "id": "TICKER:TSLA"
+  },
+  "relation": "supplies_to",
+  "what": "지역별 정보 표 '중국및동남아' 칸 주요고객",
+  "evidence": [
+   {
+    "quote": "국내 | 중국및동남아 | 일본 | 미주 | 유럽 | 주요재화 및 용역 … 주요고객 | 삼성전자, TSMC, Google 등 | 삼성전자, Xiaomi, Tesla 등 | Shinko, Sony 등 | Intel, Future, Bosch 등 | Bosch, Continental, Rutronik 등",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003805",
+    "source_kind": "DART",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T10:43:34+09:00",
+    "raw_file": "raw/dart/20260814003805.txt",
+    "text_sha256": "36feee950a29f81fcbb3d938a1f6dd7ea5f326b20361a63d5bedfdb38f62708f"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E050",
+  "from": {
+   "name": "삼성전기",
+   "id": "KRX:009150"
+  },
+  "to": {
+   "name": "Intel Corporation",
+   "id": "TICKER:INTC"
+  },
+  "relation": "supplies_to",
+  "what": "수동소자·반도체패키지기판 등 — 지역별 정보 표 '미주' 칸 주요고객",
+  "evidence": [
+   {
+    "quote": "국내 | 중국및동남아 | 일본 | 미주 | 유럽 | 주요재화 및 용역 … 주요고객 | 삼성전자, TSMC, Google 등 | 삼성전자, Xiaomi, Tesla 등 | Shinko, Sony 등 | Intel, Future, Bosch 등 | Bosch, Continental, Rutronik 등",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003805",
+    "source_kind": "DART",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T10:43:34+09:00",
+    "raw_file": "raw/dart/20260814003805.txt",
+    "text_sha256": "36feee950a29f81fcbb3d938a1f6dd7ea5f326b20361a63d5bedfdb38f62708f"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E051",
+  "from": {
+   "name": "삼성전기",
+   "id": "KRX:009150"
+  },
+  "to": {
+   "name": "삼성전자",
+   "id": "KRX:005930"
+  },
+  "relation": "supplies_to",
+  "what": "주요 매출처(삼성전자와 그 종속회사, 2026년 상반기 매출 비중 약 26%)",
+  "evidence": [
+   {
+    "quote": "2026년 반기 당사의 주요 매출처는 삼성전자와 그 종속회사이며, 해당 거래처에 대한 매출 비중은 전체 매출액 대비 약 26% 입니다.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814003805",
+    "source_kind": "DART",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T10:43:34+09:00",
+    "raw_file": "raw/dart/20260814003805.txt",
+    "text_sha256": "36feee950a29f81fcbb3d938a1f6dd7ea5f326b20361a63d5bedfdb38f62708f"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": false
+  },
+  "case_relevance": "국내 고리 — 삼성전자 실적 기대가 부품사로 번지는 통로(인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E052",
+  "from": {
+   "name": "삼성전기",
+   "id": "KRX:009150"
+  },
+  "to": {
+   "name": "NVIDIA",
+   "id": "TICKER:NVDA"
+  },
+  "relation": "supplies_to",
+  "what": "AI 반도체 패키지기판 장기 공급(2026-10-21 전략적 파트너십 발표 보도, 10-28 엔비디아 공급망 확충 발표 보도)",
+  "evidence": [
+   {
+    "quote": "삼성전기가 엔비디아에 차세대 인공지능(AI) 반도체 패키지기판을 장기 공급한다고 밝혔다.",
+    "url": "https://www.donga.com/news/Economy/article/all/20261021/134885174/2",
+    "source_kind": "press",
+    "published_at": "2026-10-22",
+    "retrieved_at": "2026-11-10T10:54:20+09:00",
+    "raw_file": "raw/news/n014_6.txt",
+    "text_sha256": "81163fc89d9d91410bd20c1dde2055a30766c2929f0782d2f1e701c88e1a7b3a"
+   },
+   {
+    "quote": "엔비디아는 삼성전기, 앰코테크놀로지(Amkor Technology), 일본 이비덴(IBIDEN), 대만 킹위안일렉트로닉스(KYEC), 실리콘웨어정밀공업(SPIL), 유니마이크론(Unimicron) 등 6개 기업과 협력해 기판, 첨단 패키징, 테스트, 광학 엔진 전반의 생산능력을 확충한다고 28일 밝혔다.",
+    "url": "https://www.etnews.com/20261028000182",
+    "source_kind": "press",
+    "published_at": "2026-10-28",
+    "retrieved_at": "2026-11-10T10:54:20+09:00",
+    "raw_file": "raw/news/n014_2.txt",
+    "text_sha256": "c5ef8a585cf340b75a02b70f6899c37c811490be83daa1439227c8a02b493865"
+   }
+  ],
+  "as_of": "2026-10-28",
+  "status": "press_report",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "엔비디아 기판 공급망 합류 2주 뒤 급락 — 엔비디아 수요 우려가 삼성전기로 번지는 통로(삼성전기 11/5 -15.34%; 인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E053",
+  "from": {
+   "name": "이수페타시스",
+   "id": "KRX:007660"
+  },
+  "to": {
+   "name": "Celestica",
+   "id": "TICKER:CLS"
+  },
+  "relation": "supplies_to",
+  "what": "AI 가속기용·네트워크용 PCB 납품(주문은 가려진 고객 'E사'가 내고 조립업체로 납품하는 구조)",
+  "evidence": [
+   {
+    "quote": "E사와의 매출 구조는 E사로부터 직접 수주를 받은 후, 제품을 조립업체(CM)로 납품하는 형태입니다. AI 가속기용 PCB는 Celestica, Flextronics 등, 서버용 PCB는 주로 대만 업체인 Quanta, Inventec, Foxconn 등, 네트워크용 PCB는 Celestica, Inventec 등에 납품되고 있습니다.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250221000027",
+    "source_kind": "DART",
+    "published_at": "2025-02-21",
+    "retrieved_at": "2026-11-10T11:03:05+09:00",
+    "raw_file": "raw/dart/20250221000027.txt",
+    "text_sha256": "6628f63bbb31c6c7412b311c25e32a956f5acd12c649f150e922caf3edd09d41"
+   }
+  ],
+  "as_of": "2025-02-21",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "AI 가속기·네트워크용 기판을 조립업체로 납품 — AI 서버 수요 위축 우려가 닿는 통로(이수페타시스 11/5 -13.54%; 인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E054",
+  "from": {
+   "name": "이수페타시스",
+   "id": "KRX:007660"
+  },
+  "to": {
+   "name": "Flextronics(원문 표기)",
+   "id": "TICKER:FLEX"
+  },
+  "relation": "supplies_to",
+  "what": "AI 가속기용 PCB 납품(원문 'Flextronics' → Flex Ltd 대응은 이 조사의 판단, 주문은 'E사'가 냄)",
+  "evidence": [
+   {
+    "quote": "E사와의 매출 구조는 E사로부터 직접 수주를 받은 후, 제품을 조립업체(CM)로 납품하는 형태입니다. AI 가속기용 PCB는 Celestica, Flextronics 등, 서버용 PCB는 주로 대만 업체인 Quanta, Inventec, Foxconn 등, 네트워크용 PCB는 Celestica, Inventec 등에 납품되고 있습니다.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250221000027",
+    "source_kind": "DART",
+    "published_at": "2025-02-21",
+    "retrieved_at": "2026-11-10T11:03:05+09:00",
+    "raw_file": "raw/dart/20250221000027.txt",
+    "text_sha256": "6628f63bbb31c6c7412b311c25e32a956f5acd12c649f150e922caf3edd09d41"
+   }
+  ],
+  "as_of": "2025-02-21",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "AI 가속기·네트워크용 기판을 조립업체로 납품 — AI 서버 수요 위축 우려가 닿는 통로(이수페타시스 11/5 -13.54%; 인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E055",
+  "from": {
+   "name": "이수페타시스",
+   "id": "KRX:007660"
+  },
+  "to": {
+   "name": "Cisco",
+   "id": "TICKER:CSCO"
+  },
+  "relation": "contract_counterparty",
+  "what": "Cisco 가 선정한 Global Advanced Level PCB 제조업체(공급사 지정; 품목·금액은 안 적힘)",
+  "evidence": [
+   {
+    "quote": "당사는 글로벌 IT/네트워킹 전문 업체인 Cisco가 선정한 Global Advanced Level PCB 제조업체로",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250221000027",
+    "source_kind": "DART",
+    "published_at": "2025-02-21",
+    "retrieved_at": "2026-11-10T11:03:05+09:00",
+    "raw_file": "raw/dart/20250221000027.txt",
+    "text_sha256": "6628f63bbb31c6c7412b311c25e32a956f5acd12c649f150e922caf3edd09d41"
+   }
+  ],
+  "as_of": "2025-02-21",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E056",
+  "from": {
+   "name": "대덕전자",
+   "id": "KRX:353200"
+  },
+  "to": {
+   "name": "삼성전자",
+   "id": "KRX:005930"
+  },
+  "relation": "supplies_to",
+  "what": "인쇄회로기판(주요 거래처)",
+  "evidence": [
+   {
+    "quote": "(라) 주요 거래처 삼성전자㈜, 에스케이하이닉스㈜, 앰코테크놀로지코리아㈜, (유)스태츠칩팩코리아 등이 있습니다.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001620",
+    "source_kind": "DART",
+    "published_at": "2026-08-13",
+    "retrieved_at": "2026-11-10T10:43:28+09:00",
+    "raw_file": "raw/dart/20260813001620.txt",
+    "text_sha256": "b50aaa665db0f18b6c6af20cd792b957b63a23078e23c928f22ec671109e7fb0"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": false
+  },
+  "case_relevance": "국내 고리 — 메모리 고객 실적 기대가 기판사로 번지는 통로(대덕전자 11/5 -19.80%; 인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E057",
+  "from": {
+   "name": "대덕전자",
+   "id": "KRX:353200"
+  },
+  "to": {
+   "name": "SK하이닉스",
+   "id": "KRX:000660"
+  },
+  "relation": "supplies_to",
+  "what": "인쇄회로기판(주요 거래처, 원문 '에스케이하이닉스㈜')",
+  "evidence": [
+   {
+    "quote": "(라) 주요 거래처 삼성전자㈜, 에스케이하이닉스㈜, 앰코테크놀로지코리아㈜, (유)스태츠칩팩코리아 등이 있습니다.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001620",
+    "source_kind": "DART",
+    "published_at": "2026-08-13",
+    "retrieved_at": "2026-11-10T10:43:28+09:00",
+    "raw_file": "raw/dart/20260813001620.txt",
+    "text_sha256": "b50aaa665db0f18b6c6af20cd792b957b63a23078e23c928f22ec671109e7fb0"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": false
+  },
+  "case_relevance": "국내 고리 — 위와 같음"
+ },
+ {
+  "edge_id": "KR-E058",
+  "from": {
+   "name": "대덕전자",
+   "id": "KRX:353200"
+  },
+  "to": {
+   "name": "앰코테크놀로지코리아㈜",
+   "id": "UNLISTED:Amkor Technology Korea"
+  },
+  "relation": "supplies_to",
+  "what": "인쇄회로기판(주요 거래처)",
+  "evidence": [
+   {
+    "quote": "(라) 주요 거래처 삼성전자㈜, 에스케이하이닉스㈜, 앰코테크놀로지코리아㈜, (유)스태츠칩팩코리아 등이 있습니다.",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260813001620",
+    "source_kind": "DART",
+    "published_at": "2026-08-13",
+    "retrieved_at": "2026-11-10T10:43:28+09:00",
+    "raw_file": "raw/dart/20260813001620.txt",
+    "text_sha256": "b50aaa665db0f18b6c6af20cd792b957b63a23078e23c928f22ec671109e7fb0"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": false
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E059",
+  "from": {
+   "name": "대덕전자",
+   "id": "KRX:353200"
+  },
+  "to": {
+   "name": "AMD",
+   "id": "TICKER:AMD"
+  },
+  "relation": "supplies_to",
+  "what": "AI 가속기용 고다층 기판(MLB) — 2024년 말 샘플 납품, 2025년 3월부터 소량 출하라고 보도(증권업계 인용, 본 공급 여부는 확인 못 함)",
+  "evidence": [
+   {
+    "quote": "대덕전자는 지난해 말 AMD에 AI 가속기용 MLB 샘플을 납품했으며, 품질 검증도 완료해 본격적인 제품 공급을 위한 기반을 마련한 상태다. … 10일 증권업계에 따르면 대덕전자는 지난달부터 AMD AI 가속기에 탑재되는 MLB를 소량 출하하기 시작했으며, 현재는 고객사의 발주서(PO)를 기다리고 있다.",
+    "url": "https://www.newsis.com/view/NISX20250410_0003134420",
+    "source_kind": "press",
+    "published_at": "2025-04-10",
+    "retrieved_at": "2026-11-10T10:53:45+09:00",
+    "raw_file": "raw/news/n008_0.txt",
+    "text_sha256": "2484f7093b6ab03b9a2a95bb87dce86460582a3b647f2df6f884a1fbccf3dbf0"
+   }
+  ],
+  "as_of": "2025-04-10",
+  "status": "press_report",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E060",
+  "from": {
+   "name": "ISC",
+   "id": "KRX:095340"
+  },
+  "to": {
+   "name": "삼성전자",
+   "id": "KRX:005930"
+  },
+  "relation": "supplies_to",
+  "what": "반도체 테스트 소켓(내수 주요 거래처)",
+  "evidence": [
+   {
+    "quote": "내수 | 삼성전자, 하이닉스 외 | 본사 국내 영업팀을 통한직접 판매",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814000114",
+    "source_kind": "DART",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T10:43:31+09:00",
+    "raw_file": "raw/dart/20260814000114.txt",
+    "text_sha256": "0976668f8b4116cc43be73772393916b5b773ca5222307fa91623212f715dc21"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": false
+  },
+  "case_relevance": "국내 고리 — ISC 11/5 -13.29%, 11/6 -14.12%; 인과 검증 안 함"
+ },
+ {
+  "edge_id": "KR-E061",
+  "from": {
+   "name": "ISC",
+   "id": "KRX:095340"
+  },
+  "to": {
+   "name": "SK하이닉스",
+   "id": "KRX:000660"
+  },
+  "relation": "supplies_to",
+  "what": "반도체 테스트 소켓(내수 주요 거래처, 원문 '하이닉스' → SK하이닉스 대응은 이 조사의 판단)",
+  "evidence": [
+   {
+    "quote": "내수 | 삼성전자, 하이닉스 외 | 본사 국내 영업팀을 통한직접 판매",
+    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814000114",
+    "source_kind": "DART",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T10:43:31+09:00",
+    "raw_file": "raw/dart/20260814000114.txt",
+    "text_sha256": "0976668f8b4116cc43be73772393916b5b773ca5222307fa91623212f715dc21"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": false
+  },
+  "case_relevance": "국내 고리 — 위와 같음"
+ },
+ {
+  "edge_id": "KR-E062",
+  "from": {
+   "name": "ISC",
+   "id": "KRX:095340"
+  },
+  "to": {
+   "name": "Broadcom",
+   "id": "TICKER:AVGO"
+  },
+  "relation": "supplies_to",
+  "what": "연구개발용 CPO 스위치 테스트 소켓(보도, '알려졌다')",
+  "evidence": [
+   {
+    "quote": "ISC는 현재 글로벌 반도체 기업 브로드컴에 연구개발(R&D)용 CPO 스위치 테스트 소켓을 공급하고 있는 것으로 알려졌으며",
+    "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1704217",
+    "source_kind": "press",
+    "published_at": "2026-04-02",
+    "retrieved_at": "2026-11-10T11:01:42+09:00",
+    "raw_file": "raw/news/ebn_1704217.txt",
+    "text_sha256": "1c5db3898a4e5083d6624aaabb1c16006506e1c98dd243d99ba99181fb15f892"
+   }
+  ],
+  "as_of": "2026-04-02",
+  "status": "press_report",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E063",
+  "from": {
+   "name": "리노공업",
+   "id": "KRX:058470"
+  },
+  "to": {
+   "name": "NVIDIA",
+   "id": "TICKER:NVDA"
+  },
+  "relation": "supplies_to",
+  "what": "테스트 소켓·검사용 금속핀(보도)",
+  "evidence": [
+   {
+    "quote": "리노공업은 엔비디아, 퀄컴, 브로드컴 등 글로벌 로직 반도체 기업에 테스트 소켓과 검사용 금속핀을 공급한다.",
+    "url": "https://www.thelec.kr/news/articleView.html?idxno=63415",
+    "source_kind": "press",
+    "published_at": "2026-10-07",
+    "retrieved_at": "2026-11-10T11:01:17+09:00",
+    "raw_file": "raw/news/n016_0.txt",
+    "text_sha256": "9a7c2fddf2dbf5e21778856b0da95bdc1306540d04b5756f3cf325bea8a25690"
+   },
+   {
+    "quote": "삼성전자와 SK하이닉스, 퀄컴, TSMC, 엔비디아 등 글로벌 반도체 기업들이 대표적인 고객사다.",
+    "url": "https://www.chosun.com/national/regional/2026/08/27/CNGL5TTC4FHJHKTUQTBBGCPFZA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "source_kind": "press",
+    "published_at": "2026-08-27",
+    "retrieved_at": "2026-11-10T11:01:17+09:00",
+    "raw_file": "raw/news/n016_2.txt",
+    "text_sha256": "35893d8b349506a4a6cf48a7feff17ab9211c824f9bd73bcf0a1022214e523cb"
+   }
+  ],
+  "as_of": "2026-10-07",
+  "status": "press_report",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "AI 칩 회사 테스트 수요가 리노공업 매출로 이어지는 통로(리노공업 11/5 -9.53%; 인과 검증 안 함)"
+ },
+ {
+  "edge_id": "KR-E064",
+  "from": {
+   "name": "리노공업",
+   "id": "KRX:058470"
+  },
+  "to": {
+   "name": "Qualcomm",
+   "id": "TICKER:QCOM"
+  },
+  "relation": "supplies_to",
+  "what": "테스트 소켓·검사용 금속핀(보도)",
+  "evidence": [
+   {
+    "quote": "리노공업은 엔비디아, 퀄컴, 브로드컴 등 글로벌 로직 반도체 기업에 테스트 소켓과 검사용 금속핀을 공급한다.",
+    "url": "https://www.thelec.kr/news/articleView.html?idxno=63415",
+    "source_kind": "press",
+    "published_at": "2026-10-07",
+    "retrieved_at": "2026-11-10T11:01:17+09:00",
+    "raw_file": "raw/news/n016_0.txt",
+    "text_sha256": "9a7c2fddf2dbf5e21778856b0da95bdc1306540d04b5756f3cf325bea8a25690"
+   },
+   {
+    "quote": "삼성전자와 SK하이닉스, 퀄컴, TSMC, 엔비디아 등 글로벌 반도체 기업들이 대표적인 고객사다.",
+    "url": "https://www.chosun.com/national/regional/2026/08/27/CNGL5TTC4FHJHKTUQTBBGCPFZA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "source_kind": "press",
+    "published_at": "2026-08-27",
+    "retrieved_at": "2026-11-10T11:01:17+09:00",
+    "raw_file": "raw/news/n016_2.txt",
+    "text_sha256": "35893d8b349506a4a6cf48a7feff17ab9211c824f9bd73bcf0a1022214e523cb"
+   }
+  ],
+  "as_of": "2026-10-07",
+  "status": "press_report",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "KR-E065",
+  "from": {
+   "name": "리노공업",
+   "id": "KRX:058470"
+  },
+  "to": {
+   "name": "Broadcom",
+   "id": "TICKER:AVGO"
+  },
+  "relation": "supplies_to",
+  "what": "테스트 소켓·검사용 금속핀(보도)",
+  "evidence": [
+   {
+    "quote": "리노공업은 엔비디아, 퀄컴, 브로드컴 등 글로벌 로직 반도체 기업에 테스트 소켓과 검사용 금속핀을 공급한다.",
+    "url": "https://www.thelec.kr/news/articleView.html?idxno=63415",
+    "source_kind": "press",
+    "published_at": "2026-10-07",
+    "retrieved_at": "2026-11-10T11:01:17+09:00",
+    "raw_file": "raw/news/n016_0.txt",
+    "text_sha256": "9a7c2fddf2dbf5e21778856b0da95bdc1306540d04b5756f3cf325bea8a25690"
+   }
+  ],
+  "as_of": "2026-10-07",
+  "status": "press_report",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "AI 칩 회사 테스트 수요가 리노공업 매출로 이어지는 통로(리노공업 11/5 -9.53%; 인과 검증 안 함)"
+ }
+]

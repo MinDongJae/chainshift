@@ -1,0 +1,24 @@
+{
+ "date": "2026-06-23",
+ "interp_verdict": "번진다",
+ "interp_cause": "AI 투자 전반",
+ "interp_confidence": "중간",
+ "rechecked": [
+  "N12 theglobeandmail 「Premarket: Nasdaq futures drop over 2% as AI buildout costs, Fed rate outlook weigh」 · N2 proactiveinvestors 「Dow flat, Nasdaq slumps as investors pull back from AI stocks」 · N11 thestar 「Nasdaq 100 set to shed over $1 trillion as tech selloff deepens; SpaceX slides」 · N1 fool.com 「…Sandisk Leads Tech Stock Slide as South Korea Jitters Trigger Global Pullback at Midday」 — 넷 다 묶음에 있음",
+  "N12·N2 는 AI 투자 까닭을 직접 댐. N11 은 「기술주 매도」만 말해 AI 투자 출처로는 약함. N1 은 한국 시장 불안을 대므로 해석 갈래의 근거가 아니라 다른 까닭",
+  "mid 다시 냄: SPY -1.45(±1.5 안) → S 는 시장 대비 -2.52%p, 15/22 — 같음. 규칙 적용 맞음"
+ ],
+ "counter": "다른 까닭(칩 고유 — 한국 시장 급락이 메모리 칩을 침)을 대는 독립 출처 셋: 24/7 Wall St. 「SanDisk Plunges 11%, Micron and Western Digital Slide 10% as Korean Market Crash Hits Memory Chips」 · Yahoo Finance 「Memory Stocks Tumble As South Korean Rout Spreads」 · Benzinga 「Micron, Sandisk And SK Hynix Are Tanking On Korea Selloff — Dan Ives Says That's Not The Story」(모두 2026-06-23). 해석 쪽도 더 나옴: Reuters 「Wall Street ends lower on semiconductor selloff as AI spending concerns mount」 · NPR 「Is AI 'one big bubble'? Behind the tech sell-off」 · The Guardian 「US AI stock sell-off shakes markets from Wall Street to Asia」(모두 2026-06-23)",
+ "final_verdict": "번진다",
+ "cause": "AI 투자 전반",
+ "changed": false,
+ "why": "칩 고유 쪽 3(+fool N1) 대 AI 투자 전반 쪽 5(globeandmail·proactive·Reuters·NPR·Guardian) — 반대 갈래가 더 많지 않아 사전 고정대로 그대로 둠. S -2.52 는 조건을 채움",
+ "confidence": "중간",
+ "tools": [
+  "mid",
+  "news_search: Micron Sandisk stock plunge South Korea (5건)",
+  "news_search: Nasdaq tech selloff AI spending (5건, Yahoo 는 Reuters 옮김)"
+ ],
+ "note": "확신을 높음으로 못 올린 까닭: 메모리·한국 시장이라는 칩 고유 까닭이 셋이나 남고, 민감도를 빼면 S 가 -0.85 로 경계 안쪽. leaked: 「다음 거래일 판정이 틀렸다」만 미리 봄",
+ "written_at": "2026-11-12T00:56:44+09:00"
+}

@@ -1,0 +1,330 @@
+{
+ "window_utc": [
+  "20260518000000",
+  "20260518234500"
+ ],
+ "files": 96,
+ "missing": [],
+ "records": 109557,
+ "hit_records": 299,
+ "by_stage": {
+  "데이터센터 공사": {
+   "n": 3,
+   "tone": 1.93,
+   "dc": 0
+  },
+  "반도체 장비·소재": {
+   "n": 27,
+   "tone": -0.67,
+   "dc": 0
+  },
+  "발전": {
+   "n": 14,
+   "tone": 0.35,
+   "dc": 2
+  },
+  "서버·네트워크·부품": {
+   "n": 38,
+   "tone": 0.53,
+   "dc": 0
+  },
+  "전력·냉각 설비": {
+   "n": 37,
+   "tone": -0.83,
+   "dc": 1
+  },
+  "칩": {
+   "n": 201,
+   "tone": 0.58,
+   "dc": 0
+  }
+ },
+ "by_company": {
+  "NVDA": 98,
+  "MU": 45,
+  "INTC": 44,
+  "WDC": 17,
+  "AMAT": 15,
+  "STX": 14,
+  "ETN": 13,
+  "CEG": 13,
+  "LRCX": 13,
+  "AVGO": 10,
+  "AMD": 10,
+  "CMI": 10,
+  "CSCO": 9,
+  "BE": 9,
+  "MRVL": 7,
+  "TSEM": 4,
+  "ANET": 4,
+  "PWR": 3,
+  "CAT": 3,
+  "JCI": 1,
+  "LOGI": 1,
+  "TT": 1,
+  "SMCI": 1,
+  "CLS": 1,
+  "SEI": 1
+ },
+ "dc_hit_records": 3,
+ "unique_titles": 259,
+ "top": [
+  {
+   "t": "20260518190000",
+   "title": "Why Did Micron Stock Drop Today? | The Motley Fool",
+   "url": "https://www.fool.com/investing/2026/05/18/why-did-micron-stock-drop-today/?source=iedfolrf0000001",
+   "src": "fool.com",
+   "ticks": [
+    "MU",
+    "WDC",
+    "STX"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -0.27,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260518180000",
+   "title": "Dow Jones and Nasdaq climb as oil eases on reports of Iran sanctions lift",
+   "url": "https://www.proactiveinvestors.com/companies/news/1092469/dow-jones-and-nasdaq-climb-as-oil-eases-on-reports-of-iran-sanctions-lift-1092469.html",
+   "src": "proactiveinvestors.com",
+   "ticks": [
+    "AMAT",
+    "WDC",
+    "STX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품"
+   ],
+   "tone": -2.08,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260518180000",
+   "title": "FTSE 100 Live: European stocks climb on Iran-US talks hopes",
+   "url": "https://www.proactiveinvestors.com/companies/news/1092439/ftse-100-live-european-stocks-climb-on-iran-us-talks-hopes-1092439.html",
+   "src": "proactiveinvestors.com",
+   "ticks": [
+    "AMAT",
+    "WDC",
+    "STX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품"
+   ],
+   "tone": -2.02,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260518171500",
+   "title": "Why Did Micron Stock Drop Today?",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-micron-stock-drop-163943515.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "WDC",
+    "STX"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -0.43,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260518043000",
+   "title": "5 Artificial Intelligence (AI) Stocks That Have More Than Doubled This Year and Can Still Go Higher",
+   "url": "https://www.fool.com/investing/2026/05/17/5-artificial-intelligence-ai-stocks-that-have-more/?source=iedfolrf0000001",
+   "src": "fool.com",
+   "ticks": [
+    "MU",
+    "INTC",
+    "BE"
+   ],
+   "stages": [
+    "전력·냉각 설비",
+    "칩"
+   ],
+   "tone": 0.55,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260518161500",
+   "title": "The AI Inference Supercycle Is Here. These 2 Stocks Will Be the Biggest Winners of This Megatrend (Hint: It's Not Broadcom or Intel)",
+   "url": "https://www.fool.com/investing/2026/05/18/the-ai-inference-supercycle-is-here-these-2-stocks/?source=iedfolrf0000001",
+   "src": "fool.com",
+   "ticks": [
+    "AVGO",
+    "MU",
+    "INTC"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 2.5,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20260518234500",
+   "title": "A Utility Mega-Merger Is All About Data Centers - Inside Climate News",
+   "url": "https://insideclimatenews.org/news/18052026/nextera-dominion-utility-mega-merger/",
+   "src": "insideclimatenews.org",
+   "ticks": [
+    "CEG"
+   ],
+   "stages": [
+    "발전"
+   ],
+   "tone": -0.16,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20260518231500",
+   "title": "Business.Scoop &#xBB; NZX Seen Opening Cautiously As Global Markets Turn Defensive",
+   "url": "https://business.scoop.co.nz/2026/05/19/nzx-seen-opening-cautiously-as-global-markets-turn-defensive/",
+   "src": "scoop.co.nz",
+   "ticks": [
+    "MU",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -4.07,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260518221500",
+   "title": "NZX Seen Opening Cautiously As Global Markets Turn Defensive",
+   "url": "https://www.scoop.co.nz/stories/BU2605/S00304/nzx-seen-opening-cautiously-as-global-markets-turn-defensive.htm",
+   "src": "scoop.co.nz",
+   "ticks": [
+    "MU",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -3.55,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260518203000",
+   "title": "From Backup to Prime Power: How AI Data Centers Are Bypassing the Grid",
+   "url": "https://www.powermag.com/from-backup-to-prime-power-how-ai-data-centers-are-bypassing-the-grid/",
+   "src": "powermag.com",
+   "ticks": [
+    "BE"
+   ],
+   "stages": [
+    "전력·냉각 설비"
+   ],
+   "tone": -0.61,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20260518201500",
+   "title": "FinancialContent - Lam Research and KLA Corporation Stocks Trade Down, What You Need To Know",
+   "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-5-18-lam-research-and-kla-corporation-stocks-trade-down-what-you-need-to-know",
+   "src": "financialcontent.com",
+   "ticks": [
+    "MU",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -1.92,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260518201500",
+   "title": "FinancialContent - MACOM, Applied Materials, and Photronics Shares Are Falling, What You Need To Know",
+   "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-5-18-macom-applied-materials-and-photronics-shares-are-falling-what-you-need-to-know",
+   "src": "financialcontent.com",
+   "ticks": [
+    "MU",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.19,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260518201500",
+   "title": "FinancialContent - Himax, Western Digital, and Amkor Shares Are Falling, What You Need To Know",
+   "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-5-18-himax-western-digital-and-amkor-shares-are-falling-what-you-need-to-know",
+   "src": "financialcontent.com",
+   "ticks": [
+    "MU",
+    "WDC"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -1.03,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260518183000",
+   "title": "Promising Manufacturing Stocks To Watch Today &#x2013; May 18th",
+   "url": "https://www.dailypolitical.com/2026/05/18/promising-manufacturing-stocks-to-watch-today-may-18th.html",
+   "src": "dailypolitical.com",
+   "ticks": [
+    "AMAT",
+    "JCI"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "전력·냉각 설비"
+   ],
+   "tone": 2.12,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260518174500",
+   "title": "Nasdaq Composite Falls Back To 26,000 In Test Of Support",
+   "url": "https://thebull.com.au/us-news/nasdaq-composite-falls-back-to-26000-in-test-of-support/",
+   "src": "thebull.com.au",
+   "ticks": [
+    "MRVL",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -3.72,
+   "dc": false,
+   "score": 6
+  }
+ ],
+ "seconds": 260
+}

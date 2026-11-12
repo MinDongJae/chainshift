@@ -1,0 +1,349 @@
+{
+ "window_utc": [
+  "20260914000000",
+  "20260914234500"
+ ],
+ "files": 96,
+ "missing": [],
+ "records": 102105,
+ "hit_records": 481,
+ "by_stage": {
+  "데이터센터 공사": {
+   "n": 2,
+   "tone": 0.61,
+   "dc": 0
+  },
+  "반도체 장비·소재": {
+   "n": 72,
+   "tone": 4.12,
+   "dc": 0
+  },
+  "발전": {
+   "n": 5,
+   "tone": 1.94,
+   "dc": 0
+  },
+  "서버·네트워크·부품": {
+   "n": 26,
+   "tone": 0.65,
+   "dc": 0
+  },
+  "전력·냉각 설비": {
+   "n": 41,
+   "tone": -1.65,
+   "dc": 4
+  },
+  "칩": {
+   "n": 361,
+   "tone": -0.54,
+   "dc": 2
+  }
+ },
+ "by_company": {
+  "MU": 183,
+  "NVDA": 95,
+  "AMAT": 70,
+  "LRCX": 69,
+  "AMD": 48,
+  "MRVL": 39,
+  "BE": 25,
+  "AVGO": 25,
+  "INTC": 14,
+  "WDC": 12,
+  "ETN": 10,
+  "CRDO": 6,
+  "CAT": 5,
+  "CSCO": 4,
+  "STX": 4,
+  "SMCI": 3,
+  "CLS": 3,
+  "CEG": 3,
+  "ANET": 3,
+  "SEI": 2,
+  "PWR": 2,
+  "CMI": 1,
+  "GEV": 1,
+  "TER": 1,
+  "TSEM": 1
+ },
+ "dc_hit_records": 6,
+ "unique_titles": 209,
+ "top": [
+  {
+   "t": "20260914231500",
+   "title": "investingLive Americas FX news wrap 14 Sept: It's a Wrap: Oil tops $100 as higher yields and AI worries pressure stocks",
+   "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-14-sept-it-s-a-wrap-oil-tops-100-as-higher-yields-and-ai-worries-pressure-stocks/",
+   "src": "investinglive.com",
+   "ticks": [
+    "MRVL",
+    "CRDO",
+    "AMAT",
+    "LRCX",
+    "SMCI"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -0.2,
+   "dc": false,
+   "score": 13
+  },
+  {
+   "t": "20260914233000",
+   "title": "Markets live updates: ASX to fall following moves on Wall Street, price of oil continues rising",
+   "url": "https://www.abc.net.au/news/2026-09-15/asx-markets-business-news-live-updates-tuesday-15-september/107153476",
+   "src": "abc.net.au",
+   "ticks": [
+    "AMD",
+    "AMAT",
+    "LRCX",
+    "BE"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "전력·냉각 설비",
+    "칩"
+   ],
+   "tone": -4.36,
+   "dc": false,
+   "score": 11
+  },
+  {
+   "t": "20260914223000",
+   "title": "Trump says calls for more control on AI are a 'SICK conspiracy'&#xA0; - Dominican Republic Post &#x2013; Caribbean News, Business, Travel & Culture",
+   "url": "https://dominicanrepublicpost.com/trump-says-calls-for-more-control-on-ai-are-a-sick-conspiracy/",
+   "src": "dominicanrepublicpost.com",
+   "ticks": [
+    "AMD",
+    "AMAT",
+    "LRCX",
+    "BE"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "전력·냉각 설비",
+    "칩"
+   ],
+   "tone": -3.8,
+   "dc": false,
+   "score": 11
+  },
+  {
+   "t": "20260914210000",
+   "title": "Global AI stocks fall as industry chiefs call for slowing development",
+   "url": "https://www.livemint.com/market/global-ai-stocks-fall-as-industry-chiefs-call-for-slowing-development-11789410675140.html",
+   "src": "livemint.com",
+   "ticks": [
+    "AMD",
+    "AMAT",
+    "LRCX",
+    "BE"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "전력·냉각 설비",
+    "칩"
+   ],
+   "tone": -5.4,
+   "dc": false,
+   "score": 11
+  },
+  {
+   "t": "20260914001500",
+   "title": "Beyond Nvidia: Finding Opportunity In The AI Buildout",
+   "url": "https://seekingalpha.com/article/4945868-beyond-nvidia-finding-opportunity-in-the-ai-buildout",
+   "src": "seekingalpha.com",
+   "ticks": [
+    "NVDA",
+    "CRDO",
+    "ANET",
+    "BE"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "전력·냉각 설비",
+    "칩"
+   ],
+   "tone": 0.93,
+   "dc": false,
+   "score": 11
+  },
+  {
+   "t": "20260914204500",
+   "title": "AI and chip stocks tumble as weekend warnings challenge the sector's growth assumptions",
+   "url": "https://investinglive.com/stocks/ai-and-chip-stocks-tumble-as-weekend-warnings-challenge-the-sector-s-growth-assumptions/",
+   "src": "investinglive.com",
+   "ticks": [
+    "MRVL",
+    "CRDO",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -2.07,
+   "dc": false,
+   "score": 10
+  },
+  {
+   "t": "20260914161500",
+   "title": "US market crash: Nvidia, Intel among chip stocks plunging up to 9.5% as AI slowdown fears hit Wall Street",
+   "url": "https://www.livemint.com/market/stock-market-news/us-market-crash-nvidia-intel-among-chip-stocks-plunging-up-to-9-5-as-ai-slowdown-fears-hit-wall-street-11789395371565.html",
+   "src": "livemint.com",
+   "ticks": [
+    "NVDA",
+    "AMD",
+    "INTC",
+    "MRVL"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -2.54,
+   "dc": false,
+   "score": 9
+  },
+  {
+   "t": "20260914194500",
+   "title": "Stocks making the biggest moves midday: ZS, CRWD, MRVL, RUM",
+   "url": "https://www.cnbc.com/2026/09/14/stocks-making-the-biggest-moves-midday-zs-crwd-mrvl-rum.html",
+   "src": "cnbc.com",
+   "ticks": [
+    "AMD",
+    "MRVL",
+    "SMCI"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 1.25,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260914174500",
+   "title": "FinancialContent - Why Western Digital (WDC) Stock Is Trading Lower Today",
+   "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-9-14-why-western-digital-wdc-stock-is-trading-lower-today",
+   "src": "financialcontent.com",
+   "ticks": [
+    "AMD",
+    "MRVL",
+    "WDC"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -0.18,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260914153000",
+   "title": "SanDisk Shares Sink 5.18% as DeepSeek's Leaner AI Model Rattles Memory Chip Stocks Worldwide Once Again",
+   "url": "https://www.ibtimes.com.au/sandisk-shares-fall-deepseek-memory-demand-1875511",
+   "src": "ibtimes.com.au",
+   "ticks": [
+    "MU",
+    "WDC",
+    "STX"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -0.09,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260914174500",
+   "title": "Marvell Falls 7% as AI Pacing Debate Collides With Fed Week; Broadcom Drops 4%, NVIDIA Pulls Back",
+   "url": "https://www.aol.com/articles/marvell-falls-7-ai-pacing-164330000.html",
+   "src": "aol.com",
+   "ticks": [
+    "NVDA",
+    "AVGO",
+    "MRVL"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -3.16,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20260914144500",
+   "title": "Broadcom Stock Falls 4.45% as AI Slowdown Fears Deepen Chipmaker's Margin Compression Worries Monday",
+   "url": "https://www.ibtimes.com.au/broadcom-shares-fall-ai-safety-margin-concerns-1875506",
+   "src": "ibtimes.com.au",
+   "ticks": [
+    "AVGO",
+    "MU",
+    "MRVL"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -2.34,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20260914141500",
+   "title": "Nvidia Shares Slide 3.15% as Industry Calls to Slow AI Development Rattle the Chip Giant's Investors",
+   "url": "https://www.ibtimes.com.au/nvidia-shares-fall-ai-development-slowdown-1875499",
+   "src": "ibtimes.com.au",
+   "ticks": [
+    "NVDA",
+    "AMD",
+    "MRVL"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -2.79,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20260914123000",
+   "title": "US market prediction today: S&P 500, Nasdaq futures fall up to 1.8% as AI fears hit Nvidia, Intel",
+   "url": "https://www.livemint.com/market/us-market-prediction-today-s-p-500-nasdaq-futures-fall-up-to-1-8-as-ai-fears-hit-nvidia-intel-11789383055242.html",
+   "src": "livemint.com",
+   "ticks": [
+    "NVDA",
+    "INTC",
+    "MRVL"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -4.4,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20260914234500",
+   "title": "US Data Centers To Burn More Natural Gas Than Most Nations",
+   "url": "https://www.zerohedge.com/energy/us-data-centers-burn-more-natural-gas-most-nations",
+   "src": "zerohedge.com",
+   "ticks": [
+    "BE"
+   ],
+   "stages": [
+    "전력·냉각 설비"
+   ],
+   "tone": -1.36,
+   "dc": true,
+   "score": 6
+  }
+ ],
+ "seconds": 247
+}

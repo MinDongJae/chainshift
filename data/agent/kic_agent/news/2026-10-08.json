@@ -1,0 +1,320 @@
+{
+ "window_utc": [
+  "20261008000000",
+  "20261008234500"
+ ],
+ "files": 96,
+ "missing": [],
+ "records": 117045,
+ "hit_records": 555,
+ "by_stage": {
+  "데이터센터 공사": {
+   "n": 5,
+   "tone": 1.58,
+   "dc": 0
+  },
+  "반도체 장비·소재": {
+   "n": 22,
+   "tone": 0.87,
+   "dc": 0
+  },
+  "발전": {
+   "n": 15,
+   "tone": 0.41,
+   "dc": 0
+  },
+  "서버·네트워크·부품": {
+   "n": 45,
+   "tone": 1.72,
+   "dc": 1
+  },
+  "전력·냉각 설비": {
+   "n": 31,
+   "tone": 0.19,
+   "dc": 3
+  },
+  "칩": {
+   "n": 447,
+   "tone": 2.59,
+   "dc": 3
+  }
+ },
+ "by_company": {
+  "AMD": 238,
+  "NVDA": 104,
+  "MU": 53,
+  "INTC": 29,
+  "MRVL": 24,
+  "AVGO": 21,
+  "AMAT": 19,
+  "ANET": 16,
+  "CEG": 14,
+  "BE": 13,
+  "CMI": 13,
+  "LRCX": 9,
+  "CSCO": 9,
+  "WDC": 7,
+  "STX": 7,
+  "SMCI": 5,
+  "LOGI": 5,
+  "PWR": 5,
+  "TSEM": 3,
+  "JCI": 2,
+  "CAT": 2,
+  "SEI": 1,
+  "CRDO": 1,
+  "ETN": 1,
+  "GEV": 1,
+  "TER": 1
+ },
+ "dc_hit_records": 7,
+ "unique_titles": 347,
+ "top": [
+  {
+   "t": "20261008214500",
+   "title": "XLG Cuts the S&P 500 Down to 50 Stocks. The Result Is an Index Fund Built Entirely Around Mega-Caps",
+   "url": "https://247wallst.com/investing/etf/2026/10/08/xlg-cuts-the-sp-500-down-to-50-stocks-the-result-is-an-index-fund-built-entirely-around-mega-caps/",
+   "src": "247wallst.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -1.05,
+   "dc": false,
+   "score": 10
+  },
+  {
+   "t": "20261008123000",
+   "title": "Technology Stocks To Follow Now &#x2013; October 7th",
+   "url": "https://www.tickerreport.com/banking-finance/13612172/technology-stocks-to-follow-now-october-7th.html",
+   "src": "tickerreport.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "MRVL"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 0.67,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20261008234500",
+   "title": "Australian Nvidia-backed AI data centre operator Firmus scraps $5 billion IPO &#x2013; KSEV Radio",
+   "url": "https://ksevradio.com/australian-nvidia-backed-ai-data-centre-operator-firmus-scraps-5-billion-ipo/",
+   "src": "ksevradio.com",
+   "ticks": [
+    "NVDA"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 0.0,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20261008214500",
+   "title": "Applied Materials (NASDAQ:AMAT) Stock Price Down 2.1% &#x2013; Time to Sell?",
+   "url": "https://www.themarketsdaily.com/2026/10/08/applied-materials-nasdaqamat-stock-price-down-2-1-time-to-sell.html",
+   "src": "themarketsdaily.com",
+   "ticks": [
+    "MRVL",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 1.88,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20261008204500",
+   "title": "From Force Majeure To Forced Haulage: Oracle Is Now Trucking Natural Gas To Its AI Data Centers",
+   "url": "https://www.zerohedge.com/technology/force-majeure-forced-haulage-oracle-now-trucking-natural-gas-its-ai-data-centers",
+   "src": "zerohedge.com",
+   "ticks": [
+    "BE"
+   ],
+   "stages": [
+    "전력·냉각 설비"
+   ],
+   "tone": 0.31,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20261008200000",
+   "title": "Oracle moves gas by trucks to keep its AI data centres on schedule",
+   "url": "https://thenextweb.com/news/oracle-trucked-gas-data-centres-europe",
+   "src": "thenextweb.com",
+   "ticks": [
+    "BE"
+   ],
+   "stages": [
+    "전력·냉각 설비"
+   ],
+   "tone": -1.94,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20261008193000",
+   "title": "Another One Bites The Dust: Nvidia-Backed Firmus Slashes IPO Price 25% As AI Data Center Window Slams Shut",
+   "url": "http://www.zerohedge.com/markets/another-one-bites-dust-nvidia-backed-firmus-slashes-ipo-price-25-ai-data-center-window",
+   "src": "zerohedge.com",
+   "ticks": [
+    "NVDA"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -1.55,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20261008164500",
+   "title": "Broadcom Redefines AI Infrastructure with Industry-Leading Networking Innovations at 2026 OCP Global Summit",
+   "url": "https://www.manilatimes.net/2026/10/09/tmt-newswire/globenewswire/broadcom-redefines-ai-infrastructure-with-industry-leading-networking-innovations-at-2026-ocp-global-summit/2442083",
+   "src": "manilatimes.net",
+   "ticks": [
+    "AVGO",
+    "ANET"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 2.81,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20261008094500",
+   "title": "&#x200B;Applied Materials, Intel Partner on Next-Generation Chip Manufacturing Technology",
+   "url": "https://www.design-reuse.com/news/202531240--applied-materials-intel-partner-on-next-generation-chip-manufacturing-technology/",
+   "src": "design-reuse.com",
+   "ticks": [
+    "INTC",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 4.31,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20261008083000",
+   "title": "Intel and Applied hook up on process &#x22C6; Electronics Weekly",
+   "url": "https://www.electronicsweekly.com/news/business/intel-and-applied-hook-up-on-process-2026-10/",
+   "src": "electronicsweekly.com",
+   "ticks": [
+    "INTC",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 3.48,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20261008050000",
+   "title": "Applied Materials vs. Marvell Technology: What Revenue Trends Tell Investors About These Artificial Intelligence Companies",
+   "url": "https://www.fool.com/coverage/charts/2026/10/07/applied-materials-vs-marvell-technology-what-revenue-trends-tell-investors-about-these-artificial-intelligence-companies/?source=iedfolrf0000001",
+   "src": "fool.com",
+   "ticks": [
+    "MRVL",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 1.62,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20261008011500",
+   "title": "Memory Stocks Slip: Micron Strike Risk, Softer NAND Prices, Toshiba Capacity Bet",
+   "url": "https://www.techtimes.com/articles/328715/20261007/memory-stocks-slip-micron-strike-risk-softer-nand-prices-toshiba-capacity-bet.htm",
+   "src": "techtimes.com",
+   "ticks": [
+    "MU",
+    "WDC"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -0.57,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20261008010000",
+   "title": "Cramer's Two-Market Theory: Why Oracle Is the Odd Stock Out",
+   "url": "https://247wallst.com/cards/ai-and-data-center-names-no-longer-trade-off-treasury-auctio-nvda-podcast-episode-01m4cd5hsyv7sphd7xq43axbns",
+   "src": "247wallst.com",
+   "ticks": [
+    "WDC"
+   ],
+   "stages": [
+    "서버·네트워크·부품"
+   ],
+   "tone": 0.0,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20261008234500",
+   "title": "Applied Materials, Inc. $AMAT Stock Purchased by Farther Finance Advisors LLC",
+   "url": "https://www.dailypolitical.com/2026/10/08/applied-materials-inc-amat-stock-purchased-by-farther-finance-advisors-llc.html",
+   "src": "dailypolitical.com",
+   "ticks": [
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재"
+   ],
+   "tone": 1.56,
+   "dc": false,
+   "score": 5
+  },
+  {
+   "t": "20261008223000",
+   "title": "Nvidia vs. Broadcom: Which AI Chip Stock Is the Better Buy for the Next 5 Years?",
+   "url": "https://www.fool.com/investing/2026/10/08/nvidia-vs-broadcom-which-ai-chip-stock-is-the-bett/?source=iedfolrf0000001",
+   "src": "fool.com",
+   "ticks": [
+    "NVDA",
+    "AVGO"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 1.56,
+   "dc": false,
+   "score": 5
+  }
+ ],
+ "seconds": 246
+}

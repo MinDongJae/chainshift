@@ -1,0 +1,466 @@
+{
+ "NVDA": {
+  "stage": "칩",
+  "keys": [
+   "nvidia"
+  ],
+  "sec_name": "NVIDIA CORP",
+  "single": true
+ },
+ "AVGO": {
+  "stage": "칩",
+  "keys": [
+   "broadcom"
+  ],
+  "sec_name": "Broadcom Inc.",
+  "single": true
+ },
+ "MU": {
+  "stage": "칩",
+  "keys": [
+   "micron technology"
+  ],
+  "sec_name": "MICRON TECHNOLOGY INC",
+  "single": false
+ },
+ "AMD": {
+  "stage": "칩",
+  "keys": [
+   "advanced micro devices"
+  ],
+  "sec_name": "ADVANCED MICRO DEVICES INC",
+  "single": false
+ },
+ "INTC": {
+  "stage": "칩",
+  "keys": [
+   "intel"
+  ],
+  "sec_name": "INTEL CORP",
+  "single": true
+ },
+ "MRVL": {
+  "stage": "칩",
+  "keys": [
+   "marvell technology"
+  ],
+  "sec_name": "Marvell Technology, Inc.",
+  "single": false
+ },
+ "ALAB": {
+  "stage": "칩",
+  "keys": [
+   "astera labs"
+  ],
+  "sec_name": "Astera Labs, Inc.",
+  "single": false
+ },
+ "CRDO": {
+  "stage": "칩",
+  "keys": [
+   "credo technology"
+  ],
+  "sec_name": "Credo Technology Group Holding Ltd",
+  "single": false
+ },
+ "TSEM": {
+  "stage": "칩",
+  "keys": [
+   "tower semiconductor"
+  ],
+  "sec_name": "TOWER SEMICONDUCTOR LTD",
+  "single": false
+ },
+ "AMAT": {
+  "stage": "반도체 장비·소재",
+  "keys": [
+   "applied materials"
+  ],
+  "sec_name": "APPLIED MATERIALS INC /DE",
+  "single": false
+ },
+ "LRCX": {
+  "stage": "반도체 장비·소재",
+  "keys": [
+   "lam research"
+  ],
+  "sec_name": "LAM RESEARCH CORP",
+  "single": false
+ },
+ "KLAC": {
+  "stage": "반도체 장비·소재",
+  "keys": [
+   "kla"
+  ],
+  "sec_name": "KLA CORP",
+  "single": true
+ },
+ "TER": {
+  "stage": "반도체 장비·소재",
+  "keys": [
+   "teradyne"
+  ],
+  "sec_name": "TERADYNE, INC",
+  "single": true
+ },
+ "Q": {
+  "stage": "반도체 장비·소재",
+  "keys": [
+   "qnity electronics"
+  ],
+  "sec_name": "Qnity Electronics, Inc.",
+  "single": false
+ },
+ "ENTG": {
+  "stage": "반도체 장비·소재",
+  "keys": [
+   "entegris"
+  ],
+  "sec_name": "ENTEGRIS INC",
+  "single": true
+ },
+ "SOLS": {
+  "stage": "반도체 장비·소재",
+  "keys": [
+   "solstice advanced materials"
+  ],
+  "sec_name": "Solstice Advanced Materials Inc.",
+  "single": false
+ },
+ "NVMI": {
+  "stage": "반도체 장비·소재",
+  "keys": [
+   "nova"
+  ],
+  "sec_name": "NOVA LTD.",
+  "single": true
+ },
+ "CSCO": {
+  "stage": "서버·네트워크·부품",
+  "keys": [
+   "cisco systems"
+  ],
+  "sec_name": "CISCO SYSTEMS, INC.",
+  "single": false
+ },
+ "WDC": {
+  "stage": "서버·네트워크·부품",
+  "keys": [
+   "western digital"
+  ],
+  "sec_name": "WESTERN DIGITAL CORP",
+  "single": false
+ },
+ "STX": {
+  "stage": "서버·네트워크·부품",
+  "keys": [
+   "seagate technology"
+  ],
+  "sec_name": "Seagate Technology Holdings plc",
+  "single": false
+ },
+ "APH": {
+  "stage": "서버·네트워크·부품",
+  "keys": [
+   "amphenol"
+  ],
+  "sec_name": "AMPHENOL CORP /DE/",
+  "single": true
+ },
+ "GLW": {
+  "stage": "서버·네트워크·부품",
+  "keys": [
+   "corning"
+  ],
+  "sec_name": "CORNING INC /NY",
+  "single": true
+ },
+ "ANET": {
+  "stage": "서버·네트워크·부품",
+  "keys": [
+   "arista networks"
+  ],
+  "sec_name": "Arista Networks, Inc.",
+  "single": false
+ },
+ "DELL": {
+  "stage": "서버·네트워크·부품",
+  "keys": [
+   "dell technologies"
+  ],
+  "sec_name": "Dell Technologies Inc.",
+  "single": false
+ },
+ "KEYS": {
+  "stage": "서버·네트워크·부품",
+  "keys": [
+   "keysight technologies"
+  ],
+  "sec_name": "Keysight Technologies, Inc.",
+  "single": false
+ },
+ "CIEN": {
+  "stage": "서버·네트워크·부품",
+  "keys": [
+   "ciena"
+  ],
+  "sec_name": "CIENA CORP",
+  "single": true
+ },
+ "HPE": {
+  "stage": "서버·네트워크·부품",
+  "keys": [
+   "hewlett packard enterprise"
+  ],
+  "sec_name": "Hewlett Packard Enterprise Co",
+  "single": false
+ },
+ "COHR": {
+  "stage": "서버·네트워크·부품",
+  "keys": [
+   "coherent"
+  ],
+  "sec_name": "COHERENT CORP.",
+  "single": true
+ },
+ "FLEX": {
+  "stage": "서버·네트워크·부품",
+  "keys": [
+   "flex"
+  ],
+  "sec_name": "FLEX LTD.",
+  "single": true
+ },
+ "LITE": {
+  "stage": "서버·네트워크·부품",
+  "keys": [
+   "lumentum"
+  ],
+  "sec_name": "Lumentum Holdings Inc.",
+  "single": true
+ },
+ "TEL": {
+  "stage": "서버·네트워크·부품",
+  "keys": [
+   "te connectivity"
+  ],
+  "sec_name": "TE Connectivity plc",
+  "single": false
+ },
+ "CLS": {
+  "stage": "서버·네트워크·부품",
+  "keys": [
+   "celestica"
+  ],
+  "sec_name": "CELESTICA INC",
+  "single": true
+ },
+ "JBL": {
+  "stage": "서버·네트워크·부품",
+  "keys": [
+   "jabil"
+  ],
+  "sec_name": "JABIL INC",
+  "single": true
+ },
+ "NTAP": {
+  "stage": "서버·네트워크·부품",
+  "keys": [
+   "netapp"
+  ],
+  "sec_name": "NetApp, Inc.",
+  "single": true
+ },
+ "P": {
+  "stage": "서버·네트워크·부품",
+  "keys": [
+   "everpure"
+  ],
+  "sec_name": "Everpure, Inc.",
+  "single": true
+ },
+ "FN": {
+  "stage": "서버·네트워크·부품",
+  "keys": [
+   "fabrinet"
+  ],
+  "sec_name": "Fabrinet",
+  "single": true
+ },
+ "HPQ": {
+  "stage": "서버·네트워크·부품",
+  "keys": [
+   "hp"
+  ],
+  "sec_name": "HP INC",
+  "single": true
+ },
+ "LOGI": {
+  "stage": "서버·네트워크·부품",
+  "keys": [
+   "logitech international"
+  ],
+  "sec_name": "LOGITECH INTERNATIONAL S.A.",
+  "single": false
+ },
+ "SMCI": {
+  "stage": "서버·네트워크·부품",
+  "keys": [
+   "super micro computer"
+  ],
+  "sec_name": "Super Micro Computer, Inc.",
+  "single": false
+ },
+ "CAT": {
+  "stage": "전력·냉각 설비",
+  "keys": [
+   "caterpillar"
+  ],
+  "sec_name": "CATERPILLAR INC",
+  "single": true
+ },
+ "GEV": {
+  "stage": "전력·냉각 설비",
+  "keys": [
+   "ge vernova"
+  ],
+  "sec_name": "GE Vernova Inc.",
+  "single": false
+ },
+ "ETN": {
+  "stage": "전력·냉각 설비",
+  "keys": [
+   "eaton"
+  ],
+  "sec_name": "Eaton Corp plc",
+  "single": true
+ },
+ "VRT": {
+  "stage": "전력·냉각 설비",
+  "keys": [
+   "vertiv"
+  ],
+  "sec_name": "Vertiv Holdings Co",
+  "single": true
+ },
+ "CMI": {
+  "stage": "전력·냉각 설비",
+  "keys": [
+   "cummins"
+  ],
+  "sec_name": "CUMMINS INC",
+  "single": true
+ },
+ "JCI": {
+  "stage": "전력·냉각 설비",
+  "keys": [
+   "johnson controls international"
+  ],
+  "sec_name": "Johnson Controls International plc",
+  "single": false
+ },
+ "TT": {
+  "stage": "전력·냉각 설비",
+  "keys": [
+   "trane technologies"
+  ],
+  "sec_name": "Trane Technologies plc",
+  "single": false
+ },
+ "BE": {
+  "stage": "전력·냉각 설비",
+  "keys": [
+   "bloom energy"
+  ],
+  "sec_name": "Bloom Energy Corp",
+  "single": false
+ },
+ "HUBB": {
+  "stage": "전력·냉각 설비",
+  "keys": [
+   "hubbell"
+  ],
+  "sec_name": "HUBBELL INC",
+  "single": true
+ },
+ "CW": {
+  "stage": "전력·냉각 설비",
+  "keys": [
+   "curtiss wright"
+  ],
+  "sec_name": "CURTISS WRIGHT CORP",
+  "single": false
+ },
+ "BWXT": {
+  "stage": "전력·냉각 설비",
+  "keys": [
+   "bwx technologies"
+  ],
+  "sec_name": "BWX Technologies, Inc.",
+  "single": false
+ },
+ "PWR": {
+  "stage": "데이터센터 공사",
+  "keys": [
+   "quanta services"
+  ],
+  "sec_name": "QUANTA SERVICES, INC.",
+  "single": false
+ },
+ "FIX": {
+  "stage": "데이터센터 공사",
+  "keys": [
+   "comfort systems usa"
+  ],
+  "sec_name": "COMFORT SYSTEMS USA INC",
+  "single": false
+ },
+ "EME": {
+  "stage": "데이터센터 공사",
+  "keys": [
+   "emcor"
+  ],
+  "sec_name": "EMCOR Group, Inc.",
+  "single": true
+ },
+ "MTZ": {
+  "stage": "데이터센터 공사",
+  "keys": [
+   "mastec"
+  ],
+  "sec_name": "MASTEC INC",
+  "single": true
+ },
+ "SEI": {
+  "stage": "발전",
+  "keys": [
+   "solaris energy infrastructure"
+  ],
+  "sec_name": "Solaris Energy Infrastructure, Inc.",
+  "single": false
+ },
+ "VST": {
+  "stage": "발전",
+  "keys": [
+   "vistra"
+  ],
+  "sec_name": "Vistra Corp.",
+  "single": true
+ },
+ "CEG": {
+  "stage": "발전",
+  "keys": [
+   "constellation energy"
+  ],
+  "sec_name": "Constellation Energy Corp",
+  "single": false
+ },
+ "NRG": {
+  "stage": "발전",
+  "keys": [
+   "nrg energy"
+  ],
+  "sec_name": "NRG ENERGY, INC.",
+  "single": false
+ }
+}

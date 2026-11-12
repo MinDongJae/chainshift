@@ -1,0 +1,34 @@
+{
+ "date": "2026-07-01",
+ "seen": [
+  "pack: cases/2026-07-01/materials.md 기사 제목 12개(2026-06-30~07-01)·공시 0건",
+  "mid: prices_long.csv.gz 2026-07-01 까지",
+  "newsstat: news/2026-07-01.json"
+ ],
+ "tools": [
+  {
+   "name": "mid",
+   "why": "늘 봄"
+  },
+  {
+   "name": "newsstat",
+   "why": "조건은 찼으나 전력 쪽에 반대 소식이 있는지 찾아보려고"
+  }
+ ],
+ "cause": "AI 투자 전반",
+ "evidence": [
+  "thebull.com.au 2026-07-01 「Nasdaq Composite Slides as AI Infrastructure Sells Down To Start H2」",
+  "indiatimes.com 2026-07-01 16:15 UTC 「Wall Street under pressure as Nvidia, AMD and Micron lead AI stock sell-off」",
+  "cnbc.com 2026-07-01 「Chip stocks notched record rallies in second quarter start Q3 with dud」",
+  "businessinsider.com 2026-07-01 「'Big Short' Michael Burry Bets Against Tesla, Nvidia, Caterpillar」 — 전력·냉각 설비 단계의 캐터필러가 나쁜 소식에 직접 나옴",
+  "rockymounttelegram.com(AP) 2026-07-01 「Most US stocks rise, but drops for tech pull indexes lower」",
+  "mid: SPY -0.14% 인데 장비·소재 -8.76%p(8/8) · 서버·부품 -3.23%p(18/22, 코닝 -13.6)",
+  "newsstat: 전력·냉각 설비 기사 35건 어조 +1.29, 발전 +1.58, 데이터센터 공사 +1.16 — 전력 쪽 기사는 좋았음"
+ ],
+ "verdict": "번진다",
+ "confidence": "낮음",
+ "counter": "전력 쪽 세 단계의 그날 기사 어조가 모두 좋았다(+1.16~+1.58). 「대부분의 주식은 올랐다」(AP)는 분기 첫날 기술주에서 다른 업종으로 돈이 옮겨 간 날로 읽을 수 있고, 그러면 산업재로 묶이는 전력 설비주는 오히려 받았을 수 있다. 장비·소재가 칩보다 더 빠진 것(-8.76 대 -6.53)은 반도체 안쪽 일이라는 신호일 수 있다.",
+ "note": "조건: (가) AI 인프라 매도를 까닭으로 댄 출처 둘(thebull · indiatimes) + 캐터필러 직접 등장, (나) S=-3.23 ≤ -1.0. 반대 근거(전력 쪽 어조 좋음 · 업종 갈아타기)가 남아 확신 낮음.",
+ "dropped": 0,
+ "written_at": "2026-11-12T00:47:02+09:00"
+}

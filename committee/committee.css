@@ -1,0 +1,58 @@
+/* 여러 담당자의 의견 모으기 — 꾸밈. 모두 #committee 안에서만 먹는다.
+   색은 화면이 이미 정해 둔 값(--ink · --bg · --lime · --sub · --gray)을 따르고, 없으면 옆의 기본값을 쓴다.
+   모서리는 각지게, 그림자 · 번짐 없음. */
+#committee{--cm-ink:var(--ink,#1c1b19);--cm-bg:var(--bg,#f3f3e9);--cm-acc:var(--lime,#f25c05);--cm-sub:var(--sub,#77756c);--cm-line:var(--gray,#b9b7ad);
+  margin:14px 0 0;padding:14px 16px 16px;border:2px solid var(--cm-ink);background:#fffcf8;color:#1c1b19;text-align:left;font-size:15px;line-height:1.55}
+#committee[hidden]{display:none}
+#committee *{box-sizing:border-box}
+#committee .cm-title{margin:0 0 10px;font-size:17px;font-weight:800;letter-spacing:-.01em;color:#1c1b19}
+#committee .cm-role{border-top:1px solid var(--cm-line);padding:12px 0 4px}
+#committee .cm-role header{display:flex;align-items:baseline;gap:8px}
+#committee .cm-k{flex:none;width:24px;height:24px;display:inline-grid;place-items:center;background:#1c1b19;color:#fffcf8;font-weight:800;font-size:14px}
+#committee h3{margin:0;font-size:16px;font-weight:700;color:#1c1b19}
+#committee h4{margin:14px 0 6px;font-size:14px;font-weight:800;color:#1c1b19;border-left:4px solid var(--cm-acc);padding-left:8px}
+#committee h5{margin:8px 0 4px;font-size:13.5px;font-weight:700;color:#1c1b19}
+#committee p{margin:4px 0}
+#committee .cm-why{color:#1c1b19}
+#committee .cm-note{color:var(--cm-sub);font-size:13.5px}
+#committee .cm-warn{color:#1c1b19;font-size:14px;border-left:4px solid #1c1b19;padding-left:8px;margin-top:8px}
+#committee .cm-act{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:8px 0 6px}
+#committee .cm-act label{font-size:13.5px;color:var(--cm-sub)}
+#committee select,#committee button{font:inherit;font-size:14px;border:2px solid #1c1b19;border-radius:0;background:#fffcf8;color:#1c1b19;padding:6px 12px;min-height:38px;cursor:pointer}
+#committee .cm-go{background:var(--cm-acc);color:#fffcf8;border-color:var(--cm-acc);font-weight:700}
+#committee button:disabled{opacity:.45;cursor:not-allowed}
+#committee .cm-stop{background:#1c1b19;color:#fffcf8}
+#committee button:focus-visible,#committee select:focus-visible{outline:3px solid var(--cm-acc);outline-offset:2px}
+#committee ul{margin:0;padding:0;list-style:none}
+#committee .cm-mem{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:6px;margin:6px 0}
+#committee .cm-mem li{border:1px solid var(--cm-line);padding:6px 8px;display:grid;gap:1px}
+#committee .cm-mem li.off{opacity:.55}
+#committee .cm-mem span{font-size:13px;color:var(--cm-sub)}
+#committee .cm-mem em{font-style:normal;font-size:13px;color:var(--cm-acc);min-height:1.2em}
+#committee .cm-op{border:1px solid var(--cm-line);padding:6px 10px;margin:6px 0}
+#committee .cm-op li,#committee .cm-list li{padding:4px 0;border-top:1px dotted var(--cm-line)}
+#committee .cm-op li:first-child,#committee .cm-list li:first-child{border-top:0}
+#committee .cm-by{font-size:12.5px;color:var(--cm-sub);margin-right:4px}
+#committee .cm-ref{font-size:12px;border:1px solid var(--cm-line);padding:0 4px;white-space:nowrap}
+#committee .cm-about{display:block;font-size:13.5px;color:var(--cm-sub)}
+#committee .cm-about b{color:#1c1b19;font-weight:700}
+#committee .cm-cnt{font-size:12.5px;color:var(--cm-sub);white-space:nowrap}
+#committee .cm-v{font-style:normal;font-weight:700;font-size:13px;padding:0 5px;border:1px solid #1c1b19}
+#committee .cm-v-a{background:#1c1b19;color:#fffcf8}
+#committee .cm-v-d{background:var(--cm-acc);border-color:var(--cm-acc);color:#fffcf8}
+#committee .cm-v-h{background:transparent}
+#committee .cm-ch{font-size:12.5px;font-weight:700;color:var(--cm-acc)}
+#committee .cm-said{margin:4px 0 2px 12px;font-size:13.5px}
+#committee .cm-said li{border-top:0;padding:1px 0}
+#committee .cm-fold{margin:8px 0;border:1px solid var(--cm-line)}
+#committee .cm-fold>summary{cursor:pointer;padding:8px 10px;font-size:14px;font-weight:700;list-style:none}
+#committee .cm-fold>summary::before{content:'＋ '}
+#committee .cm-fold[open]>summary::before{content:'－ '}
+#committee .cm-fold>ul,#committee .cm-fold>section{padding:0 10px 8px}
+#committee .cm-result{border-top:2px solid #1c1b19;margin-top:14px}
+#committee .cm-state{color:var(--cm-acc)}
+#committee .cm-answer{border:2px solid #1c1b19;padding:8px 12px;margin:8px 0}
+#committee .cm-split h5{color:var(--cm-acc)}
+@media(max-width:760px){#committee{padding:12px;font-size:14.5px}#committee .cm-mem{grid-template-columns:1fr 1fr}}
+@media(prefers-reduced-motion:no-preference){#committee .cm-mem em:not(:empty){animation:cm-blink 1.2s steps(2) infinite}}
+@keyframes cm-blink{50%{opacity:.45}}

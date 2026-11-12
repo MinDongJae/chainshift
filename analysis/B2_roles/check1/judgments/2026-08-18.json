@@ -1,0 +1,38 @@
+{
+ "date": "2026-08-18",
+ "interp": "번진다",
+ "interp_cause": "시장 전체",
+ "recheck": [
+  {
+   "ev": "E1 Reuters 「Tech selloff weighs down Wall Street as bond yields climb」(businesstimes.com.sg N11)",
+   "result": "pack N11 에 있음. 기사 파일에 실린 전재본은 22:30(businesstimes) · 22:00(galvnews) UTC 로 마감(20:00) 뒤. 원 기사 시각은 모름 — 까닭(금리)은 아래 E3 가 마감 전에 같은 내용을 댐"
+  },
+  {
+   "ev": "E2 WSJ 「U.S. Tech Stocks Slip as Bond Yields Hit Decade Highs; Iran Truce Expires」",
+   "result": "다시 찾지 않음. 시각 모름"
+  },
+  {
+   "ev": "E3 hindustantimes.com 「Why did the S&P 500 fall today? Bond yields, oil prices and Iran tensions explained」",
+   "result": "pack N5 에 있음. 19:30 UTC — 마감 전. 까닭은 금리 · 유가 · 이란(시장 전체)"
+  },
+  {
+   "ev": "E4 fool.com 「Caterpillar Costs the Dow 255 Points and Most Stocks Barely Notice」",
+   "result": "기사 파일에 있음. 20:45 UTC — 마감 뒤라 K2 로 뺌. 해석이 (b)를 세운 유일한 근거였음(해석도 INTERPRET_DONE.md 에 마감 뒤 근거를 쓴 날로 적어 둠)"
+  },
+  {
+   "ev": "E5 칩 9/9(-6.47%), 장비 8/8(-5.15%p), 서버·부품 19/22(-5.31%p)",
+   "result": "다시 계산해 같음. 가운데값 -5.49%p — 넓은 하락"
+  }
+ ],
+ "counter": "K2: (b)의 근거(캐터필러 제목)가 장 마감 45분 뒤 기사. 그것을 빼면 전력·데이터센터 쪽을 내리는 문맥으로 든 마감 전 기사가 그날 기사 파일 15건에 없음. 마감 전 까닭 기사는 금리 · 유가 · 이란(hindustantimes 19:30 · kontan 14:15)으로 시장 전체 쪽. 제목 자체도 '대부분의 종목은 거의 영향이 없었다'고 적어 캐터필러 한 회사의 일로 읽힘.",
+ "final": "넘긴다",
+ "cause": "시장 전체",
+ "changed": true,
+ "why": "해석은 (b)(c) 둘로 '번진다'를 세웠는데 (b)의 유일한 근거가 마감 뒤 기사라 빠짐 — (a)는 원래 없고 (c)만 남아 '번진다→넘긴다' 첫째 조건. 시장 전체 까닭(금리)인 날에 칩·장비·서버가 시장보다 5%p 넘게 더 빠진 것은 뚜렷하나, 그 초과 하락이 전력 쪽까지 가는지 가를 마감 전 근거가 없음.",
+ "conf": "낮음",
+ "tools": [
+  "newsstat"
+ ],
+ "dropped": 1,
+ "written_at": "2026-11-12T01:03:44+09:00"
+}

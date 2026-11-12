@@ -1,0 +1,38 @@
+{
+ "date": "2026-03-03",
+ "seen": [
+  "pack: cases/2026-03-03/materials.md 기사 제목 12개(2026-03-03 UTC)·공시 1줄(CRDO 2026-03-02)",
+  "mid: prices_long.csv.gz 2026-03-03 까지",
+  "newsstat: news/2026-03-03.json",
+  "pre: 2026-02-24~03-02 다섯 거래일"
+ ],
+ "tools": [
+  {
+   "name": "mid",
+   "why": "늘 봄"
+  },
+  {
+   "name": "newsstat",
+   "why": "까닭이 메모리 칩(칩 고유)과 이란 분쟁(시장 전체)으로 갈려, 어느 쪽 출처가 더 있는지 보려고"
+  },
+  {
+   "name": "pre",
+   "why": "시장 전체 쪽이면 전날까지 전력 쪽이 먼저 움직였는지 보려고"
+  }
+ ],
+ "cause": "칩 고유",
+ "evidence": [
+  "247wallst.com 2026-03-03 「Why Micron, SanDisk & Memory Stocks Are Crashing Today」",
+  "proactiveinvestors.com 2026-03-03 「Nasdaq semiconductor stocks lead tech sell-off as memory chip crisis deepens amid Middle East turmoil」",
+  "proactiveinvestors.com 2026-03-03 「Nasdaq leads losses as Iran conflict widens, Trump offers to protect shipping」(시장 전체 쪽 — 같은 매체뿐)",
+  "mid: 칩 9/9 · 장비·소재 8/8 · 서버·부품 19/22 가 시장보다 더 빠짐. 서버·부품 시장 대비 -3.18%p(루멘텀 -11.3, 웨스턴디지털 -7.2), SPY -0.88%",
+  "newsstat: 서버·부품 기사 어조 -1.29, 장비·소재 -1.99. 전력·냉각 설비 +0.48, 발전 +0.16",
+  "pre: 2026-02-26 에 칩 -3.55 · 서버 -3.05 · 전력 -1.25 로 이미 한 번 같이 빠졌음. 03-02 는 모두 오름"
+ ],
+ "verdict": "사람에게 넘긴다",
+ "confidence": "낮음",
+ "counter": "「번진다」 쪽: 서버·부품이 시장보다 3%p 넘게 더 빠졌고, 이란 분쟁으로 시장이 함께 흔들린 날이라 칩 밖으로 퍼졌을 수 있다. 「안 번진다」 쪽: 서버·부품 약세는 메모리·저장장치(웨스턴디지털·씨게이트)와 광부품에 몰려 있어 메모리 값 문제의 연장일 수 있고, 전력 쪽 기사 어조는 나쁘지 않았다. 엔비디아가 루멘텀·코히런트에 20억 달러씩 넣는다는 좋은 소식도 같은 날 있었는데 루멘텀은 -11.3% 였다.",
+ "note": "조건: (다) 칩 고유(메모리) 출처 둘인데 S=-3.18 ≤ -1.0 → 엇갈림. 시장 전체(이란) 쪽 출처는 한 매체뿐이라 (가)를 못 채움 → 넘김. 도구 3번.",
+ "dropped": 0,
+ "written_at": "2026-11-12T00:44:59+09:00"
+}

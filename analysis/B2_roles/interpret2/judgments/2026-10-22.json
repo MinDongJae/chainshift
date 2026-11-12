@@ -1,0 +1,34 @@
+{
+ "date": "2026-10-22",
+ "seen": [
+  "pack: cases/2026-10-22/materials.md 기사 제목 12개(2026-10-21~22)·공시 12줄 중 8줄(LRCX 10-21, WDC·BE 10-22, SMCI 10-20)",
+  "mid: prices_long.csv.gz 2026-10-22 까지",
+  "newsstat: news/2026-10-22.json"
+ ],
+ "tools": [
+  {
+   "name": "mid",
+   "why": "늘 봄"
+  },
+  {
+   "name": "newsstat",
+   "why": "조건은 찼고, 확신을 정하려고 전력 쪽 반대 소식을 찾아봄"
+  }
+ ],
+ "cause": "AI 투자 전반",
+ "evidence": [
+  "zerohedge.com 2026-10-22 「Futures Slide As Market Runs Out Of AI Patience, Oil Jumps On Saudi Attacks」",
+  "investors.com 2026-10-22 「Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving」",
+  "aol.com 2026-10-22 「Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%」",
+  "fool.com 2026-10-22 17:15 UTC 「Tech Weakness Drags Nasdaq Lower as AI Spending Concerns Mount」",
+  "businessinsider.com 2026-10-22 「24 AI Infrastructure Stocks Built to Hold up If Capex Slows: MS」",
+  "mid: 칩 9/9 · 장비·소재 8/8(-8.45%p) · 서버·부품 20/22(-5.21%p)가 시장보다 더 빠짐. SPY -1.18%",
+  "newsstat: 장비·소재 기사 129건 어조 -2.16. 전력·냉각 설비 +0.29, 발전 +0.8, 데이터센터 공사 +1.82"
+ ],
+ "verdict": "번진다",
+ "confidence": "중간",
+ "counter": "전력 쪽 세 단계의 기사 어조는 모두 양수였고 「US is reviving shuttered nuclear plants to meet growing electricity demand, data centers」(cbs2iowa)는 발전 쪽에 좋은 소식이다. 슈퍼마이크로는 이틀 전 매출이 전망을 크게 웃돈다고 알렸다. 블룸에너지 실적이 같은 날 장 마감 뒤에 나와(cnbc 「after hours: WDC, BE」) 그 방향은 이 판정에 쓰지 않았다.",
+ "note": "조건: (가) AI 지출 걱정을 댄 출처 넷, (나) S=-5.21 로 넉넉. 전력 쪽 반대 소식이 남아 높음이 아님. leaked.txt 곁값 날(전력 쪽 재현 손실 -130.5백만 달러 · 58종목 전체 -6.38% 를 미리 봄).",
+ "dropped": 0,
+ "written_at": "2026-11-12T00:50:21+09:00"
+}

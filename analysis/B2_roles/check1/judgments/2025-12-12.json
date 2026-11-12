@@ -1,0 +1,39 @@
+{
+ "date": "2025-12-12",
+ "interp": "번진다",
+ "interp_cause": "AI 투자 전반",
+ "recheck": [
+  {
+   "ev": "E1 indiatimes.com · bnnbloomberg.ca 「Oracle denies report on OpenAI data center delays (but stocks crash continues)」",
+   "result": "pack N8·N6 에 있음. 19:45 · 20:45 UTC — 마감(21:00) 전. livemint 도 같은 제목이라 통신 기사 하나로 셈"
+  },
+  {
+   "ev": "E2 yahoo.com 「Stocks Mixed as a Plunge in Oracle Weighs on Tech Stocks」",
+   "result": "pack N1 에 있음. 22:30 UTC — 마감 뒤라 K2 로 뺌"
+  },
+  {
+   "ev": "E3 webpronews.com 「Michael Burry Warns AI Boom Mirrors Dot-Com Bubble, Nvidia Like Cisco」",
+   "result": "pack N11 에 있음. 16:15 UTC — 마감 전"
+  },
+  {
+   "ev": "E4 cnbc.com 「Broadcom stock reverses lower on a misinterpretation of what the CEO said on the earnings call」",
+   "result": "pack N4 에 있음. 03:15 UTC — 마감 전. 이것은 칩 고유(d) 쪽 근거"
+  },
+  {
+   "ev": "E5 서버·부품 시장 대비 -5.34%p 22/22, 장비·소재 -3.34%p 7/8",
+   "result": "다시 계산해 같음. 가운데값 -5.03%p — 넓은 하락"
+  }
+ ],
+ "counter": "칩 고유 쪽 발행처는 cnbc 한 곳(브로드컴 발언 오독)뿐 — 2곳이 안 돼 (d)는 안 섬. 다른 반대 근거 못 찾음.",
+ "final": "번진다",
+ "cause": "AI 투자 전반",
+ "changed": false,
+ "why": "마감 뒤 1건을 빼도 (a) 발행처 2곳(오라클 데이터센터 지연 보도 · 버리의 AI 거품 경고), (b) '데이터센터 지연'이 내리는 문맥으로 직접 나옴, (c) 22종목 모두 시장보다 더 빠짐. 바꾸는 조건에 안 걸림.",
+ "conf": "중간",
+ "conf_why": "근거 6개 중 1개를 마감 뒤라 뺐음(미리 적은 '높음' 조건에 못 미침). 조건 셋은 다 참.",
+ "tools": [
+  "newsstat"
+ ],
+ "dropped": 1,
+ "written_at": "2026-11-12T00:57:01+09:00"
+}

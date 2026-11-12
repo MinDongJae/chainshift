@@ -1,0 +1,988 @@
+{
+ "n": 25,
+ "truth_spread_yes": 20,
+ "all25": {
+  "old_rule": {
+   "days": 25,
+   "handed": 23,
+   "confirmed": 2,
+   "right": 2,
+   "wrong": 0,
+   "wrong_days": []
+  },
+  "first": {
+   "days": 25,
+   "handed": 8,
+   "confirmed": 17,
+   "right": 12,
+   "wrong": 5,
+   "wrong_days": [
+    "2025-08-29",
+    "2026-03-03",
+    "2026-03-30",
+    "2026-06-05",
+    "2026-07-07"
+   ]
+  },
+  "final": {
+   "days": 25,
+   "handed": 9,
+   "confirmed": 16,
+   "right": 15,
+   "wrong": 1,
+   "wrong_days": [
+    "2026-06-05"
+   ]
+  },
+  "final_orig_rule": {
+   "days": 25,
+   "handed": 12,
+   "confirmed": 13,
+   "right": 12,
+   "wrong": 1,
+   "wrong_days": [
+    "2026-06-05"
+   ]
+  },
+  "mid_rule": {
+   "days": 25,
+   "handed": 0,
+   "confirmed": 25,
+   "right": 19,
+   "wrong": 6,
+   "wrong_days": [
+    "2025-04-09",
+    "2025-10-14",
+    "2026-06-05",
+    "2026-06-16",
+    "2026-08-05",
+    "2026-10-30"
+   ]
+  },
+  "always_yes": {
+   "days": 25,
+   "handed": 0,
+   "confirmed": 25,
+   "right": 20,
+   "wrong": 5
+  }
+ },
+ "minus_leaked3": {
+  "old_rule": {
+   "days": 22,
+   "handed": 20,
+   "confirmed": 2,
+   "right": 2,
+   "wrong": 0,
+   "wrong_days": []
+  },
+  "first": {
+   "days": 22,
+   "handed": 7,
+   "confirmed": 15,
+   "right": 10,
+   "wrong": 5,
+   "wrong_days": [
+    "2025-08-29",
+    "2026-03-03",
+    "2026-03-30",
+    "2026-06-05",
+    "2026-07-07"
+   ]
+  },
+  "final": {
+   "days": 22,
+   "handed": 8,
+   "confirmed": 14,
+   "right": 13,
+   "wrong": 1,
+   "wrong_days": [
+    "2026-06-05"
+   ]
+  },
+  "final_orig_rule": {
+   "days": 22,
+   "handed": 11,
+   "confirmed": 11,
+   "right": 10,
+   "wrong": 1,
+   "wrong_days": [
+    "2026-06-05"
+   ]
+  },
+  "mid_rule": {
+   "days": 22,
+   "handed": 0,
+   "confirmed": 22,
+   "right": 17,
+   "wrong": 5,
+   "wrong_days": [
+    "2025-10-14",
+    "2026-06-05",
+    "2026-06-16",
+    "2026-08-05",
+    "2026-10-30"
+   ]
+  },
+  "always_yes": {
+   "days": 22,
+   "handed": 0,
+   "confirmed": 22,
+   "right": 17,
+   "wrong": 5
+  }
+ },
+ "minus_leaked3_flagged5": {
+  "old_rule": {
+   "days": 17,
+   "handed": 15,
+   "confirmed": 2,
+   "right": 2,
+   "wrong": 0,
+   "wrong_days": []
+  },
+  "first": {
+   "days": 17,
+   "handed": 6,
+   "confirmed": 11,
+   "right": 7,
+   "wrong": 4,
+   "wrong_days": [
+    "2025-08-29",
+    "2026-03-03",
+    "2026-03-30",
+    "2026-07-07"
+   ]
+  },
+  "final": {
+   "days": 17,
+   "handed": 8,
+   "confirmed": 9,
+   "right": 9,
+   "wrong": 0,
+   "wrong_days": []
+  },
+  "final_orig_rule": {
+   "days": 17,
+   "handed": 11,
+   "confirmed": 6,
+   "right": 6,
+   "wrong": 0,
+   "wrong_days": []
+  },
+  "mid_rule": {
+   "days": 17,
+   "handed": 0,
+   "confirmed": 17,
+   "right": 13,
+   "wrong": 4,
+   "wrong_days": [
+    "2025-10-14",
+    "2026-06-16",
+    "2026-08-05",
+    "2026-10-30"
+   ]
+  },
+  "always_yes": {
+   "days": 17,
+   "handed": 0,
+   "confirmed": 17,
+   "right": 13,
+   "wrong": 4
+  }
+ },
+ "changed_days": [
+  {
+   "date": "2025-08-29",
+   "first": "안 번진다",
+   "final": "넘김",
+   "truth": "번진다",
+   "effect": "틀린 확정을 막음",
+   "leak": null,
+   "flag": null
+  },
+  {
+   "date": "2025-10-14",
+   "first": "넘김",
+   "final": "안 번진다",
+   "truth": "안 번진다",
+   "effect": "맞는 확정으로 바꿈",
+   "leak": null,
+   "flag": null
+  },
+  {
+   "date": "2026-03-03",
+   "first": "안 번진다",
+   "final": "번진다",
+   "truth": "번진다",
+   "effect": "틀린 확정을 막음",
+   "leak": null,
+   "flag": null
+  },
+  {
+   "date": "2026-03-30",
+   "first": "안 번진다",
+   "final": "번진다",
+   "truth": "번진다",
+   "effect": "틀린 확정을 막음",
+   "leak": null,
+   "flag": null
+  },
+  {
+   "date": "2026-05-18",
+   "first": "넘김",
+   "final": "번진다",
+   "truth": "번진다",
+   "effect": "맞는 확정으로 바꿈",
+   "leak": null,
+   "flag": null
+  },
+  {
+   "date": "2026-07-07",
+   "first": "안 번진다",
+   "final": "넘김",
+   "truth": "번진다",
+   "effect": "틀린 확정을 막음",
+   "leak": null,
+   "flag": null
+  },
+  {
+   "date": "2026-07-24",
+   "first": "넘김",
+   "final": "번진다",
+   "truth": "번진다",
+   "effect": "맞는 확정으로 바꿈",
+   "leak": null,
+   "flag": null
+  },
+  {
+   "date": "2026-07-28",
+   "first": "번진다",
+   "final": "넘김",
+   "truth": "번진다",
+   "effect": "맞았을 확정을 넘김으로 물림",
+   "leak": null,
+   "flag": null
+  },
+  {
+   "date": "2026-08-05",
+   "first": "안 번진다",
+   "final": "넘김",
+   "truth": "안 번진다",
+   "effect": "맞았을 확정을 넘김으로 물림",
+   "leak": null,
+   "flag": null
+  },
+  {
+   "date": "2026-08-18",
+   "first": "넘김",
+   "final": "번진다",
+   "truth": "번진다",
+   "effect": "맞는 확정으로 바꿈",
+   "leak": null,
+   "flag": "58종목 전체 등락을 미리 봄"
+  },
+  {
+   "date": "2026-10-30",
+   "first": "안 번진다",
+   "final": "넘김",
+   "truth": "안 번진다",
+   "effect": "맞았을 확정을 넘김으로 물림",
+   "leak": null,
+   "flag": null
+  }
+ ],
+ "lean_on_handed": {
+  "days": 7,
+  "right": 4,
+  "wrong_days": [
+   "2026-02-04",
+   "2026-06-16",
+   "2026-07-07"
+  ]
+ },
+ "non_spread_days": [
+  {
+   "date": "2025-10-14",
+   "first": "넘김",
+   "final": "안 번진다",
+   "lean": null,
+   "mid_rule": "번진다",
+   "old_rule": "넘김"
+  },
+  {
+   "date": "2026-06-05",
+   "first": "번진다",
+   "final": "번진다",
+   "lean": null,
+   "mid_rule": "번진다",
+   "old_rule": "넘김"
+  },
+  {
+   "date": "2026-06-16",
+   "first": "넘김",
+   "final": "넘김",
+   "lean": "번진다",
+   "mid_rule": "번진다",
+   "old_rule": "넘김"
+  },
+  {
+   "date": "2026-08-05",
+   "first": "안 번진다",
+   "final": "넘김",
+   "lean": "안 번진다",
+   "mid_rule": "번진다",
+   "old_rule": "안 번진다"
+  },
+  {
+   "date": "2026-10-30",
+   "first": "안 번진다",
+   "final": "넘김",
+   "lean": "안 번진다",
+   "mid_rule": "번진다",
+   "old_rule": "안 번진다"
+  }
+ ],
+ "s2": {
+  "confirmed": 3,
+  "right": 1,
+  "wrong_days": [
+   "2025-08-29",
+   "2026-06-23"
+  ],
+  "truth_continue": 13,
+  "same_as_today_rule_right": 14
+ },
+ "artifact_day": {
+  "date": "2025-04-09",
+  "spy": 10.5,
+  "chips_down": 0
+ },
+ "rows": [
+  {
+   "date": "2025-01-27",
+   "truth1": "번진다",
+   "ratio": 1.08,
+   "first": "번진다",
+   "final": "번진다",
+   "changed": false,
+   "final_orig_rule": "번진다",
+   "lean": null,
+   "leak": "정답을 미리 봄",
+   "flag": null,
+   "old_rule": "넘김",
+   "old_votes": {
+    "A": "예",
+    "B": "못 가림",
+    "C": "못 가림"
+   },
+   "mid_rule": "번진다",
+   "mid_eq": -5.69,
+   "mid_sv": -9.24,
+   "s2": "넘김",
+   "truth2": "안 이어진다",
+   "spy": -1.41,
+   "chips_down": 9
+  },
+  {
+   "date": "2025-04-09",
+   "truth1": "번진다",
+   "ratio": 0.84,
+   "first": "넘김",
+   "final": "넘김",
+   "changed": false,
+   "final_orig_rule": "넘김",
+   "lean": null,
+   "leak": "정답을 미리 봄",
+   "flag": null,
+   "old_rule": "넘김",
+   "old_votes": {
+    "A": "아니오",
+    "B": "아니오",
+    "C": "못 가림"
+   },
+   "mid_rule": "안 번진다",
+   "mid_eq": 7.51,
+   "mid_sv": 3.46,
+   "s2": "넘김",
+   "truth2": "이어진다",
+   "spy": 10.5,
+   "chips_down": 0
+  },
+  {
+   "date": "2025-08-29",
+   "truth1": "번진다",
+   "ratio": 0.38,
+   "first": "안 번진다",
+   "final": "넘김",
+   "changed": true,
+   "final_orig_rule": "넘김",
+   "lean": null,
+   "leak": null,
+   "flag": null,
+   "old_rule": "넘김",
+   "old_votes": {
+    "A": "아니오",
+    "B": "아니오",
+    "C": "못 가림"
+   },
+   "mid_rule": "번진다",
+   "mid_eq": -1.65,
+   "mid_sv": -2.47,
+   "s2": "안 이어진다",
+   "truth2": "이어진다",
+   "spy": -0.6,
+   "chips_down": 9
+  },
+  {
+   "date": "2025-10-14",
+   "truth1": "안 번진다",
+   "ratio": -0.16,
+   "first": "넘김",
+   "final": "안 번진다",
+   "changed": true,
+   "final_orig_rule": "안 번진다",
+   "lean": null,
+   "leak": null,
+   "flag": null,
+   "old_rule": "넘김",
+   "old_votes": {
+    "A": "아니오",
+    "B": "아니오",
+    "C": "못 가림"
+   },
+   "mid_rule": "번진다",
+   "mid_eq": -0.6,
+   "mid_sv": -1.0,
+   "s2": "안 이어진다",
+   "truth2": "안 이어진다",
+   "spy": -0.12,
+   "chips_down": 8
+  },
+  {
+   "date": "2025-12-12",
+   "truth1": "번진다",
+   "ratio": 0.81,
+   "first": "번진다",
+   "final": "번진다",
+   "changed": false,
+   "final_orig_rule": "번진다",
+   "lean": null,
+   "leak": null,
+   "flag": null,
+   "old_rule": "넘김",
+   "old_votes": {
+    "A": "예",
+    "B": "못 가림",
+    "C": "못 가림"
+   },
+   "mid_rule": "번진다",
+   "mid_eq": -3.34,
+   "mid_sv": -5.34,
+   "s2": "넘김",
+   "truth2": "이어진다",
+   "spy": -1.08,
+   "chips_down": 9
+  },
+  {
+   "date": "2026-02-04",
+   "truth1": "번진다",
+   "ratio": 0.61,
+   "first": "넘김",
+   "final": "넘김",
+   "changed": false,
+   "final_orig_rule": "넘김",
+   "lean": "안 번진다",
+   "leak": null,
+   "flag": null,
+   "old_rule": "넘김",
+   "old_votes": {
+    "A": "아니오",
+    "B": "아니오",
+    "C": "못 가림"
+   },
+   "mid_rule": "번진다",
+   "mid_eq": -4.23,
+   "mid_sv": -1.49,
+   "s2": "넘김",
+   "truth2": "안 이어진다",
+   "spy": -0.48,
+   "chips_down": 9
+  },
+  {
+   "date": "2026-03-03",
+   "truth1": "번진다",
+   "ratio": 0.55,
+   "first": "안 번진다",
+   "final": "번진다",
+   "changed": true,
+   "final_orig_rule": "넘김",
+   "lean": null,
+   "leak": null,
+   "flag": null,
+   "old_rule": "넘김",
+   "old_votes": {
+    "A": "아니오",
+    "B": "아니오",
+    "C": "못 가림"
+   },
+   "mid_rule": "번진다",
+   "mid_eq": -5.19,
+   "mid_sv": -3.18,
+   "s2": "넘김",
+   "truth2": "안 이어진다",
+   "spy": -0.88,
+   "chips_down": 9
+  },
+  {
+   "date": "2026-03-30",
+   "truth1": "번진다",
+   "ratio": 0.73,
+   "first": "안 번진다",
+   "final": "번진다",
+   "changed": true,
+   "final_orig_rule": "넘김",
+   "lean": null,
+   "leak": null,
+   "flag": null,
+   "old_rule": "넘김",
+   "old_votes": {
+    "A": "아니오",
+    "B": "아니오",
+    "C": "못 가림"
+   },
+   "mid_rule": "번진다",
+   "mid_eq": -4.49,
+   "mid_sv": -4.78,
+   "s2": "넘김",
+   "truth2": "안 이어진다",
+   "spy": -0.33,
+   "chips_down": 9
+  },
+  {
+   "date": "2026-05-18",
+   "truth1": "번진다",
+   "ratio": 0.88,
+   "first": "넘김",
+   "final": "번진다",
+   "changed": true,
+   "final_orig_rule": "넘김",
+   "lean": null,
+   "leak": null,
+   "flag": null,
+   "old_rule": "넘김",
+   "old_votes": {
+    "A": "아니오",
+    "B": "못 가림",
+    "C": "못 가림"
+   },
+   "mid_rule": "번진다",
+   "mid_eq": -4.02,
+   "mid_sv": -2.79,
+   "s2": "넘김",
+   "truth2": "이어진다",
+   "spy": -0.07,
+   "chips_down": 9
+  },
+  {
+   "date": "2026-06-05",
+   "truth1": "안 번진다",
+   "ratio": -0.03,
+   "first": "번진다",
+   "final": "번진다",
+   "changed": false,
+   "final_orig_rule": "번진다",
+   "lean": null,
+   "leak": null,
+   "flag": "전력 쪽 재현 손실 금액을 미리 봄",
+   "old_rule": "넘김",
+   "old_votes": {
+    "A": "아니오",
+    "B": "아니오",
+    "C": "못 가림"
+   },
+   "mid_rule": "번진다",
+   "mid_eq": -6.41,
+   "mid_sv": -5.09,
+   "s2": "넘김",
+   "truth2": "안 이어진다",
+   "spy": -2.58,
+   "chips_down": 9
+  },
+  {
+   "date": "2026-06-16",
+   "truth1": "안 번진다",
+   "ratio": -0.24,
+   "first": "넘김",
+   "final": "넘김",
+   "changed": false,
+   "final_orig_rule": "넘김",
+   "lean": "번진다",
+   "leak": null,
+   "flag": null,
+   "old_rule": "넘김",
+   "old_votes": {
+    "A": "아니오",
+    "B": "아니오",
+    "C": "못 가림"
+   },
+   "mid_rule": "번진다",
+   "mid_eq": -5.13,
+   "mid_sv": -1.92,
+   "s2": "넘김",
+   "truth2": "안 이어진다",
+   "spy": -0.6,
+   "chips_down": 9
+  },
+  {
+   "date": "2026-06-23",
+   "truth1": "번진다",
+   "ratio": 0.48,
+   "first": "번진다",
+   "final": "번진다",
+   "changed": false,
+   "final_orig_rule": "번진다",
+   "lean": null,
+   "leak": null,
+   "flag": null,
+   "old_rule": "넘김",
+   "old_votes": {
+    "A": "못 가림",
+    "B": "아니오",
+    "C": "못 가림"
+   },
+   "mid_rule": "번진다",
+   "mid_eq": -6.54,
+   "mid_sv": -2.52,
+   "s2": "이어진다",
+   "truth2": "안 이어진다",
+   "spy": -1.45,
+   "chips_down": 9
+  },
+  {
+   "date": "2026-07-01",
+   "truth1": "번진다",
+   "ratio": 0.61,
+   "first": "번진다",
+   "final": "번진다",
+   "changed": false,
+   "final_orig_rule": "번진다",
+   "lean": null,
+   "leak": null,
+   "flag": null,
+   "old_rule": "넘김",
+   "old_votes": {
+    "A": "못 가림",
+    "B": "못 가림",
+    "C": "못 가림"
+   },
+   "mid_rule": "번진다",
+   "mid_eq": -8.76,
+   "mid_sv": -3.23,
+   "s2": "넘김",
+   "truth2": "이어진다",
+   "spy": -0.14,
+   "chips_down": 9
+  },
+  {
+   "date": "2026-07-02",
+   "truth1": "번진다",
+   "ratio": 0.49,
+   "first": "번진다",
+   "final": "번진다",
+   "changed": false,
+   "final_orig_rule": "번진다",
+   "lean": null,
+   "leak": "전날 판정 2 정답에서 봄",
+   "flag": null,
+   "old_rule": "넘김",
+   "old_votes": {
+    "A": "아니오",
+    "B": "아니오",
+    "C": "못 가림"
+   },
+   "mid_rule": "번진다",
+   "mid_eq": -8.78,
+   "mid_sv": -6.14,
+   "s2": "넘김",
+   "truth2": "안 이어진다",
+   "spy": -0.13,
+   "chips_down": 9
+  },
+  {
+   "date": "2026-07-07",
+   "truth1": "번진다",
+   "ratio": 0.64,
+   "first": "안 번진다",
+   "final": "넘김",
+   "changed": true,
+   "final_orig_rule": "넘김",
+   "lean": "안 번진다",
+   "leak": null,
+   "flag": null,
+   "old_rule": "넘김",
+   "old_votes": {
+    "A": "아니오",
+    "B": "아니오",
+    "C": "못 가림"
+   },
+   "mid_rule": "번진다",
+   "mid_eq": -6.32,
+   "mid_sv": -2.39,
+   "s2": "넘김",
+   "truth2": "안 이어진다",
+   "spy": -0.48,
+   "chips_down": 8
+  },
+  {
+   "date": "2026-07-15",
+   "truth1": "번진다",
+   "ratio": 0.38,
+   "first": "넘김",
+   "final": "넘김",
+   "changed": false,
+   "final_orig_rule": "넘김",
+   "lean": "번진다",
+   "leak": null,
+   "flag": null,
+   "old_rule": "넘김",
+   "old_votes": {
+    "A": "아니오",
+    "B": "아니오",
+    "C": "못 가림"
+   },
+   "mid_rule": "번진다",
+   "mid_eq": -2.62,
+   "mid_sv": -4.71,
+   "s2": "넘김",
+   "truth2": "이어진다",
+   "spy": 0.4,
+   "chips_down": 7
+  },
+  {
+   "date": "2026-07-16",
+   "truth1": "번진다",
+   "ratio": 0.58,
+   "first": "번진다",
+   "final": "번진다",
+   "changed": false,
+   "final_orig_rule": "번진다",
+   "lean": null,
+   "leak": null,
+   "flag": null,
+   "old_rule": "넘김",
+   "old_votes": {
+    "A": "예",
+    "B": "예",
+    "C": "못 가림"
+   },
+   "mid_rule": "번진다",
+   "mid_eq": -3.34,
+   "mid_sv": -4.15,
+   "s2": "넘김",
+   "truth2": "안 이어진다",
+   "spy": -0.54,
+   "chips_down": 9
+  },
+  {
+   "date": "2026-07-24",
+   "truth1": "번진다",
+   "ratio": 0.48,
+   "first": "넘김",
+   "final": "번진다",
+   "changed": true,
+   "final_orig_rule": "번진다",
+   "lean": null,
+   "leak": null,
+   "flag": null,
+   "old_rule": "넘김",
+   "old_votes": {
+    "A": "아니오",
+    "B": "아니오",
+    "C": "못 가림"
+   },
+   "mid_rule": "번진다",
+   "mid_eq": -3.97,
+   "mid_sv": -3.16,
+   "s2": "넘김",
+   "truth2": "이어진다",
+   "spy": 0.1,
+   "chips_down": 9
+  },
+  {
+   "date": "2026-07-28",
+   "truth1": "번진다",
+   "ratio": 0.79,
+   "first": "번진다",
+   "final": "넘김",
+   "changed": true,
+   "final_orig_rule": "넘김",
+   "lean": "번진다",
+   "leak": null,
+   "flag": null,
+   "old_rule": "넘김",
+   "old_votes": {
+    "A": "아니오",
+    "B": "못 가림",
+    "C": "못 가림"
+   },
+   "mid_rule": "번진다",
+   "mid_eq": -6.2,
+   "mid_sv": -3.09,
+   "s2": "넘김",
+   "truth2": "이어진다",
+   "spy": 0.24,
+   "chips_down": 8
+  },
+  {
+   "date": "2026-08-05",
+   "truth1": "안 번진다",
+   "ratio": -0.08,
+   "first": "안 번진다",
+   "final": "넘김",
+   "changed": true,
+   "final_orig_rule": "넘김",
+   "lean": "안 번진다",
+   "leak": null,
+   "flag": null,
+   "old_rule": "안 번진다",
+   "old_votes": {
+    "A": "아니오",
+    "B": "아니오",
+    "C": "아니오"
+   },
+   "mid_rule": "번진다",
+   "mid_eq": -2.08,
+   "mid_sv": -0.95,
+   "s2": "넘김",
+   "truth2": "이어진다",
+   "spy": -0.2,
+   "chips_down": 5
+  },
+  {
+   "date": "2026-08-18",
+   "truth1": "번진다",
+   "ratio": 0.76,
+   "first": "넘김",
+   "final": "번진다",
+   "changed": true,
+   "final_orig_rule": "번진다",
+   "lean": null,
+   "leak": null,
+   "flag": "58종목 전체 등락을 미리 봄",
+   "old_rule": "넘김",
+   "old_votes": {
+    "A": "아니오",
+    "B": "아니오",
+    "C": "못 가림"
+   },
+   "mid_rule": "번진다",
+   "mid_eq": -5.15,
+   "mid_sv": -5.31,
+   "s2": "넘김",
+   "truth2": "이어진다",
+   "spy": -0.68,
+   "chips_down": 9
+  },
+  {
+   "date": "2026-09-14",
+   "truth1": "번진다",
+   "ratio": 0.79,
+   "first": "번진다",
+   "final": "번진다",
+   "changed": false,
+   "final_orig_rule": "번진다",
+   "lean": null,
+   "leak": null,
+   "flag": "58종목 전체 등락을 미리 봄",
+   "old_rule": "넘김",
+   "old_votes": {
+    "A": "예",
+    "B": "예",
+    "C": "못 가림"
+   },
+   "mid_rule": "번진다",
+   "mid_eq": -7.91,
+   "mid_sv": -6.28,
+   "s2": "넘김",
+   "truth2": "이어진다",
+   "spy": -0.45,
+   "chips_down": 9
+  },
+  {
+   "date": "2026-10-08",
+   "truth1": "번진다",
+   "ratio": 0.31,
+   "first": "번진다",
+   "final": "번진다",
+   "changed": false,
+   "final_orig_rule": "번진다",
+   "lean": null,
+   "leak": null,
+   "flag": "58종목 전체 등락을 미리 봄",
+   "old_rule": "넘김",
+   "old_votes": {
+    "A": "예",
+    "B": "못 가림",
+    "C": "못 가림"
+   },
+   "mid_rule": "번진다",
+   "mid_eq": -1.98,
+   "mid_sv": -2.46,
+   "s2": "넘김",
+   "truth2": "안 이어진다",
+   "spy": -0.42,
+   "chips_down": 9
+  },
+  {
+   "date": "2026-10-22",
+   "truth1": "번진다",
+   "ratio": 0.91,
+   "first": "번진다",
+   "final": "번진다",
+   "changed": false,
+   "final_orig_rule": "번진다",
+   "lean": null,
+   "leak": null,
+   "flag": "전력 쪽 재현 손실 금액·58종목 등락을 미리 봄",
+   "old_rule": "넘김",
+   "old_votes": {
+    "A": "아니오",
+    "B": "아니오",
+    "C": "못 가림"
+   },
+   "mid_rule": "번진다",
+   "mid_eq": -8.45,
+   "mid_sv": -5.21,
+   "s2": "넘김",
+   "truth2": "이어진다",
+   "spy": -1.18,
+   "chips_down": 9
+  },
+  {
+   "date": "2026-10-30",
+   "truth1": "안 번진다",
+   "ratio": 0.07,
+   "first": "안 번진다",
+   "final": "넘김",
+   "changed": true,
+   "final_orig_rule": "넘김",
+   "lean": "안 번진다",
+   "leak": null,
+   "flag": null,
+   "old_rule": "안 번진다",
+   "old_votes": {
+    "A": "아니오",
+    "B": "아니오",
+    "C": "아니오"
+   },
+   "mid_rule": "번진다",
+   "mid_eq": -3.83,
+   "mid_sv": -5.04,
+   "s2": "넘김",
+   "truth2": "이어진다",
+   "spy": -1.77,
+   "chips_down": 9
+  }
+ ]
+}

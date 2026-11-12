@@ -1,0 +1,85 @@
+{
+ "date": "2026-06-16",
+ "seen": [
+  {
+   "name": "pack(cases/2026-06-16/materials.md)",
+   "date": "2026-06-16"
+  },
+  {
+   "name": "mid(prices_long.csv.gz)",
+   "date": "2026-06-16"
+  },
+  {
+   "name": "newsstat(news/2026-06-16.json)",
+   "date": "2026-06-16"
+  },
+  {
+   "name": "pre(prices_long.csv.gz 2026-06-09~06-15)",
+   "date": "2026-06-15"
+  },
+  {
+   "name": "news_search 'chip stocks drop Nvidia Broadcom Micron lead Nasdaq lower why' → MarketWise 1건(2026-06-15, 제목만)",
+   "date": "2026-06-15"
+  }
+ ],
+ "tools": [
+  {
+   "tool": "newsstat",
+   "why": "바탕 자료 제목이 오르는 이야기와 내리는 이야기가 섞여 있고 까닭을 댄 것이 없어 나머지 제목 확인"
+  },
+  {
+   "tool": "pre",
+   "why": "까닭 기사가 없어 앞 며칠의 흐름이 되돌림인지 확인"
+  },
+  {
+   "tool": "news_search",
+   "why": "그날 하락의 까닭을 댄 출처 찾기(before=2026-06-17)"
+  }
+ ],
+ "cause": "규칙이 잘못 고른 날",
+ "evidence": [
+  {
+   "text": "Stock Market Today, June 16: Nvidia, Broadcom, and Micron Technology Lead Drop in Nasdaq",
+   "src": "fool.com N2 (까닭은 제목에 없음)",
+   "pub": "2026-06-16"
+  },
+  {
+   "text": "Nasdaq Composite Pulls Back: Markets Brace for Warsh's First Fed Meeting and Dot Plot",
+   "src": "thebull.com.au N4",
+   "pub": "2026-06-16"
+  },
+  {
+   "text": "Is the AI Bubble Ready to Burst? Volatile Tech Stocks Are Giving Mixed Signals to Investors",
+   "src": "MarketWise(news_search, 제목만)",
+   "pub": "2026-06-15"
+  },
+  {
+   "text": "앞 3거래일 칩 +8.77, +0.57, +6.23 으로 급등한 뒤의 하락. 'Western Digital, Micron, Sandisk hover at all-time highs as AI trade reignites'(yahoo, 그날 13:45 UTC)",
+   "src": "pre · newsstat",
+   "pub": "2026-06-15 · 2026-06-16"
+  },
+  {
+   "text": "앞 주 전력 쪽은 칩과 같은 쪽으로 크게 움직임(06-10 칩 -2.66·전력 -5.07, 06-11 +8.77·+4.91, 06-15 +6.23·+3.03)",
+   "src": "pre",
+   "pub": "2026-06-15"
+  },
+  {
+   "text": "칩 9/9(-6.64%), 장비 8/8(-5.13%p), 서버·부품 16/22(-1.92%p)",
+   "src": "mid 계산",
+   "pub": "2026-06-16"
+  }
+ ],
+ "conditions": {
+  "a": false,
+  "b": false,
+  "c": true,
+  "d": false,
+  "e": false
+ },
+ "verdict": "넘긴다",
+ "confidence": "낮음",
+ "counter": "번진다 쪽: 앞 주에 전력 쪽이 칩과 한 묶음으로 오르내렸고(06-10 에는 전력이 더 빠짐), 서버·부품 16/22 가 시장보다 더 빠짐 — 급등 뒤 되돌림이면 같이 오른 전력 쪽도 같이 내릴 만함. 안 번진다 쪽: 까닭 기사가 없고 전력·냉각 설비 기사 논조는 +0.12 로 중립, 엔비디아는 -2.4 에 그침.",
+ "dropped": 0,
+ "note": "까닭을 댄 출처가 2개 못 됨(연준 회의 앞 관망 1건) — 출처 부족으로 넘김. 기울기는 '번진다' 쪽.",
+ "written_at": "2026-11-12T00:46:42+09:00"
+}

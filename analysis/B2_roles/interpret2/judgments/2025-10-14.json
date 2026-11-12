@@ -1,0 +1,42 @@
+{
+ "date": "2025-10-14",
+ "seen": [
+  "pack: cases/2025-10-14/materials.md 기사 제목 12개(2025-10-14 UTC)·공시 0건",
+  "mid: prices_long.csv.gz 2025-10-14 까지",
+  "news_search 2번(after 2025-10-13 · before 2025-10-15) — 둘 다 0건",
+  "newsstat: news/2025-10-14.json"
+ ],
+ "tools": [
+  {
+   "name": "mid",
+   "why": "늘 봄"
+  },
+  {
+   "name": "news_search 「Astera Labs Credo stock drop Broadcom」",
+   "why": "pack 제목에 아스테라랩스 -19% · 크레도 -13% 의 까닭이 없어서"
+  },
+  {
+   "name": "news_search 「Astera Labs stock」",
+   "why": "첫 검색이 0건이라 검색어를 줄여 한 번 더"
+  },
+  {
+   "name": "newsstat",
+   "why": "검색이 비어, 기록된 그날 기사 13위 아래 제목과 전력 쪽 어조를 보려고"
+  }
+ ],
+ "cause": "칩 고유",
+ "evidence": [
+  "investors.com 2025-10-14 12:30 UTC 「Arista Stock Falls As Nvidia Wins Meta, Oracle Orders For AI Networking Chips」 — AI 연결 칩·장비 안의 자리 다툼",
+  "cnbc.com 2025-10-14 「How Broadcom's OpenAI deal fits into data center boom; what it means for AI trade」 — 브로드컴이 직접 연결 칩까지 공급하는 계약(아스테라랩스·크레도의 경쟁 걱정으로 읽음. 제목에 그 두 회사는 안 나옴)",
+  "investopedia.com 2025-10-14 「Nvidia and Intel Drop as Tech Stocks Falter; Wells Fargo Pops」",
+  "mid: 칩 9종목 중 8 내림이나 아스테라랩스 -19.0 · 크레도 -13.4 두 종목이 평균을 끌어내림(AMD +0.8). 서버·부품 시장 대비 -0.9963%p(22종목 중 11종목만 시장보다 더 빠짐), 장비·소재 -0.60%p",
+  "yahoo.com 2025-10-14 「Brookfield backs Bloom Energy with $5 billion for fuel cells to power AI data centers」 — 전력 쪽에는 좋은 소식",
+  "newsstat: 전력·냉각 설비 기사 30건 어조 +0.97, 발전 +1.06, 데이터센터 낱말 기사 18건 — 전력 쪽 나쁜 소식 없음"
+ ],
+ "verdict": "안 번진다",
+ "confidence": "중간",
+ "counter": "S 가 -0.9963 으로 경계 -1.0 에 닿아 있다(소수 둘째 자리로 반올림하면 -1.00). 아리스타 -5.9 · 셀레스티카 -5.1 · 코히런트 -5.0 처럼 AI 서버·광부품은 뚜렷이 빠졌다. 아스테라랩스·크레도가 빠진 까닭을 직접 댄 기사는 찾지 못했다(검색 2번 0건).",
+ "note": "조건: (다) 칩 고유·출처 둘(investors.com · cnbc), (라) S=-0.9963 > -1.0. leaked.txt 에 있는 날(안 번짐이라고 미리 봄).",
+ "dropped": 0,
+ "written_at": "2026-11-12T00:44:01+09:00"
+}

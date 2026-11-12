@@ -1,0 +1,38 @@
+{
+ "date": "2026-07-24",
+ "seen": [
+  "pack: cases/2026-07-24/materials.md 기사 제목 12개(2026-07-23~24)·공시 14줄 중 8줄(INTC 07-23, TEL 07-22, SMCI 07-21)",
+  "mid: prices_long.csv.gz 2026-07-24 까지",
+  "news_search 「chip stocks fall Friday semiconductor Micron Intel」 after 2026-07-23 before 2026-07-25 — 3건(모두 07-24)",
+  "newsstat: news/2026-07-24.json"
+ ],
+ "tools": [
+  {
+   "name": "mid",
+   "why": "늘 봄"
+  },
+  {
+   "name": "news_search",
+   "why": "pack 은 인텔 실적이 좋았다는 글뿐이라 칩이 왜 빠졌는지 까닭이 없어서"
+  },
+  {
+   "name": "newsstat",
+   "why": "까닭이 칩 쪽으로 나왔는데 서버·부품이 -3.16%p 라 전력 쪽 소식을 보려고"
+  }
+ ],
+ "cause": "칩 고유",
+ "evidence": [
+  "MarketWatch 2026-07-24 「Why Intel, Micron and other major chip stocks are falling — even as the rest of tech holds up」 — 기술주 나머지는 버팀",
+  "Investopedia 2026-07-24 「Chip Stocks Slide Friday—Memory Favorites Micron, Sandisk Among the Big Decliners」",
+  "SMCI 공시(2026-07-21 제출) 「Revenues for the fourth quarter of fiscal year 2026 are estimated to be near the low end of our guidance」",
+  "cnbc.com 2026-07-24 「Michael Burry's short bets on Tesla, Caterpillar pay off in big July pullback」 — 캐터필러가 7월에 이미 많이 빠졌다는 뜻",
+  "mid: SPY +0.10%. 칩 9/9 -6.78%p, 장비·소재 8/8 -3.97%p, 서버·부품 16/22 -3.16%p(광부품 코히런트 -9.8 · 루멘텀 -8.5, 반면 HPQ +5.1)",
+  "newsstat: 전력·냉각 설비 어조 +1.03, 발전 +0.46, 데이터센터 공사 +0.88. fool.com 「Grid to Rack: How Eaton and nVent Electric Are Scaling Revenues Amid the AI Data Center Boom」"
+ ],
+ "verdict": "사람에게 넘긴다",
+ "confidence": "낮음",
+ "counter": "「번진다」 쪽: 서버·부품이 시장보다 3%p 넘게 더 빠졌고, 슈퍼마이크로가 사흘 전 매출이 전망 아래쪽이라고 미리 알렸다. 「안 번진다」 쪽: MarketWatch 는 「기술주 나머지는 버틴다」고 했고, 인텔은 같은 주에 AI 데이터센터 수요로 투자를 늘린다고 했으며, 전력 쪽 기사 어조는 모두 좋았다.",
+ "note": "조건: (다) 칩 고유(칩만 빠짐·메모리) 출처 둘인데 S=-3.16 ≤ -1.0 → 엇갈려 넘김. 도구 3번.",
+ "dropped": 0,
+ "written_at": "2026-11-12T00:48:47+09:00"
+}

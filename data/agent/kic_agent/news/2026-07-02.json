@@ -1,0 +1,344 @@
+{
+ "window_utc": [
+  "20260702000000",
+  "20260702234500"
+ ],
+ "files": 96,
+ "missing": [],
+ "records": 116520,
+ "hit_records": 401,
+ "by_stage": {
+  "데이터센터 공사": {
+   "n": 1,
+   "tone": 2.14,
+   "dc": 0
+  },
+  "반도체 장비·소재": {
+   "n": 54,
+   "tone": -0.29,
+   "dc": 0
+  },
+  "발전": {
+   "n": 1,
+   "tone": 3.72,
+   "dc": 0
+  },
+  "서버·네트워크·부품": {
+   "n": 39,
+   "tone": -0.42,
+   "dc": 0
+  },
+  "전력·냉각 설비": {
+   "n": 30,
+   "tone": 1.96,
+   "dc": 2
+  },
+  "칩": {
+   "n": 333,
+   "tone": 0.27,
+   "dc": 5
+  }
+ },
+ "by_company": {
+  "MU": 220,
+  "AMD": 65,
+  "NVDA": 55,
+  "AMAT": 30,
+  "INTC": 28,
+  "LRCX": 25,
+  "MRVL": 21,
+  "SMCI": 13,
+  "WDC": 12,
+  "AVGO": 10,
+  "CAT": 10,
+  "BE": 10,
+  "ETN": 6,
+  "CSCO": 5,
+  "STX": 5,
+  "JCI": 4,
+  "ANET": 3,
+  "CLS": 2,
+  "LOGI": 2,
+  "TSEM": 2,
+  "TER": 1,
+  "Q": 1,
+  "PWR": 1,
+  "CEG": 1
+ },
+ "dc_hit_records": 7,
+ "unique_titles": 287,
+ "top": [
+  {
+   "t": "20260702201500",
+   "title": "ASX to rise, Dow higher, S&P 500 slips on semiconductor selling",
+   "url": "https://www.afr.com/markets/equity-markets/asx-to-edge-higher-dow-rises-s-and-p-500-sinks-on-semi-selling-20260703-p60c7j",
+   "src": "afr.com",
+   "ticks": [
+    "MRVL",
+    "AMAT",
+    "LRCX",
+    "WDC",
+    "STX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -1.05,
+   "dc": false,
+   "score": 13
+  },
+  {
+   "t": "20260702150000",
+   "title": "Baystreet.ca - Futures Grow on Tech Optimism",
+   "url": "http://baystreet.ca/articles/marketupdates/121859/Futures-Grow-on-Tech-Optimism",
+   "src": "baystreet.ca",
+   "ticks": [
+    "MU",
+    "AMAT",
+    "LRCX",
+    "WDC"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -0.2,
+   "dc": false,
+   "score": 11
+  },
+  {
+   "t": "20260702221500",
+   "title": "Stocks Fall on Weakness in Chipmakers and AI Stocks",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-fall-weakness-chipmakers-ai-140649556.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "MRVL",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.0,
+   "dc": false,
+   "score": 10
+  },
+  {
+   "t": "20260702111500",
+   "title": "Why Michael Burry's Caterpillar Short Is Bigger News Than His AI Bets Against Nvidia and Tesla",
+   "url": "https://www.ibtimes.co.uk/michael-burry-shorts-caterpillar-ai-valuation-concerns-1806437",
+   "src": "ibtimes.co.uk",
+   "ticks": [
+    "NVDA",
+    "AMAT",
+    "CAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "전력·냉각 설비",
+    "칩"
+   ],
+   "tone": -0.76,
+   "dc": false,
+   "score": 9
+  },
+  {
+   "t": "20260702173000",
+   "title": "US Stocks: Micron, Intel and other chip stocks fall up to 11% after record-breaking rally",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-micron-intel-and-other-chip-stocks-fall-up-to-11-after-record-breaking-rally/articleshow/132142872.cms",
+   "src": "indiatimes.com",
+   "ticks": [
+    "INTC",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.0,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260702161500",
+   "title": "Wall Street rises toward finish of its best week in nearly 2 months",
+   "url": "https://www.sandiegouniontribune.com/2026/07/02/wall-street-chip-companies/",
+   "src": "sandiegouniontribune.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.13,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260702154500",
+   "title": "Most U.S. stocks climb toward the finish of a winning week, but drops for tech keep indexes mixed",
+   "url": "https://www.newsday.com/business/stock-markets-iran-war-ai-q22236",
+   "src": "newsday.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.12,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260702153000",
+   "title": "US stock market today: Wall street trades mixed after job data release; Dow jumps 400 points, Nasdaq trades flat",
+   "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-wall-street-trades-mixed-after-us-releases-job-data-dow-jumps-400-points-nasdaq-trades-flat/articleshow/132141162.cms",
+   "src": "indiatimes.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.97,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260702093000",
+   "title": "The 20 best-performing stocks in the S&P 500 for the first half of 2026",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/20-best-performing-stocks-p-211300290.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "MRVL",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 1.68,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260702074500",
+   "title": "Stocks Settle Higher as Chipmakers Rally",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-higher-chipmakers-rally-203412653.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "AMD",
+    "MRVL",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.22,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260702030000",
+   "title": "Taiwan Authorities Raid Super Micro Offices in Expanding Investigation of Nvidia AI Chip Smuggling to China",
+   "url": "https://www.breitbart.com/economy/2026/06/30/taiwan-authorities-raid-super-micro-offices-in-expanding-investigation-of-nvidia-ai-chip-smuggling-to-china/",
+   "src": "breitbart.com",
+   "ticks": [
+    "NVDA",
+    "AMD",
+    "SMCI"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -4.12,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260702174500",
+   "title": "Chip Stocks Sell Off to Start Q3 After Record $2 Trillion Rally",
+   "url": "https://memeburn.com/chip-stocks-sell-off-to-start-q3-after-record-2-trillion-rally/",
+   "src": "memeburn.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "MRVL"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -2.1,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20260702233000",
+   "title": "Nvidia floats double-dipping datacenter financing scheme",
+   "url": "https://www.theregister.com/ai-and-ml/2026/07/02/nvidia-floats-double-dipping-datacenter-financing-scheme/5266184",
+   "src": "theregister.com",
+   "ticks": [
+    "NVDA"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 1.46,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20260702231500",
+   "title": "Wall Street Review: Dow Hits New Record Amid Ongoing Market Rotation",
+   "url": "https://www.theepochtimes.com/business/wall-street-review-dow-hits-new-record-amid-ongoing-market-rotation-6056609",
+   "src": "theepochtimes.com",
+   "ticks": [
+    "MRVL",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.24,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260702231500",
+   "title": "The Closing Bell: The Dow hits a record as most of Wall Street rises, but slumping AI stocks keep indexes mixed",
+   "url": "https://www.wptf.com/2026/07/02/15786/",
+   "src": "wptf.com",
+   "ticks": [
+    "MU",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.63,
+   "dc": false,
+   "score": 6
+  }
+ ],
+ "seconds": 335
+}

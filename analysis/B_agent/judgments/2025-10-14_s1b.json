@@ -1,0 +1,7 @@
+{
+ "date": "2025-10-14",
+ "stage": "s1b",
+ "verdict": "안 번진다",
+ "text": "점검에서 바꿈(넘김 → 안 번진다). 찾은 것: investors.com 「Arista Stock Falls As Nvidia Wins Meta, Oracle Orders For AI Networking Chips」(newsstat) + NVIDIA Newsroom 2025-10-13 「NVIDIA Spectrum-X Ethernet Switches Speed Up Networks for Meta and Oracle」(news_search 둘째 검색) → 까닭은 엔비디아가 네트워크 칩 주문을 가져간 경쟁 구도, 곧 연결 칩·네트워크 고유의 일(조건 d, 출처 둘). 서버·부품은 시장 대비 -1.00%p·22종목 중 11종목만 시장보다 약해 버틴 쪽(조건 e, 경계값). 반대 근거 찾기: 전력 쪽 기사 어조는 플러스(전력·냉각 +0.97, 발전 +1.06), 블룸에너지 50억 달러 투자 — 전력 쪽 나쁜 소식 없음. 도구 4번 다 씀.",
+ "written_at": "2026-11-12T00:09:17+09:00"
+}

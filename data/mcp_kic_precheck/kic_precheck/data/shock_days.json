@@ -1,0 +1,233 @@
+{
+ "chip_threshold_pct": -3.75,
+ "link_cut": 0.56,
+ "spread_threshold": 0.275,
+ "days": [
+  {
+   "d": "2025-01-27",
+   "chip": -15.45,
+   "power": -16.71,
+   "link_before": 0.18,
+   "src": "precheck_result.json",
+   "ratio": 1.08,
+   "spread": "예"
+  },
+  {
+   "d": "2025-04-09",
+   "chip": -5.34,
+   "power": -4.51,
+   "link_before": 0.81,
+   "src": "precheck_result.json",
+   "ratio": 0.84,
+   "spread": "예"
+  },
+  {
+   "d": "2025-08-29",
+   "chip": -4.16,
+   "power": -1.6,
+   "link_before": 0.14,
+   "src": "precheck_result.json",
+   "ratio": 0.38,
+   "spread": "예"
+  },
+  {
+   "d": "2025-10-14",
+   "chip": -5.7,
+   "power": 0.93,
+   "link_before": 0.35,
+   "src": "precheck_result.json",
+   "ratio": -0.16,
+   "spread": "아니오"
+  },
+  {
+   "d": "2025-12-12",
+   "chip": -5.04,
+   "power": -4.09,
+   "link_before": 0.39,
+   "src": "precheck_result.json",
+   "ratio": 0.81,
+   "spread": "예"
+  },
+  {
+   "d": "2026-02-04",
+   "chip": -7.19,
+   "power": -4.35,
+   "link_before": 0.55,
+   "src": "precheck_result.json",
+   "ratio": 0.61,
+   "spread": "예"
+  },
+  {
+   "d": "2026-03-03",
+   "chip": -4.61,
+   "power": -2.52,
+   "link_before": 0.58,
+   "src": "precheck_result.json",
+   "ratio": 0.55,
+   "spread": "예"
+  },
+  {
+   "d": "2026-03-30",
+   "chip": -5.58,
+   "power": -4.07,
+   "link_before": 0.57,
+   "src": "precheck_result.json",
+   "ratio": 0.73,
+   "spread": "예"
+  },
+  {
+   "d": "2026-05-18",
+   "chip": -4.47,
+   "power": -3.95,
+   "link_before": 0.42,
+   "src": "precheck_result.json",
+   "ratio": 0.88,
+   "spread": "예"
+  },
+  {
+   "d": "2026-06-05",
+   "chip": -4.81,
+   "power": 0.14,
+   "link_before": 0.5,
+   "src": "precheck_result.json",
+   "ratio": -0.03,
+   "spread": "아니오"
+  },
+  {
+   "d": "2026-06-16",
+   "chip": -5.5,
+   "power": 1.34,
+   "link_before": 0.46,
+   "src": "precheck_result.json",
+   "ratio": -0.24,
+   "spread": "아니오"
+  },
+  {
+   "d": "2026-06-23",
+   "chip": -5.01,
+   "power": -2.42,
+   "link_before": 0.47,
+   "src": "precheck_result.json",
+   "ratio": 0.48,
+   "spread": "예"
+  },
+  {
+   "d": "2026-07-01",
+   "chip": -6.64,
+   "power": -4.07,
+   "link_before": 0.47,
+   "src": "precheck_result.json",
+   "ratio": 0.61,
+   "spread": "예"
+  },
+  {
+   "d": "2026-07-02",
+   "chip": -5.66,
+   "power": -2.77,
+   "link_before": 0.52,
+   "src": "precheck_result.json",
+   "ratio": 0.49,
+   "spread": "예"
+  },
+  {
+   "d": "2026-07-07",
+   "chip": -4.73,
+   "power": -3.05,
+   "link_before": 0.54,
+   "src": "precheck_result.json",
+   "ratio": 0.64,
+   "spread": "예"
+  },
+  {
+   "d": "2026-07-15",
+   "chip": -4.4,
+   "power": -1.69,
+   "link_before": 0.57,
+   "src": "precheck_result.json",
+   "ratio": 0.38,
+   "spread": "예"
+  },
+  {
+   "d": "2026-07-16",
+   "chip": -5.09,
+   "power": -2.97,
+   "link_before": 0.57,
+   "src": "precheck_result.json",
+   "ratio": 0.58,
+   "spread": "예"
+  },
+  {
+   "d": "2026-07-24",
+   "chip": -7.21,
+   "power": -3.45,
+   "link_before": 0.63,
+   "src": "precheck_result.json",
+   "ratio": 0.48,
+   "spread": "예"
+  },
+  {
+   "d": "2026-07-28",
+   "chip": -7.04,
+   "power": -5.58,
+   "link_before": 0.66,
+   "src": "precheck_result.json",
+   "ratio": 0.79,
+   "spread": "예"
+  },
+  {
+   "d": "2026-08-05",
+   "chip": -3.79,
+   "power": 0.31,
+   "link_before": 0.71,
+   "src": "precheck_result.json",
+   "ratio": -0.08,
+   "spread": "아니오"
+  },
+  {
+   "d": "2026-08-18",
+   "chip": -5.16,
+   "power": -3.92,
+   "link_before": 0.72,
+   "src": "precheck_result.json",
+   "ratio": 0.76,
+   "spread": "예"
+  },
+  {
+   "d": "2026-09-14",
+   "chip": -5.89,
+   "power": -4.68,
+   "link_before": 0.79,
+   "src": "precheck_result.json",
+   "ratio": 0.79,
+   "spread": "예"
+  },
+  {
+   "d": "2026-10-08",
+   "chip": -4.23,
+   "power": -1.3,
+   "link_before": 0.71,
+   "src": "precheck_result.json",
+   "ratio": 0.31,
+   "spread": "예"
+  },
+  {
+   "d": "2026-10-22",
+   "chip": -5.74,
+   "power": -5.22,
+   "link_before": 0.62,
+   "src": "precheck_result.json",
+   "ratio": 0.91,
+   "spread": "예"
+  },
+  {
+   "d": "2026-10-30",
+   "chip": -7.37,
+   "power": -0.53,
+   "link_before": 0.65,
+   "src": "day_check.json",
+   "ratio": 0.07,
+   "spread": "아니오"
+  }
+ ],
+ "note": "충격 날 = 칩 단계 9종목(시장 요인을 뺀 평균)이 2년 가운데 하위 5%만큼 빠진 날. 가르는 연동성 = 충격 날 직전 연동성의 중간값."
+}

@@ -1,0 +1,23 @@
+{
+ "date": "2026-06-16",
+ "interp_verdict": "사람에게 넘긴다",
+ "interp_cause": "AI 투자 전반",
+ "interp_confidence": "낮음",
+ "rechecked": [
+  "N2 fool.com 「Stock Market Today, June 16: Nvidia, Broadcom, and Micron Technology Lead Drop in Nasdaq」 · N4 thebull.com.au 「Nasdaq Composite Pulls Back: Markets Brace for Warsh's First Fed Meeting and Dot Plot」 — 묶음에 있음",
+  "N4 가 대는 까닭은 「연준 회의를 앞둔 되돌림」으로 「시장 전체」 쪽이지 해석이 고른 「AI 투자 전반」이 아님 — 해석 갈래를 직접 대는 그날 출처는 0건(MarketWise 는 전날 글이고 검색 기록으로만 있어 다시 확인 못 함)",
+  "mid 다시 냄: SPY -0.60 · 서버·부품 시장 대비 -1.92%p(16/22) — 같음"
+ ],
+ "counter": "못 찾음. news_search 두 번: 「Marvell Intel stock falls why」→ Yahoo Finance/StockStory 「Marvell Technology, Nova, and KLA Corporation Stocks Trade Down, What You Need To Know」(2026-06-16, 같은 글 옮김, 제목에 까닭 없음) · 「semiconductor stocks tumble」→ 관련 없는 1건. 까닭을 대는 독립 출처가 어느 갈래에도 둘이 안 됨",
+ "final_verdict": "사람에게 넘긴다",
+ "cause": "못 정함",
+ "changed": false,
+ "why": "해석이 넘긴 까닭(출처 모자람)이 내 검색으로도 안 풀림. 해석이 고른 갈래 「AI 투자 전반」은 그날 출처로 받쳐지지 않아 갈래는 「못 정함」으로 낮춤. 판정은 그대로",
+ "confidence": "낮음",
+ "tools": [
+  "mid",
+  "news_search: Marvell Intel stock falls why (2건)",
+  "news_search: semiconductor stocks tumble (1건, 관련 없음)"
+ ],
+ "written_at": "2026-11-12T00:56:14+09:00"
+}

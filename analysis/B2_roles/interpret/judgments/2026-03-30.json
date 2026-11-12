@@ -1,0 +1,72 @@
+{
+ "date": "2026-03-30",
+ "seen": [
+  {
+   "name": "pack(cases/2026-03-30/materials.md)",
+   "date": "2026-03-30"
+  },
+  {
+   "name": "mid(prices_long.csv.gz)",
+   "date": "2026-03-30"
+  },
+  {
+   "name": "newsstat(news/2026-03-30.json)",
+   "date": "2026-03-30"
+  },
+  {
+   "name": "news_search 'memory storage optical stocks decline chip sector why' → 0건",
+   "date": "2026-03-30"
+  }
+ ],
+ "tools": [
+  {
+   "tool": "newsstat",
+   "why": "바탕 자료에 까닭을 댄 출처가 하나(seekingalpha N11)뿐이라 나머지 제목 확인"
+  },
+  {
+   "tool": "news_search",
+   "why": "메모리·광부품 하락의 까닭을 AI 수요 전반으로 댄 출처가 있는지(before=2026-03-31)"
+  }
+ ],
+ "cause": "칩 고유",
+ "evidence": [
+  {
+   "text": "Memory, storage and optical stock declines drag down chip sector",
+   "src": "seekingalpha.com N11",
+   "pub": "2026-03-30"
+  },
+  {
+   "text": "Micron Slides 5% as Google's AI Memory Algorithm Sparks Fresh Fears Across the Semiconductor Sector",
+   "src": "247wallst.com(newsstat)",
+   "pub": "2026-03-30"
+  },
+  {
+   "text": "Dow Jones alone in the green, Nasdaq slumps as Trump says Iran talks 'serious'",
+   "src": "proactiveinvestors.com N6",
+   "pub": "2026-03-30"
+  },
+  {
+   "text": "칩 9/9 내림(엔비디아는 -1.4 로 가장 덜 빠짐), 장비 8/8(-4.49%p), 서버·부품 21/22(-4.78%p, FN -10.9·COHR -9.8·CIEN -9.1 광부품)",
+   "src": "mid 계산",
+   "pub": "2026-03-30"
+  },
+  {
+   "text": "전력·냉각 설비 논조 +0.52, 발전 +1.3, 공사 +1.41. 'Data Center Spending Is About to Rival the World's Biggest Energy Markets'(oilprice N3)",
+   "src": "newsstat · pack",
+   "pub": "2026-03-30"
+  }
+ ],
+ "conditions": {
+  "a": false,
+  "b": false,
+  "c": true,
+  "d": true,
+  "e": false
+ },
+ "verdict": "넘긴다",
+ "confidence": "낮음",
+ "counter": "번진다 쪽: '메모리를 덜 쓰게 하는 알고리즘'은 2025-01-27 의 값싼 모델 소식처럼 장비를 덜 사도 된다는 이야기로 번질 수 있고, 서버·부품 21/22 가 시장보다 4.78%p 더 빠짐. 안 번진다 쪽: 기사가 든 것은 메모리·저장·광부품이고 엔비디아는 -1.4 에 그침. 전력 쪽 기사는 오르는 문맥뿐.",
+ "dropped": 0,
+ "note": "(d)는 찼으나 (e)가 크게 어긋남.",
+ "written_at": "2026-11-12T00:45:28+09:00"
+}

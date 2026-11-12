@@ -1,0 +1,64 @@
+{
+ "date": "2025-01-27",
+ "seen": [
+  {
+   "name": "pack(cases/2025-01-27/materials.md 그날 숫자·기사 제목 12건·실적 공시)",
+   "date": "2025-01-27"
+  },
+  {
+   "name": "mid(prices_long.csv.gz 그날 SPY·칩·장비·서버)",
+   "date": "2025-01-27"
+  },
+  {
+   "name": "newsstat(news/2025-01-27.json)",
+   "date": "2025-01-27"
+  }
+ ],
+ "tools": [
+  {
+   "tool": "newsstat",
+   "why": "바탕 자료로 (a)(c)가 찼으므로 반대 근거와 전력·데이터센터 쪽이 기사에 직접 나오는지 한 번 확인"
+  }
+ ],
+ "cause": "AI 투자 전반",
+ "evidence": [
+  {
+   "text": "Tech stocks tank as a Chinese competitor threatens to upend the AI frenzy; Nvidia sinks nearly 17%",
+   "src": "tribstar.com N7",
+   "pub": "2025-01-27"
+  },
+  {
+   "text": "Chinese low-cost app tops charts, stuns AI markets",
+   "src": "thestandard.com.hk N2",
+   "pub": "2025-01-27"
+  },
+  {
+   "text": "Why Artificial Intelligence (AI) Hardware Winners Taiwan Semiconductor, Marvell, and Arista Networks Plunged by Double Digits Today",
+   "src": "fool.com N10",
+   "pub": "2025-01-27"
+  },
+  {
+   "text": "서버·부품 시장 대비 -9.24%p, 22종목 중 20종목이 시장보다 더 빠짐(CLS -28.2, ANET -22.4)",
+   "src": "mid 계산",
+   "pub": "2025-01-27"
+  },
+  {
+   "text": "그날 58종목 기사 759건 중 발전 회사 CEG 가 315건에 나옴 — DeepSeek 급락 기사(wptf.com, morningstar.com 'AI Stock Rout')에 NVDA 와 함께 묶임",
+   "src": "newsstat",
+   "pub": "2025-01-27"
+  }
+ ],
+ "conditions": {
+  "a": true,
+  "b": true,
+  "c": true,
+  "d": false,
+  "e": false
+ },
+ "verdict": "번진다",
+ "confidence": "높음",
+ "counter": "까닭이 '값싼 모델이 칩을 덜 쓰게 한다'는 칩 수요 쪽 이야기라 전력 쪽은 덜 빠질 수 있음. 데이터센터 낱말이 든 기사는 3건뿐. 인텔 -2.6·AMD -6.4 로 칩 안에서도 차이가 큼.",
+ "dropped": 0,
+ "note": "newsstat 의 제목 가운데 22:30~23:00 UTC 것은 장 마감(21:00 UTC) 뒤 기사임 — 사전 고정의 한계 절대로 그대로 씀",
+ "written_at": "2026-11-12T00:42:50+09:00"
+}

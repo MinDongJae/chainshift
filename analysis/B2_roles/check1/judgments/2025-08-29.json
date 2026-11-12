@@ -1,0 +1,39 @@
+{
+ "date": "2025-08-29",
+ "interp": "넘긴다",
+ "interp_cause": "칩 고유",
+ "recheck": [
+  {
+   "ev": "E1 biztoc.com 「Marvell stock slumps 16% after data center revenue, forecast disappoint」",
+   "result": "pack N12 에 있음. 17:30 UTC — 마감 전"
+  },
+  {
+   "ev": "E2 nikkei.com · scmp.com 「US to make it harder for Intel, SK Hynix and Samsung to produce chips in China」",
+   "result": "pack N7·N6 에 있음. 15:45 · 16:15 UTC — 마감 전"
+  },
+  {
+   "ev": "E3 Reuters 「S&P 500 ends lower as Dell and Nvidia drop」",
+   "result": "news_search 로 다시 찾아 제목 있음(발행일 2025-08-29). 'ends lower' 라 마감 뒤에 쓴 기사로 보임 — 도구가 준 시각(07:00 GMT)은 믿기 어려워 '시각 모름', 까닭 근거에서는 뺌"
+  },
+  {
+   "ev": "E4 proactiveinvestors.com 「S&P 500, Dow Jones retreat from record highs on renewed inflation fears」",
+   "result": "그날 기사 파일에 있음. 17:15 UTC — 마감 전"
+  },
+  {
+   "ev": "E5 칩 9/9 내림, 서버·부품 시장 대비 -2.47%p 18/22",
+   "result": "다시 계산해 같음. 가운데값 -1.88%p · 나쁜 셋 뺀 평균 -1.70%p — 좁은 하락(K6) 아님"
+  }
+ ],
+ "counter": "번진다 쪽 반대 근거를 찾음: investopedia.com 2025-08-29 18:30 UTC 「...Tech Stocks Tumble; Nvidia, Broadcom Lead Chip Sector Slump」 — 칩 '업종' 하락이라 (a)가 아니라 (d) 쪽. news_search 「Wall Street AI stocks fall Dell Marvell data center demand worries」(2025-08-29 하루) 는 Reuters 1건만 돌려줌. AI 투자 전반을 까닭으로 대는 마감 전 기사 못 찾음. 기사 파일 제목 「Top Stock Movers Now: Caterpillar, Nvidia, Autodesk」(yahoo 16:15)에 전력·냉각 설비 종목 캐터필러가 나오나 방향은 제목에 없음.",
+ "final": "넘긴다",
+ "cause": "칩 고유",
+ "changed": false,
+ "why": "넘김→안 번진다 조건 ①(d) 발행처 2곳 이상(biztoc · nikkei/scmp) ②(a)(b) 기사 없음은 찼으나 ③ 좁은 하락이 아님(가운데값 -1.88%p). 넘김→번진다 조건 ①(a) 발행처 2곳을 못 채움. 둘 다 아니라 넘김을 둠.",
+ "conf": "낮음",
+ "tools": [
+  "newsstat",
+  "news_search"
+ ],
+ "dropped": 0,
+ "written_at": "2026-11-12T00:56:14+09:00"
+}

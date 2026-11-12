@@ -1,0 +1,24 @@
+{
+ "date": "2026-08-18",
+ "interp_verdict": "번진다",
+ "interp_cause": "시장 전체",
+ "interp_confidence": "중간",
+ "rechecked": [
+  "N11 businesstimes(로이터) 「US stocks: Tech selloff weighs down Wall Street as bond yields climb」 · N5 hindustantimes 「Why did the S&P 500 fall today? Bond yields, oil prices and Iran tensions explained」 · N12 aa.com.tr · N8 bignewsnetwork — 넷 다 묶음에 있고 금리·유가·이란을 까닭으로 직접 댐. 로이터 글은 내 검색에서도 2026-08-18 로 나옴",
+  "F4 파브리넷 공시(2026-08-17 제출) 「We achieved record quarterly revenue of $1.316 billion, exceeding our guidance range…」 — 묶음에 있으나 좋은 내용. 「다음 날 -19.4%」는 mid 값이고 공시 문장이 까닭을 대는 것은 아님(해석도 까닭 출처로 세지 않음)",
+  "mid 다시 냄: SPY -0.68 · 서버·부품 시장 대비 -5.31%p(19/22) · 파브리넷 -19.4 — 같음"
+ ],
+ "counter": "갈래를 바꿀 반대 근거는 못 찾음. 새 출처도 같은 쪽: Yahoo Finance 「Nvidia, AMD, Micron Lead Chip Stocks Selloff as Iran Tensions Rattle Markets」 · inkl 「Nasdaq Drops, Chip Stocks Crater As Bond Yields Bite」(둘 다 2026-08-18). MarketWatch 「AI chip stocks were riding high. Here's why Micron and others are now pulling back.」(2026-08-18)는 제목에 까닭이 없음. 파브리넷·크레도를 까닭으로 대는 글은 검색에 안 나옴",
+ "final_verdict": "번진다",
+ "cause": "시장 전체",
+ "changed": false,
+ "why": "근거 문장이 다 확인되고 다른 갈래 출처를 못 찾음. S -5.31 은 경계에서 4%p 넘게 밖",
+ "confidence": "중간",
+ "tools": [
+  "mid",
+  "news_search: Fabrinet Credo stock plunge chip stocks (2건)",
+  "news_search: semiconductor stocks selloff AI (3건)"
+ ],
+ "note": "높음으로 안 올린 까닭: 같은 날 묶음 N10 「Nvidia to Invest Up to $105 Billion for OpenAI Data Center」가 전력·데이터센터 쪽에 좋은 소식이고, SPY 가 -0.68% 뿐이라 「시장 전체」치고는 시장이 덜 빠짐. leaked: 58종목 전체 -4.4% 를 미리 봄",
+ "written_at": "2026-11-12T01:00:48+09:00"
+}

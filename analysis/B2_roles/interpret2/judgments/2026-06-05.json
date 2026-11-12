@@ -1,0 +1,27 @@
+{
+ "date": "2026-06-05",
+ "seen": [
+  "pack: cases/2026-06-05/materials.md 기사 제목 12개(2026-06-04~05)·공시 6줄(AVGO 2026-06-03, CIEN 2026-06-04)",
+  "mid: prices_long.csv.gz 2026-06-05 까지"
+ ],
+ "tools": [
+  {
+   "name": "mid",
+   "why": "늘 봄. SPY -2.58% 라 민감도 뺀 값을 S 로 씀. pack 과 mid 로 조건이 차서 더 찾지 않음"
+  }
+ ],
+ "cause": "AI 투자 전반",
+ "evidence": [
+  "foreignpolicyjournal.com 2026-06-05 「Broadcom Guidance Spooks AI Investors As Healthcare And Financials Hold Firm」",
+  "zawya.com(로이터) 2026-06-05 「Nasdaq futures lead declines after Broadcom results disappoint」",
+  "yahoo.com 2026-06-05 「Weakness in Technology Stocks Pressures Stock Indexes」",
+  "yahoo.com 2026-06-05 「Stocks Retreat as US-Iran Peace Hopes in Doubt」 · baystreet.ca 「Stocks Tumble to End Brutal Week」 — 시장 전체도 같이 빠짐",
+  "mid: SPY -2.58%. 서버·부품 22종목 모두 시장보다 더 빠짐(시장 대비 -5.09%p, 민감도 뺀 값 -2.27). 장비·소재 민감도 뺀 값 -2.68, 칩 -3.75"
+ ],
+ "verdict": "번진다",
+ "confidence": "중간",
+ "counter": "시장이 -2.58% 빠진 날이라 전력 쪽이 빠졌더라도 시장 몫을 빼면 남는 것이 없을 수 있다. 브로드컴 한 회사의 전망이 출발점이라 칩 고유로 읽을 수 있고, 「헬스케어·금융은 버팀」이라는 제목은 기술주만의 일임을 말한다. 민감도 뺀 S=-2.27 은 경계에서 1.27%p 밖이지만 큰 하락일의 민감도 값은 오차가 크다.",
+ "note": "조건: (가) AI 투자 전반 출처 둘(foreignpolicyjournal · 로이터) + 시장 전체 출처 둘, (나) S(민감도 뺀 값)=-2.27 ≤ -1.0. leaked.txt 에 있는 날 — 「안 번짐」이라고 미리 봤지만 그 앎을 쓰지 않고 사전 조건대로 씀(조건대로면 번진다).",
+ "dropped": 0,
+ "written_at": "2026-11-12T00:46:03+09:00"
+}

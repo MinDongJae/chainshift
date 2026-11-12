@@ -1,0 +1,25 @@
+{
+ "date": "2026-07-24",
+ "interp_verdict": "사람에게 넘긴다",
+ "interp_cause": "칩 고유",
+ "interp_confidence": "낮음",
+ "rechecked": [
+  "MarketWatch 「Why Intel, Micron and other major chip stocks are falling — even as the rest of tech holds up」 · Investopedia 「Chip Stocks Slide Friday—Memory Favorites Micron, Sandisk Among the Big Decliners」 — 내 검색에서 같은 제목·2026-07-24 로 다시 나옴",
+  "F8 슈퍼마이크로 공시(2026-07-21 제출) 「Revenues for the fourth quarter of fiscal year 2026 are estimated to be near the low end of our guidance of $11.0 billion to $12.5 billion.」 — 묶음에 글자 그대로 있음. 해석은 뒤쪽 금액을 잘라 옮겼으나 뜻은 같음",
+  "N9 cnbc 「Michael Burry's short bets on Tesla, Caterpillar pay off in big July pullback」 — 묶음에 있음",
+  "mid 다시 냄: SPY +0.10 · 서버·부품 시장 대비 -3.16%p(16/22) — 같음"
+ ],
+ "counter": "못 찾음. 「AI stocks selloff data center spending」 검색은 J.P. Morgan 「Is It All One Big AI Trade?」(2026-07-24) 한 건 — 물음일 뿐 그날 하락의 까닭을 대지 않음. 칩 쪽 검색 3건은 모두 해석과 같은 쪽(MarketWatch · Investopedia · Yahoo 「Why Did Micron Stock Drop Friday?」)",
+ "final_verdict": "사람에게 넘긴다",
+ "cause": "칩 고유",
+ "changed": false,
+ "why": "근거 문장이 다 확인되고 다른 갈래 출처를 못 찾음. 칩 고유인데 서버·부품이 3.16%p 더 빠진 엇갈림이 그대로라 넘김을 둠",
+ "confidence": "낮음",
+ "tools": [
+  "mid",
+  "news_search: why chip stocks falling Intel Micron (3건)",
+  "news_search: AI stocks selloff data center spending (1건)"
+ ],
+ "note": "묶음 N9(캐터필러 공매도가 7월 하락으로 이익)·F8(슈퍼마이크로 매출 전망 아래쪽)은 칩 밖 회사의 나쁜 소식이라 사람이 볼 때 「번진다」 쪽 근거로 같이 봐야 함",
+ "written_at": "2026-11-12T00:59:30+09:00"
+}

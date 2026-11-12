@@ -1,0 +1,40 @@
+{
+ "date": "2026-06-16",
+ "interp": "넘긴다",
+ "interp_cause": "규칙이 잘못 고른 날",
+ "recheck": [
+  {
+   "ev": "E1 fool.com 「Stock Market Today, June 16: Nvidia, Broadcom, and Micron Technology Lead Drop in Nasdaq」",
+   "result": "pack N2 에 있음. 23:45 UTC — 마감(20:00) 뒤라 K2 로 뺌"
+  },
+  {
+   "ev": "E2 thebull.com.au 「Nasdaq Composite Pulls Back: Markets Brace for Warsh's First Fed Meeting and Dot Plot」",
+   "result": "pack N4 에 있음. 23:00 UTC — 마감 뒤, 뺌. 해석이 든 '까닭 출처 1건'이 이것이라 마감 전 까닭 출처는 0건이 됨"
+  },
+  {
+   "ev": "E3 MarketWise 「Is the AI Bubble Ready to Burst?...」(2026-06-15)",
+   "result": "다시 찾지 않음. 전날 글이라 그날 하락의 까닭 근거는 아님"
+  },
+  {
+   "ev": "E4 yahoo.com 「Western Digital, Micron, Sandisk hover at all-time highs as AI trade reignites」",
+   "result": "기사 파일에 있음. 13:45 UTC — 마감 전. 오르는 이야기"
+  },
+  {
+   "ev": "E6 칩 9/9(-6.64%), 장비 8/8(-5.13%p), 서버·부품 16/22(-1.92%p)",
+   "result": "다시 계산해 같음. 서버·부품 가운데값은 -0.92%p 로 -1%p 안 — 광부품 넷(LITE -8.6 · COHR -7.5 · FN -7.5 · CIEN -7.1)이 평균을 끌어내린 좁은 하락(K6)"
+  }
+ ],
+ "counter": "news_search 2번. ① 「why semiconductor stocks falling today Marvell Intel AMD profit-taking」 0건. ② 「AI trade selloff Nasdaq chip stocks drop June 16」 4건(제목만, 모두 2026-06-16): Virginia Business · Yahoo Finance 「Nasdaq and S&P 500 slip while Dow hits record high/close」, Bloomberg 「S&P 500 Rally Wavers Before Fed as SpaceX Jumps: Markets Wrap」, Investopedia 「5 Things to Know Before the Stock Market Opens」. 어느 것도 칩 하락의 까닭을 대지 않음. 다우가 최고치를 낸 날이라는 점은 '칩 밖은 버텼다' 쪽 정황이지만 까닭 출처는 아님.",
+ "final": "넘긴다",
+ "cause": "규칙이 잘못 고른 날",
+ "changed": false,
+ "why": "까닭 출처가 모자라 넘긴 날 — 검색 2번을 더 해도 마감 전 까닭 출처가 (a)도 (d)도 0곳. 숫자만으로는 확정하지 않는다고 미리 적음. 해석은 기울기를 '번진다' 쪽이라 했으나, 서버·부품이 좁은 하락이고 다우가 최고치라 나는 기울기를 어느 쪽으로도 두지 않음.",
+ "conf": "낮음",
+ "tools": [
+  "newsstat",
+  "news_search",
+  "news_search"
+ ],
+ "dropped": 2,
+ "written_at": "2026-11-12T00:59:29+09:00"
+}

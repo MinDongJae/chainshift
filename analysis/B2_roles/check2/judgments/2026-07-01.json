@@ -1,0 +1,25 @@
+{
+ "date": "2026-07-01",
+ "interp_verdict": "번진다",
+ "interp_cause": "AI 투자 전반",
+ "interp_confidence": "낮음",
+ "rechecked": [
+  "N1 thebull.com.au 「Nasdaq Composite Slides as AI Infrastructure Sells Down To Start H2」 · N5 businessinsider 「'Big Short' Michael Burry Bets Against Tesla, Nvidia, Caterpillar」 · N7 cnbc · N8 AP — 묶음에 있음",
+  "indiatimes 「…Wall Street under pressure as Nvidia, AMD and Micron lead AI stock sell-off」 — newsstat 13위 뒤에 2026-07-01 16:15 UTC(장중)로 있음",
+  "thebull·indiatimes 는 「AI 주식·AI 인프라가 팔렸다」고 묶어 말할 뿐 왜 팔렸는지는 안 댐 — 갈래(한 회사 일이 아님)는 받치지만 까닭 자체는 약함",
+  "mid 다시 냄: SPY -0.14 · 서버·부품 시장 대비 -3.23%p(18/22) — 같음"
+ ],
+ "counter": "다른 까닭을 대는 독립 출처 하나: TradingView 「Meta AI Cloud Push Sends Nvidia, AMD, Intel, Micron Stocks Sinking」(2026-07-01, Yahoo Finance 는 같은 글 옮김) — 메타의 AI 클라우드 진출이라는 경쟁 쪽 까닭. CNBC 「Chip stocks that notched record rallies in second quarter start Q3 with a dud」(2026-07-01)는 급등 뒤 되돌림으로 읽힘. 한 갈래에 둘이 안 됨",
+ "final_verdict": "번진다",
+ "cause": "AI 투자 전반",
+ "changed": false,
+ "why": "근거 문장이 다 확인되고 반대 갈래 출처가 하나뿐이라 사전 고정대로 판정은 둠. 확신은 이미 가장 낮은 칸이라 더 못 내림",
+ "confidence": "낮음",
+ "tools": [
+  "mid",
+  "news_search: chip stocks fall third quarter start why (1건)",
+  "news_search: Micron KLA Applied Materials shares drop (3건)",
+  "newsstat"
+ ],
+ "written_at": "2026-11-12T00:57:15+09:00"
+}

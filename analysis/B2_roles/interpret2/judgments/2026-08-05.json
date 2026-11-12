@@ -1,0 +1,27 @@
+{
+ "date": "2026-08-05",
+ "seen": [
+  "pack: cases/2026-08-05/materials.md 기사 제목 12개(2026-08-04~05)·공시 28줄 중 8줄(AMD·ALAB·Q·ENTG 2026-08-04)",
+  "mid: prices_long.csv.gz 2026-08-05 까지"
+ ],
+ "tools": [
+  {
+   "name": "mid",
+   "why": "늘 봄. pack 과 mid 로 조건이 차서 더 찾지 않음"
+  }
+ ],
+ "cause": "칩 고유",
+ "evidence": [
+  "spokesman.com(로이터) 2026-08-05 「S&P 500, Dow at record highs on Mideast deal hopes; SpaceX, AMD drag」 — AMD 한 회사가 끌어내림",
+  "AMD 공시(2026-08-04 제출) 실적 발표 다음 날 AMD -7.0%",
+  "Astera Labs 공시(2026-08-04 제출) 실적 발표 다음 날 아스테라랩스 -12.0%",
+  "yahoo.com 2026-08-05 「Morning Bid: Semis fly again as AI capex shoots the moon」 · 「S&P 500 Posts a New Record High on Strong Tech Earnings」 — AI 투자 쪽 소식은 좋음",
+  "mid: 칩 9종목 중 내린 것은 5종목뿐(엔비디아 +3.4 · 인텔 +0.2). 서버·부품 시장 대비 -0.95%p(아리스타 +3.6 · HPE +1.6), 장비·소재 -2.08%p"
+ ],
+ "verdict": "안 번진다",
+ "confidence": "중간",
+ "counter": "S=-0.95 는 경계 -1.0 에서 0.05%p 안쪽이다. 서버·부품 22종목 중 16종목이 시장보다 못했고 장비·소재는 -2.08%p 로 뚜렷이 빠졌다. 까닭을 글로 댄 기사는 로이터 한 건이고 나머지 둘은 「실적 다음 날 그 회사가 빠졌다」는 날짜 맞춤이다.",
+ "note": "조건: (다) 칩 고유 — 로이터 1 + 실적 공시 2(AMD · 아스테라랩스), (라) S=-0.95 > -1.0. 칩 묶음이 고르게 빠지지 않아(5/9) 「규칙이 잘못 고른 날」로 읽을 여지도 있음.",
+ "dropped": 0,
+ "written_at": "2026-11-12T00:49:15+09:00"
+}

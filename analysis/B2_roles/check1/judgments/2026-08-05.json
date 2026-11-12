@@ -1,0 +1,45 @@
+{
+ "date": "2026-08-05",
+ "interp": "안 번진다",
+ "interp_cause": "규칙이 잘못 고른 날",
+ "recheck": [
+  {
+   "ev": "E1 칩 9종목 중 내린 것 5개(ALAB -12.0 · TSEM -11.9 · AMD -7.0), 엔비디아 +3.4",
+   "result": "다시 계산해 같음 — (d)의 숫자 조건(내린 종목 5개 이하)에 듦"
+  },
+  {
+   "ev": "E2 spokesman.com 「S&P 500, Dow at record highs on Mideast deal hopes; SpaceX, AMD drag」",
+   "result": "pack N10 에 있음. 23:00 UTC — 마감(20:00) 뒤라 K2 로 뺌"
+  },
+  {
+   "ev": "E3 fool.com 「Stock Market Midday, Aug. 5: Eli Lilly Pops and AMD Drops in Mixed Morning Markets」",
+   "result": "기사 파일에 있음. 18:45 UTC — 마감 전"
+  },
+  {
+   "ev": "E4 AMD · 아스테라랩스 전날(08-04) 실적 발표",
+   "result": "pack F1·F4 에 8-K 2026-08-04 제출로 있음"
+  },
+  {
+   "ev": "E5 서버·부품 시장 대비 -0.95%p",
+   "result": "다시 계산해 같음. (e)의 선(-1%p)에 0.05%p 차이. 가운데값 -0.81%p, 16/22 가 시장보다 더 빠짐"
+  },
+  {
+   "ev": "E6 yahoo.com 「Morning Bid: Semis fly again as AI capex shoots the moon」",
+   "result": "pack N7 에 있음. 05:15 UTC — 마감 전"
+  }
+ ],
+ "counter": "해석이 스스로 든 걸림돌 — 그날 전력·냉각 설비 기사가 110건, 논조 -1.87(이튼 56건 · 블룸에너지 36건) — 을 풀려고 news_search 2번. ① 「Eaton stock earnings data center shares」(2026-08-04~05) 2건: Motley Fool 08-04 비교 글, TIKR.com 08-04 「Vertiv Stock Jumps 18% This Week on Raised AI Data Center Outlook」 — 내리는 문맥 아님. ② 「Eaton Bloom Energy shares fall drop」(2026-08-05) 0건. 전력 쪽을 내리는 문맥으로 든 제목은 못 찾음. 논조 통계가 왜 음수인지는 여전히 못 밝힘.",
+ "final": "안 번진다",
+ "cause": "규칙이 잘못 고른 날",
+ "changed": false,
+ "why": "바꾸는 조건에 안 걸림 — (a)(b)에 드는 마감 전 기사를 제목으로는 못 찾았고, (e)는 다시 계산해도 섬(-0.95%p), 숫자가 '칩 9종목 중 5종목만 내림'을 가리킴. 다만 (e)가 선에 걸리고 전력·냉각 설비 기사 논조가 음수인 까닭을 못 풀어 확신을 낮춤.",
+ "conf": "낮음",
+ "conf_why": "(e) 0.05%p 차이 · 전력·냉각 설비 기사 110건 논조 -1.87 의 까닭 미확인. 해석의 '중간'에서 낮춤.",
+ "tools": [
+  "newsstat",
+  "news_search",
+  "news_search"
+ ],
+ "dropped": 1,
+ "written_at": "2026-11-12T01:03:24+09:00"
+}

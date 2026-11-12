@@ -1,0 +1,46 @@
+{
+ "date": "2026-10-30",
+ "interp": "넘긴다",
+ "interp_cause": "칩 고유",
+ "recheck": [
+  {
+   "ev": "E1 morningstar.com 「Semiconductor Stocks Fall as Intel Earnings Trigger Broad Tech Selloff」",
+   "result": "pack N2 에 있음. 14:30 UTC — 마감(20:00) 전"
+  },
+  {
+   "ev": "E2 econotimes.com 「Intel Leads Semiconductor Selloff as Philadelphia Index Falls More Than 7%」",
+   "result": "pack N4 에 있음. 16:30 UTC — 마감 전"
+  },
+  {
+   "ev": "E3 hngn.com 「Intel Sinks 22%: PC Slump Overshadows 78% Data Center Surge」",
+   "result": "기사 파일에 있음. 19:15 UTC — 마감 전. pack F2(인텔 8-K 2026-10-29: DCAI up 78%, CCPG down 5%)와 맞음"
+  },
+  {
+   "ev": "E4 cnbc.com 「Tech gets crushed, defensive stocks shine. How we're making sense of it all」",
+   "result": "기사 파일에 있음. 19:30 UTC — 마감 전"
+  },
+  {
+   "ev": "E5 investors.com 「MasTec, Quanta Services Surge; Two Other Construction Stocks Break Out」",
+   "result": "pack N12 에 있음. 21:15 UTC — 마감 뒤라 K2 로 뺌(그리고 전력 쪽 그날 움직임이라 leaked.txt 에 적음)"
+  },
+  {
+   "ev": "E6 칩 9/9(-10.61%, 인텔 -28.6), 장비 8/8(-3.83%p), 서버·부품 22/22(-5.04%p)",
+   "result": "다시 계산해 같음. 가운데값 -5.20%p — 좁은 하락(K6) 아님. 인텔을 빼도 칩 8종목 평균 약 -8.4%"
+  },
+  {
+   "ev": "E7 전날(10-29) 전력 쪽 -0.18%",
+   "result": "나는 전력 칸을 안 찍어 다시 확인하지 않음. 10-29 는 충격일이 아님"
+  }
+ ],
+ "counter": "번진다 쪽으로 바꿀 근거를 기사 파일에서 찾아봄: AI 투자 전반을 까닭으로 대는 마감 전 제목 없음(investinglive 19:30 「Anthropic may not secure investment-grade rating after IPO, FT reports」는 AI 회사 자금 조달 소식 1건이나 하락의 까닭으로 든 것은 아님). 안 번진다 쪽으로 바꿀 근거: 칩 고유 까닭(인텔 실적 · PC 부진) 발행처 3곳은 확인되나 서버·부품 22종목 모두가 시장보다 더 빠짐.",
+ "final": "넘긴다",
+ "cause": "칩 고유",
+ "changed": false,
+ "why": "넘김→안 번진다 조건 ①(칩 고유 발행처 3곳: morningstar · econotimes · hngn) ②((a)(b) 기사 없음)는 차나 ③이 안 참 — 서버·부품 22/22, 장비·소재 8/8 의 넓은 하락. 넘김→번진다 조건 ①((a) 발행처 2곳)은 0곳. 넘김을 둠.",
+ "conf": "낮음",
+ "tools": [
+  "newsstat"
+ ],
+ "dropped": 1,
+ "written_at": "2026-11-12T01:05:06+09:00"
+}

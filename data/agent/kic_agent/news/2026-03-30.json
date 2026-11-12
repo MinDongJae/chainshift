@@ -1,0 +1,317 @@
+{
+ "window_utc": [
+  "20260330000000",
+  "20260330234500"
+ ],
+ "files": 96,
+ "missing": [],
+ "records": 116679,
+ "hit_records": 206,
+ "by_stage": {
+  "데이터센터 공사": {
+   "n": 6,
+   "tone": 1.41,
+   "dc": 0
+  },
+  "반도체 장비·소재": {
+   "n": 19,
+   "tone": -0.58,
+   "dc": 0
+  },
+  "발전": {
+   "n": 2,
+   "tone": 1.3,
+   "dc": 2
+  },
+  "서버·네트워크·부품": {
+   "n": 22,
+   "tone": -0.3,
+   "dc": 0
+  },
+  "전력·냉각 설비": {
+   "n": 15,
+   "tone": 0.52,
+   "dc": 1
+  },
+  "칩": {
+   "n": 153,
+   "tone": 0.83,
+   "dc": 4
+  }
+ },
+ "by_company": {
+  "NVDA": 65,
+  "MU": 53,
+  "INTC": 21,
+  "WDC": 13,
+  "BE": 10,
+  "LRCX": 9,
+  "AMAT": 8,
+  "AMD": 6,
+  "PWR": 6,
+  "MRVL": 5,
+  "AVGO": 5,
+  "CAT": 5,
+  "TER": 4,
+  "Q": 3,
+  "STX": 3,
+  "CSCO": 3,
+  "TSEM": 2,
+  "ANET": 2,
+  "CEG": 2,
+  "SMCI": 1,
+  "GEV": 1,
+  "CRDO": 1
+ },
+ "dc_hit_records": 7,
+ "unique_titles": 178,
+ "top": [
+  {
+   "t": "20260330194500",
+   "title": "These stocks are 'the place to be' if you want serious AI growth, says BofA",
+   "url": "https://www.morningstar.com/news/marketwatch/2026033098/these-stocks-are-the-place-to-be-if-you-want-serious-ai-growth-says-bofa",
+   "src": "morningstar.com",
+   "ticks": [
+    "MU",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.51,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260330191500",
+   "title": "The market's early rally fizzles &#x2014; plus, why TJX's modest dividend still matters for investors",
+   "url": "https://www.cnbc.com/2026/03/30/the-markets-early-rally-fizzles-plus-why-tjxs-modest-dividend-still-matters-for-investors.html",
+   "src": "cnbc.com",
+   "ticks": [
+    "AMAT",
+    "LRCX",
+    "Q"
+   ],
+   "stages": [
+    "반도체 장비·소재"
+   ],
+   "tone": 0.55,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20260330220000",
+   "title": "Data Center Spending Is About to Rival the World's Biggest Energy Markets",
+   "url": "https://oilprice.com/Energy/Energy-General/Data-Center-Spending-Is-About-to-Rival-the-Worlds-Biggest-Energy-Markets.html",
+   "src": "oilprice.com",
+   "ticks": [
+    "BE"
+   ],
+   "stages": [
+    "전력·냉각 설비"
+   ],
+   "tone": 0.0,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20260330213000",
+   "title": "Stocks close mostly lower led by small cap stocks",
+   "url": "https://investinglive.com:443/stocks/stocks-close-mostly-lower-led-by-small-cap-stocks-20260330/",
+   "src": "investinglive.com",
+   "ticks": [
+    "LRCX",
+    "WDC"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품"
+   ],
+   "tone": -2.87,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260330210000",
+   "title": "Micron's Singapore expansion could trigger global transformer shortage and delay AI data centers",
+   "url": "https://www.digitimes.com/news/a20260325PD205/micron-singapore-expansion-data-center-demand-2026.html",
+   "src": "digitimes.com",
+   "ticks": [
+    "MU"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -2.94,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20260330204500",
+   "title": "Dow Jones alone in the green, Nasdaq slumps as Trump says Iran talks 'serious'",
+   "url": "https://www.proactiveinvestors.com/companies/news/1089741/dow-jones-alone-in-the-green-nasdaq-slumps-as-trump-says-iran-talks-serious-1089741.html",
+   "src": "proactiveinvestors.com",
+   "ticks": [
+    "AMAT",
+    "WDC"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품"
+   ],
+   "tone": -2.76,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260330201500",
+   "title": "Micron Just Gave Incredible News to Investors of This AI Infrastructure Stock That Has Tripled in a Year",
+   "url": "https://www.fool.com/investing/2026/03/30/micron-incredible-news-ai-infrastructure-stock/?source=iedfolrf0000001",
+   "src": "fool.com",
+   "ticks": [
+    "MU",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.93,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260330184500",
+   "title": "This Artificial Intelligence (AI) Stock Could Handily Outperform Management's Own Guidance. Buy It Now.",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/artificial-intelligence-ai-stock-could-092500555.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "INTC",
+    "ANET"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -0.44,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260330171500",
+   "title": "Wall Street Anticipates Micron's Recovery Amid Recent Decline",
+   "url": "https://www.el-balad.com/16896844",
+   "src": "el-balad.com",
+   "ticks": [
+    "MU",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -1.53,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260330170000",
+   "title": "Starcloud CEO Philip Johnston on Putting First Data Center in Space",
+   "url": "https://observer.com/2026/03/starcloud-ceo-philip-johnston-nvidia-space-data-center/",
+   "src": "observer.com",
+   "ticks": [
+    "NVDA"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -0.49,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20260330164500",
+   "title": "Memory, storage and optical stock declines drag down chip sector",
+   "url": "https://seekingalpha.com/news/4570247-memory-storage-and-optical-stock-declines-drag-down-chip-sector",
+   "src": "seekingalpha.com",
+   "ticks": [
+    "MU",
+    "STX"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -4.76,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260330163000",
+   "title": "Dow Jones leads markets higher as Trump says Iran talks 'serious'",
+   "url": "https://www.proactiveinvestors.com/companies/news/1089741/dow-jones-leads-markets-higher-as-trump-says-iran-talks-serious-1089741.html",
+   "src": "proactiveinvestors.com",
+   "ticks": [
+    "AMAT",
+    "WDC"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품"
+   ],
+   "tone": -2.19,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260330154500",
+   "title": "Mistral AI Secures $580M to Expand NVIDIA-Backed Data Centers Across Europe",
+   "url": "https://www.banklesstimes.com/articles/2026/03/30/mistral-ai-secures-580m-to-expand-nvidia-backed-data-centers-across-europe/",
+   "src": "banklesstimes.com",
+   "ticks": [
+    "NVDA"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 0.97,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20260330151500",
+   "title": "Micron Slides 5% as Google's AI Memory Algorithm Sparks Fresh Fears Across the Semiconductor Sector",
+   "url": "https://247wallst.com/investing/2026/03/30/micron-slides-5-as-googles-ai-memory-algorithm-sparks-fresh-fears-across-the-semiconductor-sector/",
+   "src": "247wallst.com",
+   "ticks": [
+    "MU",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -2.38,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260330143000",
+   "title": "Mistral raises $830M for Nvidia-backed data centers, advancing Europe's AI sovereignty",
+   "url": "https://www.thenews.com.pk/latest/1397155-mistral-raises-830m-for-nvidia-backed-ai-data-centers-advancing-europes-ai-sovereignty",
+   "src": "thenews.com.pk",
+   "ticks": [
+    "NVDA"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 1.28,
+   "dc": true,
+   "score": 6
+  }
+ ],
+ "seconds": 292
+}

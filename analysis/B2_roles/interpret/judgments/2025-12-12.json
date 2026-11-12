@@ -1,0 +1,69 @@
+{
+ "date": "2025-12-12",
+ "seen": [
+  {
+   "name": "pack(cases/2025-12-12/materials.md)",
+   "date": "2025-12-12"
+  },
+  {
+   "name": "mid(prices_long.csv.gz)",
+   "date": "2025-12-12"
+  },
+  {
+   "name": "newsstat(news/2025-12-12.json)",
+   "date": "2025-12-12"
+  }
+ ],
+ "tools": [
+  {
+   "tool": "newsstat",
+   "why": "바탕 자료로 (a)(b)(c)가 찼으므로 전력 쪽 논조와 반대 근거를 한 번 확인"
+  }
+ ],
+ "cause": "AI 투자 전반",
+ "evidence": [
+  {
+   "text": "Oracle denies report on OpenAI data center delays but stocks crash continues",
+   "src": "indiatimes.com N8 · bnnbloomberg.ca N6",
+   "pub": "2025-12-12"
+  },
+  {
+   "text": "Stocks Mixed as a Plunge in Oracle Weighs on Tech Stocks",
+   "src": "yahoo.com N1",
+   "pub": "2025-12-12"
+  },
+  {
+   "text": "Michael Burry Warns AI Boom Mirrors Dot-Com Bubble, Nvidia Like Cisco",
+   "src": "webpronews.com N11",
+   "pub": "2025-12-12"
+  },
+  {
+   "text": "Broadcom stock reverses lower on a misinterpretation of what the CEO said on the earnings call",
+   "src": "cnbc.com N4",
+   "pub": "2025-12-12"
+  },
+  {
+   "text": "서버·부품 시장 대비 -5.34%p, 22/22 가 시장보다 더 빠짐. 장비·소재 -3.34%p, 7/8",
+   "src": "mid 계산",
+   "pub": "2025-12-12"
+  },
+  {
+   "text": "전력·냉각 설비 기사 37건 논조 -1.17(여섯 단계 중 혼자 음수), 발전 기사 14건 중 데이터센터 낱말 4건",
+   "src": "newsstat",
+   "pub": "2025-12-12"
+  }
+ ],
+ "conditions": {
+  "a": true,
+  "b": true,
+  "c": true,
+  "d": false,
+  "e": false
+ },
+ "verdict": "번진다",
+ "confidence": "높음",
+ "counter": "브로드컴 하락은 실적 발표 뒤 '발언을 잘못 읽은 것'(cnbc N4)이라는 회사 고유의 설명이 있고, 오라클은 지연 보도를 부인함. 발전·공사 쪽 기사 논조는 양수(+0.94, +2.27).",
+ "dropped": 0,
+ "note": "까닭이 '데이터센터를 짓는 일정이 늦어진다'는 보도라 공사·전력 설비에 바로 닿는 내용.",
+ "written_at": "2026-11-12T00:44:14+09:00"
+}

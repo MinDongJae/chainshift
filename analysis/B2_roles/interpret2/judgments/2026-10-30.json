@@ -1,0 +1,35 @@
+{
+ "date": "2026-10-30",
+ "seen": [
+  "pack: cases/2026-10-30/materials.md 기사 제목 12개(2026-10-30 UTC)·공시 51줄 중 8줄(INTC 10-29, KLAC·TER 10-28, ENTG 10-29)",
+  "mid: prices_long.csv.gz 2026-10-30 까지",
+  "newsstat: news/2026-10-30.json"
+ ],
+ "tools": [
+  {
+   "name": "mid",
+   "why": "늘 봄. SPY -1.77% 라 민감도 뺀 값을 S 로 씀"
+  },
+  {
+   "name": "newsstat",
+   "why": "까닭은 인텔 실적(칩 고유)인데 서버·부품이 민감도를 빼고도 -2.54 라 엇갈림 — 전력 쪽 소식을 찾으려고"
+  }
+ ],
+ "cause": "칩 고유",
+ "evidence": [
+  "morningstar.com 2026-10-30 「Semiconductor Stocks Fall as Intel Earnings Trigger Broad Tech Selloff」",
+  "econotimes.com 2026-10-30 「Intel Leads Semiconductor Selloff as Philadelphia Index Falls More Than 7%」",
+  "hngn.com 2026-10-30 19:15 UTC 「Intel Sinks 22%: PC Slump Overshadows 78% Data Center Surge」 — 까닭은 PC 부진, 데이터센터 매출은 78% 늘었음",
+  "Intel 공시(2026-10-29 제출) 「Despite near-term headwinds across the PC industry, demand for our CPUs remains robust」",
+  "investors.com 2026-10-30 「MasTec, Quanta Services Surge; Two Other Construction Stocks Break Out」 — 데이터센터 공사 단계 회사 둘이 그날 급등",
+  "cnbc.com 2026-10-30 19:30 UTC 「Tech gets crushed, defensive stocks shine」",
+  "mid: SPY -1.77%. 서버·부품 22/22 내림 — 시장 대비 -5.04%p, 민감도 뺀 값 -2.54(델 -10.8 · HPQ -9.6 은 PC 회사). 장비·소재 민감도 뺀 값 -0.57",
+  "newsstat: 전력·냉각 설비 어조 +1.01, 데이터센터 공사 +1.9"
+ ],
+ "verdict": "사람에게 넘긴다",
+ "confidence": "낮음",
+ "counter": "「안 번진다」 쪽이 더 무겁다: 까닭이 인텔의 PC 부진이고 데이터센터 매출은 오히려 늘었으며, 공사 단계의 마스텍·콴타가 그날 급등했고, 서버·부품에서 가장 빠진 델·HPQ 는 PC 회사다. 「번진다」 쪽: 필라델피아 반도체 지수가 7% 넘게 빠지며 「기술주 전반 매도」가 됐고 서버·부품 22종목이 모두 내렸다. 「Anthropic may not secure investment-grade rating after IPO」(FT 인용)는 AI 자금 조달 걱정이다.",
+ "note": "조건: (다) 칩 고유 출처 셋인데 S(민감도 뺀 값)=-2.54 ≤ -1.0 → (라)를 못 채워 사전 고정대로 넘김. 조건이 S 를 서버·부품 평균 하나로 본 탓에, PC 회사가 끌어내린 날을 가르지 못함.",
+ "dropped": 0,
+ "written_at": "2026-11-12T00:51:04+09:00"
+}

@@ -1,0 +1,349 @@
+{
+ "window_utc": [
+  "20260605000000",
+  "20260605234500"
+ ],
+ "files": 96,
+ "missing": [],
+ "records": 116804,
+ "hit_records": 538,
+ "by_stage": {
+  "데이터센터 공사": {
+   "n": 7,
+   "tone": 1.87,
+   "dc": 0
+  },
+  "반도체 장비·소재": {
+   "n": 20,
+   "tone": 1.02,
+   "dc": 0
+  },
+  "발전": {
+   "n": 9,
+   "tone": 0.69,
+   "dc": 2
+  },
+  "서버·네트워크·부품": {
+   "n": 28,
+   "tone": 0.47,
+   "dc": 0
+  },
+  "전력·냉각 설비": {
+   "n": 20,
+   "tone": 1.36,
+   "dc": 0
+  },
+  "칩": {
+   "n": 474,
+   "tone": -0.23,
+   "dc": 2
+  }
+ },
+ "by_company": {
+  "MU": 224,
+  "NVDA": 144,
+  "AMD": 97,
+  "AVGO": 66,
+  "MRVL": 51,
+  "INTC": 37,
+  "AMAT": 12,
+  "LRCX": 12,
+  "BE": 11,
+  "WDC": 10,
+  "PWR": 7,
+  "CEG": 6,
+  "CSCO": 5,
+  "ETN": 4,
+  "ANET": 3,
+  "CLS": 3,
+  "SEI": 3,
+  "LOGI": 3,
+  "SMCI": 3,
+  "CAT": 2,
+  "STX": 2,
+  "JCI": 2,
+  "CMI": 1,
+  "CRDO": 1,
+  "TER": 1
+ },
+ "dc_hit_records": 4,
+ "unique_titles": 369,
+ "top": [
+  {
+   "t": "20260605171500",
+   "title": "Stocks making the biggest moves midday: AVGO, ARM, MSTR, CMG, QNT",
+   "url": "https://www.cnbc.com/2026/06/05/stocks-making-the-biggest-moves-midday-avgo-arm-mstr-cmg-qnt.html",
+   "src": "cnbc.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "LRCX",
+    "STX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -1.49,
+   "dc": false,
+   "score": 11
+  },
+  {
+   "t": "20260605121500",
+   "title": "Stocks making the biggest moves premarket: LULU, MU, TTAN",
+   "url": "https://www.cnbc.com/2026/06/05/stocks-making-the-biggest-moves-premarket-lulu-mu-ttan.html",
+   "src": "cnbc.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "LRCX",
+    "STX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -0.4,
+   "dc": false,
+   "score": 11
+  },
+  {
+   "t": "20260605084500",
+   "title": "Google $GOOG Betting Big on the AI Future",
+   "url": "https://www.livetradingnews.com/google-dollargoog-betting-big-on-the-ai-future",
+   "src": "livetradingnews.com",
+   "ticks": [
+    "MU",
+    "ANET",
+    "SMCI",
+    "CEG"
+   ],
+   "stages": [
+    "발전",
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 1.43,
+   "dc": false,
+   "score": 11
+  },
+  {
+   "t": "20260605074500",
+   "title": "Stocks Retreat as US-Iran Peace Hopes in Doubt",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-retreat-us-iran-peace-203546965.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "AMD",
+    "AMAT",
+    "LRCX",
+    "WDC"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -0.62,
+   "dc": false,
+   "score": 11
+  },
+  {
+   "t": "20260605220000",
+   "title": "Weakness in Technology Stocks Pressures Stock Indexes",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/weakness-technology-stocks-pressures-stock-141039221.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "MRVL",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.96,
+   "dc": false,
+   "score": 10
+  },
+  {
+   "t": "20260605223000",
+   "title": "Stocks Mixed as Tech Weakness Weighs",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-mixed-tech-weakness-weighs-151614469.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "LRCX",
+    "WDC"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 1.13,
+   "dc": false,
+   "score": 9
+  },
+  {
+   "t": "20260605193000",
+   "title": "TMX Group Limited: TMX Group Equity Financing Statistics",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-06/68696028-tmx-group-limited-tmx-group-equity-financing-statistics-may-2026-296.htm",
+   "src": "finanznachrichten.de",
+   "ticks": [
+    "MRVL",
+    "LRCX",
+    "PWR"
+   ],
+   "stages": [
+    "데이터센터 공사",
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 1.07,
+   "dc": false,
+   "score": 9
+  },
+  {
+   "t": "20260605000000",
+   "title": "Nasdaq futures lead declines after Broadcom results disappoint",
+   "url": "https://www.zawya.com/en/capital-markets/equities/nasdaq-futures-lead-declines-after-broadcom-results-disappoint-ymgdrcd0",
+   "src": "zawya.com",
+   "ticks": [
+    "AVGO",
+    "MU",
+    "AMD",
+    "MRVL"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -2.25,
+   "dc": false,
+   "score": 9
+  },
+  {
+   "t": "20260605171500",
+   "title": "This Unstoppable ETF Has Turned $5,000 Into More Than $21,000 in 5 Years. Is It a Buy Right Now?",
+   "url": "https://www.fool.com/investing/2026/06/05/unstoppable-etf-turn-5k-to-21k-5-years-soxx/?source=iedfolrf0000001",
+   "src": "fool.com",
+   "ticks": [
+    "MU",
+    "MRVL",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 3.56,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260605234500",
+   "title": "Baystreet.ca - Stocks Tumble to End Brutal Week",
+   "url": "http://baystreet.ca/marketupdates/15108/Stocks-Tumble-to-End-Brutal-Week",
+   "src": "baystreet.ca",
+   "ticks": [
+    "MU",
+    "AMD",
+    "MRVL"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -2.03,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20260605230000",
+   "title": "Broadcom (NASDAQ: AVGO) Guidance Spooks AI Investors As Healthcare And Financials Hold Firm",
+   "url": "https://www.foreignpolicyjournal.com/2026/06/05/broadcom-nasdaq-avgo-guidance-spooks-ai-investors-as-healthcare-and-financials-hold-firm/",
+   "src": "foreignpolicyjournal.com",
+   "ticks": [
+    "AVGO",
+    "MU",
+    "MRVL"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -0.65,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20260605204500",
+   "title": "Markets News, June 4, 2026: Dow Soars 875 Points to Record Close; S&P 500 Overcomes Broadcom-Led Tech Pullback; Oil Retreats",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-june-4-2026-103832790.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "AVGO",
+    "MU",
+    "MRVL"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 0.16,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20260605150000",
+   "title": "Nasdaq Drops Nearly 2% on Chip Selloff and Strong Jobs Data Fueling Hawkish Fed Outlook",
+   "url": "https://www.ibtimes.com.au/nasdaq-tumbles-ai-stock-selloff-strong-jobs-report-1870191",
+   "src": "ibtimes.com.au",
+   "ticks": [
+    "MU",
+    "AMD",
+    "MRVL"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -2.49,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20260605130000",
+   "title": "Nvidia stocks: US Stock Market today: Nasdaq, S&P 500 set for low opening, Dow Jones to rise. Nvidia stocks, Intel, Micron, AMD, Broadcom shares under spotlight",
+   "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-nasdaq-dow-jones-sp-500-nvidia-stocks-intel-micron-amd-broadcom-shares/articleshow/131531881.cms",
+   "src": "indiatimes.com",
+   "ticks": [
+    "NVDA",
+    "AVGO",
+    "INTC"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -0.93,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20260605130000",
+   "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Nasdaq, S&P futures decline as semiconductors slip; payrolls in focus",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-nvidia-amd-broadcom-intel-stock-price-news-5th-june-2026/liveblog/131531600.cms",
+   "src": "indiatimes.com",
+   "ticks": [
+    "NVDA",
+    "AVGO",
+    "INTC"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -6.02,
+   "dc": false,
+   "score": 7
+  }
+ ],
+ "seconds": 248
+}

@@ -1,0 +1,25 @@
+{
+ "date": "2026-10-22",
+ "interp_verdict": "번진다",
+ "interp_cause": "AI 투자 전반",
+ "interp_confidence": "중간",
+ "rechecked": [
+  "N10 zerohedge 「Futures Slide As Market Runs Out Of AI Patience, Oil Jumps On Saudi Attacks」 · N6 investors.com 「…Meta Fuels AI Meltdown…」 · N3 aol 「Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%」 · N1 businessinsider — 넷 다 묶음에 있음",
+  "N3 은 24/7 Wall St. 글의 옮김이고 앞머리 까닭은 「공급 경고」(램리서치) — AI 지출 걱정만 대는 출처가 아니라 두 갈래에 걸침. N1 은 「설비 투자가 느려져도 버틸 종목」 목록이라 그날 까닭을 대는 글은 아님",
+  "fool.com 17:15 UTC 글은 묶음 12개에 없어 newsstat 을 다시 열지 않고는 확인 못 함 — 세지 않음. 그래도 zerohedge · investors.com 둘이 남음",
+  "mid 다시 냄: SPY -1.18(±1.5 안) · 서버·부품 시장 대비 -5.21%p(20/22) — 같음"
+ ],
+ "counter": "다른 까닭(칩 고유 — 장비 회사 램리서치의 공급망 제약 경고)을 대는 독립 출처 둘: Yahoo Finance 「Chip stocks fall as equipment maker Lam Research cites 'supply chain constraints'」 · 24/7 Wall St. 「Lam Research Sinks 9% as Supply Constraints Cap Outlook; Applied Materials Drops 6%, ASML Holding Falls 4%」(둘 다 2026-10-22). 해석 쪽은 더 많음: Financial Times 「Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears」 · NBC News 「Markets tumble as concerns about Iran war and high AI spending collide」 · The Times 「US tech sell-off as Meta's plans reignite AI spending concerns」(모두 2026-10-22)",
+ "final_verdict": "번진다",
+ "cause": "AI 투자 전반",
+ "changed": false,
+ "why": "칩 고유 2 대 AI 투자 전반 5(zerohedge · investors.com · FT · NBC · The Times) — 반대 갈래가 더 많지 않아 그대로 둠. S -5.21 은 넉넉함",
+ "confidence": "중간",
+ "tools": [
+  "mid",
+  "news_search: chip stocks supply warning Lam Research stock falls (4건)",
+  "news_search: Nasdaq rout Meta AI spending (3건)"
+ ],
+ "note": "장비·소재가 가장 크게 빠진 것(-8.45%p)은 램리서치 공급 경고라는 칩 쪽 까닭과 맞아, 두 까닭이 겹친 날. leaked: 전력 쪽 재현 손실 -130.5백만 달러 · 58종목 전체 -6.38% 를 미리 봄",
+ "written_at": "2026-11-12T01:02:05+09:00"
+}

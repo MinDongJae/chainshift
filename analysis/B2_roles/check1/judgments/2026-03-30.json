@@ -1,0 +1,40 @@
+{
+ "date": "2026-03-30",
+ "interp": "넘긴다",
+ "interp_cause": "칩 고유",
+ "recheck": [
+  {
+   "ev": "E1 seekingalpha.com 「Memory, storage and optical stock declines drag down chip sector」",
+   "result": "pack N11 에 있음. 16:45 UTC — 마감(20:00) 전"
+  },
+  {
+   "ev": "E2 247wallst.com 「Micron Slides 5% as Google's AI Memory Algorithm Sparks Fresh Fears Across the Semiconductor Sector」",
+   "result": "기사 파일에 있음(15:15 UTC, 마감 전). news_search 로도 같은 제목이 24/7 Wall St. · Yahoo Finance(전재) 2026-03-30 로 나옴"
+  },
+  {
+   "ev": "E3 proactiveinvestors.com 「Dow Jones alone in the green, Nasdaq slumps...」",
+   "result": "pack N6 에 있음. 20:45 UTC — 마감 뒤라 K2 로 뺌"
+  },
+  {
+   "ev": "E4 칩 9/9, 장비 8/8(-4.49%p), 서버·부품 21/22(-4.78%p)",
+   "result": "다시 계산해 같음. 가운데값 -4.07%p — 넓은 하락, K6 아님"
+  },
+  {
+   "ev": "E5 oilprice.com 「Data Center Spending Is About to Rival the World's Biggest Energy Markets」",
+   "result": "pack N3 에 있음. 22:00 UTC — 마감 뒤, 뺌"
+  }
+ ],
+ "counter": "news_search 「Google TurboQuant memory compression AI stocks selloff Micron」(2026-03-28~30): Business Insider 03-28 「Memory Stocks Have Tanked, but BofA Says the Sharp Sell-Off Is Overdone」 · Yahoo Finance 03-29 「TurboQuant Panic: Why Market Is Wrong About Google's Newest AI Breakthrough」 · TheStreet 03-29 「Wall Street didn't like what Google just revealed」(모두 제목만, 발행일이 그날 앞). 세 곳 모두 '구글의 메모리 절약 기술 → 메모리 종목'으로 대 칩 고유 쪽을 더 받침. AI 데이터센터 투자 전반이나 전력 쪽을 든 기사는 못 찾음.",
+ "final": "넘긴다",
+ "cause": "칩 고유",
+ "changed": false,
+ "why": "넘김→안 번진다 조건 ①(d) 발행처 2곳 이상(seekingalpha · 247wallst · Business Insider · TheStreet) ②(a)(b) 기사 없음은 찼으나 ③이 안 참 — 서버·부품 22종목 중 21종목이 시장보다 더 빠짐(광부품 FN -10.9 · COHR -9.8 · CIEN -9.1). 넘김→번진다 조건 ①은 0곳. 넘김을 둠.",
+ "conf": "낮음",
+ "tools": [
+  "newsstat",
+  "news_search"
+ ],
+ "dropped": 2,
+ "memory_note": "검색어의 'TurboQuant'는 자료가 아니라 내 기억에서 나온 이름이다(2026-03 일이라 기억 범위 안). 그날 전력 쪽이 어땠는지는 기억에 없다.",
+ "written_at": "2026-11-12T00:58:03+09:00"
+}

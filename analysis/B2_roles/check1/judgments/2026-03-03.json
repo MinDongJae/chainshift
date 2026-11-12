@@ -1,0 +1,42 @@
+{
+ "date": "2026-03-03",
+ "interp": "넘긴다",
+ "interp_cause": "칩 고유",
+ "recheck": [
+  {
+   "ev": "E1 247wallst.com 「Why Micron, SanDisk & Memory Stocks Are Crashing Today」",
+   "result": "pack N1 에 있음. 17:00 UTC — 마감(21:00) 전"
+  },
+  {
+   "ev": "E2 proactiveinvestors.com 「Nasdaq semiconductor stocks lead tech sell-off as memory chip crisis deepens amid Middle East turmoil」",
+   "result": "pack N4 에 있음. 19:45 UTC — 마감 전"
+  },
+  {
+   "ev": "E3 proactiveinvestors.com 「Nasdaq leads losses as Iran conflict widens...」",
+   "result": "pack N2 에 있음. 23:45 UTC — 마감 뒤라 K2 로 뺌. 같은 발행처의 19:45 「Dow and Nasdaq halve losses as market ponders Iran conflict impact」(N3)가 마감 전에 같은 까닭(이란)을 댐"
+  },
+  {
+   "ev": "E4 CNBC 「South Korea's Kospi sinks over 12%...」",
+   "result": "다시 찾지 않음(판정을 가르는 근거가 아님)"
+  },
+  {
+   "ev": "E5 칩 9/9, 장비·소재 8/8(-5.19%p), 서버·부품 19/22(-3.18%p)",
+   "result": "다시 계산해 같음. 서버·부품 가운데값 -2.84%p · 나쁜 셋 뺀 평균 -2.50%p — 좁은 하락(K6) 아님"
+  },
+  {
+   "ev": "E7 앞 5거래일 전력 쪽이 칩과 같은 쪽(02-26 · 02-27)",
+   "result": "나는 전력 칸을 안 찍어 다시 확인하지 않음. 두 날은 충격일이 아님"
+  }
+ ],
+ "counter": "AI 투자 전반이나 전력·데이터센터 쪽을 내리는 문맥으로 든 마감 전 기사는 그날 기사 파일 15건에서 못 찾음. 까닭은 메모리(247wallst · proactiveinvestors)와 이란 분쟁(proactiveinvestors) 둘.",
+ "final": "넘긴다",
+ "cause": "칩 고유",
+ "changed": false,
+ "why": "넘김→안 번진다 조건 ①(메모리를 까닭으로 댄 발행처 2곳) ②는 찼으나 ③이 안 참 — 서버·부품 22종목 중 19종목, 장비·소재 8종목 모두가 시장보다 더 빠진 넓은 하락. 넘김→번진다 조건 ①((a) 발행처 2곳)은 0곳. 넘김을 둠.",
+ "conf": "낮음",
+ "tools": [
+  "newsstat"
+ ],
+ "dropped": 1,
+ "written_at": "2026-11-12T00:57:37+09:00"
+}

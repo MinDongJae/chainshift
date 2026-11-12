@@ -1,0 +1,43 @@
+{
+ "date": "2026-06-05",
+ "interp": "번진다",
+ "interp_cause": "AI 투자 전반",
+ "recheck": [
+  {
+   "ev": "E1 「Tech stocks lead market bloodbath as fears of Fed rate hikes add to worries about the AI-fueled chip boom petering out」(해석은 Yahoo Finance 로 적음)",
+   "result": "news_search 로 다시 찾음 — 제목 있음, 발행처는 Fortune(2026-06-05). 시각 모름. 제목이 까닭을 '연준 금리 인상 걱정'(시장 전체)을 앞에, 'AI 가 끈 칩 호황이 식는다'를 뒤에 둠"
+  },
+  {
+   "ev": "E2 Investor's Business Daily 「Tech Stocks Fall. Why Broadcom, Google, AI IPOs May Have Triggered Sell-Off.」",
+   "result": "다시 찾지 못함(내 검색에 안 나옴) — 확인 못 함. 제목대로면 까닭이 브로드컴(한 회사) · 구글 · AI 상장 셋이라 (a)로만 세기 어려움"
+  },
+  {
+   "ev": "E3 foreignpolicyjournal.com 「Broadcom Guidance Spooks AI Investors As Healthcare And Financials Hold Firm」",
+   "result": "pack N11 에 있음. 23:00 UTC — 마감(20:00) 뒤라 K2 로 뺌"
+  },
+  {
+   "ev": "E4 ibtimes.com.au 「Nasdaq Drops Nearly 2% on Chip Selloff and Strong Jobs Data Fueling Hawkish Fed Outlook」",
+   "result": "기사 파일에 있음. 15:00 UTC — 마감 전. 까닭은 고용 지표·연준(시장 전체)"
+  },
+  {
+   "ev": "E5 Financial Times 「Nasdaq tumbles 4% as shares in chip and memory groups sink」",
+   "result": "다시 찾지 않음. 무엇이 빠졌는지를 말할 뿐 까닭을 대지 않음"
+  },
+  {
+   "ev": "E6 칩 9/9(-10.27%), 장비 8/8(-6.41%p), 서버·부품 22/22(-5.09%p)",
+   "result": "다시 계산해 같음. 넓은 하락, K6 아님"
+  }
+ ],
+ "counter": "K3 다른 까닭: ① 시장 전체 — ibtimes.com.au 2026-06-05 15:00 UTC(고용 지표 · 매파 연준), Fortune 제목 앞머리(연준 금리 인상 걱정), SPY -2.58%. ② 칩 고유 — zawya.com 2026-06-05 00:00 UTC 「Nasdaq futures lead declines after Broadcom results disappoint」, IBD 제목의 브로드컴. AI 투자 전반을 까닭으로 또렷이 대는 발행처는 Fortune 한 곳(그것도 둘째 까닭)이고, 전력·데이터센터 쪽을 내리는 문맥으로 든 기사는 없음((b) 안 섬 — 해석도 같음).",
+ "final": "넘긴다",
+ "cause": "시장 전체",
+ "changed": true,
+ "why": "마감 뒤 근거 1건을 빼고 다시 세면 (a)를 또렷이 대는 발행처가 2곳이 안 되고(Fortune 1곳, IBD 는 브로드컴·구글·상장을 함께 듦) (b)도 안 섬 — '번진다→넘긴다' 첫째 조건. 까닭이 금리(시장 전체) · 브로드컴 전망(칩 고유) · AI 호황 걱정 셋으로 갈려, 시장이 2.58% 빠진 날 AI 묶음이 따로 더 팔린 것이 전력 쪽까지 가는지 가를 근거가 없음. 숫자((c) 22/22)는 번진다 쪽이라 '안 번진다'로는 못 감.",
+ "conf": "낮음",
+ "tools": [
+  "newsstat",
+  "news_search"
+ ],
+ "dropped": 1,
+ "written_at": "2026-11-12T00:59:05+09:00"
+}

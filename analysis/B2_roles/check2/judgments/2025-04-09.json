@@ -1,0 +1,24 @@
+{
+ "date": "2025-04-09",
+ "interp_verdict": "사람에게 넘긴다",
+ "interp_cause": "규칙이 잘못 고른 날",
+ "interp_confidence": "낮음",
+ "rechecked": [
+  "N2 yahoo.com 「Nvidia, Supermicro Surge as Chip and AI Stocks Rebound From Tariff Rout」 — 그날 묶음에 글자 그대로 있음. 붙인 까닭(급등일)과 맞음",
+  "mid 다시 냄: SPY +10.50 · 칩 내린 종목 0/9 · 서버·부품 민감도 뺀 값 -4.26 — 해석이 적은 값과 같음",
+  "규칙 적용: (다) 잘못 고른 날 + S -4.26 ≤ -1.0 → 넘김. 제 규칙대로 적용함"
+ ],
+ "counter": "갈래를 바꿀 반대 근거는 못 찾음. news_search(2025-04-09 하루) Reuters 「Wall Street rebounds sharply after Trump announces 90-day tariff pause」(2025-04-09) · WSJ 「Tariff Pause Sparks Historic Rally」(2025-04-09) 는 「시장 전체가 관세 유예로 급등」을 대는데, 이는 해석 갈래의 뜻(시장이 크게 올라 시장 대비만 나빴던 날)과 같은 말이라 R4 로 치지 않음. newsstat 13위부터 3건에도 다른 까닭 없음. 남는 것: 「시장 전체」로 읽으면 (가)+(나)로 번진다가 되지만, 서버·부품 22종목 중 내린 종목 0 · 시장보다 덜 오른 종목 5 뿐이라 번짐으로 볼 값 근거가 민감도 뺀 값 하나뿐",
+ "final_verdict": "사람에게 넘긴다",
+ "cause": "규칙이 잘못 고른 날",
+ "changed": false,
+ "why": "근거 문장·숫자·규칙 적용이 모두 확인됨. 넘긴 까닭이 「갈래와 S 가 엇갈림」이고 찾은 출처가 갈래를 바꾸지 않아 사전 고정대로 그대로 둠",
+ "confidence": "낮음",
+ "tools": [
+  "mid",
+  "newsstat",
+  "news_search: stocks tariff pause chip stocks Nvidia (2건, 버린 것 0)"
+ ],
+ "note": "leaked: 이 날 「칩 -5.34 · 전력 -4.51」을 미리 봄",
+ "written_at": "2026-11-12T00:54:30+09:00"
+}

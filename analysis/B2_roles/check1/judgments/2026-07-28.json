@@ -1,0 +1,43 @@
+{
+ "date": "2026-07-28",
+ "interp": "번진다",
+ "interp_cause": "AI 투자 전반",
+ "recheck": [
+  {
+   "ev": "E1 AP 전재 「Wall Street's flip from AI stocks to elsewhere accelerates, while oil prices keep easing」(wccbcharlotte · union-bulletin)",
+   "result": "pack N8·N7 에 있음. 해석이 든 두 곳은 22:15 · 22:45 UTC 로 마감(20:00) 뒤. 다만 같은 AP 기사가 orlandosentinel 16:45 · cp24 19:45 UTC 에도 실려 마감 전에 나와 있었음 — 근거는 살리고 발행처는 AP 1곳으로 셈"
+  },
+  {
+   "ev": "E2 cnbc.com 「The Dow jumps as the AI trade wobbles.」",
+   "result": "pack N3 에 있음. 20:30 UTC — 마감 뒤라 K2 로 뺌"
+  },
+  {
+   "ev": "E3 proactiveinvestors.com 「Nasdaq enters correction as sell-off deepens, while Coke and Sherwin-Williams lead Dow」",
+   "result": "pack N2 에 있음. 19:15 UTC — 마감 전. 까닭은 안 댐"
+  },
+  {
+   "ev": "E4 investinglive.com 「US stocks continue to rotate out of technology and into industrials」",
+   "result": "기사 파일에 있음. 16:15 UTC — 마감 전. 돈이 '산업재로' 옮겨 간다는 내용 — 전력 설비·공사는 산업재라 번진다의 근거가 아니라 반대 근거로 읽힘"
+  },
+  {
+   "ev": "E5 칩 8/9(-6.22%, 엔비디아 +0.3), 장비 8/8(-6.20%p), 서버·부품 16/22(-3.09%p)",
+   "result": "다시 계산해 같음. 가운데값 -3.43%p — K6 아님. 서버·부품 안에서 CLS +10.0 · HPQ +6.6 처럼 크게 오른 종목도 있음"
+  },
+  {
+   "ev": "E6 앞 이틀 전력 쪽이 칩을 따라 내림(07-24 칩 -6.67·전력 -3.16)",
+   "result": "K5 로 뺌 — 07-24 는 충격일(leaked.txt 에 적음)"
+  }
+ ],
+ "counter": "news_search 「AI trade wobbles investors rotate out of AI stocks spending doubts」(2026-07-28) 2건(제목만, 시각 모름): ① Yahoo Finance 「Coherent Sinks 11%, Applied Optoelectronics Falls 10%, Lumentum Drops 9% as Traders Question AI Spending Spree」 — AI 지출을 의심한다는 (a) 쪽 둘째 발행처. ② 24/7 Wall St. 「AMD Sinks 8%, Marvell Sinks 7%, Intel Fall 6% as AI Chip Trade Narrows to NVIDIA」 — 칩 안에서 엔비디아만 남는다는 칩 쪽 까닭. 여기에 thebull.com.au 17:15 UTC 「Memory Rout Deepens While Software Stocks Bounce」(메모리)까지 칩 고유 쪽 발행처가 2곳. 그리고 investinglive 16:15 의 '기술주에서 산업재로'.",
+ "final": "넘긴다",
+ "cause": "AI 투자 전반",
+ "changed": true,
+ "why": "E2·E6 을 빼고 다시 세면 (a) 발행처 2곳(AP · Yahoo Finance)으로 서지만, 칩 고유 까닭을 대는 발행처도 2곳(thebull · 24/7 Wall St.)을 찾음 — '번진다→넘긴다' 둘째 조건(엇갈림). (b)가 없어 예외에도 안 듦. 더해 그날 마감 전 기사가 돈이 산업재로 옮겨 간다고 적어, 전력 쪽이 받는 쪽일 수 있음을 가를 근거가 없음.",
+ "conf": "낮음",
+ "tools": [
+  "newsstat",
+  "news_search"
+ ],
+ "dropped": 2,
+ "written_at": "2026-11-12T01:02:53+09:00"
+}

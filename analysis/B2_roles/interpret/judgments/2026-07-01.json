@@ -1,0 +1,69 @@
+{
+ "date": "2026-07-01",
+ "seen": [
+  {
+   "name": "pack(cases/2026-07-01/materials.md)",
+   "date": "2026-07-01"
+  },
+  {
+   "name": "mid(prices_long.csv.gz)",
+   "date": "2026-07-01"
+  },
+  {
+   "name": "newsstat(news/2026-07-01.json)",
+   "date": "2026-07-01"
+  }
+ ],
+ "tools": [
+  {
+   "tool": "newsstat",
+   "why": "바탕 자료로 (b)(c)가 차고 (a)는 출처가 하나라, 둘째 출처와 반대 근거를 한 번 확인"
+  }
+ ],
+ "cause": "AI 투자 전반",
+ "evidence": [
+  {
+   "text": "Nasdaq Composite Slides as AI Infrastructure Sells Down To Start H2",
+   "src": "thebull.com.au N1",
+   "pub": "2026-07-01"
+  },
+  {
+   "text": "US stocks today: Wall Street under pressure as Nvidia, AMD and Micron lead AI stock sell-off",
+   "src": "indiatimes.com(newsstat, 16:15 UTC)",
+   "pub": "2026-07-01"
+  },
+  {
+   "text": "'Big Short' Michael Burry Bets Against Tesla, Nvidia, Caterpillar",
+   "src": "businessinsider.com N5",
+   "pub": "2026-07-01"
+  },
+  {
+   "text": "Chip stocks notched record rallies in second quarter start Q3 with dud",
+   "src": "cnbc.com N7",
+   "pub": "2026-07-01"
+  },
+  {
+   "text": "칩 9/9(-6.67%), 장비 8/8(-8.76%p), 서버·부품 18/22(-3.23%p)",
+   "src": "mid 계산",
+   "pub": "2026-07-01"
+  },
+  {
+   "text": "Most US stocks rise, but drops for tech pull indexes lower",
+   "src": "rockymounttelegram.com N8",
+   "pub": "2026-07-01"
+  }
+ ],
+ "conditions": {
+  "a": true,
+  "b": true,
+  "c": true,
+  "d": false,
+  "e": false
+ },
+ "verdict": "번진다",
+ "confidence": "중간",
+ "counter": "'대부분의 종목은 올랐고 기술주만 내렸다'(N8·N9)는 날이라 산업재로 분류되는 전력 설비는 오른 쪽에 섰을 수 있음. 전력·냉각 설비 기사 논조 +1.29, 발전 +1.58. 엔비디아는 -1.3 뿐이고 장비(-8.76%p)가 가장 크게 빠져 분기 초 차익 실현의 성격이 짙음. (b)는 버리의 공매도 대상에 캐터필러가 든 한 건.",
+ "dropped": 0,
+ "note": "세 조건이 모두 찼으나 반대로 읽을 근거가 뚜렷해 확신을 중간으로 둠.",
+ "written_at": "2026-11-12T00:47:17+09:00"
+}

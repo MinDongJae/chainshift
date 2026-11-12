@@ -1,0 +1,82 @@
+{
+ "date": "2026-10-30",
+ "seen": [
+  {
+   "name": "pack(cases/2026-10-30/materials.md)",
+   "date": "2026-10-30"
+  },
+  {
+   "name": "mid(prices_long.csv.gz)",
+   "date": "2026-10-30"
+  },
+  {
+   "name": "newsstat(news/2026-10-30.json)",
+   "date": "2026-10-30"
+  },
+  {
+   "name": "pre(prices_long.csv.gz ~2026-10-29)",
+   "date": "2026-10-29"
+  }
+ ],
+ "tools": [
+  {
+   "tool": "newsstat",
+   "why": "까닭은 인텔 실적(칩 고유)인데 서버·부품 22/22 가 빠져 엇갈림 — 전력 쪽이 기사에 어떻게 나오는지 확인"
+  },
+  {
+   "tool": "pre",
+   "why": "전날까지 전력 쪽이 칩을 따라갔는지 확인"
+  }
+ ],
+ "cause": "칩 고유",
+ "evidence": [
+  {
+   "text": "Semiconductor Stocks Fall as Intel Earnings Trigger Broad Tech Selloff",
+   "src": "morningstar.com N2",
+   "pub": "2026-10-30"
+  },
+  {
+   "text": "Intel Leads Semiconductor Selloff as Philadelphia Index Falls More Than 7%",
+   "src": "econotimes.com N4",
+   "pub": "2026-10-30"
+  },
+  {
+   "text": "Intel Sinks 22%: PC Slump Overshadows 78% Data Center Surge",
+   "src": "hngn.com(newsstat, 19:15 UTC)",
+   "pub": "2026-10-30"
+  },
+  {
+   "text": "Tech gets crushed, defensive stocks shine. How we're making sense of it all",
+   "src": "cnbc.com(newsstat, 19:30 UTC)",
+   "pub": "2026-10-30"
+  },
+  {
+   "text": "MasTec, Quanta Services Surge; Two Other Construction Stocks Break Out",
+   "src": "investors.com N12",
+   "pub": "2026-10-30"
+  },
+  {
+   "text": "칩 9/9(-10.61%, 인텔 -28.6), 장비 8/8(-3.83%p), 서버·부품 22/22(-5.04%p)",
+   "src": "mid 계산",
+   "pub": "2026-10-30"
+  },
+  {
+   "text": "전날(10-29) 칩 -4.07% 일 때 전력 쪽 -0.18%(시장 -0.38%) — 따라가지 않음. 그날 전력·냉각 설비 기사 논조 +1.01, 공사 +1.9",
+   "src": "pre · newsstat",
+   "pub": "2026-10-29 · 2026-10-30"
+  }
+ ],
+ "conditions": {
+  "a": false,
+  "b": false,
+  "c": true,
+  "d": true,
+  "e": false
+ },
+ "verdict": "넘긴다",
+ "confidence": "낮음",
+ "counter": "번진다 쪽: 인텔 실적이 '넓은 기술주 매도'를 불렀다는 출처가 둘이고 서버·부품 22/22 가 시장보다 5.04%p 더 빠짐. 시장도 -1.77%. 안 번진다 쪽: 까닭이 인텔의 PC 부진이고 데이터센터 매출은 78% 늘었음. 같은 날 공사 종목(마스텍·퀀타)이 급등했다는 제목이 있고 전날 전력 쪽은 칩을 따라가지 않았음.",
+ "dropped": 0,
+ "note": "(d)는 찼으나 (e)가 크게 어긋나 조건대로 넘김. 기울기는 '안 번진다' 쪽. 바탕 자료 제목 N12 에서 공사 단계 두 종목의 그날 급등이 드러남 — leaked.txt 에 '부분 노출'로 적음.",
+ "written_at": "2026-11-12T00:51:46+09:00"
+}

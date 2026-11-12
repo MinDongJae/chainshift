@@ -1,0 +1,33 @@
+{
+ "date": "2026-07-07",
+ "seen": [
+  "pack: cases/2026-07-07/materials.md 기사 제목 12개(2026-07-06~07)·공시 0건",
+  "mid: prices_long.csv.gz 2026-07-07 까지",
+  "newsstat: news/2026-07-07.json"
+ ],
+ "tools": [
+  {
+   "name": "mid",
+   "why": "늘 봄"
+  },
+  {
+   "name": "newsstat",
+   "why": "까닭이 삼성 실적·딥시크 자체 칩(칩 고유)과 「AI 주식 하락」(AI 투자 전반)으로 갈려, 어느 쪽 출처가 더 있는지 보려고"
+  }
+ ],
+ "cause": "칩 고유",
+ "evidence": [
+  "proactiveinvestors.com 2026-07-07 「Nasdaq down as chip stocks sell off after Samsung earnings」",
+  "yahoo.com 2026-07-07 14:30 UTC 「Micron, SanDisk, and Western Digital Sink 7% as Samsung Earnings Spark a Memory Selloff」",
+  "ibtimes.com.au 2026-07-07 「Nvidia Shares Fall Nearly 2% After Report Says China's DeepSeek Is Developing Its Own AI Inference Chip」",
+  "elpasoinc.com(AP) 2026-07-07 「AI stocks turn lower, weighing on Wall Street」 · indiatimes.com 「SanDisk shares crash 10% as AI chip selloff spreads to memory stocks」(AI 전반 쪽)",
+  "mid: 서버·부품 시장 대비 -2.39%p(16/22, 웨스턴디지털 -7.9 가 가장 나쁨), 장비·소재 8/8 -6.32%p. 엔비디아는 +0.7 로 올랐음",
+  "newsstat: 전력·냉각 설비 기사 31건 어조 +1.49, 발전 +1.12. 서버·부품 -1.31, 장비·소재 -1.15"
+ ],
+ "verdict": "사람에게 넘긴다",
+ "confidence": "낮음",
+ "counter": "「번진다」 쪽: AP 와 indiatimes 는 「AI 주식」 매도라 했고 버리가 엔비디아·마이크론·AMD 를 공매도했다는 글(fool.com)도 같은 날 있다. 서버·부품이 2.4%p 더 빠졌다. 「안 번진다」 쪽: 가장 구체적인 까닭은 삼성 실적 뒤 메모리 매도이고, 서버·부품 약세도 저장장치에 몰렸으며, 엔비디아는 올랐고 전력 쪽 기사 어조는 좋았다.",
+ "note": "조건: (다) 칩 고유(메모리·경쟁 칩) 출처 셋인데 S=-2.39 ≤ -1.0 → 엇갈려 넘김. 도구 2번.",
+ "dropped": 0,
+ "written_at": "2026-11-12T00:47:38+09:00"
+}

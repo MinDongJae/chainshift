@@ -1,0 +1,77 @@
+{
+ "date": "2026-06-05",
+ "seen": [
+  {
+   "name": "pack(cases/2026-06-05/materials.md)",
+   "date": "2026-06-05"
+  },
+  {
+   "name": "mid(prices_long.csv.gz)",
+   "date": "2026-06-05"
+  },
+  {
+   "name": "newsstat(news/2026-06-05.json)",
+   "date": "2026-06-05"
+  },
+  {
+   "name": "news_search 'stocks tumble tech selloff AI chip stocks' → Investopedia · IBD · FT · Yahoo Finance · finance.biggo.com 5건(제목만)",
+   "date": "2026-06-05"
+  }
+ ],
+ "tools": [
+  {
+   "tool": "newsstat",
+   "why": "시장 전체(-2.58%)가 빠진 날이라 까닭이 금리·지정학인지 AI 인지, 전력 쪽이 기사에 나오는지 확인"
+  },
+  {
+   "tool": "news_search",
+   "why": "AI 묶음이 따로 더 팔린 까닭을 댄 출처 찾기(before=2026-06-06)"
+  }
+ ],
+ "cause": "AI 투자 전반",
+ "evidence": [
+  {
+   "text": "Tech stocks lead market bloodbath as fears of Fed rate hikes add to worries about the AI-fueled chip boom petering out",
+   "src": "Yahoo Finance(news_search, 제목만)",
+   "pub": "2026-06-05"
+  },
+  {
+   "text": "Tech Stocks Fall. Why Broadcom, Google, AI IPOs May Have Triggered Sell-Off.",
+   "src": "Investor's Business Daily(news_search, 제목만)",
+   "pub": "2026-06-05"
+  },
+  {
+   "text": "Broadcom (NASDAQ: AVGO) Guidance Spooks AI Investors As Healthcare And Financials Hold Firm",
+   "src": "foreignpolicyjournal.com N11",
+   "pub": "2026-06-05"
+  },
+  {
+   "text": "Nasdaq Drops Nearly 2% on Chip Selloff and Strong Jobs Data Fueling Hawkish Fed Outlook",
+   "src": "ibtimes.com.au(newsstat)",
+   "pub": "2026-06-05"
+  },
+  {
+   "text": "Nasdaq tumbles 4% as shares in chip and memory groups sink",
+   "src": "Financial Times(news_search, 제목만)",
+   "pub": "2026-06-05"
+  },
+  {
+   "text": "칩 9/9(-10.27%), 장비 8/8(-6.41%p), 서버·부품 22/22(-5.09%p)",
+   "src": "mid 계산",
+   "pub": "2026-06-05"
+  }
+ ],
+ "conditions": {
+  "a": true,
+  "b": false,
+  "c": true,
+  "d": false,
+  "e": false
+ },
+ "verdict": "번진다",
+ "confidence": "중간",
+ "counter": "전력 쪽 기사 논조는 양수(전력·냉각 설비 +1.36, 공사 +1.87)이고 전력·데이터센터 회사를 내리는 문맥으로 든 제목이 없음. N11 은 '헬스케어·금융은 버텼다'고 적어 기술주 밖으로는 안 번졌다는 읽기도 가능. 금리 걱정(고용 지표)이 겹쳐 시장 전체 까닭과 섞임.",
+ "dropped": 0,
+ "note": "(a)(c) 둘이 참. 시장이 2.58% 빠진 날이라 전력 쪽이 '시장만큼'만 빠졌을 수 있다는 점이 가장 큰 불확실.",
+ "written_at": "2026-11-12T00:46:19+09:00"
+}

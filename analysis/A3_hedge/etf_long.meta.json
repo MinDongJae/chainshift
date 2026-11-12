@@ -1,0 +1,25 @@
+{
+ "source": "Yahoo Finance (yfinance 1.7.0) 일별 수정 종가",
+ "fetched": "2026-11-12 00:54 KST",
+ "tickers": [
+  "SPY",
+  "SMH",
+  "XLI",
+  "XLU",
+  "XLK",
+  "XLE",
+  "XLB"
+ ],
+ "rows": 1471,
+ "from": "2021-01-04",
+ "to": "2026-11-10",
+ "na": {
+  "SMH": 0,
+  "SPY": 0,
+  "XLB": 0,
+  "XLE": 0,
+  "XLI": 0,
+  "XLK": 0,
+  "XLU": 0
+ }
+}

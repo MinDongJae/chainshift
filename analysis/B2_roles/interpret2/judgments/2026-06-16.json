@@ -1,0 +1,43 @@
+{
+ "date": "2026-06-16",
+ "seen": [
+  "pack: cases/2026-06-16/materials.md 기사 제목 12개(2026-06-15~16)·공시 0건",
+  "mid: prices_long.csv.gz 2026-06-16 까지",
+  "news_search 「Nvidia Broadcom Micron lead Nasdaq drop chip stocks」 after 2026-06-15 before 2026-06-17 — 3건(06-16 한 건, 06-15 두 건)",
+  "newsstat: news/2026-06-16.json",
+  "pre: 2026-06-09~06-15 다섯 거래일"
+ ],
+ "tools": [
+  {
+   "name": "mid",
+   "why": "늘 봄"
+  },
+  {
+   "name": "news_search",
+   "why": "pack 제목이 「엔비디아·브로드컴·마이크론이 나스닥 하락을 이끎」뿐이고 까닭이 없어서"
+  },
+  {
+   "name": "newsstat",
+   "why": "검색에서도 까닭이 안 나와 기록된 그날 제목 13위 아래를 보려고"
+  },
+  {
+   "name": "pre",
+   "why": "까닭 기사가 없으니 전날까지 흐름(급등 뒤 되돌림인지, 전력 쪽이 같이 움직여 왔는지)을 보려고"
+  }
+ ],
+ "cause": "AI 투자 전반",
+ "evidence": [
+  "fool.com 2026-06-16 「Stock Market Today, June 16: Nvidia, Broadcom, and Micron Technology Lead Drop in Nasdaq」(까닭 없음)",
+  "thebull.com.au 2026-06-16 「Nasdaq Composite Pulls Back: Markets Brace for Warsh's First Fed Meeting and Dot Plot」",
+  "MarketWise 2026-06-15 「Is the AI Bubble Ready to Burst? Volatile Tech Stocks Are Giving Mixed Signals to Investors」",
+  "pre: 06-11 칩 +8.77 · 06-15 칩 +6.23 으로 이틀 크게 오른 뒤. 같은 다섯 날 전력 쪽도 칩과 같은 방향(06-10 -5.07, 06-11 +4.91, 06-15 +3.03)",
+  "mid: 칩 9/9 · 장비·소재 8/8 이 시장보다 더 빠짐. 서버·부품 시장 대비 -1.92%p(16/22). 저장장치는 올랐음(웨스턴디지털 +4.2 · 씨게이트 +1.2)",
+  "newsstat: 전력·냉각 설비 어조 +0.12, 발전 -0.78(3건)"
+ ],
+ "verdict": "사람에게 넘긴다",
+ "confidence": "낮음",
+ "counter": "「번진다」 쪽: 직전 다섯 거래일 내내 전력 쪽이 칩과 같은 방향으로 크게 움직였고 서버·부품도 -1.92%p 라, AI 묶음 전체의 되돌림이면 전력 쪽도 같이 빠졌을 것이다. 「안 번진다」 쪽: 까닭을 댄 기사가 하나도 없고, 저장장치와 커민스(데이터센터용 발전기 소식)는 좋았다.",
+ "note": "조건: 까닭을 댄 출처가 둘이 안 됨(연준 회의 앞둔 되돌림 1건, AI 거품 글은 전날 것) → 도구 4번을 다 쓰고 넘김. 까닭 갈래는 「급등 뒤 AI 묶음 되돌림」으로 보아 AI 투자 전반을 골랐으나 근거가 약함.",
+ "dropped": 0,
+ "written_at": "2026-11-12T00:46:31+09:00"
+}

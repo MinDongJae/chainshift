@@ -1,0 +1,27 @@
+{
+ "date": "2026-06-23",
+ "seen": [
+  "pack: cases/2026-06-23/materials.md 기사 제목 12개(2026-06-22~23)·공시 0건",
+  "mid: prices_long.csv.gz 2026-06-23 까지"
+ ],
+ "tools": [
+  {
+   "name": "mid",
+   "why": "늘 봄. SPY -1.45% 는 ±1.5% 안이라 S 는 시장 대비 값 그대로. pack 과 mid 로 조건이 차서 더 찾지 않음"
+  }
+ ],
+ "cause": "AI 투자 전반",
+ "evidence": [
+  "theglobeandmail.com 2026-06-23 「Premarket: Nasdaq futures drop over 2% as AI buildout costs, Fed rate outlook weigh」 — AI 설비 짓는 비용이 까닭으로 직접 나옴",
+  "proactiveinvestors.com 2026-06-23 「Dow flat, Nasdaq slumps as investors pull back from AI stocks」",
+  "thestar.com.my(블룸버그) 2026-06-23 「Nasdaq 100 set to shed over $1 trillion as tech selloff deepens; SpaceX slides」",
+  "fool.com 2026-06-23 「Sandisk Leads Tech Stock Slide as South Korea Jitters Trigger Global Pullback at Midday」",
+  "mid: 칩 9/9 · 장비·소재 8/8 이 시장보다 더 빠짐(-6.5%p 안팎). 서버·부품 시장 대비 -2.52%p(15/22), SPY -1.45%"
+ ],
+ "verdict": "번진다",
+ "confidence": "중간",
+ "counter": "SPY 가 -1.45% 로 민감도 보정 기준(±1.5%) 바로 안쪽이다. 민감도를 빼면 서버·부품은 -0.85 로 경계 -1.0 을 못 넘는다 — 기준을 0.05%p 만 달리 잡았으면 「넘김」이었다. 서버·부품 안에서 델 +2.2 · HPE +1.1 은 올랐고, 약세는 광부품·저장장치에 몰렸다. 「다우는 보합」이라 시장 전체가 아니라 기술주만의 일이다.",
+ "note": "조건: (가) AI 투자 전반 출처 셋, (나) S=-2.52 ≤ -1.0. 한쪽(S)이 보정 여부에 따라 갈려 확신 중간. leaked.txt 곁값 날(다음 거래일 판정이 틀렸다는 것만 미리 봄).",
+ "dropped": 0,
+ "written_at": "2026-11-12T00:46:44+09:00"
+}

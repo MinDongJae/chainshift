@@ -1,0 +1,315 @@
+{
+ "window_utc": [
+  "20260724000000",
+  "20260724234500"
+ ],
+ "files": 96,
+ "missing": [],
+ "records": 114642,
+ "hit_records": 423,
+ "by_stage": {
+  "데이터센터 공사": {
+   "n": 6,
+   "tone": 0.88,
+   "dc": 0
+  },
+  "반도체 장비·소재": {
+   "n": 15,
+   "tone": 0.41,
+   "dc": 0
+  },
+  "발전": {
+   "n": 5,
+   "tone": 0.46,
+   "dc": 1
+  },
+  "서버·네트워크·부품": {
+   "n": 32,
+   "tone": 1.32,
+   "dc": 0
+  },
+  "전력·냉각 설비": {
+   "n": 16,
+   "tone": 1.03,
+   "dc": 2
+  },
+  "칩": {
+   "n": 358,
+   "tone": 0.97,
+   "dc": 9
+  }
+ },
+ "by_company": {
+  "NVDA": 101,
+  "AMD": 100,
+  "INTC": 84,
+  "MU": 78,
+  "LRCX": 10,
+  "MRVL": 10,
+  "AMAT": 8,
+  "WDC": 8,
+  "SMCI": 7,
+  "PWR": 6,
+  "CSCO": 5,
+  "LOGI": 5,
+  "BE": 5,
+  "CAT": 5,
+  "AVGO": 4,
+  "STX": 4,
+  "CEG": 3,
+  "CMI": 3,
+  "CLS": 2,
+  "SEI": 2,
+  "ETN": 2,
+  "ANET": 2,
+  "CRDO": 1,
+  "JCI": 1,
+  "GEV": 1
+ },
+ "dc_hit_records": 12,
+ "unique_titles": 290,
+ "top": [
+  {
+   "t": "20260724194500",
+   "title": "Stock market next week: Outlook for July 27-31, 2026",
+   "url": "https://www.cnbc.com/2026/07/24/stock-market-next-week-outlook-for-july-27-31-2026.html",
+   "src": "cnbc.com",
+   "ticks": [
+    "LRCX",
+    "STX",
+    "JCI",
+    "PWR"
+   ],
+   "stages": [
+    "데이터센터 공사",
+    "반도체 장비·소재",
+    "서버·네트워크·부품",
+    "전력·냉각 설비"
+   ],
+   "tone": -0.53,
+   "dc": false,
+   "score": 12
+  },
+  {
+   "t": "20260724213000",
+   "title": "US indices close mixed. Dow up. S&P unchanged. Nasdaq down",
+   "url": "https://investinglive.com:443/stocks/us-indices-close-mixed-dow-up-s-p-unchanged-nasdaq-down/",
+   "src": "investinglive.com",
+   "ticks": [
+    "MU",
+    "WDC",
+    "SMCI"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 0.23,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260724101500",
+   "title": "2 Vanguard Index Funds Are Crushing the S&P 500 This Year",
+   "url": "https://www.fool.com/investing/2026/07/24/2-vanguard-index-funds-crush-sp-500-this-year/?source=iedfolrf0000001",
+   "src": "fool.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.31,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260724221500",
+   "title": "Texas data center tax breaks, power costs face scrutiny &#x2013; NBC 5 Dallas-Fort Worth",
+   "url": "https://www.nbcdfw.com/news/local/texas-news/texas-data-center-tax-exemption-hearing/4053952/",
+   "src": "nbcdfw.com",
+   "ticks": [
+    "BE"
+   ],
+   "stages": [
+    "전력·냉각 설비"
+   ],
+   "tone": 1.73,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20260724200000",
+   "title": "Intel raises spending plans as AI data center demand fuels",
+   "url": "https://americanbazaaronline.com/2026/07/24/intel-raises-spending-plans-as-ai-data-center-demand-fuels-485193/",
+   "src": "americanbazaaronline.com",
+   "ticks": [
+    "INTC"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 0.0,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20260724181500",
+   "title": "Nvidia is challenging 20 years of datacenter CPU design with its new Vera chip",
+   "url": "https://www.techspot.com/news/113234-nvidia-challenging-20-years-datacenter-cpu-design-new.html",
+   "src": "techspot.com",
+   "ticks": [
+    "NVDA"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -1.15,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20260724181500",
+   "title": "Grid to Rack: How Eaton and nVent Electric Are Scaling Revenues Amid the AI Data Center Boom",
+   "url": "https://www.fool.com/coverage/charts/2026/07/24/grid-to-rack-how-eaton-and-nvent-electric-are-scaling-revenues-amid-the-ai-data-center-boom/?source=iedfolrf0000001",
+   "src": "fool.com",
+   "ticks": [
+    "ETN"
+   ],
+   "stages": [
+    "전력·냉각 설비"
+   ],
+   "tone": 1.25,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20260724161500",
+   "title": "Intel CEO: Strong AI, x86 Demand Driving Growth As Foundry, Manufacturing Execution Improve",
+   "url": "https://www.crn.com/news/data-center/2026/intel-ceo-strong-ai-x86-demand-driving-growth-as-foundry-manufacturing-execution-improve",
+   "src": "crn.com",
+   "ticks": [
+    "INTC"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 1.94,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20260724153000",
+   "title": "Michael Burry's short bets on Tesla, Caterpillar pay off in big July pullback",
+   "url": "https://www.cnbc.com/2026/07/24/michael-burrys-short-bets-on-tesla-caterpillar-pay-off-in-big-july-pullback.html",
+   "src": "cnbc.com",
+   "ticks": [
+    "AMAT",
+    "CAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "전력·냉각 설비"
+   ],
+   "tone": -0.26,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260724131500",
+   "title": "What's Going on With Micron Technology Stock Friday? - Micron Technology (NASDAQ:MU)",
+   "url": "https://www.benzinga.com/markets/tech/26/07/60662787/whats-going-on-with-micron-technology-stock-friday-4",
+   "src": "benzinga.com",
+   "ticks": [
+    "MU",
+    "WDC"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 0.43,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260724131500",
+   "title": "Data centers powered by next-gen nuclear? Don't fall for Big Tech's PR hype &#xAB; nuclear-news",
+   "url": "https://nuclear-news.net/2026/07/24/2-data-centers-powered-by-next-gen-nuclear-dont-fall-for-big-techs-pr-hype/",
+   "src": "nuclear-news.net",
+   "ticks": [
+    "CEG"
+   ],
+   "stages": [
+    "발전"
+   ],
+   "tone": -0.71,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20260724100000",
+   "title": "Intel Q2 sees 'strongest revenue growth in more than 15 years'",
+   "url": "https://www.siliconrepublic.com/business/intel-posts-strongest-revenue-growth-in-more-than-15-years-for-q2-26-ai-data-centres-chips",
+   "src": "siliconrepublic.com",
+   "ticks": [
+    "INTC"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 1.76,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20260724081500",
+   "title": "Intel posts fastest growth in 15 years as AI data centres demand fuels sales",
+   "url": "https://www.irishtimes.com/business/2026/07/24/intel-posts-fastest-growth-in-15-years-as-ai-data-centres-demand-fuels-sales/",
+   "src": "irishtimes.com",
+   "ticks": [
+    "INTC"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -0.29,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20260724041500",
+   "title": "How to Play INTC Stock Now Amid a Fresh Wave of Data Center Layoffs at Intel",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/play-intc-stock-now-amid-170240618.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "INTC"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 1.27,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20260724024500",
+   "title": "Intel revenue jumps as AI data centre demand lifts sales",
+   "url": "https://finance.yahoo.com/technology/ai/articles/intel-revenue-jumps-ai-data-021841005.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "INTC"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -0.38,
+   "dc": true,
+   "score": 6
+  }
+ ],
+ "seconds": 272
+}

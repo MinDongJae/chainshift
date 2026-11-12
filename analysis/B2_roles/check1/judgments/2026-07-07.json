@@ -1,0 +1,46 @@
+{
+ "date": "2026-07-07",
+ "interp": "넘긴다",
+ "interp_cause": "칩 고유",
+ "recheck": [
+  {
+   "ev": "E1 yahoo.com 「Micron, SanDisk, and Western Digital Sink 7% as Samsung Earnings Spark a Memory Selloff」",
+   "result": "기사 파일에 있음. 14:30 UTC — 마감(20:00) 전"
+  },
+  {
+   "ev": "E2 proactiveinvestors.com 「Nasdaq down as chip stocks sell off after Samsung earnings」",
+   "result": "pack N8 에 있음. 18:00 UTC — 마감 전"
+  },
+  {
+   "ev": "E3 ibtimes.com.au 「Nvidia Shares Fall Nearly 2% After Report Says China's DeepSeek Is Developing Its Own AI Inference Chip」",
+   "result": "pack N10 에 있음. 15:15 UTC — 마감 전"
+  },
+  {
+   "ev": "E4 thebull.com.au 「Nasdaq Composite Falls Back: Semiconductors Sell-off as SpaceX Added to NDX」",
+   "result": "pack N1 에 있음. 17:45 UTC — 마감 전"
+  },
+  {
+   "ev": "E5 elpasoinc.com 「AI stocks turn lower, weighing on Wall Street」",
+   "result": "pack N12 에 있음. 14:30 UTC — 마감 전. 'AI 주식이 내렸다'는 서술이지 AI 투자 전반을 까닭으로 댄 것은 아님 — 해석은 (a)로 셌으나 나는 (a) 발행처로 안 셈"
+  },
+  {
+   "ev": "E6 칩 8/9(엔비디아 +0.7), 장비 8/8(-6.32%p), 서버·부품 16/22(-2.39%p)",
+   "result": "다시 계산해 같음. 서버·부품 가운데값 -2.97%p · 나쁜 셋 뺀 평균 -1.76%p — 좁은 하락(K6) 아님"
+  },
+  {
+   "ev": "E7 앞 이틀 전력 쪽이 칩을 따라감(07-02 칩 -5.75·전력 -2.90)",
+   "result": "K5 로 뺌 — 07-02 는 충격일(leaked.txt 에 적음)"
+  }
+ ],
+ "counter": "번진다 쪽 반대 근거를 그날 기사 파일에서 찾아봄: indiatimes.com 2026-07-07 16:30 UTC 「SanDisk shares crash 10% as AI chip selloff spreads to memory stocks」 — 'AI 칩 매도가 메모리로 번졌다'이지 칩 밖 단계 이야기가 아님. 전력·데이터센터 쪽을 내리는 문맥으로 든 마감 전 기사 없음. AI 투자 전반을 까닭으로 대는 기사 못 찾음.",
+ "final": "넘긴다",
+ "cause": "칩 고유",
+ "changed": false,
+ "why": "넘김→안 번진다 조건 ① 칩 고유 까닭 발행처 3곳(yahoo · proactiveinvestors · ibtimes: 삼성 실적 뒤 메모리 매도, 딥시크 자체 칩) ② (a)(b) 기사 없음까지는 참. ③이 안 참 — 장비·소재 8종목 모두, 서버·부품 16/22 가 시장보다 더 빠진 넓은 하락. 그래서 넘김을 둠. 해석과 달리 (a)는 안 선다고 봄.",
+ "conf": "낮음",
+ "tools": [
+  "newsstat"
+ ],
+ "dropped": 1,
+ "written_at": "2026-11-12T01:01:12+09:00"
+}

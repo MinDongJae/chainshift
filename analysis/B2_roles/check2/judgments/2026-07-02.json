@@ -1,0 +1,25 @@
+{
+ "date": "2026-07-02",
+ "interp_verdict": "번진다",
+ "interp_cause": "AI 투자 전반",
+ "interp_confidence": "중간",
+ "rechecked": [
+  "N3 yahoo 「Stocks Fall on Weakness in Chipmakers and AI Stocks」 · N5 indiatimes 「…Micron, Intel and other chip stocks fall up to 11% after record-breaking rally」 · N12 memeburn 「Chip Stocks Sell Off to Start Q3 After Record $2 Trillion Rally」 · N4 ibtimes 「Why Michael Burry's Caterpillar Short Is Bigger News…」 — 넷 다 묶음에 있음",
+  "R1: N5·N12 는 전날(07-01) 일을 말하는 글로 보임 — 「Q3 를 시작하며」는 7월 1일이고, 마이크론이 10.6% 빠진 날도 07-01(07-02 에 가장 빠진 칩은 타워 -10.8 · 마벨 -9.8). 묶음이 07-01~02 이틀치라 섞임. 이 둘은 07-02 의 까닭 출처에서 뺌",
+  "뺀 뒤 남는 것: N3 yahoo(날짜가 07-02 인지는 제목만으로 못 가름) + N4 캐터필러 공매도(전력·냉각 설비 회사가 나쁜 소식에 직접 나옴 — (가)의 둘째 길)",
+  "mid 다시 냄: SPY -0.13 · 서버·부품 시장 대비 -6.14%p · 22/22 — 같음"
+ ],
+ "counter": "갈래를 바꿀 반대 근거는 못 찾음. 07-02 날짜로 나온 것은 같은 쪽: Yahoo Finance 「AI Chip Stocks Fall After Asia Selloff」 · Seeking Alpha 「AI memory, chip stocks slump as sell-off continues amid global peers tumbling」(둘 다 2026-07-02). 「메모리」 낱말이 있으나 칩 고유 한 회사 일로 대는 출처는 없음",
+ "final_verdict": "번진다",
+ "cause": "AI 투자 전반",
+ "changed": false,
+ "why": "해석의 출처 셋 중 둘이 전날 일을 말하는 글이라 빼도, 내 검색의 07-02 출처 둘(Yahoo Finance · Seeking Alpha)과 캐터필러 글로 (가)가 채워지고 S -6.14 는 넉넉함",
+ "confidence": "중간",
+ "tools": [
+  "mid",
+  "news_search: chip stocks AI stocks fall Thursday (3건)",
+  "news_search: Marvell Tower Semiconductor stock drop (0건)"
+ ],
+ "note": "해석 근거의 날짜 섞임은 판정을 바꾸지 않았지만, 묶음이 이틀치인 날은 같은 문제가 생길 수 있음",
+ "written_at": "2026-11-12T00:57:45+09:00"
+}

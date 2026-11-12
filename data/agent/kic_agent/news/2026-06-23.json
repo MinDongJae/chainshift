@@ -1,0 +1,341 @@
+{
+ "window_utc": [
+  "20260623000000",
+  "20260623234500"
+ ],
+ "files": 96,
+ "missing": [],
+ "records": 121398,
+ "hit_records": 529,
+ "by_stage": {
+  "데이터센터 공사": {
+   "n": 1,
+   "tone": 0.0,
+   "dc": 0
+  },
+  "반도체 장비·소재": {
+   "n": 53,
+   "tone": 0.28,
+   "dc": 0
+  },
+  "발전": {
+   "n": 28,
+   "tone": 5.1,
+   "dc": 0
+  },
+  "서버·네트워크·부품": {
+   "n": 62,
+   "tone": -1.28,
+   "dc": 0
+  },
+  "전력·냉각 설비": {
+   "n": 17,
+   "tone": 1.35,
+   "dc": 0
+  },
+  "칩": {
+   "n": 427,
+   "tone": -0.35,
+   "dc": 11
+  }
+ },
+ "by_company": {
+  "MU": 279,
+  "AMD": 124,
+  "NVDA": 80,
+  "LRCX": 44,
+  "INTC": 35,
+  "MRVL": 30,
+  "CEG": 28,
+  "WDC": 27,
+  "AMAT": 16,
+  "CSCO": 13,
+  "AVGO": 11,
+  "SMCI": 11,
+  "STX": 10,
+  "BE": 8,
+  "CAT": 7,
+  "TSEM": 5,
+  "TER": 3,
+  "CLS": 2,
+  "CRDO": 2,
+  "JCI": 1,
+  "ANET": 1,
+  "PWR": 1,
+  "LOGI": 1,
+  "ETN": 1
+ },
+ "dc_hit_records": 11,
+ "unique_titles": 319,
+ "top": [
+  {
+   "t": "20260623180000",
+   "title": "Stock Market Today, June 23: Sandisk Leads Tech Stock Slide as South Korea Jitters Trigger Global Pullback at Midday",
+   "url": "https://www.fool.com/coverage/stock-market-today/2026/06/23/stock-market-today-june-23-sandisk-leads-tech-stock-slide-as-south-korea-jitters-trigger-global-pullback-at-midday/?source=iedfolrf0000001",
+   "src": "fool.com",
+   "ticks": [
+    "MU",
+    "WDC",
+    "CEG"
+   ],
+   "stages": [
+    "발전",
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -3.15,
+   "dc": false,
+   "score": 9
+  },
+  {
+   "t": "20260623231500",
+   "title": "Dow flat, Nasdaq slumps as investors pull back from AI stocks",
+   "url": "https://www.proactiveinvestors.com/companies/news/1094335/dow-flat-nasdaq-slumps-as-investors-pull-back-from-ai-stocks-1094335.html",
+   "src": "proactiveinvestors.com",
+   "ticks": [
+    "MU",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -1.69,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260623223000",
+   "title": "Stocks Supported by Strength in Chipmakers and AI-Infrastructure Stocks",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-supported-strength-chipmakers-ai-141148219.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.93,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260623213000",
+   "title": "Markets News, June 22, 2026: Dow Ekes Out Gain as Big Tech Stocks Weigh on Nasdaq; SpaceX Falls To Lowest Close Ever",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-dow-rises-124415464.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "STX",
+    "SMCI"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 0.71,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260623201500",
+   "title": "ASX 200 LIVE: ASX to rise, $A tumbles, semis hit by selling wave, CPI data awaited",
+   "url": "https://www.afr.com/markets/equity-markets/asx-to-rise-a-tumbles-semis-hit-by-selling-wave-20260624-p609hd",
+   "src": "afr.com",
+   "ticks": [
+    "MU",
+    "MRVL",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -1.29,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260623193000",
+   "title": "National Bank Launches New NBI Thematic Rotation ETF",
+   "url": "https://www.etftrends.com/etfs-in-canada-content-hub/national-bank-launches-new-nbi-thematic-rotation-etf/",
+   "src": "etftrends.com",
+   "ticks": [
+    "AMAT",
+    "LRCX",
+    "BE"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "전력·냉각 설비"
+   ],
+   "tone": 0.9,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260623171500",
+   "title": "Baystreet.ca - TSX in Red by Noon",
+   "url": "http://baystreet.ca/marketupdates/15154/TSX-in-Red-by-Noon",
+   "src": "baystreet.ca",
+   "ticks": [
+    "MU",
+    "AMD",
+    "STX"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -2.34,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260623170000",
+   "title": "Could there be a $10 trillion company? Tech investing star Laffont thinks so",
+   "url": "https://www.cnbc.com/2026/06/23/could-there-be-a-10-trillion-company-tech-investing-star-laffont-believes-so.html",
+   "src": "cnbc.com",
+   "ticks": [
+    "MU",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.47,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260623161500",
+   "title": "3 Chip Giants Still Worth Buying Despite Massive Gains",
+   "url": "https://www.fool.com/investing/2026/06/23/3-chip-giants-still-worth-buying-despite-massive/?source=iedfolrf0000001",
+   "src": "fool.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "WDC"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 1.15,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260623151500",
+   "title": "SpaceX falls below listing price as tech selloff deepens",
+   "url": "https://www.businessday.co.za/world/international-companies/2026-06-23-spacex-falls-below-listing-price-as-tech-selloff-deepens/",
+   "src": "businessday.co.za",
+   "ticks": [
+    "MU",
+    "AMD",
+    "WDC"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -3.24,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260623114500",
+   "title": "Nasdaq 100 set to shed over $1 trillion as tech selloff deepens; SpaceX slides",
+   "url": "https://www.thestar.com.my/tech/tech-news/2026/06/23/nasdaq-100-set-to-shed-over-1-trillion-as-tech-selloff-deepens-spacex-slides",
+   "src": "thestar.com.my",
+   "ticks": [
+    "MU",
+    "AMD",
+    "WDC"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -3.89,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260623110000",
+   "title": "Premarket: Nasdaq futures drop over 2% as AI buildout costs, Fed rate outlook weigh",
+   "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-nasdaq-futures-drop-over-2-as-ai-buildout-costs-fed-rate/",
+   "src": "theglobeandmail.com",
+   "ticks": [
+    "AMD",
+    "MRVL",
+    "WDC"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -2.51,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260623234500",
+   "title": "Wall Street falls as chip stocks slide on AI spending concerns",
+   "url": "https://www.staradvertiser.com/2026/06/23/breaking-news/wall-street-falls-as-chip-stocks-slide-on-ai-spending-concerns/",
+   "src": "staradvertiser.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "MRVL"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -4.15,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20260623233000",
+   "title": "Wall Street ends lower on semiconductor selloff as AI spending concerns mount",
+   "url": "https://www.freemalaysiatoday.com/category/business/2026/06/24/wall-street-ends-lower-on-chip-selloff-as-ai-spending-concerns-mount",
+   "src": "freemalaysiatoday.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "MRVL"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -4.14,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20260623204500",
+   "title": "US Stock: S&P, Nasdaq end lower on semiconductor selloff as AI spending concerns mount",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-sp-nasdaq-end-lower-on-semiconductor-selloff-as-ai-spending-concerns-mount/articleshow/131949698.cms",
+   "src": "indiatimes.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "MRVL"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -2.87,
+   "dc": false,
+   "score": 7
+  }
+ ],
+ "seconds": 257
+}

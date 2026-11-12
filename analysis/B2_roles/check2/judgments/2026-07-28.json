@@ -1,0 +1,24 @@
+{
+ "date": "2026-07-28",
+ "interp_verdict": "번진다",
+ "interp_cause": "AI 투자 전반",
+ "interp_confidence": "중간",
+ "rechecked": [
+  "N7 union-bulletin(AP) 「Wall Street's flip from AI to less-loved stocks accelerates, while oil prices keep easing」 · N3 cnbc 「The Dow jumps as the AI trade wobbles…」 · N2 proactiveinvestors · N10 watoday · N1 thebull — 다 묶음에 있음",
+  "R3: 묶음의 N7·N8·N9·N11·N12 다섯은 같은 AP 글 — 해석도 AP 를 하나로 셌음. watoday 「Wall Street rises, AI stocks retreat」가 AP 를 옮긴 것인지는 제목만으로 못 가림 → 확실히 서로 다른 출처는 AP · CNBC 둘",
+  "mid 다시 냄: SPY +0.24 · 서버·부품 시장 대비 -3.09%p(16/22), 코닝 -12.1 · 셀레스티카 +10.0 — 같음"
+ ],
+ "counter": "갈래를 바꿀 반대 근거는 못 찾음. 새로 나온 것은 대체로 해석 쪽: CNBC 「Chip stocks shed more than $1 trillion as selloff hits companies powering AI boom」 · Yahoo Finance 「Micron, SK Hynix stocks sink as AI chip sell-off deepens」 · Yahoo Finance 「U.S. chip stocks extend sell-off on AI financing, China competition worries」(모두 2026-07-28 — 마지막 글은 AI 자금 조달 걱정과 중국 경쟁을 같이 댐). 번짐 폭을 좁게 읽는 글 하나: Yahoo Finance 「The chip stock rout hasn't crushed the broader market…」(2026-07-28)",
+ "final_verdict": "번진다",
+ "cause": "AI 투자 전반",
+ "changed": false,
+ "why": "근거 문장이 다 확인되고, AI 주식 전반에서 돈이 빠진다는 출처가 AP · CNBC 에 더해 Yahoo 에 실린 글 둘로 늘어남. 칩 고유로 대는 독립 출처는 새로 못 찾음(해석이 이미 적은 thebull 「Memory Rout」 하나)",
+ "confidence": "중간",
+ "tools": [
+  "mid",
+  "news_search: memory stocks rout Micron (4건)",
+  "news_search: chip stocks fall AMD Applied Materials why (1건)"
+ ],
+ "note": "높음이 아닌 까닭: 서버·부품 약세의 큰 몫이 같은 날 실적을 낸 코닝(-12.1)·씨게이트(-8.5)이고, 「시장 전체는 안 무너졌다」는 글이 있음",
+ "written_at": "2026-11-12T00:59:57+09:00"
+}

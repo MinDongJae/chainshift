@@ -1,0 +1,77 @@
+{
+ "date": "2025-10-14",
+ "seen": [
+  {
+   "name": "pack(cases/2025-10-14/materials.md)",
+   "date": "2025-10-14"
+  },
+  {
+   "name": "mid(prices_long.csv.gz)",
+   "date": "2025-10-14"
+  },
+  {
+   "name": "news_search 'Astera Labs Credo stock plunge' → 0건",
+   "date": "2025-10-14"
+  },
+  {
+   "name": "newsstat(news/2025-10-14.json)",
+   "date": "2025-10-14"
+  }
+ ],
+ "tools": [
+  {
+   "tool": "news_search",
+   "why": "가장 많이 빠진 두 종목(아스테라랩스 -19.0, 크레도 -13.4)의 까닭을 댄 출처가 바탕 자료에 없어서(before=2025-10-15)"
+  },
+  {
+   "tool": "newsstat",
+   "why": "검색이 0건이라 그날 제목 나머지와 전력 쪽 논조 확인"
+  }
+ ],
+ "cause": "칩 고유",
+ "evidence": [
+  {
+   "text": "Arista Stock Falls As Nvidia Wins Meta, Oracle Orders For AI Networking Chips",
+   "src": "investors.com(newsstat)",
+   "pub": "2025-10-14"
+  },
+  {
+   "text": "How Broadcom's OpenAI deal fits into data center boom; what it means for AI trade",
+   "src": "cnbc.com N2",
+   "pub": "2025-10-14"
+  },
+  {
+   "text": "칩 평균 -5.60% 가운데 연결 칩 두 종목(ALAB -19.0, CRDO -13.4)이 평균을 끌어내림. 나머지 7종목은 +0.8~-4.4",
+   "src": "mid 계산",
+   "pub": "2025-10-14"
+  },
+  {
+   "text": "서버·부품 시장 대비 -1.00%p, 시장보다 더 빠진 종목 11/22(과반 아님). 빠진 것은 네트워크 쪽(ANET -5.9, CLS -5.1, COHR -5.0)",
+   "src": "mid 계산",
+   "pub": "2025-10-14"
+  },
+  {
+   "text": "Brookfield backs Bloom Energy with $5 billion for fuel cells to power AI data centers",
+   "src": "yahoo.com N6",
+   "pub": "2025-10-14"
+  },
+  {
+   "text": "전력·냉각 설비 기사 30건 논조 +0.97, 발전 +1.06 — 전력 쪽 기사는 오르는 문맥",
+   "src": "newsstat",
+   "pub": "2025-10-14"
+  }
+ ],
+ "conditions": {
+  "a": false,
+  "b": false,
+  "c": false,
+  "d": true,
+  "e": true
+ },
+ "verdict": "안 번진다",
+ "confidence": "중간",
+ "counter": "서버·부품이 시장 대비 -1.00%p 로 (e)의 선에 걸쳐 있음. 엔비디아(-4.4)·인텔(-4.3)도 내려 '기술주가 흔들렸다'(investopedia N3)는 읽기도 가능. (d)의 출처는 경쟁 칩을 댄 기사 하나와 숫자(두 종목이 평균을 끌어내림)로 채웠고, 아스테라랩스·크레도 하락을 직접 설명한 기사는 못 찾음.",
+ "dropped": 0,
+ "note": "그날 전력 쪽에는 블룸에너지 50억 달러 투자 소식이 있어 내리는 까닭이 기사에 없음.",
+ "written_at": "2026-11-12T00:43:59+09:00"
+}

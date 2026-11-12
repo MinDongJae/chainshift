@@ -1,0 +1,33 @@
+{
+ "date": "2026-07-16",
+ "seen": [
+  "pack: cases/2026-07-16/materials.md 기사 제목 12개(2026-07-15~16)·공시 0건",
+  "mid: prices_long.csv.gz 2026-07-16 까지",
+  "newsstat: news/2026-07-16.json"
+ ],
+ "tools": [
+  {
+   "name": "mid",
+   "why": "늘 봄"
+  },
+  {
+   "name": "newsstat",
+   "why": "조건은 찼고, 확신을 정하려고 전력 쪽 반대 소식을 찾아봄"
+  }
+ ],
+ "cause": "AI 투자 전반",
+ "evidence": [
+  "yahoo.com 2026-07-16 「Marvell Drops 8% as AI Capex Slowdown Fears Weigh on Chips; Broadcom, AMD, and Intel Slide」 — AI 설비 투자가 느려진다는 걱정이 까닭으로 직접 나옴",
+  "investinglive.com 2026-07-16 「AI and chip stocks continue to slide sending the Nasdaq down near -1.5%」",
+  "latimes.com 2026-07-16 22:00 UTC 「Slumping AI stocks drag down markets around the world」",
+  "irishtimes.com 2026-07-16 「Tech-heavy indexes fall globally as investors offload chip stocks」",
+  "mid: 칩 9/9 · 장비·소재 8/8 · 서버·부품 19/22 가 시장보다 더 빠짐. 서버·부품 시장 대비 -4.15%p. 전날(07-15)에 이어 이틀째",
+  "newsstat: 전력·냉각 설비 기사 27건 어조 -0.45, 그 가운데 데이터센터 낱말 기사 5건(다른 날은 0~2건)"
+ ],
+ "verdict": "번진다",
+ "confidence": "높음",
+ "counter": "데이터센터 공사 단계 기사 8건의 어조는 +1.26 으로 좋았고, 시장 전체는 물가 지표가 좋아 -0.54% 에 그쳤다. 전력 쪽 회사 이름이 나쁜 소식 제목에 직접 나온 것은 찾지 못했다(어조 값과 낱말 건수뿐).",
+ "note": "조건: (가) AI 설비 투자 걱정을 댄 출처 셋 이상(yahoo · investinglive · latimes), (나) S=-4.15 로 경계에서 3%p 넘게 밖. 반대 소식을 찾아봤는데 전력 쪽 좋은 소식 제목은 없었음.",
+ "dropped": 0,
+ "written_at": "2026-11-12T00:48:26+09:00"
+}

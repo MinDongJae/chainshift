@@ -1,0 +1,34 @@
+{
+ "date": "2026-09-14",
+ "seen": [
+  "pack: cases/2026-09-14/materials.md 기사 제목 12개(2026-09-14 UTC)·공시 0건",
+  "mid: prices_long.csv.gz 2026-09-14 까지",
+  "newsstat: news/2026-09-14.json"
+ ],
+ "tools": [
+  {
+   "name": "mid",
+   "why": "늘 봄"
+  },
+  {
+   "name": "newsstat",
+   "why": "조건은 찼고, 확신을 정하려고 전력 쪽 반대 소식을 찾아봄"
+  }
+ ],
+ "cause": "AI 투자 전반",
+ "evidence": [
+  "livemint.com 2026-09-14 「Global AI stocks fall as industry chiefs call for slowing development」",
+  "investinglive.com 2026-09-14 「AI and chip stocks tumble as weekend warnings challenge the sector's growth assumptions」",
+  "aol.com 2026-09-14 「Marvell Falls 7% as AI Pacing Debate Collides With Fed Week; Broadcom Drops 4%, NVIDIA Pulls Back」",
+  "ibtimes.com.au 2026-09-14 「SanDisk Shares Sink 5.18% as DeepSeek's Leaner AI Model Rattles Memory Chip Stocks Worldwide Once Again」",
+  "investinglive.com 2026-09-14 「Oil tops $100 as higher yields and AI worries pressure stocks」",
+  "mid: SPY -0.45% 인데 서버·부품 22종목 모두 시장보다 더 빠짐(-6.28%p), 장비·소재 8/8(-7.91%p), 칩 9/9",
+  "newsstat: 전력·냉각 설비 기사 41건 어조 -1.65(그날 단계 가운데 가장 나쁨), 데이터센터 낱말 기사 4건"
+ ],
+ "verdict": "번진다",
+ "confidence": "높음",
+ "counter": "발전 단계 기사 5건의 어조는 +1.94 였고 유가가 100달러를 넘은 날이라 발전·가스 쪽은 다르게 움직였을 수 있다. 「US Data Centers To Burn More Natural Gas Than Most Nations」(zerohedge, 23:45 UTC — 장 마감 뒤)는 전력 수요가 크다는 쪽 글이다. 전력 쪽 회사에 좋은 소식을 전한 제목은 그 밖에 찾지 못했다.",
+ "note": "조건: (가) AI 개발 속도를 늦추자는 요구·AI 둔화 걱정을 댄 출처 넷, (나) S=-6.28 로 경계에서 5%p 넘게 밖. leaked.txt 곁값 날(58종목 전체 -5.16% 를 미리 봄).",
+ "dropped": 0,
+ "written_at": "2026-11-12T00:49:42+09:00"
+}

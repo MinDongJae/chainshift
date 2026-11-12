@@ -1,0 +1,85 @@
+{
+ "date": "2026-07-24",
+ "seen": [
+  {
+   "name": "pack(cases/2026-07-24/materials.md)",
+   "date": "2026-07-24"
+  },
+  {
+   "name": "mid(prices_long.csv.gz)",
+   "date": "2026-07-24"
+  },
+  {
+   "name": "newsstat(news/2026-07-24.json)",
+   "date": "2026-07-24"
+  },
+  {
+   "name": "pre(prices_long.csv.gz ~2026-07-23)",
+   "date": "2026-07-23"
+  },
+  {
+   "name": "news_search 'chip stocks fall Friday Intel Micron AI selloff Nasdaq' → Investopedia · MarketWatch 2건(제목만)",
+   "date": "2026-07-24"
+  }
+ ],
+ "tools": [
+  {
+   "tool": "newsstat",
+   "why": "인텔 실적은 좋았다는데 칩 9/9 가 내려 까닭이 안 보여서"
+  },
+  {
+   "tool": "pre",
+   "why": "앞 며칠 전력 쪽이 칩과 같이 움직였는지 확인"
+  },
+  {
+   "tool": "news_search",
+   "why": "그날 칩 하락의 까닭을 댄 출처 찾기(before=2026-07-25)"
+  }
+ ],
+ "cause": "칩 고유",
+ "evidence": [
+  {
+   "text": "Why Intel, Micron and other major chip stocks are falling — even as the rest of tech holds up",
+   "src": "MarketWatch(news_search, 제목만)",
+   "pub": "2026-07-24"
+  },
+  {
+   "text": "Chip Stocks Slide Friday—Memory Favorites Micron, Sandisk Among the Big Decliners",
+   "src": "Investopedia(news_search, 제목만)",
+   "pub": "2026-07-24"
+  },
+  {
+   "text": "US indices close mixed. Dow up. S&P unchanged. Nasdaq down",
+   "src": "investinglive.com N2",
+   "pub": "2026-07-24"
+  },
+  {
+   "text": "Michael Burry's short bets on Tesla, Caterpillar pay off in big July pullback",
+   "src": "cnbc.com N9",
+   "pub": "2026-07-24"
+  },
+  {
+   "text": "칩 9/9(-6.67%, 엔비디아 -0.9), 장비 8/8(-3.97%p), 서버·부품 16/22(-3.16%p, 광부품 COHR -9.8·LITE -8.5)",
+   "src": "mid 계산",
+   "pub": "2026-07-24"
+  },
+  {
+   "text": "전날(07-23) 시장 -1.23% 인데 전력 쪽 +1.14%, 칩 +0.21% — 전력 쪽이 따로 움직임. 그날 전력·냉각 설비 기사 논조 +1.03",
+   "src": "pre · newsstat",
+   "pub": "2026-07-23 · 2026-07-24"
+  }
+ ],
+ "conditions": {
+  "a": false,
+  "b": true,
+  "c": true,
+  "d": true,
+  "e": false
+ },
+ "verdict": "넘긴다",
+ "confidence": "낮음",
+ "counter": "번진다 쪽: 서버·부품 16/22 가 시장보다 3.16%p 더 빠졌고, 버리의 캐터필러 공매도가 '7월 큰 하락'으로 이익을 냈다는 기사(N9)와 텍사스 데이터센터 전력 비용 논란(N4)이 그날 나옴. 안 번진다 쪽: '나머지 기술주는 버티는데 칩만 내린다'(MarketWatch)는 출처가 있고 전날 전력 쪽은 시장과 반대로 올랐음.",
+ "dropped": 0,
+ "note": "(b)(c)와 (d)가 함께 성립해 엇갈림. 기울기는 '안 번진다' 쪽.",
+ "written_at": "2026-11-12T00:49:06+09:00"
+}

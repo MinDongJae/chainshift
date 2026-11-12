@@ -1,0 +1,43 @@
+{
+ "date": "2026-07-01",
+ "interp": "번진다",
+ "interp_cause": "AI 투자 전반",
+ "recheck": [
+  {
+   "ev": "E1 thebull.com.au 「Nasdaq Composite Slides as AI Infrastructure Sells Down To Start H2」",
+   "result": "pack N1 에 있음. 22:00 UTC — 마감(20:00) 뒤라 K2 로 뺌. (a)의 첫째 출처였음"
+  },
+  {
+   "ev": "E2 indiatimes.com 「Wall Street under pressure as Nvidia, AMD and Micron lead AI stock sell-off」",
+   "result": "기사 파일에 있음. 16:15 UTC — 마감 전. 무엇이 팔렸는지는 말하나 까닭은 안 댐"
+  },
+  {
+   "ev": "E3 businessinsider.com 「'Big Short' Michael Burry Bets Against Tesla, Nvidia, Caterpillar」",
+   "result": "pack N5 에 있음. 14:30 UTC — 마감 전. 전력·냉각 설비 종목 캐터필러가 공매도 대상으로 나옴 — (b)에 글자로는 들지만 한 투자자의 공시 소식이지 그날 하락의 까닭은 아님"
+  },
+  {
+   "ev": "E4 cnbc.com 「Chip stocks notched record rallies in second quarter start Q3 with dud」",
+   "result": "pack N7 에 있음. 21:45 UTC — 마감 뒤, 뺌"
+  },
+  {
+   "ev": "E5 칩 9/9(-6.67%), 장비 8/8(-8.76%p), 서버·부품 18/22(-3.23%p)",
+   "result": "다시 계산해 같음. 넓은 하락"
+  },
+  {
+   "ev": "E6 rockymounttelegram.com 「Most US stocks rise, but drops for tech pull indexes lower」",
+   "result": "pack N8 에 있음. 20:45 UTC — 마감 뒤, 뺌"
+  }
+ ],
+ "counter": "K2: 근거 6개 중 3개(E1·E4·E6)가 장 마감 뒤 발행. 마감 전 자료에는 '왜 내렸나'를 대는 기사가 없음. news_search 「AI infrastructure stocks sell-off chip stocks start of third quarter why」(2026-07-01) 2건: CNBC 「Chip stocks that notched record rallies in second quarter start Q3 with a dud」(칩이 기록적으로 오른 뒤의 되돌림 — AI 투자 전반과 다른 까닭), IBD 「Stock Market Forecast For Next Six Months: Why More Gains May Lie Ahead」(까닭 아님). 마감 뒤 기사지만 「Most US stocks rise」는 칩 밖이 오른 날이라는 정황.",
+ "final": "넘긴다",
+ "cause": "규칙이 잘못 고른 날",
+ "changed": true,
+ "why": "근거 6개 중 3개가 마감 뒤라 빠짐 — 미리 적은 '절반 이상 빠지면 넘긴다'에 걸림. 남은 것으로 세면 (a) 발행처 1곳(까닭 없이 'AI 주식 매도'), (b)는 캐터필러 공매도 한 건, (c)만 뚜렷. 까닭 갈래는 마감 전 자료로는 못 정하고, 다시 찾은 CNBC 제목은 '급등 뒤 되돌림'을 가리켜 그렇게 적음.",
+ "conf": "낮음",
+ "tools": [
+  "newsstat",
+  "news_search"
+ ],
+ "dropped": 3,
+ "written_at": "2026-11-12T01:00:24+09:00"
+}

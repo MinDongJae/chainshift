@@ -1,0 +1,39 @@
+{
+ "date": "2025-01-27",
+ "interp": "번진다",
+ "interp_cause": "AI 투자 전반",
+ "recheck": [
+  {
+   "ev": "E1 tribstar.com 「Tech stocks tank as a Chinese competitor threatens to upend the AI frenzy; Nvidia sinks nearly 17%」",
+   "result": "pack N7 에 있음(98자 겹침). 기사 파일 시각 23:45 UTC — 마감(21:00) 뒤라 K2 로 뺌"
+  },
+  {
+   "ev": "E2 thestandard.com.hk 「Chinese low-cost app tops charts, stuns AI markets」",
+   "result": "pack N2 에 있음. 19:30 UTC — 마감 전, 씀"
+  },
+  {
+   "ev": "E3 fool.com 「Why AI Hardware Winners ... Plunged by Double Digits Today」",
+   "result": "pack N10 에 있음. 23:15 UTC — 마감 뒤라 K2 로 뺌"
+  },
+  {
+   "ev": "E4 서버·부품 시장 대비 -9.24%p, 20/22",
+   "result": "다시 계산해 같음. 가운데값 -7.28%p, 나쁜 셋 뺀 평균 -7.08%p — K6(좁은 하락) 아님"
+  },
+  {
+   "ev": "E5 CEG 가 315건에 나옴(wptf · morningstar)",
+   "result": "건수 315 맞음. 이름 든 두 기사는 22:45 · 22:30 UTC 로 마감 뒤. 다만 마감 전 기사 5건(theepochtimes 17:30 · wallstreetpit 17:45 · newsweek 16:15 · nbcbayarea 19:15 · thestandard 19:30)에도 CEG 가 묶여 있음 — 제목에는 CEG 가 없어 내리는 문맥인지는 제목만으로 확인 못 함"
+  }
+ ],
+ "counter": "K2: 근거 5개 중 2개(E1·E3)와 E5 가 이름 든 두 기사가 장 마감 뒤 것. 다른 까닭(칩 고유)을 대는 마감 전 기사는 그날 기사 파일 15건에서 못 찾음.",
+ "final": "번진다",
+ "cause": "AI 투자 전반",
+ "changed": false,
+ "why": "마감 뒤 근거를 빼도 (a)는 마감 전 발행처 5곳(theepochtimes · thestandard · nbcbayarea · wallstreetpit · newsweek)이 '중국 값싼 AI 가 AI 시장 전체를 흔든다'로 대고, (c)는 넓은 하락(20/22, 가운데값 -7.28%p). (b)는 발전 회사 CEG 가 급락 기사에 묶인 것으로만 서 약함. 바꾸는 조건에 안 걸림.",
+ "conf": "중간",
+ "conf_why": "근거 일부를 뺐고 (b)가 약함. 해석의 '높음'에서 낮춤.",
+ "tools": [
+  "newsstat"
+ ],
+ "memory_note": "딥시크 날 전력 회사 주가가 크게 빠진 것을 기억으로 알고 있음 — leaked.txt 에 적음. 판정 근거에는 안 씀.",
+ "written_at": "2026-11-12T00:55:33+09:00"
+}

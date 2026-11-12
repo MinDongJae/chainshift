@@ -1,0 +1,64 @@
+{
+ "date": "2026-10-08",
+ "seen": [
+  {
+   "name": "pack(cases/2026-10-08/materials.md)",
+   "date": "2026-10-08"
+  },
+  {
+   "name": "mid(prices_long.csv.gz)",
+   "date": "2026-10-08"
+  },
+  {
+   "name": "newsstat(news/2026-10-08.json)",
+   "date": "2026-10-08"
+  }
+ ],
+ "tools": [
+  {
+   "tool": "newsstat",
+   "why": "바탕 자료로 (b)(c)가 찼으므로 그날 하락의 까닭을 달리 댄 제목이 있는지 반대 근거 한 번 확인"
+  }
+ ],
+ "cause": "전력 쪽 시작",
+ "evidence": [
+  {
+   "text": "Another One Bites The Dust: Nvidia-Backed Firmus Slashes IPO Price 25% As AI Data Center Window Slams Shut",
+   "src": "zerohedge.com N7",
+   "pub": "2026-10-08"
+  },
+  {
+   "text": "Australian Nvidia-backed AI data centre operator Firmus scraps $5 billion IPO",
+   "src": "ksevradio.com N3",
+   "pub": "2026-10-08"
+  },
+  {
+   "text": "From Force Majeure To Forced Haulage: Oracle Is Now Trucking Natural Gas To Its AI Data Centers",
+   "src": "zerohedge.com N5 · thenextweb.com N6",
+   "pub": "2026-10-08"
+  },
+  {
+   "text": "Memory Stocks Slip: Micron Strike Risk, Softer NAND Prices, Toshiba Capacity Bet",
+   "src": "techtimes.com N12",
+   "pub": "2026-10-08"
+  },
+  {
+   "text": "칩 9/9(-5.07%), 장비 6/8(-1.98%p), 서버·부품 20/22(-2.46%p)",
+   "src": "mid 계산",
+   "pub": "2026-10-08"
+  }
+ ],
+ "conditions": {
+  "a": false,
+  "b": true,
+  "c": true,
+  "d": false,
+  "e": false
+ },
+ "verdict": "번진다",
+ "confidence": "중간",
+ "counter": "그날 칩 하락의 까닭을 직접 댄 제목이 없음 — 데이터센터 운영사 상장 철회·가스 조달 기사와 칩 하락을 잇는 것은 내 읽기. 기사 논조는 전력·냉각 설비 +0.19, 공사 +1.58, 발전 +0.41 로 음수가 아님. 칩 쪽 고유 까닭(메모리 값·마이크론 파업 위험)을 댄 출처도 하나 있음. 가스를 트럭으로 나른다는 소식은 발전·설비 회사에는 일감일 수 있음.",
+ "dropped": 0,
+ "note": "(b)(c) 둘로 조건을 채움. 까닭 갈래는 데이터센터 자금 조달·전력 조달 소식이 그날 앞에 있다는 뜻으로 골랐고 확실하지 않음.",
+ "written_at": "2026-11-12T00:50:59+09:00"
+}

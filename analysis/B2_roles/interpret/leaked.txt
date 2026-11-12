@@ -1,0 +1,5 @@
+# 정답(전력 쪽 ÷ 칩 쪽 비율·번짐 여부)이 통째로 보인 날: 없음
+# 부분 노출 — 기사 제목으로 전력 쪽 일부 종목의 그날 움직임이 드러난 날(판정을 쓰기 전에 봄). 채점에서 뺄지는 채점하는 쪽이 정함.
+2026-08-18 부분 노출: newsstat 제목 「Caterpillar Costs the Dow 255 Points and Most Stocks Barely Notice」(fool.com) — 전력·냉각 설비 11종목 중 캐터필러 1종목의 하락. (b)의 근거로 씀.
+2026-10-30 부분 노출: pack 제목 N12 「MasTec, Quanta Services Surge; Two Other Construction Stocks Break Out」(investors.com) — 데이터센터 공사 4종목 중 2종목의 급등. 판정은 조건대로 「넘긴다」.
+# 참고 — 뒤 날짜의 pre 도구로 앞 충격일의 전력 쪽 값이 보인 경우(그 앞 날 판정은 이미 써 둔 뒤, order_log.txt 로 확인 가능): 07-01(07-02 의 pre) · 07-02(07-07) · 07-15(07-16) · 07-24(07-28)

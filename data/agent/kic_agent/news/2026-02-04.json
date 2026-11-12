@@ -1,0 +1,337 @@
+{
+ "window_utc": [
+  "20260204000000",
+  "20260204234500"
+ ],
+ "files": 96,
+ "missing": [],
+ "records": 137393,
+ "hit_records": 462,
+ "by_stage": {
+  "데이터센터 공사": {
+   "n": 0,
+   "tone": null,
+   "dc": 0
+  },
+  "반도체 장비·소재": {
+   "n": 19,
+   "tone": 0.8,
+   "dc": 0
+  },
+  "발전": {
+   "n": 4,
+   "tone": 0.28,
+   "dc": 0
+  },
+  "서버·네트워크·부품": {
+   "n": 196,
+   "tone": 0.05,
+   "dc": 2
+  },
+  "전력·냉각 설비": {
+   "n": 22,
+   "tone": 2.17,
+   "dc": 1
+  },
+  "칩": {
+   "n": 300,
+   "tone": 0.41,
+   "dc": 5
+  }
+ },
+ "by_company": {
+  "AMD": 137,
+  "NVDA": 100,
+  "WDC": 91,
+  "SMCI": 87,
+  "INTC": 35,
+  "MU": 24,
+  "AVGO": 15,
+  "CSCO": 13,
+  "LRCX": 12,
+  "CMI": 7,
+  "BE": 6,
+  "TER": 6,
+  "AMAT": 5,
+  "ETN": 4,
+  "LOGI": 3,
+  "CEG": 3,
+  "TSEM": 3,
+  "JCI": 3,
+  "CRDO": 2,
+  "CAT": 2,
+  "SEI": 1,
+  "MRVL": 1,
+  "STX": 1,
+  "ANET": 1
+ },
+ "dc_hit_records": 8,
+ "unique_titles": 290,
+ "top": [
+  {
+   "t": "20260204001500",
+   "title": "Stocks Gain on US Manufacturing Strength",
+   "url": "https://finance.yahoo.com/news/stocks-gain-us-manufacturing-strength-161957291.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "LRCX",
+    "WDC"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -0.62,
+   "dc": false,
+   "score": 11
+  },
+  {
+   "t": "20260204053000",
+   "title": "Don't Know Which AI Stock To Buy? Here's the Easiest Way To Play the Once-in-a-Generation Tech Boom.",
+   "url": "https://www.fool.com/investing/2026/02/03/dont-know-which-ai-stock-to-buy-heres-the-easiest/?source=iedfolrf0000001",
+   "src": "fool.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.58,
+   "dc": false,
+   "score": 10
+  },
+  {
+   "t": "20260204230000",
+   "title": "Nasdaq Slips, Gold and Silver Stage Substantial Recovery",
+   "url": "https://finance.yahoo.com/news/nasdaq-slips-gold-silver-stage-145921697.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "AMD",
+    "LRCX",
+    "WDC"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -0.38,
+   "dc": false,
+   "score": 9
+  },
+  {
+   "t": "20260204171500",
+   "title": "Why Nvidia AMD Palantir stocks crashed today: Why Nvidia, AMD, Palantir and Intel crashed today: what's happening with AI stocks as Nasdaq falls over 300 points",
+   "url": "https://economictimes.indiatimes.com/news/international/us/why-nvidia-amd-palantir-and-intel-crashed-today-whats-happening-with-ai-stocks-as-nasdaq-falls-over-300-points/articleshow/127914614.cms",
+   "src": "indiatimes.com",
+   "ticks": [
+    "NVDA",
+    "MU",
+    "AMD",
+    "INTC"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -2.06,
+   "dc": false,
+   "score": 9
+  },
+  {
+   "t": "20260204193000",
+   "title": "Kevin Warsh's Fed Could Ignite the AI Buildout. Here's How to Position",
+   "url": "https://investorplace.com/hypergrowthinvesting/2026/02/kevin-warshs-fed-could-ignite-the-ai-buildout-heres-how-to-position/",
+   "src": "investorplace.com",
+   "ticks": [
+    "AMAT",
+    "LRCX",
+    "CEG"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "발전"
+   ],
+   "tone": 0.52,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260204160000",
+   "title": "DataM Intelligence 4 Market Research LLP: Photonics-Electronics Convergence Technology Market to Cross USD 104.26 Billion by 2032 as Data, AI, and Defense Systems Hit the Limits of Conventional Electronics",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-02/67614768-datam-intelligence-4-market-research-llp-photonics-electronics-convergence-technology-market-to-cross-usd-104-26-billion-by-2032-as-data-ai-and-def-008.htm",
+   "src": "finanznachrichten.de",
+   "ticks": [
+    "INTC",
+    "MRVL",
+    "CSCO"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 3.12,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260204084500",
+   "title": "Stocks Climb as Solid US Manufacturing News Bolsters Economic Optimism",
+   "url": "https://finance.yahoo.com/news/stocks-climb-solid-us-manufacturing-214314048.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "WDC"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -0.35,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260204234500",
+   "title": "Dow Rises 260, Nasdaq Drops 351, S&P Falls 35",
+   "url": "https://tvnewscheck.com/business/article/dow-rises-260-nasdaq-drops-351-sp-falls-35/",
+   "src": "tvnewscheck.com",
+   "ticks": [
+    "AMD",
+    "SMCI"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 0.53,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260204234500",
+   "title": "More drops for technology stocks weigh on Wall Street",
+   "url": "https://www.journal-news.com/news/nation-world/more-drops-for-technology-stocks-weigh-on-wall-street/CG5PNY7ODJL2PI7OUV4VL7TAIY/",
+   "src": "journal-news.com",
+   "ticks": [
+    "AMD",
+    "SMCI"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 0.7,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260204233000",
+   "title": "S&P rings up 5th loss in 6 days as tech stocks drag index down, led by AMD's 17.3% drop",
+   "url": "https://fortune.com/2026/02/04/why-are-stocks-falling-tech-stocks-down/",
+   "src": "fortune.com",
+   "ticks": [
+    "AMD",
+    "SMCI"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 0.53,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260204231500",
+   "title": "Wall Street ends down as AI worries slam tech stocks",
+   "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/wall-street-ends-down-ai-worries-slam-tech-stocks",
+   "src": "businesstimes.com.sg",
+   "ticks": [
+    "AMD",
+    "SMCI"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -2.13,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260204224500",
+   "title": "How Data Centers Are Adapting to Grid Constraints",
+   "url": "https://www.datacenterknowledge.com/energy-power-supply/rethinking-energy-how-data-centers-are-adapting-to-grid-constraints",
+   "src": "datacenterknowledge.com",
+   "ticks": [
+    "BE"
+   ],
+   "stages": [
+    "전력·냉각 설비"
+   ],
+   "tone": -2.09,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20260204224500",
+   "title": "Chip Company Drops 17.3% Despite Strong Profit Report",
+   "url": "https://www.newser.com/story/383162/wall-street-slips-as-tech-stocks-sink-again.html",
+   "src": "newser.com",
+   "ticks": [
+    "AMD",
+    "SMCI"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 1.01,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260204211500",
+   "title": "European shares at record high despite Novo Nordisk tumble",
+   "url": "https://www.irishtimes.com/business/2026/02/04/european-shares-at-record-high-despite-novo-nordisk-tumble/",
+   "src": "irishtimes.com",
+   "ticks": [
+    "AMD",
+    "SMCI"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -0.5,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260204211500",
+   "title": "Wall Street slips as tech stocks sink again",
+   "url": "https://www.mankatofreepress.com/news/state_national_news/wall-street-slips-as-tech-stocks-sink-again/article_a1853567-3973-5bc1-bd14-f7a275d8d8f1.html",
+   "src": "mankatofreepress.com",
+   "ticks": [
+    "AMD",
+    "SMCI"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 0.54,
+   "dc": false,
+   "score": 6
+  }
+ ],
+ "seconds": 274
+}

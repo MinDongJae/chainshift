@@ -1,0 +1,27 @@
+{
+ "date": "2026-02-04",
+ "seen": [
+  "pack: cases/2026-02-04/materials.md 기사 제목 12개(2026-02-04 UTC)·공시 31줄 중 8줄(AMD·TER 2026-02-03, COHR 2026-02-04)",
+  "mid: prices_long.csv.gz 2026-02-04 까지"
+ ],
+ "tools": [
+  {
+   "name": "mid",
+   "why": "늘 봄. pack 과 mid 로 조건이 차서 더 찾지 않음"
+  }
+ ],
+ "cause": "AI 투자 전반",
+ "evidence": [
+  "businesstimes.com.sg(로이터) 2026-02-04 「Wall Street ends down as AI worries slam tech stocks」",
+  "indiatimes.com 2026-02-04 「Why Nvidia, AMD, Palantir and Intel crashed today: what's happening with AI stocks as Nasdaq falls over 300 points」",
+  "journal-news.com(AP) 2026-02-04 「More drops for technology stocks weigh on Wall Street」",
+  "fortune.com 2026-02-04 「S&P rings up 5th loss in 6 days as tech stocks drag index down, led by AMD's 17.3% drop」",
+  "mid: 칩 9/9 내림, 장비·소재 8/8 이 시장보다 더 빠짐(-4.23%p), 서버·부품 시장 대비 -1.49%p(15/22)"
+ ],
+ "verdict": "번진다",
+ "confidence": "낮음",
+ "counter": "가장 크게 빠진 AMD(-17.3%)는 전날 낸 자기 실적 때문이라 칩 고유로 읽을 수 있다(fortune). 서버·부품 안에서 슈퍼마이크로 +13.8 · 루멘텀 +7.0 은 크게 올랐고, 코히런트는 같은 날 「데이터센터 수요 강함」 실적을 냈다 — 서버 단계 약세는 암페놀 -11.6 · 플렉스 -10.9 몇 종목에 몰려 있다. S=-1.49 는 경계에서 0.49%p 밖.",
+ "note": "조건: (가) AI 걱정을 까닭으로 댄 출처 둘(로이터·indiatimes) + AP, (나) S=-1.49 ≤ -1.0. 반대 근거가 남아 확신 낮음. leaked.txt 에 있는 날(번짐이라고 미리 봄).",
+ "dropped": 0,
+ "written_at": "2026-11-12T00:44:37+09:00"
+}

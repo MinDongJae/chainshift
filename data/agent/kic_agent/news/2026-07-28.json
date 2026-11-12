@@ -1,0 +1,349 @@
+{
+ "window_utc": [
+  "20260728000000",
+  "20260728234500"
+ ],
+ "files": 96,
+ "missing": [],
+ "records": 118248,
+ "hit_records": 540,
+ "by_stage": {
+  "데이터센터 공사": {
+   "n": 4,
+   "tone": 1.64,
+   "dc": 0
+  },
+  "반도체 장비·소재": {
+   "n": 67,
+   "tone": -0.24,
+   "dc": 0
+  },
+  "발전": {
+   "n": 5,
+   "tone": -0.23,
+   "dc": 0
+  },
+  "서버·네트워크·부품": {
+   "n": 114,
+   "tone": -1.35,
+   "dc": 0
+  },
+  "전력·냉각 설비": {
+   "n": 33,
+   "tone": 0.54,
+   "dc": 2
+  },
+  "칩": {
+   "n": 386,
+   "tone": -0.18,
+   "dc": 14
+  }
+ },
+ "by_company": {
+  "NVDA": 189,
+  "MU": 126,
+  "AMD": 83,
+  "WDC": 69,
+  "AMAT": 47,
+  "INTC": 29,
+  "BE": 28,
+  "LRCX": 24,
+  "MRVL": 17,
+  "STX": 16,
+  "AVGO": 15,
+  "SMCI": 11,
+  "CLS": 11,
+  "LOGI": 6,
+  "TER": 5,
+  "CSCO": 5,
+  "PWR": 4,
+  "CEG": 3,
+  "CMI": 3,
+  "ANET": 2,
+  "SEI": 2,
+  "CRDO": 2,
+  "CAT": 1,
+  "ETN": 1,
+  "GEV": 1,
+  "TSEM": 1
+ },
+ "dc_hit_records": 16,
+ "unique_titles": 395,
+ "top": [
+  {
+   "t": "20260728171500",
+   "title": "Nasdaq Composite Battles Back: Memory Rout Deepens While Software Stocks Bounce",
+   "url": "https://thebull.com.au/us-news/nasdaq-battles-back-as-memory-rout-deepens-while-software-names-stage-defensive-rally/",
+   "src": "thebull.com.au",
+   "ticks": [
+    "MU",
+    "LRCX",
+    "WDC",
+    "STX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -1.23,
+   "dc": false,
+   "score": 11
+  },
+  {
+   "t": "20260728191500",
+   "title": "Nasdaq enters correction as sell-off deepens, while Coke and Sherwin-Williams lead Dow",
+   "url": "https://www.proactiveinvestors.com/companies/news/1096134/nasdaq-100-enters-correction-as-sell-off-deepens-while-coke-and-sherwin-williams-lead-dow-1096134.html",
+   "src": "proactiveinvestors.com",
+   "ticks": [
+    "AMAT",
+    "LRCX",
+    "WDC",
+    "STX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품"
+   ],
+   "tone": -1.15,
+   "dc": false,
+   "score": 10
+  },
+  {
+   "t": "20260728203000",
+   "title": "The Dow jumps as the AI trade wobbles. Plus, a portfolio name goes on the M&A hunt",
+   "url": "https://www.cnbc.com/2026/07/28/the-dow-jumps-as-the-ai-trade-wobbles-plus-a-portfolio-name-goes-on-the-ma-hunt.html",
+   "src": "cnbc.com",
+   "ticks": [
+    "AMAT",
+    "STX",
+    "BE"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품",
+    "전력·냉각 설비"
+   ],
+   "tone": -0.13,
+   "dc": false,
+   "score": 9
+  },
+  {
+   "t": "20260728234500",
+   "title": "TSX rises to new high, U.S. markets post mixed results",
+   "url": "https://www.investmentexecutive.com/news/markets/tsx-rises-to-new-high-u-s-markets-post-mixed-results/",
+   "src": "investmentexecutive.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.59,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260728231500",
+   "title": "Advanced Micro Devices vs. Arista Networks: Which Tech Stock Is a Better Buy in 2026?",
+   "url": "https://www.fool.com/coverage/better-buy/2026/07/28/advanced-micro-devices-vs-arista-networks-which-tech-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+   "src": "fool.com",
+   "ticks": [
+    "AMD",
+    "CSCO",
+    "ANET"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 0.2,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260728230000",
+   "title": "Dow Jumps 537, Nasdaq Falls 55, S&P 500 Adds 16",
+   "url": "https://tvnewscheck.com/business/article/dow-jumps-537-nasdaq-falls-55-sp-500-adds-16/",
+   "src": "tvnewscheck.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.12,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260728224500",
+   "title": "Wall Street's flip from AI to less-loved stocks accelerates, while oil prices keep easing",
+   "url": "https://www.union-bulletin.com/news/world/wall-streets-flip-from-ai-to-less-loved-stocks-accelerates-while-oil-prices-keep-easing/article_dd15ad5b-363c-5828-a990-e194a8c35ee6.html",
+   "src": "union-bulletin.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.22,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260728221500",
+   "title": "Wall Street's flip from AI stocks to elsewhere accelerates, while oil prices keep easing",
+   "url": "https://www.wccbcharlotte.com/2026/07/28/wall-streets-flip-from-ai-stocks-to-elsewhere-accelerates-while-oil-prices-keep-easing/",
+   "src": "wccbcharlotte.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.11,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260728213000",
+   "title": "Wall Street's Move Away From AI Accelerates",
+   "url": "https://www.newser.com/story/393676/wall-streets-move-away-from-ai-accelerates.html",
+   "src": "newser.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -2.73,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260728213000",
+   "title": "Markets today: Wall Street rises, AI stocks retreat, oil prices extend slide, Apple becomes a $US5tr company",
+   "url": "https://www.watoday.com.au/business/markets/asx-set-to-rise-oil-prices-extend-slide-apple-becomes-a-us5tr-company-20260729-p60jg3.html",
+   "src": "watoday.com.au",
+   "ticks": [
+    "MU",
+    "AMD",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.0,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260728200000",
+   "title": "Wall Street's flip from AI stocks to elsewhere accelerates, while oil prices keep easing &#x2013; KTBB News, Weather, Talk",
+   "url": "https://ktbb.com/post/?p=1529209",
+   "src": "ktbb.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.66,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260728194500",
+   "title": "Stock market news: Wall Street's flip from AI stocks",
+   "url": "https://www.cp24.com/news/money/2026/07/28/more-drops-for-chipmakers-weigh-on-wall-street/",
+   "src": "cp24.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.34,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260728164500",
+   "title": "Wall Street's flip from AI to elsewhere accelerates; oil prices easing",
+   "url": "https://www.orlandosentinel.com/2026/07/28/wall-street-chip-sell-off/",
+   "src": "orlandosentinel.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.24,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260728161500",
+   "title": "FTSE 100 Live: Unilever leads index close to record highs, US semi sell-off deepens",
+   "url": "https://www.proactiveinvestors.co.uk/companies/news/1096116/ftse-100-live-unilever-leads-index-close-to-record-highs-us-semi-sell-off-deepens-1096116.html",
+   "src": "proactiveinvestors.co.uk",
+   "ticks": [
+    "AMAT",
+    "LRCX",
+    "WDC"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품"
+   ],
+   "tone": -0.16,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260728161500",
+   "title": "US stocks continue to rotate out of technology and into industrials",
+   "url": "https://investinglive.com/stocks/us-stocks-continue-to-rotate-out-of-technology-and-into-industrials/",
+   "src": "investinglive.com",
+   "ticks": [
+    "MRVL",
+    "CRDO",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.97,
+   "dc": false,
+   "score": 8
+  }
+ ],
+ "seconds": 295
+}

@@ -1,0 +1,325 @@
+{
+ "window_utc": [
+  "20251212000000",
+  "20251212234500"
+ ],
+ "files": 96,
+ "missing": [],
+ "records": 129207,
+ "hit_records": 564,
+ "by_stage": {
+  "데이터센터 공사": {
+   "n": 5,
+   "tone": 2.27,
+   "dc": 0
+  },
+  "반도체 장비·소재": {
+   "n": 36,
+   "tone": 1.28,
+   "dc": 0
+  },
+  "발전": {
+   "n": 14,
+   "tone": 0.94,
+   "dc": 4
+  },
+  "서버·네트워크·부품": {
+   "n": 23,
+   "tone": 1.67,
+   "dc": 0
+  },
+  "전력·냉각 설비": {
+   "n": 37,
+   "tone": -1.17,
+   "dc": 1
+  },
+  "칩": {
+   "n": 461,
+   "tone": 0.64,
+   "dc": 4
+  }
+ },
+ "by_company": {
+  "NVDA": 209,
+  "AVGO": 162,
+  "MU": 41,
+  "AMD": 34,
+  "INTC": 30,
+  "AMAT": 18,
+  "LRCX": 13,
+  "CEG": 12,
+  "ETN": 10,
+  "BE": 10,
+  "MRVL": 9,
+  "CSCO": 6,
+  "GEV": 6,
+  "CAT": 6,
+  "WDC": 6,
+  "ANET": 5,
+  "PWR": 5,
+  "TER": 4,
+  "CLS": 3,
+  "CMI": 3,
+  "Q": 2,
+  "SEI": 2,
+  "JCI": 2,
+  "STX": 2,
+  "LOGI": 1,
+  "TSEM": 1
+ },
+ "dc_hit_records": 9,
+ "unique_titles": 361,
+ "top": [
+  {
+   "t": "20251212223000",
+   "title": "Stocks Mixed as a Plunge in Oracle Weighs on Tech Stocks",
+   "url": "https://finance.yahoo.com/news/stocks-mixed-plunge-oracle-weighs-150456902.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "MRVL",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.87,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20251212154500",
+   "title": "Intel tests chipmaking tools from sanctioned China-focused tool maker, report claims &#x2014; move could raise political and national security concerns, firm was backed by CEO Lip-Bu Tan's investment firm",
+   "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-tests-chipmaking-tools-from-sanctioned-china-focused-tool-maker-report-claims-move-could-raise-political-and-national-security-concerns-firm-was-backed-by-ceo-lip-bu-tans-investment-firm",
+   "src": "tomshardware.com",
+   "ticks": [
+    "INTC",
+    "AMAT",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.52,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20251212094500",
+   "title": "Stocks Rally as Fed Cuts Interest Rates and Boosts Liquidity",
+   "url": "https://finance.yahoo.com/news/stocks-rally-fed-cuts-interest-213832699.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "MRVL",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.47,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20251212031500",
+   "title": "Broadcom stock reverses lower on a misinterpretation of what the CEO said on the earnings call",
+   "url": "https://www.cnbc.com/2025/12/11/broadcom-stock-reverses-lower-on-a-misinterpretation-of-what-the-ceo-said-on-the-earnings-call.html",
+   "src": "cnbc.com",
+   "ticks": [
+    "AVGO",
+    "AMD",
+    "MRVL"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 0.89,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20251212224500",
+   "title": "Here's an update on all 34 portfolio stocks, including 7 buys",
+   "url": "https://www.cnbc.com/2025/12/12/heres-an-update-on-all-34-portfolio-stocks-including-7-buys.html",
+   "src": "cnbc.com",
+   "ticks": [
+    "Q",
+    "CSCO"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품"
+   ],
+   "tone": 1.55,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20251212204500",
+   "title": "Oracle denies report on OpenAI data center delays",
+   "url": "https://www.bnnbloomberg.ca/business/2025/12/12/oracle-denies-report-on-openai-data-center-delays/",
+   "src": "bnnbloomberg.ca",
+   "ticks": [
+    "AMD"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -2.75,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20251212201500",
+   "title": "East Coventry planners reject data center ordinance change",
+   "url": "https://www.thereporteronline.com/2025/12/12/east-coventry-planners-reject-data-center-ordinance-change/",
+   "src": "thereporteronline.com",
+   "ticks": [
+    "CEG"
+   ],
+   "stages": [
+    "발전"
+   ],
+   "tone": 0.62,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20251212194500",
+   "title": "Oracle share price stocks: Oracle denies report on OpenAI data center delays but stocks crash continues",
+   "url": "https://economictimes.indiatimes.com/news/international/us/oracle-share-price-stocks-openai-data-centre/articleshow/125939711.cms",
+   "src": "indiatimes.com",
+   "ticks": [
+    "AMD"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -2.36,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20251212194500",
+   "title": "Oracle denies report on OpenAI data center delays | Company Business News",
+   "url": "https://www.livemint.com/companies/news/oracle-denies-report-on-openai-data-center-delays-11765565018826.html",
+   "src": "livemint.com",
+   "ticks": [
+    "AMD"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -3.56,
+   "dc": true,
+   "score": 6
+  },
+  {
+   "t": "20251212191500",
+   "title": "Promising Manufacturing Stocks To Keep An Eye On &#x2013; December 12th",
+   "url": "https://www.themarketsdaily.com/2025/12/12/promising-manufacturing-stocks-to-keep-an-eye-on-december-12th.html",
+   "src": "themarketsdaily.com",
+   "ticks": [
+    "AMAT",
+    "JCI"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "전력·냉각 설비"
+   ],
+   "tone": 1.9,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20251212161500",
+   "title": "Michael Burry Warns AI Boom Mirrors Dot-Com Bubble, Nvidia Like Cisco",
+   "url": "https://www.webpronews.com/michael-burry-warns-ai-boom-mirrors-dot-com-bubble-nvidia-like-cisco/",
+   "src": "webpronews.com",
+   "ticks": [
+    "NVDA",
+    "CSCO"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -2.79,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20251212141500",
+   "title": "Intel has tested chipmaking tools from firm with sanctioned China unit",
+   "url": "https://telecom.economictimes.indiatimes.com/news/devices/intel-has-tested-chipmaking-tools-from-firm-with-sanctioned-china-unit/125931914",
+   "src": "indiatimes.com",
+   "ticks": [
+    "INTC",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.92,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20251212124500",
+   "title": "Intel has tested chipmaking tools from firm with sanctioned China unit, sources say",
+   "url": "https://www.rappler.com/technology/intel-test-chipmaking-tools-acm-research-sanctioned-china-unit/",
+   "src": "rappler.com",
+   "ticks": [
+    "INTC",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -1.02,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20251212120000",
+   "title": "Bezos and Musk target AI through space. These Earthly stocks could benefit.",
+   "url": "https://www.morningstar.com/news/marketwatch/20251212187/bezos-and-musk-target-ai-through-space-these-earthly-stocks-could-benefit",
+   "src": "morningstar.com",
+   "ticks": [
+    "AMD",
+    "PWR"
+   ],
+   "stages": [
+    "데이터센터 공사",
+    "칩"
+   ],
+   "tone": 0.6,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20251212063000",
+   "title": "Exclusive-Intel has tested chipmaking tools from firm with sanctioned China unit, sources say",
+   "url": "https://finance.yahoo.com/news/exclusive-intel-tested-chipmaking-tools-060133653.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "INTC",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -0.77,
+   "dc": false,
+   "score": 6
+  }
+ ],
+ "seconds": 285
+}

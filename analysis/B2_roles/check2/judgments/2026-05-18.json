@@ -1,0 +1,25 @@
+{
+ "date": "2026-05-18",
+ "interp_verdict": "사람에게 넘긴다",
+ "interp_cause": "칩 고유",
+ "interp_confidence": "낮음",
+ "rechecked": [
+  "CNBC 「Seagate sparks memory sell-off as CEO says it would 'take too long' to build new factories」 — 내 검색에서 같은 제목·2026-05-18 로 다시 나옴",
+  "financialcontent 「Himax, Western Digital, and Amkor Shares Are Falling…」 — 그날 묶음 12개에는 없고 newsstat 13위 뒤(2026-05-18 20:15 UTC, 장 마감 45분 전)에 있음. 제목에 까닭은 없음",
+  "N1·N4 「Why Did Micron Stock Drop Today?」 — 묶음에 있음, 까닭 없음(해석도 그렇게 적음)",
+  "mid 다시 냄: SPY -0.07 · 서버·부품 시장 대비 -2.79%p · 18/22 — 같음"
+ ],
+ "counter": "해석이 「까닭 출처 하나뿐」이라 한 것은 풀림: Bloomberg 「Seagate Slips as CEO Says New Factories Would 'Take Too Long'」 · Sherwood News 「Memory stocks tumble after Seagate warns on difficulty of meeting demand, bond yields edge higher」(둘 다 2026-05-18, The Tech Buzz 는 CNBC 옮김이라 안 셈) → 칩 고유 3. 반대 갈래(시장 전체)도 셋 나옴: BBC 「Stocks slide amid inflation fears」 · Reuters 「Nasdaq leads equity losses with oil, borrowing costs in focus」 · Kiplinger 「Nasdaq Drops as Tech Stocks Slide」(모두 2026-05-18). 다만 SPY 는 -0.07% 로 거의 그대로",
+ "final_verdict": "사람에게 넘긴다",
+ "cause": "칩 고유",
+ "changed": false,
+ "why": "칩 고유 3 대 시장 전체 3 으로 같아 갈래를 못 뒤집음. 출처 모자람은 풀렸으나 칩 고유인데 서버·부품이 2.79%p 더 빠진 엇갈림이 남아 그대로 넘김",
+ "confidence": "낮음",
+ "tools": [
+  "mid",
+  "newsstat",
+  "news_search: Seagate memory sell-off (4건)",
+  "news_search: AI stocks slide Wall Street (3건)"
+ ],
+ "written_at": "2026-11-12T00:55:53+09:00"
+}

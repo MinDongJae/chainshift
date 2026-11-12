@@ -1,0 +1,28 @@
+{
+ "date": "2026-07-28",
+ "seen": [
+  "pack: cases/2026-07-28/materials.md 기사 제목 12개(2026-07-28 UTC)·공시 19줄 중 8줄(KLAC·STX·GLW 2026-07-28)",
+  "mid: prices_long.csv.gz 2026-07-28 까지"
+ ],
+ "tools": [
+  {
+   "name": "mid",
+   "why": "늘 봄. pack 과 mid 로 조건이 차서 더 찾지 않음"
+  }
+ ],
+ "cause": "AI 투자 전반",
+ "evidence": [
+  "union-bulletin.com(AP) 2026-07-28 「Wall Street's flip from AI to less-loved stocks accelerates, while oil prices keep easing」",
+  "cnbc.com 2026-07-28 「The Dow jumps as the AI trade wobbles」",
+  "proactiveinvestors.com 2026-07-28 「Nasdaq enters correction as sell-off deepens, while Coke and Sherwin-Williams lead Dow」",
+  "watoday.com.au 2026-07-28 「Wall Street rises, AI stocks retreat」",
+  "thebull.com.au 2026-07-28 「Memory Rout Deepens While Software Stocks Bounce」(칩 고유 쪽)",
+  "mid: SPY +0.24%. 장비·소재 8/8 -6.20%p, 서버·부품 16/22 -3.09%p(코닝 -12.1 은 같은 날 실적, 셀레스티카 +10.0 · HPQ +6.6 은 오름)"
+ ],
+ "verdict": "번진다",
+ "confidence": "중간",
+ "counter": "AP 는 돈이 「AI 에서 덜 사랑받던 주식으로」 옮겨 갔다고 했고 다우는 537 포인트 올랐다 — 산업재로 묶이는 전력 설비주가 받는 쪽이었을 수도 있다. 엔비디아(+0.3)·브로드컴(-0.6)은 거의 안 빠져 「메모리 폭락」이라는 칩 고유 읽기도 가능하다. 서버·부품 약세의 큰 몫은 코닝·씨게이트 자기 실적일 수 있다. 전력 쪽 반대 소식은 따로 찾아보지 않았다.",
+ "note": "조건: (가) AI 주식에서 돈이 빠진다는 출처 셋(AP · CNBC · watoday), (나) S=-3.09 ≤ -1.0.",
+ "dropped": 0,
+ "written_at": "2026-11-12T00:49:00+09:00"
+}

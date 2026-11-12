@@ -1,0 +1,28 @@
+{
+ "date": "2026-07-02",
+ "seen": [
+  "pack: cases/2026-07-02/materials.md 기사 제목 12개(2026-07-01~02)·공시 0건",
+  "mid: prices_long.csv.gz 2026-07-02 까지"
+ ],
+ "tools": [
+  {
+   "name": "mid",
+   "why": "늘 봄. pack 과 mid 로 조건이 넉넉히 차서 더 찾지 않음"
+  }
+ ],
+ "cause": "AI 투자 전반",
+ "evidence": [
+  "yahoo.com 2026-07-02 「Stocks Fall on Weakness in Chipmakers and AI Stocks」",
+  "indiatimes.com 2026-07-02 「Micron, Intel and other chip stocks fall up to 11% after record-breaking rally」",
+  "memeburn.com 2026-07-02 「Chip Stocks Sell Off to Start Q3 After Record $2 Trillion Rally」",
+  "ibtimes.co.uk 2026-07-02 「Why Michael Burry's Caterpillar Short Is Bigger News Than His AI Bets Against Nvidia and Tesla」 — 전력·냉각 설비 단계 회사가 나쁜 소식의 한가운데",
+  "newsday.com(AP) 2026-07-02 「Most U.S. stocks climb toward the finish of a winning week, but drops for tech keep indexes mixed」",
+  "mid: 서버·부품 22종목 모두 시장보다 더 빠짐(-6.14%p), 장비·소재 8/8 -8.78%p, SPY -0.13%. 전날(07-01)에 이어 이틀째"
+ ],
+ "verdict": "번진다",
+ "confidence": "중간",
+ "counter": "AP 는 「대부분의 주식은 올랐다」고 했다 — 기술주에서 돈이 빠져 다른 업종으로 간 날이면 산업재로 묶이는 전력 설비주는 버텼을 수 있다. 까닭으로 든 것이 「기록적 상승 뒤 되돌림」이라 AI 투자 계획 자체가 바뀐 소식은 아니다. 전력 쪽 반대 소식은 따로 찾아보지 않았다(그래서 높음이 아님).",
+ "note": "조건: (가) AI·칩 매도를 까닭으로 댄 출처 셋 + 캐터필러 직접 등장, (나) S=-6.14 ≤ -1.0.",
+ "dropped": 0,
+ "written_at": "2026-11-12T00:47:17+09:00"
+}

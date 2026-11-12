@@ -1,0 +1,25 @@
+{
+ "date": "2026-10-08",
+ "interp_verdict": "번진다",
+ "interp_cause": "전력 쪽 시작",
+ "interp_confidence": "낮음",
+ "rechecked": [
+  "N3 ksevradio(로이터) 「Australian Nvidia-backed AI data centre operator Firmus scraps $5 billion IPO」 · N7 zerohedge 「…Firmus Slashes IPO Price 25% As AI Data Center Window Slams Shut」 · N6 thenextweb 「Oracle moves gas by trucks to keep its AI data centres on schedule」 · N12 techtimes 「Memory Stocks Slip: Micron Strike Risk, Softer NAND Prices, Toshiba Capacity Bet」 — 넷 다 묶음에 있음",
+  "날짜: 묶음이 10-07~08 이틀치라 따로 확인 — Reuters 「Firmus investor stock falls after reports AI data centre operator may cut $5 bln IPO」 · CNBC 「Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility」가 2026-10-08 로 나옴 → 퍼머스 소식은 그날 것이 맞음",
+  "이 제목들은 「데이터센터 쪽에 나쁜 소식이 있었다」는 말이지 「그래서 칩이 빠졌다」는 말이 아님 — 해석도 그렇게 적어 둠. (가)의 둘째 길(그날 기사에 데이터센터 쪽 회사가 나쁜 소식으로 직접 나옴)로만 조건이 참",
+  "mid 다시 냄: SPY -0.42 · 서버·부품 시장 대비 -2.46%p(20/22) — 같음"
+ ],
+ "counter": "칩이 빠진 까닭을 직접 대는 글은 갈래마다 하나씩: Yahoo Finance 「Intel Slides 3% as Chip Stocks Sell Off With Yields and Oil Higher; NVIDIA and AMD Slip」(2026-10-08, 시장 전체) · NDTV Profit 「Chips Stocks Fall As Much As 3%… Amid Investor Scepticism」(2026-10-08, AI 투자 전반 쪽) · techtimes N12(메모리 — 칩 고유). Barron's 「TSMC Gives AI Trade Upbeat Signal—AMD and Other Chip Stocks Fall Anyway」(2026-10-08)는 좋은 소식에도 내렸다고만 함. 어느 갈래도 둘이 안 됨. 해석 쪽으로는 Yahoo Finance 「Firmus Misfire Casts Shadow on Data Center IPOs in the Pipeline」(2026-10-08)",
+ "final_verdict": "번진다",
+ "cause": "전력 쪽 시작",
+ "changed": false,
+ "why": "데이터센터 쪽 나쁜 소식이 그날 것임이 Reuters · CNBC 로 확인되고, 반대 갈래(칩 고유)는 하나뿐. 시장 전체·AI 투자 전반으로 읽어도 S -2.46 이라 판정은 같음",
+ "confidence": "낮음",
+ "tools": [
+  "mid",
+  "news_search: chip stocks fall semiconductor stocks why (4건)",
+  "news_search: Firmus IPO AI data center stocks (3건)"
+ ],
+ "note": "「전력 쪽 시작」이라는 갈래 자체는 약함 — 퍼머스는 58종목 밖의 호주 데이터센터 운영사이고 칩 하락과 잇는 글이 없음. leaked: 58종목 전체 -3.17% 를 미리 봄",
+ "written_at": "2026-11-12T01:01:40+09:00"
+}

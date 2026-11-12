@@ -1,0 +1,750 @@
+[
+ {
+  "date": "2026-08-18",
+  "loss58_usd_m": -506.4,
+  "added_usd_m": -43.2,
+  "expanded_usd_m": -549.6,
+  "ratio": 1.085,
+  "added_value_usd_m": 3019.0,
+  "base_value_usd_m": 11508.6,
+  "ret58_pct": -4.4,
+  "added_ret_pct": -1.43,
+  "rest_ret_pct": 0.33,
+  "spy_pct": -0.68,
+  "n_rest": 582,
+  "added_worse_than_spy": true,
+  "added_worse_than_rest": true,
+  "added": {
+   "CRWV": {
+    "usd_m": -0.9,
+    "ret_pct": -12.1,
+    "value_usd_m": 7.5,
+    "why": [
+     {
+      "edge": "US-017",
+      "in58": "NVDA",
+      "outside": "CRWV",
+      "relation": "owns_stake_in",
+      "published_at": "2026-03-02",
+      "quote": "In January 2026, NVIDIA Corporation invested $ 2 billion in the Company's Class A common stock at a purchase price of $ 87.20 per share",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm"
+     },
+     {
+      "edge": "US-023",
+      "in58": "NVDA",
+      "outside": "CRWV",
+      "relation": "contract_counterparty",
+      "published_at": "2026-03-02",
+      "quote": "Master Services Agreement between CoreWeave, Inc. and NVIDIA Corporation, dated April 10, 2023",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm"
+     }
+    ]
+   },
+   "NBIS": {
+    "usd_m": -3.1,
+    "ret_pct": -7.6,
+    "value_usd_m": 40.6,
+    "why": [
+     {
+      "edge": "US-018",
+      "in58": "NVDA",
+      "outside": "NBIS",
+      "relation": "owns_stake_in",
+      "published_at": "2026-08-14",
+      "quote": "NEBIUS GROUP N.V. SHS CLASS A N97284108 328773757 1190476 SH",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000065/information_table.xml"
+     }
+    ]
+   },
+   "SNPS": {
+    "usd_m": -1.3,
+    "ret_pct": -2.13,
+    "value_usd_m": 62.3,
+    "why": [
+     {
+      "edge": "US-020",
+      "in58": "NVDA",
+      "outside": "SNPS",
+      "relation": "owns_stake_in",
+      "published_at": "2026-08-14",
+      "quote": "SYNOPSYS INC COM 871607107 2150823302 4821717 SH",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000065/information_table.xml"
+     }
+    ]
+   },
+   "SPCX": {
+    "usd_m": -2.7,
+    "ret_pct": -1.98,
+    "value_usd_m": 137.1,
+    "why": [
+     {
+      "edge": "US-022",
+      "in58": "NVDA",
+      "outside": "SPCX",
+      "relation": "owns_stake_in",
+      "published_at": "2026-08-14",
+      "quote": "SPACE EXPLORATION TECHN CORP CLASS A COM STK 84615Q103 20975594582 122764805 SH",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000065/information_table.xml"
+     }
+    ]
+   },
+   "RIOT": {
+    "usd_m": -0.5,
+    "ret_pct": -5.64,
+    "value_usd_m": 8.4,
+    "why": [
+     {
+      "edge": "US-031",
+      "in58": "AMD",
+      "outside": "RIOT",
+      "relation": "lessee_of",
+      "published_at": "2026-01-16",
+      "quote": "The signing of a Data Center Lease and Services Agreement (“Data Center Lease”) with Advanced Micro Devices, Inc. (“AMD”), a leading innovator in high-performance computing, graphics and visualization technologies, at the Rockdale Site, which includes an initi",
+      "url": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926004551/riot-20260116xex99d1.htm"
+     }
+    ]
+   },
+   "IREN": {
+    "usd_m": -0.4,
+    "ret_pct": -6.46,
+    "value_usd_m": 6.3,
+    "why": [
+     {
+      "edge": "US-033",
+      "in58": "DELL",
+      "outside": "IREN",
+      "relation": "supplies_to",
+      "published_at": "2025-11-03",
+      "quote": "IREN has also entered into an agreement with Dell Technologies to purchase the GPUs and ancillary equipment",
+      "url": "https://www.sec.gov/Archives/edgar/data/1878848/000114036125040072/ef20058139_ex99-1.htm"
+     }
+    ]
+   },
+   "MSFT": {
+    "usd_m": 5.0,
+    "ret_pct": 0.27,
+    "value_usd_m": 1873.8,
+    "why": [
+     {
+      "edge": "US-041",
+      "in58": "CEG",
+      "outside": "MSFT",
+      "relation": "supplies_to",
+      "published_at": "2024-09-20",
+      "quote": "Constellation signs its largest-ever power purchase agreement with Microsoft, a deal that will restore TMI Unit 1 to service and keep it online for decades; add approximately 835 megawatts of carbon-free energy to the grid",
+      "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827524000058/ceg-202409208kexh991.htm"
+     }
+    ]
+   },
+   "META": {
+    "usd_m": -39.3,
+    "ret_pct": -4.45,
+    "value_usd_m": 883.1,
+    "why": [
+     {
+      "edge": "US-042",
+      "in58": "CEG",
+      "outside": "META",
+      "relation": "supplies_to",
+      "published_at": "2025-08-07",
+      "quote": "Signed 20-year deal with Meta for full output of Clinton Clean Energy Center",
+      "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827525000070/ceg-20250807991.htm"
+     }
+    ]
+   }
+  },
+  "outside_not_held": [
+   "000660",
+   "000660.KS",
+   "005930",
+   "005930.KS",
+   "007660",
+   "009150",
+   "010120",
+   "042700",
+   "062040",
+   "2317.TW",
+   "267260",
+   "298040",
+   "3231.TW",
+   "GFS",
+   "NOK",
+   "OpenAI",
+   "TSM"
+  ],
+  "n_edges_usable": 38
+ },
+ {
+  "date": "2026-09-14",
+  "loss58_usd_m": -594.3,
+  "added_usd_m": 31.6,
+  "expanded_usd_m": -562.7,
+  "ratio": 0.947,
+  "added_value_usd_m": 4685.2,
+  "base_value_usd_m": 11508.6,
+  "ret58_pct": -5.16,
+  "added_ret_pct": 0.67,
+  "rest_ret_pct": 0.64,
+  "spy_pct": -0.45,
+  "n_rest": 582,
+  "added_worse_than_spy": false,
+  "added_worse_than_rest": false,
+  "added": {
+   "AMZN": {
+    "usd_m": -21.0,
+    "ret_pct": -1.26,
+    "value_usd_m": 1666.2,
+    "why": [
+     {
+      "edge": "US-010",
+      "in58": "FN",
+      "outside": "AMZN",
+      "relation": "supplies_to",
+      "published_at": "2026-08-18",
+      "quote": "Total revenues, by percentage, from individual customers representing 10% or more of total revenues in the respective periods were as follows: Years Ended June 26, 2026 June 27, 2025 June 28, 2024 Cisco Systems, Inc. 19.9 % 18.2 % 13.4 % NVIDIA Corporation 16.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1408710/000140871026000028/fn-20260626.htm"
+     }
+    ]
+   },
+   "CRWV": {
+    "usd_m": -0.5,
+    "ret_pct": -6.75,
+    "value_usd_m": 7.5,
+    "why": [
+     {
+      "edge": "US-017",
+      "in58": "NVDA",
+      "outside": "CRWV",
+      "relation": "owns_stake_in",
+      "published_at": "2026-03-02",
+      "quote": "In January 2026, NVIDIA Corporation invested $ 2 billion in the Company's Class A common stock at a purchase price of $ 87.20 per share",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm"
+     },
+     {
+      "edge": "US-023",
+      "in58": "NVDA",
+      "outside": "CRWV",
+      "relation": "contract_counterparty",
+      "published_at": "2026-03-02",
+      "quote": "Master Services Agreement between CoreWeave, Inc. and NVIDIA Corporation, dated April 10, 2023",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm"
+     }
+    ]
+   },
+   "NBIS": {
+    "usd_m": -2.2,
+    "ret_pct": -5.5,
+    "value_usd_m": 40.6,
+    "why": [
+     {
+      "edge": "US-018",
+      "in58": "NVDA",
+      "outside": "NBIS",
+      "relation": "owns_stake_in",
+      "published_at": "2026-08-14",
+      "quote": "NEBIUS GROUP N.V. SHS CLASS A N97284108 328773757 1190476 SH",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000065/information_table.xml"
+     }
+    ]
+   },
+   "SNPS": {
+    "usd_m": -2.5,
+    "ret_pct": -4.01,
+    "value_usd_m": 62.3,
+    "why": [
+     {
+      "edge": "US-020",
+      "in58": "NVDA",
+      "outside": "SNPS",
+      "relation": "owns_stake_in",
+      "published_at": "2026-08-14",
+      "quote": "SYNOPSYS INC COM 871607107 2150823302 4821717 SH",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000065/information_table.xml"
+     }
+    ]
+   },
+   "SPCX": {
+    "usd_m": -2.8,
+    "ret_pct": -2.02,
+    "value_usd_m": 137.1,
+    "why": [
+     {
+      "edge": "US-022",
+      "in58": "NVDA",
+      "outside": "SPCX",
+      "relation": "owns_stake_in",
+      "published_at": "2026-08-14",
+      "quote": "SPACE EXPLORATION TECHN CORP CLASS A COM STK 84615Q103 20975594582 122764805 SH",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000065/information_table.xml"
+     }
+    ]
+   },
+   "RIOT": {
+    "usd_m": -0.2,
+    "ret_pct": -2.42,
+    "value_usd_m": 8.4,
+    "why": [
+     {
+      "edge": "US-031",
+      "in58": "AMD",
+      "outside": "RIOT",
+      "relation": "lessee_of",
+      "published_at": "2026-01-16",
+      "quote": "The signing of a Data Center Lease and Services Agreement (“Data Center Lease”) with Advanced Micro Devices, Inc. (“AMD”), a leading innovator in high-performance computing, graphics and visualization technologies, at the Rockdale Site, which includes an initi",
+      "url": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926004551/riot-20260116xex99d1.htm"
+     }
+    ]
+   },
+   "IREN": {
+    "usd_m": -0.1,
+    "ret_pct": -1.51,
+    "value_usd_m": 6.3,
+    "why": [
+     {
+      "edge": "US-033",
+      "in58": "DELL",
+      "outside": "IREN",
+      "relation": "supplies_to",
+      "published_at": "2025-11-03",
+      "quote": "IREN has also entered into an agreement with Dell Technologies to purchase the GPUs and ancillary equipment",
+      "url": "https://www.sec.gov/Archives/edgar/data/1878848/000114036125040072/ef20058139_ex99-1.htm"
+     }
+    ]
+   },
+   "MSFT": {
+    "usd_m": 37.0,
+    "ret_pct": 1.97,
+    "value_usd_m": 1873.8,
+    "why": [
+     {
+      "edge": "US-041",
+      "in58": "CEG",
+      "outside": "MSFT",
+      "relation": "supplies_to",
+      "published_at": "2024-09-20",
+      "quote": "Constellation signs its largest-ever power purchase agreement with Microsoft, a deal that will restore TMI Unit 1 to service and keep it online for decades; add approximately 835 megawatts of carbon-free energy to the grid",
+      "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827524000058/ceg-202409208kexh991.htm"
+     }
+    ]
+   },
+   "META": {
+    "usd_m": 23.9,
+    "ret_pct": 2.71,
+    "value_usd_m": 883.1,
+    "why": [
+     {
+      "edge": "US-042",
+      "in58": "CEG",
+      "outside": "META",
+      "relation": "supplies_to",
+      "published_at": "2025-08-07",
+      "quote": "Signed 20-year deal with Meta for full output of Clinton Clean Energy Center",
+      "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827525000070/ceg-20250807991.htm"
+     }
+    ]
+   }
+  },
+  "outside_not_held": [
+   "000660",
+   "000660.KS",
+   "005930",
+   "005930.KS",
+   "007660",
+   "009150",
+   "010120",
+   "042700",
+   "062040",
+   "2317.TW",
+   "267260",
+   "298040",
+   "3231.TW",
+   "GFS",
+   "NOK",
+   "OpenAI",
+   "TSM"
+  ],
+  "n_edges_usable": 40
+ },
+ {
+  "date": "2026-10-08",
+  "loss58_usd_m": -364.3,
+  "added_usd_m": -74.6,
+  "expanded_usd_m": -438.8,
+  "ratio": 1.205,
+  "added_value_usd_m": 4685.2,
+  "base_value_usd_m": 11508.6,
+  "ret58_pct": -3.17,
+  "added_ret_pct": -1.59,
+  "rest_ret_pct": 0.62,
+  "spy_pct": -0.42,
+  "n_rest": 583,
+  "added_worse_than_spy": true,
+  "added_worse_than_rest": true,
+  "added": {
+   "AMZN": {
+    "usd_m": -37.6,
+    "ret_pct": -2.25,
+    "value_usd_m": 1666.2,
+    "why": [
+     {
+      "edge": "US-010",
+      "in58": "FN",
+      "outside": "AMZN",
+      "relation": "supplies_to",
+      "published_at": "2026-08-18",
+      "quote": "Total revenues, by percentage, from individual customers representing 10% or more of total revenues in the respective periods were as follows: Years Ended June 26, 2026 June 27, 2025 June 28, 2024 Cisco Systems, Inc. 19.9 % 18.2 % 13.4 % NVIDIA Corporation 16.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1408710/000140871026000028/fn-20260626.htm"
+     }
+    ]
+   },
+   "CRWV": {
+    "usd_m": -0.6,
+    "ret_pct": -7.77,
+    "value_usd_m": 7.5,
+    "why": [
+     {
+      "edge": "US-017",
+      "in58": "NVDA",
+      "outside": "CRWV",
+      "relation": "owns_stake_in",
+      "published_at": "2026-03-02",
+      "quote": "In January 2026, NVIDIA Corporation invested $ 2 billion in the Company's Class A common stock at a purchase price of $ 87.20 per share",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm"
+     },
+     {
+      "edge": "US-023",
+      "in58": "NVDA",
+      "outside": "CRWV",
+      "relation": "contract_counterparty",
+      "published_at": "2026-03-02",
+      "quote": "Master Services Agreement between CoreWeave, Inc. and NVIDIA Corporation, dated April 10, 2023",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm"
+     }
+    ]
+   },
+   "NBIS": {
+    "usd_m": -3.0,
+    "ret_pct": -7.35,
+    "value_usd_m": 40.6,
+    "why": [
+     {
+      "edge": "US-018",
+      "in58": "NVDA",
+      "outside": "NBIS",
+      "relation": "owns_stake_in",
+      "published_at": "2026-08-14",
+      "quote": "NEBIUS GROUP N.V. SHS CLASS A N97284108 328773757 1190476 SH",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000065/information_table.xml"
+     }
+    ]
+   },
+   "SNPS": {
+    "usd_m": -0.6,
+    "ret_pct": -0.98,
+    "value_usd_m": 62.3,
+    "why": [
+     {
+      "edge": "US-020",
+      "in58": "NVDA",
+      "outside": "SNPS",
+      "relation": "owns_stake_in",
+      "published_at": "2026-08-14",
+      "quote": "SYNOPSYS INC COM 871607107 2150823302 4821717 SH",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000065/information_table.xml"
+     }
+    ]
+   },
+   "SPCX": {
+    "usd_m": -5.7,
+    "ret_pct": -4.19,
+    "value_usd_m": 137.1,
+    "why": [
+     {
+      "edge": "US-022",
+      "in58": "NVDA",
+      "outside": "SPCX",
+      "relation": "owns_stake_in",
+      "published_at": "2026-08-14",
+      "quote": "SPACE EXPLORATION TECHN CORP CLASS A COM STK 84615Q103 20975594582 122764805 SH",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000065/information_table.xml"
+     }
+    ]
+   },
+   "RIOT": {
+    "usd_m": -0.8,
+    "ret_pct": -9.17,
+    "value_usd_m": 8.4,
+    "why": [
+     {
+      "edge": "US-031",
+      "in58": "AMD",
+      "outside": "RIOT",
+      "relation": "lessee_of",
+      "published_at": "2026-01-16",
+      "quote": "The signing of a Data Center Lease and Services Agreement (“Data Center Lease”) with Advanced Micro Devices, Inc. (“AMD”), a leading innovator in high-performance computing, graphics and visualization technologies, at the Rockdale Site, which includes an initi",
+      "url": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926004551/riot-20260116xex99d1.htm"
+     }
+    ]
+   },
+   "IREN": {
+    "usd_m": -0.5,
+    "ret_pct": -7.7,
+    "value_usd_m": 6.3,
+    "why": [
+     {
+      "edge": "US-033",
+      "in58": "DELL",
+      "outside": "IREN",
+      "relation": "supplies_to",
+      "published_at": "2025-11-03",
+      "quote": "IREN has also entered into an agreement with Dell Technologies to purchase the GPUs and ancillary equipment",
+      "url": "https://www.sec.gov/Archives/edgar/data/1878848/000114036125040072/ef20058139_ex99-1.htm"
+     }
+    ]
+   },
+   "MSFT": {
+    "usd_m": -25.3,
+    "ret_pct": -1.35,
+    "value_usd_m": 1873.8,
+    "why": [
+     {
+      "edge": "US-041",
+      "in58": "CEG",
+      "outside": "MSFT",
+      "relation": "supplies_to",
+      "published_at": "2024-09-20",
+      "quote": "Constellation signs its largest-ever power purchase agreement with Microsoft, a deal that will restore TMI Unit 1 to service and keep it online for decades; add approximately 835 megawatts of carbon-free energy to the grid",
+      "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827524000058/ceg-202409208kexh991.htm"
+     }
+    ]
+   },
+   "META": {
+    "usd_m": -0.5,
+    "ret_pct": -0.06,
+    "value_usd_m": 883.1,
+    "why": [
+     {
+      "edge": "US-042",
+      "in58": "CEG",
+      "outside": "META",
+      "relation": "supplies_to",
+      "published_at": "2025-08-07",
+      "quote": "Signed 20-year deal with Meta for full output of Clinton Clean Energy Center",
+      "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827525000070/ceg-20250807991.htm"
+     }
+    ]
+   }
+  },
+  "outside_not_held": [
+   "000660",
+   "000660.KS",
+   "005930",
+   "005930.KS",
+   "007660",
+   "009150",
+   "010120",
+   "042700",
+   "062040",
+   "2317.TW",
+   "267260",
+   "298040",
+   "3231.TW",
+   "GFS",
+   "NOK",
+   "OpenAI",
+   "TSM"
+  ],
+  "n_edges_usable": 40
+ },
+ {
+  "date": "2026-10-22",
+  "loss58_usd_m": -733.7,
+  "added_usd_m": -200.9,
+  "expanded_usd_m": -934.6,
+  "ratio": 1.274,
+  "added_value_usd_m": 4685.2,
+  "base_value_usd_m": 11508.6,
+  "ret58_pct": -6.38,
+  "added_ret_pct": -4.29,
+  "rest_ret_pct": 0.5,
+  "spy_pct": -1.18,
+  "n_rest": 583,
+  "added_worse_than_spy": true,
+  "added_worse_than_rest": true,
+  "added": {
+   "AMZN": {
+    "usd_m": -76.1,
+    "ret_pct": -4.57,
+    "value_usd_m": 1666.2,
+    "why": [
+     {
+      "edge": "US-010",
+      "in58": "FN",
+      "outside": "AMZN",
+      "relation": "supplies_to",
+      "published_at": "2026-08-18",
+      "quote": "Total revenues, by percentage, from individual customers representing 10% or more of total revenues in the respective periods were as follows: Years Ended June 26, 2026 June 27, 2025 June 28, 2024 Cisco Systems, Inc. 19.9 % 18.2 % 13.4 % NVIDIA Corporation 16.",
+      "url": "https://www.sec.gov/Archives/edgar/data/1408710/000140871026000028/fn-20260626.htm"
+     }
+    ]
+   },
+   "CRWV": {
+    "usd_m": -0.8,
+    "ret_pct": -10.06,
+    "value_usd_m": 7.5,
+    "why": [
+     {
+      "edge": "US-017",
+      "in58": "NVDA",
+      "outside": "CRWV",
+      "relation": "owns_stake_in",
+      "published_at": "2026-03-02",
+      "quote": "In January 2026, NVIDIA Corporation invested $ 2 billion in the Company's Class A common stock at a purchase price of $ 87.20 per share",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm"
+     },
+     {
+      "edge": "US-023",
+      "in58": "NVDA",
+      "outside": "CRWV",
+      "relation": "contract_counterparty",
+      "published_at": "2026-03-02",
+      "quote": "Master Services Agreement between CoreWeave, Inc. and NVIDIA Corporation, dated April 10, 2023",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm"
+     }
+    ]
+   },
+   "NBIS": {
+    "usd_m": -2.9,
+    "ret_pct": -7.23,
+    "value_usd_m": 40.6,
+    "why": [
+     {
+      "edge": "US-018",
+      "in58": "NVDA",
+      "outside": "NBIS",
+      "relation": "owns_stake_in",
+      "published_at": "2026-08-14",
+      "quote": "NEBIUS GROUP N.V. SHS CLASS A N97284108 328773757 1190476 SH",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000065/information_table.xml"
+     }
+    ]
+   },
+   "SNPS": {
+    "usd_m": -4.0,
+    "ret_pct": -6.36,
+    "value_usd_m": 62.3,
+    "why": [
+     {
+      "edge": "US-020",
+      "in58": "NVDA",
+      "outside": "SNPS",
+      "relation": "owns_stake_in",
+      "published_at": "2026-08-14",
+      "quote": "SYNOPSYS INC COM 871607107 2150823302 4821717 SH",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000065/information_table.xml"
+     }
+    ]
+   },
+   "SPCX": {
+    "usd_m": -12.5,
+    "ret_pct": -9.14,
+    "value_usd_m": 137.1,
+    "why": [
+     {
+      "edge": "US-022",
+      "in58": "NVDA",
+      "outside": "SPCX",
+      "relation": "owns_stake_in",
+      "published_at": "2026-08-14",
+      "quote": "SPACE EXPLORATION TECHN CORP CLASS A COM STK 84615Q103 20975594582 122764805 SH",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000065/information_table.xml"
+     }
+    ]
+   },
+   "RIOT": {
+    "usd_m": -0.7,
+    "ret_pct": -8.06,
+    "value_usd_m": 8.4,
+    "why": [
+     {
+      "edge": "US-031",
+      "in58": "AMD",
+      "outside": "RIOT",
+      "relation": "lessee_of",
+      "published_at": "2026-01-16",
+      "quote": "The signing of a Data Center Lease and Services Agreement (“Data Center Lease”) with Advanced Micro Devices, Inc. (“AMD”), a leading innovator in high-performance computing, graphics and visualization technologies, at the Rockdale Site, which includes an initi",
+      "url": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926004551/riot-20260116xex99d1.htm"
+     }
+    ]
+   },
+   "IREN": {
+    "usd_m": -0.5,
+    "ret_pct": -8.37,
+    "value_usd_m": 6.3,
+    "why": [
+     {
+      "edge": "US-033",
+      "in58": "DELL",
+      "outside": "IREN",
+      "relation": "supplies_to",
+      "published_at": "2025-11-03",
+      "quote": "IREN has also entered into an agreement with Dell Technologies to purchase the GPUs and ancillary equipment",
+      "url": "https://www.sec.gov/Archives/edgar/data/1878848/000114036125040072/ef20058139_ex99-1.htm"
+     }
+    ]
+   },
+   "MSFT": {
+    "usd_m": -41.7,
+    "ret_pct": -2.23,
+    "value_usd_m": 1873.8,
+    "why": [
+     {
+      "edge": "US-041",
+      "in58": "CEG",
+      "outside": "MSFT",
+      "relation": "supplies_to",
+      "published_at": "2024-09-20",
+      "quote": "Constellation signs its largest-ever power purchase agreement with Microsoft, a deal that will restore TMI Unit 1 to service and keep it online for decades; add approximately 835 megawatts of carbon-free energy to the grid",
+      "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827524000058/ceg-202409208kexh991.htm"
+     }
+    ]
+   },
+   "META": {
+    "usd_m": -61.6,
+    "ret_pct": -6.98,
+    "value_usd_m": 883.1,
+    "why": [
+     {
+      "edge": "US-042",
+      "in58": "CEG",
+      "outside": "META",
+      "relation": "supplies_to",
+      "published_at": "2025-08-07",
+      "quote": "Signed 20-year deal with Meta for full output of Clinton Clean Energy Center",
+      "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827525000070/ceg-20250807991.htm"
+     }
+    ]
+   }
+  },
+  "outside_not_held": [
+   "000660",
+   "000660.KS",
+   "005930",
+   "005930.KS",
+   "007660",
+   "009150",
+   "010120",
+   "042700",
+   "062040",
+   "2317.TW",
+   "267260",
+   "298040",
+   "3231.TW",
+   "GFS",
+   "NOK",
+   "OpenAI",
+   "TSM"
+  ],
+  "n_edges_usable": 40
+ }
+]

@@ -1,0 +1,5809 @@
+{
+ "pending": [],
+ "truth": {
+  "file": "data/agent/kic_agent/days.json",
+  "threshold": 0.275,
+  "spread_yes": 20,
+  "n": 25
+ },
+ "leak": {
+  "해석1": {
+   "answer": [],
+   "side": [
+    "2026-08-18",
+    "2026-10-30"
+   ]
+  },
+  "해석2": {
+   "answer": [
+    "2025-01-27",
+    "2025-04-09",
+    "2025-08-29",
+    "2025-10-14",
+    "2025-12-12",
+    "2026-02-04",
+    "2026-06-05"
+   ],
+   "side": [
+    "2026-06-23",
+    "2026-08-18",
+    "2026-09-14",
+    "2026-10-08",
+    "2026-10-22"
+   ]
+  },
+  "점검2(해석2 를 점검)": {
+   "answer": [
+    "2025-04-09"
+   ],
+   "side": [
+    "2026-06-23",
+    "2026-07-24",
+    "2026-08-18",
+    "2026-09-14",
+    "2026-10-08",
+    "2026-10-22",
+    "2026-10-30"
+   ]
+  },
+  "점검1(해석1 을 점검)": {
+   "answer": [
+    "2025-01-27"
+   ],
+   "side": [
+    "2026-07-24",
+    "2026-08-18",
+    "2026-10-30"
+   ]
+  }
+ },
+ "s1": {
+  "해석1": {
+   "가": {
+    "개체": {
+     "days": 25,
+     "confirmed": 15,
+     "right": 13,
+     "wrong": 2,
+     "handed": 10,
+     "wrong_days": [
+      "2025-04-09",
+      "2026-06-05"
+     ]
+    },
+    "늘 번진다": {
+     "days": 25,
+     "confirmed": 25,
+     "right": 20,
+     "wrong": 5,
+     "handed": 0,
+     "wrong_days": [
+      "2025-10-14",
+      "2026-06-05",
+      "2026-06-16",
+      "2026-08-05",
+      "2026-10-30"
+     ]
+    },
+    "서버·부품 규칙": {
+     "days": 25,
+     "confirmed": 25,
+     "right": 21,
+     "wrong": 4,
+     "handed": 0,
+     "wrong_days": [
+      "2025-04-09",
+      "2026-06-05",
+      "2026-06-16",
+      "2026-10-30"
+     ]
+    }
+   },
+   "나": {
+    "개체": {
+     "days": 25,
+     "confirmed": 15,
+     "right": 13,
+     "wrong": 2,
+     "handed": 10,
+     "wrong_days": [
+      "2025-04-09",
+      "2026-06-05"
+     ]
+    },
+    "늘 번진다": {
+     "days": 25,
+     "confirmed": 25,
+     "right": 20,
+     "wrong": 5,
+     "handed": 0,
+     "wrong_days": [
+      "2025-10-14",
+      "2026-06-05",
+      "2026-06-16",
+      "2026-08-05",
+      "2026-10-30"
+     ]
+    },
+    "서버·부품 규칙": {
+     "days": 25,
+     "confirmed": 25,
+     "right": 21,
+     "wrong": 4,
+     "handed": 0,
+     "wrong_days": [
+      "2025-04-09",
+      "2026-06-05",
+      "2026-06-16",
+      "2026-10-30"
+     ]
+    }
+   },
+   "다": {
+    "개체": {
+     "days": 23,
+     "confirmed": 14,
+     "right": 12,
+     "wrong": 2,
+     "handed": 9,
+     "wrong_days": [
+      "2025-04-09",
+      "2026-06-05"
+     ]
+    },
+    "늘 번진다": {
+     "days": 23,
+     "confirmed": 23,
+     "right": 19,
+     "wrong": 4,
+     "handed": 0,
+     "wrong_days": [
+      "2025-10-14",
+      "2026-06-05",
+      "2026-06-16",
+      "2026-08-05"
+     ]
+    },
+    "서버·부품 규칙": {
+     "days": 23,
+     "confirmed": 23,
+     "right": 20,
+     "wrong": 3,
+     "handed": 0,
+     "wrong_days": [
+      "2025-04-09",
+      "2026-06-05",
+      "2026-06-16"
+     ]
+    }
+   }
+  },
+  "해석2": {
+   "가": {
+    "개체": {
+     "days": 25,
+     "confirmed": 16,
+     "right": 15,
+     "wrong": 1,
+     "handed": 9,
+     "wrong_days": [
+      "2026-06-05"
+     ]
+    },
+    "늘 번진다": {
+     "days": 25,
+     "confirmed": 25,
+     "right": 20,
+     "wrong": 5,
+     "handed": 0,
+     "wrong_days": [
+      "2025-10-14",
+      "2026-06-05",
+      "2026-06-16",
+      "2026-08-05",
+      "2026-10-30"
+     ]
+    },
+    "서버·부품 규칙": {
+     "days": 25,
+     "confirmed": 25,
+     "right": 21,
+     "wrong": 4,
+     "handed": 0,
+     "wrong_days": [
+      "2025-04-09",
+      "2026-06-05",
+      "2026-06-16",
+      "2026-10-30"
+     ]
+    }
+   },
+   "나": {
+    "개체": {
+     "days": 18,
+     "confirmed": 11,
+     "right": 11,
+     "wrong": 0,
+     "handed": 7,
+     "wrong_days": []
+    },
+    "늘 번진다": {
+     "days": 18,
+     "confirmed": 18,
+     "right": 15,
+     "wrong": 3,
+     "handed": 0,
+     "wrong_days": [
+      "2026-06-16",
+      "2026-08-05",
+      "2026-10-30"
+     ]
+    },
+    "서버·부품 규칙": {
+     "days": 18,
+     "confirmed": 18,
+     "right": 16,
+     "wrong": 2,
+     "handed": 0,
+     "wrong_days": [
+      "2026-06-16",
+      "2026-10-30"
+     ]
+    }
+   },
+   "다": {
+    "개체": {
+     "days": 13,
+     "confirmed": 6,
+     "right": 6,
+     "wrong": 0,
+     "handed": 7,
+     "wrong_days": []
+    },
+    "늘 번진다": {
+     "days": 13,
+     "confirmed": 13,
+     "right": 10,
+     "wrong": 3,
+     "handed": 0,
+     "wrong_days": [
+      "2026-06-16",
+      "2026-08-05",
+      "2026-10-30"
+     ]
+    },
+    "서버·부품 규칙": {
+     "days": 13,
+     "confirmed": 13,
+     "right": 11,
+     "wrong": 2,
+     "handed": 0,
+     "wrong_days": [
+      "2026-06-16",
+      "2026-10-30"
+     ]
+    }
+   }
+  },
+  "점검2(해석2 를 점검)": {
+   "가": {
+    "개체": {
+     "days": 19,
+     "confirmed": 10,
+     "right": 10,
+     "wrong": 0,
+     "handed": 9,
+     "wrong_days": []
+    },
+    "늘 번진다": {
+     "days": 19,
+     "confirmed": 19,
+     "right": 16,
+     "wrong": 3,
+     "handed": 0,
+     "wrong_days": [
+      "2026-06-16",
+      "2026-08-05",
+      "2026-10-30"
+     ]
+    },
+    "서버·부품 규칙": {
+     "days": 19,
+     "confirmed": 19,
+     "right": 16,
+     "wrong": 3,
+     "handed": 0,
+     "wrong_days": [
+      "2025-04-09",
+      "2026-06-16",
+      "2026-10-30"
+     ]
+    },
+    "점검 전 해석 판정": {
+     "days": 19,
+     "confirmed": 11,
+     "right": 11,
+     "wrong": 0,
+     "handed": 8,
+     "wrong_days": []
+    }
+   },
+   "나": {
+    "개체": {
+     "days": 18,
+     "confirmed": 10,
+     "right": 10,
+     "wrong": 0,
+     "handed": 8,
+     "wrong_days": []
+    },
+    "늘 번진다": {
+     "days": 18,
+     "confirmed": 18,
+     "right": 15,
+     "wrong": 3,
+     "handed": 0,
+     "wrong_days": [
+      "2026-06-16",
+      "2026-08-05",
+      "2026-10-30"
+     ]
+    },
+    "서버·부품 규칙": {
+     "days": 18,
+     "confirmed": 18,
+     "right": 16,
+     "wrong": 2,
+     "handed": 0,
+     "wrong_days": [
+      "2026-06-16",
+      "2026-10-30"
+     ]
+    },
+    "점검 전 해석 판정": {
+     "days": 18,
+     "confirmed": 11,
+     "right": 11,
+     "wrong": 0,
+     "handed": 7,
+     "wrong_days": []
+    }
+   },
+   "다": {
+    "개체": {
+     "days": 11,
+     "confirmed": 5,
+     "right": 5,
+     "wrong": 0,
+     "handed": 6,
+     "wrong_days": []
+    },
+    "늘 번진다": {
+     "days": 11,
+     "confirmed": 11,
+     "right": 9,
+     "wrong": 2,
+     "handed": 0,
+     "wrong_days": [
+      "2026-06-16",
+      "2026-08-05"
+     ]
+    },
+    "서버·부품 규칙": {
+     "days": 11,
+     "confirmed": 11,
+     "right": 10,
+     "wrong": 1,
+     "handed": 0,
+     "wrong_days": [
+      "2026-06-16"
+     ]
+    },
+    "점검 전 해석 판정": {
+     "days": 11,
+     "confirmed": 6,
+     "right": 6,
+     "wrong": 0,
+     "handed": 5,
+     "wrong_days": []
+    }
+   }
+  },
+  "점검1(해석1 을 점검)": {
+   "가": {
+    "개체": {
+     "days": 25,
+     "confirmed": 8,
+     "right": 7,
+     "wrong": 1,
+     "handed": 17,
+     "wrong_days": [
+      "2025-04-09"
+     ]
+    },
+    "늘 번진다": {
+     "days": 25,
+     "confirmed": 25,
+     "right": 20,
+     "wrong": 5,
+     "handed": 0,
+     "wrong_days": [
+      "2025-10-14",
+      "2026-06-05",
+      "2026-06-16",
+      "2026-08-05",
+      "2026-10-30"
+     ]
+    },
+    "서버·부품 규칙": {
+     "days": 25,
+     "confirmed": 25,
+     "right": 21,
+     "wrong": 4,
+     "handed": 0,
+     "wrong_days": [
+      "2025-04-09",
+      "2026-06-05",
+      "2026-06-16",
+      "2026-10-30"
+     ]
+    },
+    "점검 전 해석 판정": {
+     "days": 25,
+     "confirmed": 15,
+     "right": 13,
+     "wrong": 2,
+     "handed": 10,
+     "wrong_days": [
+      "2025-04-09",
+      "2026-06-05"
+     ]
+    }
+   },
+   "나": {
+    "개체": {
+     "days": 24,
+     "confirmed": 7,
+     "right": 6,
+     "wrong": 1,
+     "handed": 17,
+     "wrong_days": [
+      "2025-04-09"
+     ]
+    },
+    "늘 번진다": {
+     "days": 24,
+     "confirmed": 24,
+     "right": 19,
+     "wrong": 5,
+     "handed": 0,
+     "wrong_days": [
+      "2025-10-14",
+      "2026-06-05",
+      "2026-06-16",
+      "2026-08-05",
+      "2026-10-30"
+     ]
+    },
+    "서버·부품 규칙": {
+     "days": 24,
+     "confirmed": 24,
+     "right": 20,
+     "wrong": 4,
+     "handed": 0,
+     "wrong_days": [
+      "2025-04-09",
+      "2026-06-05",
+      "2026-06-16",
+      "2026-10-30"
+     ]
+    },
+    "점검 전 해석 판정": {
+     "days": 24,
+     "confirmed": 14,
+     "right": 12,
+     "wrong": 2,
+     "handed": 10,
+     "wrong_days": [
+      "2025-04-09",
+      "2026-06-05"
+     ]
+    }
+   },
+   "다": {
+    "개체": {
+     "days": 21,
+     "confirmed": 7,
+     "right": 6,
+     "wrong": 1,
+     "handed": 14,
+     "wrong_days": [
+      "2025-04-09"
+     ]
+    },
+    "늘 번진다": {
+     "days": 21,
+     "confirmed": 21,
+     "right": 17,
+     "wrong": 4,
+     "handed": 0,
+     "wrong_days": [
+      "2025-10-14",
+      "2026-06-05",
+      "2026-06-16",
+      "2026-08-05"
+     ]
+    },
+    "서버·부품 규칙": {
+     "days": 21,
+     "confirmed": 21,
+     "right": 18,
+     "wrong": 3,
+     "handed": 0,
+     "wrong_days": [
+      "2025-04-09",
+      "2026-06-05",
+      "2026-06-16"
+     ]
+    },
+    "점검 전 해석 판정": {
+     "days": 21,
+     "confirmed": 13,
+     "right": 11,
+     "wrong": 2,
+     "handed": 8,
+     "wrong_days": [
+      "2025-04-09",
+      "2026-06-05"
+     ]
+    }
+   }
+  }
+ },
+ "day": {
+  "2025-01-27": {
+   "truth": "번진다",
+   "ratio": 1.08,
+   "power_ex_mkt_pct": -16.71,
+   "chip_ex_mkt_pct": -15.45,
+   "power_raw_pct": -16.87,
+   "spy_pct": -1.41,
+   "server_vs_mkt_pp": -9.24,
+   "act19_e8": -2.227,
+   "gap49_mkt_e8": -3.542,
+   "gap49_own_e8": -2.41,
+   "gap638_m3_e8": null,
+   "in46": false,
+   "left_own_e8": -1.8910017993107224,
+   "left_smh_e8": -1.5131914026998627,
+   "left_rule_e8": -1.8910017993107224,
+   "server_rule": "번진다"
+  },
+  "2025-04-09": {
+   "truth": "번진다",
+   "ratio": 0.84,
+   "power_ex_mkt_pct": -4.51,
+   "chip_ex_mkt_pct": -5.34,
+   "power_raw_pct": 12.19,
+   "spy_pct": 10.5,
+   "server_vs_mkt_pp": 3.46,
+   "act19_e8": 2.163,
+   "gap49_mkt_e8": -2.085,
+   "gap49_own_e8": -1.44,
+   "gap638_m3_e8": null,
+   "in46": false,
+   "left_own_e8": -0.31050905398968875,
+   "left_smh_e8": 0.008670643015935123,
+   "left_rule_e8": 0.008670643015935123,
+   "server_rule": "안 번진다"
+  },
+  "2025-08-29": {
+   "truth": "번진다",
+   "ratio": 0.38,
+   "power_ex_mkt_pct": -1.6,
+   "chip_ex_mkt_pct": -4.16,
+   "power_raw_pct": -2.52,
+   "spy_pct": -0.6,
+   "server_vs_mkt_pp": -2.47,
+   "act19_e8": -0.504,
+   "gap49_mkt_e8": -0.851,
+   "gap49_own_e8": -0.471,
+   "gap638_m3_e8": null,
+   "in46": false,
+   "left_own_e8": -0.28221506519754935,
+   "left_smh_e8": -0.11670528574997165,
+   "left_rule_e8": -0.11670528574997165,
+   "server_rule": "번진다"
+  },
+  "2025-10-14": {
+   "truth": "안 번진다",
+   "ratio": -0.16,
+   "power_ex_mkt_pct": 0.93,
+   "chip_ex_mkt_pct": -5.7,
+   "power_raw_pct": 0.75,
+   "spy_pct": -0.12,
+   "server_vs_mkt_pp": -1.0,
+   "act19_e8": 0.186,
+   "gap49_mkt_e8": -0.011,
+   "gap49_own_e8": 0.146,
+   "gap638_m3_e8": 1.12,
+   "in46": true,
+   "left_own_e8": -0.11943914186685704,
+   "left_smh_e8": 0.4430424441508888,
+   "left_rule_e8": 0.4430424441508888,
+   "server_rule": "안 번진다"
+  },
+  "2025-12-12": {
+   "truth": "번진다",
+   "ratio": 0.81,
+   "power_ex_mkt_pct": -4.09,
+   "chip_ex_mkt_pct": -5.04,
+   "power_raw_pct": -5.6,
+   "spy_pct": -1.08,
+   "server_vs_mkt_pp": -5.34,
+   "act19_e8": -0.983,
+   "gap49_mkt_e8": -1.729,
+   "gap49_own_e8": -1.152,
+   "gap638_m3_e8": 0.89,
+   "in46": true,
+   "left_own_e8": -0.8009797095128715,
+   "left_smh_e8": -0.31217010130898093,
+   "left_rule_e8": -0.31217010130898093,
+   "server_rule": "번진다"
+  },
+  "2026-02-04": {
+   "truth": "번진다",
+   "ratio": 0.61,
+   "power_ex_mkt_pct": -4.35,
+   "chip_ex_mkt_pct": -7.19,
+   "power_raw_pct": -4.88,
+   "spy_pct": -0.48,
+   "server_vs_mkt_pp": -1.49,
+   "act19_e8": -0.661,
+   "gap49_mkt_e8": -1.759,
+   "gap49_own_e8": -1.041,
+   "gap638_m3_e8": -1.51,
+   "in46": true,
+   "left_own_e8": -0.7470004852936021,
+   "left_smh_e8": -0.10612312641280644,
+   "left_rule_e8": -0.10612312641280644,
+   "server_rule": "번진다"
+  },
+  "2026-03-03": {
+   "truth": "번진다",
+   "ratio": 0.55,
+   "power_ex_mkt_pct": -2.52,
+   "chip_ex_mkt_pct": -4.61,
+   "power_raw_pct": -3.84,
+   "spy_pct": -0.88,
+   "server_vs_mkt_pp": -3.18,
+   "act19_e8": -0.688,
+   "gap49_mkt_e8": -1.481,
+   "gap49_own_e8": -1.063,
+   "gap638_m3_e8": -1.19,
+   "in46": true,
+   "left_own_e8": -0.1970526726982232,
+   "left_smh_e8": -0.1513766692937205,
+   "left_rule_e8": -0.1513766692937205,
+   "server_rule": "번진다"
+  },
+  "2026-03-30": {
+   "truth": "번진다",
+   "ratio": 0.73,
+   "power_ex_mkt_pct": -4.07,
+   "chip_ex_mkt_pct": -5.58,
+   "power_raw_pct": -4.47,
+   "spy_pct": -0.33,
+   "server_vs_mkt_pp": -4.78,
+   "act19_e8": -0.78,
+   "gap49_mkt_e8": -1.964,
+   "gap49_own_e8": -1.066,
+   "gap638_m3_e8": -0.51,
+   "in46": true,
+   "left_own_e8": -0.3912879371951398,
+   "left_smh_e8": -0.33525546909150017,
+   "left_rule_e8": -0.33525546909150017,
+   "server_rule": "번진다"
+  },
+  "2026-05-18": {
+   "truth": "번진다",
+   "ratio": 0.88,
+   "power_ex_mkt_pct": -3.95,
+   "chip_ex_mkt_pct": -4.47,
+   "power_raw_pct": -3.95,
+   "spy_pct": -0.07,
+   "server_vs_mkt_pp": -2.79,
+   "act19_e8": -0.734,
+   "gap49_mkt_e8": -1.617,
+   "gap49_own_e8": -1.087,
+   "gap638_m3_e8": 0.06,
+   "in46": true,
+   "left_own_e8": -0.6678640214966323,
+   "left_smh_e8": -0.48493108887941466,
+   "left_rule_e8": -0.6678640214966323,
+   "server_rule": "번진다"
+  },
+  "2026-06-05": {
+   "truth": "안 번진다",
+   "ratio": -0.03,
+   "power_ex_mkt_pct": 0.14,
+   "chip_ex_mkt_pct": -4.81,
+   "power_raw_pct": -3.94,
+   "spy_pct": -2.58,
+   "server_vs_mkt_pp": -5.09,
+   "act19_e8": -0.736,
+   "gap49_mkt_e8": -0.798,
+   "gap49_own_e8": 0.388,
+   "gap638_m3_e8": 2.6,
+   "in46": true,
+   "left_own_e8": -0.43194553876303093,
+   "left_smh_e8": 0.523181137150429,
+   "left_rule_e8": -0.43194553876303093,
+   "server_rule": "번진다"
+  },
+  "2026-06-16": {
+   "truth": "안 번진다",
+   "ratio": -0.24,
+   "power_ex_mkt_pct": 1.34,
+   "chip_ex_mkt_pct": -5.5,
+   "power_raw_pct": 0.4,
+   "spy_pct": -0.6,
+   "server_vs_mkt_pp": -1.92,
+   "act19_e8": 0.052,
+   "gap49_mkt_e8": -0.158,
+   "gap49_own_e8": 0.443,
+   "gap638_m3_e8": 0.91,
+   "in46": true,
+   "left_own_e8": -0.13983354959261723,
+   "left_smh_e8": 0.6887923235466545,
+   "left_rule_e8": -0.13983354959261723,
+   "server_rule": "번진다"
+  },
+  "2026-06-23": {
+   "truth": "번진다",
+   "ratio": 0.48,
+   "power_ex_mkt_pct": -2.42,
+   "chip_ex_mkt_pct": -5.01,
+   "power_raw_pct": -4.61,
+   "spy_pct": -1.45,
+   "server_vs_mkt_pp": -2.52,
+   "act19_e8": -0.978,
+   "gap49_mkt_e8": -1.317,
+   "gap49_own_e8": -0.199,
+   "gap638_m3_e8": 2.35,
+   "in46": true,
+   "left_own_e8": -0.4662049684220214,
+   "left_smh_e8": -0.07428811484020949,
+   "left_rule_e8": -0.4662049684220214,
+   "server_rule": "번진다"
+  },
+  "2026-07-01": {
+   "truth": "번진다",
+   "ratio": 0.61,
+   "power_ex_mkt_pct": -4.07,
+   "chip_ex_mkt_pct": -6.64,
+   "power_raw_pct": -4.17,
+   "spy_pct": -0.14,
+   "server_vs_mkt_pp": -3.23,
+   "act19_e8": -0.84,
+   "gap49_mkt_e8": -2.601,
+   "gap49_own_e8": -1.141,
+   "gap638_m3_e8": 0.78,
+   "in46": true,
+   "left_own_e8": -0.512105895691671,
+   "left_smh_e8": -0.12670544154916494,
+   "left_rule_e8": -0.512105895691671,
+   "server_rule": "번진다"
+  },
+  "2026-07-02": {
+   "truth": "번진다",
+   "ratio": 0.49,
+   "power_ex_mkt_pct": -2.77,
+   "chip_ex_mkt_pct": -5.66,
+   "power_raw_pct": -2.9,
+   "spy_pct": -0.13,
+   "server_vs_mkt_pp": -6.14,
+   "act19_e8": -0.544,
+   "gap49_mkt_e8": -2.727,
+   "gap49_own_e8": -1.647,
+   "gap638_m3_e8": 0.36,
+   "in46": true,
+   "left_own_e8": -0.7062523276544431,
+   "left_smh_e8": 0.05816347632622063,
+   "left_rule_e8": -0.7062523276544431,
+   "server_rule": "번진다"
+  },
+  "2026-07-07": {
+   "truth": "번진다",
+   "ratio": 0.64,
+   "power_ex_mkt_pct": -3.05,
+   "chip_ex_mkt_pct": -4.73,
+   "power_raw_pct": -3.72,
+   "spy_pct": -0.48,
+   "server_vs_mkt_pp": -2.39,
+   "act19_e8": -0.681,
+   "gap49_mkt_e8": -1.621,
+   "gap49_own_e8": -0.487,
+   "gap638_m3_e8": 0.58,
+   "in46": true,
+   "left_own_e8": -0.2719442363383818,
+   "left_smh_e8": -0.17900767102009238,
+   "left_rule_e8": -0.17900767102009238,
+   "server_rule": "번진다"
+  },
+  "2026-07-15": {
+   "truth": "번진다",
+   "ratio": 0.38,
+   "power_ex_mkt_pct": -1.69,
+   "chip_ex_mkt_pct": -4.4,
+   "power_raw_pct": -1.05,
+   "spy_pct": 0.4,
+   "server_vs_mkt_pp": -4.71,
+   "act19_e8": -0.219,
+   "gap49_mkt_e8": -1.838,
+   "gap49_own_e8": -0.762,
+   "gap638_m3_e8": 0.7,
+   "in46": true,
+   "left_own_e8": -0.1143016984454618,
+   "left_smh_e8": -0.007200109826836772,
+   "left_rule_e8": -0.007200109826836772,
+   "server_rule": "번진다"
+  },
+  "2026-07-16": {
+   "truth": "번진다",
+   "ratio": 0.58,
+   "power_ex_mkt_pct": -2.97,
+   "chip_ex_mkt_pct": -5.09,
+   "power_raw_pct": -3.72,
+   "spy_pct": -0.54,
+   "server_vs_mkt_pp": -4.15,
+   "act19_e8": -0.632,
+   "gap49_mkt_e8": -1.374,
+   "gap49_own_e8": -0.819,
+   "gap638_m3_e8": -0.08,
+   "in46": true,
+   "left_own_e8": -0.6775542889592961,
+   "left_smh_e8": -0.13942595839907862,
+   "left_rule_e8": -0.13942595839907862,
+   "server_rule": "번진다"
+  },
+  "2026-07-24": {
+   "truth": "번진다",
+   "ratio": 0.48,
+   "power_ex_mkt_pct": -3.45,
+   "chip_ex_mkt_pct": -7.21,
+   "power_raw_pct": -3.16,
+   "spy_pct": 0.1,
+   "server_vs_mkt_pp": -3.16,
+   "act19_e8": -0.486,
+   "gap49_mkt_e8": -1.659,
+   "gap49_own_e8": -0.932,
+   "gap638_m3_e8": -0.8,
+   "in46": true,
+   "left_own_e8": -0.6094738565469445,
+   "left_smh_e8": -0.05323919443930469,
+   "left_rule_e8": -0.05323919443930469,
+   "server_rule": "번진다"
+  },
+  "2026-07-28": {
+   "truth": "번진다",
+   "ratio": 0.79,
+   "power_ex_mkt_pct": -5.58,
+   "chip_ex_mkt_pct": -7.04,
+   "power_raw_pct": -5.03,
+   "spy_pct": 0.24,
+   "server_vs_mkt_pp": -3.09,
+   "act19_e8": -0.86,
+   "gap49_mkt_e8": -2.669,
+   "gap49_own_e8": -1.33,
+   "gap638_m3_e8": -0.88,
+   "in46": true,
+   "left_own_e8": -0.7200681786894134,
+   "left_smh_e8": -0.40164827937670233,
+   "left_rule_e8": -0.40164827937670233,
+   "server_rule": "번진다"
+  },
+  "2026-08-05": {
+   "truth": "안 번진다",
+   "ratio": -0.08,
+   "power_ex_mkt_pct": 0.31,
+   "chip_ex_mkt_pct": -3.79,
+   "power_raw_pct": 0.01,
+   "spy_pct": -0.2,
+   "server_vs_mkt_pp": -0.95,
+   "act19_e8": -0.014,
+   "gap49_mkt_e8": -0.228,
+   "gap49_own_e8": -0.088,
+   "gap638_m3_e8": 1.06,
+   "in46": true,
+   "left_own_e8": 0.05837352879247733,
+   "left_smh_e8": 0.12855865012828724,
+   "left_rule_e8": 0.12855865012828724,
+   "server_rule": "안 번진다"
+  },
+  "2026-08-18": {
+   "truth": "번진다",
+   "ratio": 0.76,
+   "power_ex_mkt_pct": -3.92,
+   "chip_ex_mkt_pct": -5.16,
+   "power_raw_pct": -4.85,
+   "spy_pct": -0.68,
+   "server_vs_mkt_pp": -5.31,
+   "act19_e8": -0.913,
+   "gap49_mkt_e8": -1.725,
+   "gap49_own_e8": -0.735,
+   "gap638_m3_e8": 0.18,
+   "in46": true,
+   "left_own_e8": -0.5085837323133616,
+   "left_smh_e8": -0.35619122040651285,
+   "left_rule_e8": -0.35619122040651285,
+   "server_rule": "번진다"
+  },
+  "2026-09-14": {
+   "truth": "번진다",
+   "ratio": 0.79,
+   "power_ex_mkt_pct": -4.68,
+   "chip_ex_mkt_pct": -5.89,
+   "power_raw_pct": -5.23,
+   "spy_pct": -0.45,
+   "server_vs_mkt_pp": -6.28,
+   "act19_e8": -1.049,
+   "gap49_mkt_e8": -2.511,
+   "gap49_own_e8": -1.567,
+   "gap638_m3_e8": -0.35,
+   "in46": true,
+   "left_own_e8": -0.5838059967478983,
+   "left_smh_e8": -0.40111869785534016,
+   "left_rule_e8": -0.40111869785534016,
+   "server_rule": "번진다"
+  },
+  "2026-10-08": {
+   "truth": "번진다",
+   "ratio": 0.31,
+   "power_ex_mkt_pct": -1.3,
+   "chip_ex_mkt_pct": -4.23,
+   "power_raw_pct": -1.93,
+   "spy_pct": -0.42,
+   "server_vs_mkt_pp": -2.46,
+   "act19_e8": -0.32,
+   "gap49_mkt_e8": -0.633,
+   "gap49_own_e8": -0.256,
+   "gap638_m3_e8": 0.32,
+   "in46": true,
+   "left_own_e8": -0.46044471158115147,
+   "left_smh_e8": 0.06697388795728612,
+   "left_rule_e8": 0.06697388795728612,
+   "server_rule": "번진다"
+  },
+  "2026-10-22": {
+   "truth": "번진다",
+   "ratio": 0.91,
+   "power_ex_mkt_pct": -5.22,
+   "chip_ex_mkt_pct": -5.74,
+   "power_raw_pct": -6.83,
+   "spy_pct": -1.18,
+   "server_vs_mkt_pp": -5.21,
+   "act19_e8": -1.305,
+   "gap49_mkt_e8": -2.34,
+   "gap49_own_e8": -1.607,
+   "gap638_m3_e8": -0.59,
+   "in46": true,
+   "left_own_e8": -1.0765622519897835,
+   "left_smh_e8": -0.4834225356534246,
+   "left_rule_e8": -0.4834225356534246,
+   "server_rule": "번진다"
+  },
+  "2026-10-30": {
+   "truth": "안 번진다",
+   "ratio": 0.07,
+   "power_ex_mkt_pct": -0.53,
+   "chip_ex_mkt_pct": -7.37,
+   "power_raw_pct": -3.29,
+   "spy_pct": -1.77,
+   "server_vs_mkt_pp": -5.04,
+   "act19_e8": -0.654,
+   "gap49_mkt_e8": -0.555,
+   "gap49_own_e8": 0.588,
+   "gap638_m3_e8": null,
+   "in46": false,
+   "left_own_e8": -0.2319065198648192,
+   "left_smh_e8": 0.3147210858475952,
+   "left_rule_e8": 0.3147210858475952,
+   "server_rule": "번진다"
+  }
+ },
+ "non_spread": [
+  {
+   "date": "2025-10-14",
+   "ratio": -0.16,
+   "서버·부품 규칙": "맞힘",
+   "해석1": "맞힘",
+   "해석2": "맞힘*",
+   "점검2(해석2 를 점검)": "판정 없음",
+   "점검1(해석1 을 점검)": "맞힘"
+  },
+  {
+   "date": "2026-06-05",
+   "ratio": -0.03,
+   "서버·부품 규칙": "같이 틀림",
+   "해석1": "같이 틀림",
+   "해석2": "같이 틀림*",
+   "점검2(해석2 를 점검)": "판정 없음",
+   "점검1(해석1 을 점검)": "넘김"
+  },
+  {
+   "date": "2026-06-16",
+   "ratio": -0.24,
+   "서버·부품 규칙": "같이 틀림",
+   "해석1": "넘김",
+   "해석2": "넘김",
+   "점검2(해석2 를 점검)": "넘김",
+   "점검1(해석1 을 점검)": "넘김"
+  },
+  {
+   "date": "2026-08-05",
+   "ratio": -0.08,
+   "서버·부품 규칙": "맞힘",
+   "해석1": "맞힘",
+   "해석2": "맞힘",
+   "점검2(해석2 를 점검)": "넘김",
+   "점검1(해석1 을 점검)": "맞힘"
+  },
+  {
+   "date": "2026-10-30",
+   "ratio": 0.07,
+   "서버·부품 규칙": "같이 틀림",
+   "해석1": "넘김+",
+   "해석2": "넘김",
+   "점검2(해석2 를 점검)": "넘김+",
+   "점검1(해석1 을 점검)": "넘김+"
+  }
+ ],
+ "s2": {
+  "가": {
+   "days": 25,
+   "same_verdict": 22,
+   "same_pct": 88.0,
+   "kappa_verdict": 0.792,
+   "same_cause": 21,
+   "kappa_cause": 0.757,
+   "both_confirmed": 14,
+   "both_confirmed_same": 14,
+   "both_confirmed_same_right": 13,
+   "split": [
+    {
+     "date": "2025-04-09",
+     "해석1": "안 번진다",
+     "해석1 까닭": "규칙이 잘못 고른 날",
+     "해석2": "넘김",
+     "해석2 까닭": "규칙이 잘못 고른 날",
+     "정답": "번진다"
+    },
+    {
+     "date": "2026-02-04",
+     "해석1": "넘김",
+     "해석1 까닭": "AI 투자 전반",
+     "해석2": "번진다",
+     "해석2 까닭": "AI 투자 전반",
+     "정답": "번진다"
+    },
+    {
+     "date": "2026-07-15",
+     "해석1": "넘김",
+     "해석1 까닭": "규칙이 잘못 고른 날",
+     "해석2": "번진다",
+     "해석2 까닭": "AI 투자 전반",
+     "정답": "번진다"
+    }
+   ],
+   "cause_split": [
+    {
+     "date": "2026-05-18",
+     "해석1": "규칙이 잘못 고른 날",
+     "해석2": "칩 고유"
+    },
+    {
+     "date": "2026-06-16",
+     "해석1": "규칙이 잘못 고른 날",
+     "해석2": "AI 투자 전반"
+    },
+    {
+     "date": "2026-07-15",
+     "해석1": "규칙이 잘못 고른 날",
+     "해석2": "AI 투자 전반"
+    },
+    {
+     "date": "2026-08-05",
+     "해석1": "규칙이 잘못 고른 날",
+     "해석2": "칩 고유"
+    }
+   ]
+  },
+  "나": {
+   "days": 18,
+   "same_verdict": 17,
+   "same_pct": 94.4,
+   "kappa_verdict": 0.898,
+   "same_cause": 14,
+   "kappa_cause": 0.679,
+   "both_confirmed": 10,
+   "both_confirmed_same": 10,
+   "both_confirmed_same_right": 10,
+   "split": [
+    {
+     "date": "2026-07-15",
+     "해석1": "넘김",
+     "해석1 까닭": "규칙이 잘못 고른 날",
+     "해석2": "번진다",
+     "해석2 까닭": "AI 투자 전반",
+     "정답": "번진다"
+    }
+   ],
+   "cause_split": [
+    {
+     "date": "2026-05-18",
+     "해석1": "규칙이 잘못 고른 날",
+     "해석2": "칩 고유"
+    },
+    {
+     "date": "2026-06-16",
+     "해석1": "규칙이 잘못 고른 날",
+     "해석2": "AI 투자 전반"
+    },
+    {
+     "date": "2026-07-15",
+     "해석1": "규칙이 잘못 고른 날",
+     "해석2": "AI 투자 전반"
+    },
+    {
+     "date": "2026-08-05",
+     "해석1": "규칙이 잘못 고른 날",
+     "해석2": "칩 고유"
+    }
+   ]
+  },
+  "다": {
+   "days": 12,
+   "same_verdict": 11,
+   "same_pct": 91.7,
+   "kappa_verdict": 0.852,
+   "same_cause": 8,
+   "kappa_cause": 0.5,
+   "both_confirmed": 5,
+   "both_confirmed_same": 5,
+   "both_confirmed_same_right": 5,
+   "split": [
+    {
+     "date": "2026-07-15",
+     "해석1": "넘김",
+     "해석1 까닭": "규칙이 잘못 고른 날",
+     "해석2": "번진다",
+     "해석2 까닭": "AI 투자 전반",
+     "정답": "번진다"
+    }
+   ],
+   "cause_split": [
+    {
+     "date": "2026-05-18",
+     "해석1": "규칙이 잘못 고른 날",
+     "해석2": "칩 고유"
+    },
+    {
+     "date": "2026-06-16",
+     "해석1": "규칙이 잘못 고른 날",
+     "해석2": "AI 투자 전반"
+    },
+    {
+     "date": "2026-07-15",
+     "해석1": "규칙이 잘못 고른 날",
+     "해석2": "AI 투자 전반"
+    },
+    {
+     "date": "2026-08-05",
+     "해석1": "규칙이 잘못 고른 날",
+     "해석2": "칩 고유"
+    }
+   ]
+  },
+  "agree_rule": {
+   "가": {
+    "days": 25,
+    "confirmed": 14,
+    "right": 13,
+    "wrong": 1,
+    "handed": 11,
+    "wrong_days": [
+     "2026-06-05"
+    ]
+   },
+   "나": {
+    "days": 18,
+    "confirmed": 10,
+    "right": 10,
+    "wrong": 0,
+    "handed": 8,
+    "wrong_days": []
+   },
+   "다": {
+    "days": 12,
+    "confirmed": 5,
+    "right": 5,
+    "wrong": 0,
+    "handed": 7,
+    "wrong_days": []
+   }
+  }
+ },
+ "s3": {
+  "점검2(해석2 를 점검)": {
+   "days": 19,
+   "changed": 1,
+   "good": 0,
+   "bad": 0,
+   "lost": 1,
+   "cause_changed": [
+    "2026-06-16"
+   ],
+   "rows": [
+    {
+     "date": "2026-08-05",
+     "해석": "안 번진다",
+     "끝": "넘김",
+     "정답": "안 번진다",
+     "effect": "맞았을 확정을 넘김으로 물림",
+     "leak": ""
+    }
+   ]
+  },
+  "점검1(해석1 을 점검)": {
+   "days": 25,
+   "changed": 7,
+   "good": 1,
+   "bad": 0,
+   "lost": 6,
+   "cause_changed": [
+    "2026-06-05",
+    "2026-07-01",
+    "2026-07-02"
+   ],
+   "rows": [
+    {
+     "date": "2026-06-05",
+     "해석": "번진다",
+     "끝": "넘김",
+     "정답": "안 번진다",
+     "effect": "틀린 확정을 넘김으로 막음",
+     "leak": ""
+    },
+    {
+     "date": "2026-07-01",
+     "해석": "번진다",
+     "끝": "넘김",
+     "정답": "번진다",
+     "effect": "맞았을 확정을 넘김으로 물림",
+     "leak": ""
+    },
+    {
+     "date": "2026-07-02",
+     "해석": "번진다",
+     "끝": "넘김",
+     "정답": "번진다",
+     "effect": "맞았을 확정을 넘김으로 물림",
+     "leak": ""
+    },
+    {
+     "date": "2026-07-16",
+     "해석": "번진다",
+     "끝": "넘김",
+     "정답": "번진다",
+     "effect": "맞았을 확정을 넘김으로 물림",
+     "leak": ""
+    },
+    {
+     "date": "2026-07-28",
+     "해석": "번진다",
+     "끝": "넘김",
+     "정답": "번진다",
+     "effect": "맞았을 확정을 넘김으로 물림",
+     "leak": ""
+    },
+    {
+     "date": "2026-08-18",
+     "해석": "번진다",
+     "끝": "넘김",
+     "정답": "번진다",
+     "effect": "맞았을 확정을 넘김으로 물림",
+     "leak": "곁값"
+    },
+    {
+     "date": "2026-09-14",
+     "해석": "번진다",
+     "끝": "넘김",
+     "정답": "번진다",
+     "effect": "맞았을 확정을 넘김으로 물림",
+     "leak": ""
+    }
+   ]
+  }
+ },
+ "s4": {
+  "해석1": {
+   "가": {
+    "by_cause": {
+     "AI 투자 전반": {
+      "n": 11,
+      "truth_spread": 10,
+      "power_ex_mkt_pct": {
+       "mean": -4.793,
+       "median": -4.09,
+       "n": 11
+      },
+      "power_raw_pct": {
+       "mean": -5.798,
+       "median": -4.88,
+       "n": 11
+      },
+      "act19_e8": {
+       "mean": -0.983,
+       "median": -0.86,
+       "n": 11
+      },
+      "gap49_mkt_e8": {
+       "mean": -2.124,
+       "median": -2.34,
+       "n": 11
+      },
+      "gap49_own_e8": {
+       "mean": -1.139,
+       "median": -1.152,
+       "n": 11
+      },
+      "gap638_m3_e8": {
+       "mean": 0.357,
+       "median": 0.14,
+       "n": 10
+      }
+     },
+     "규칙이 잘못 고른 날": {
+      "n": 5,
+      "truth_spread": 3,
+      "power_ex_mkt_pct": {
+       "mean": -1.7,
+       "median": -1.69,
+       "n": 5
+      },
+      "power_raw_pct": {
+       "mean": 1.52,
+       "median": 0.01,
+       "n": 5
+      },
+      "act19_e8": {
+       "mean": 0.25,
+       "median": -0.014,
+       "n": 5
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.185,
+       "median": -1.617,
+       "n": 5
+      },
+      "gap49_own_e8": {
+       "mean": -0.587,
+       "median": -0.762,
+       "n": 5
+      },
+      "gap638_m3_e8": {
+       "mean": 0.682,
+       "median": 0.805,
+       "n": 4
+      }
+     },
+     "시장 전체": {
+      "n": 1,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -3.92,
+       "median": -3.92,
+       "n": 1
+      },
+      "power_raw_pct": {
+       "mean": -4.85,
+       "median": -4.85,
+       "n": 1
+      },
+      "act19_e8": {
+       "mean": -0.913,
+       "median": -0.913,
+       "n": 1
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.725,
+       "median": -1.725,
+       "n": 1
+      },
+      "gap49_own_e8": {
+       "mean": -0.735,
+       "median": -0.735,
+       "n": 1
+      },
+      "gap638_m3_e8": {
+       "mean": 0.18,
+       "median": 0.18,
+       "n": 1
+      }
+     },
+     "전력 쪽 시작": {
+      "n": 1,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -1.3,
+       "median": -1.3,
+       "n": 1
+      },
+      "power_raw_pct": {
+       "mean": -1.93,
+       "median": -1.93,
+       "n": 1
+      },
+      "act19_e8": {
+       "mean": -0.32,
+       "median": -0.32,
+       "n": 1
+      },
+      "gap49_mkt_e8": {
+       "mean": -0.633,
+       "median": -0.633,
+       "n": 1
+      },
+      "gap49_own_e8": {
+       "mean": -0.256,
+       "median": -0.256,
+       "n": 1
+      },
+      "gap638_m3_e8": {
+       "mean": 0.32,
+       "median": 0.32,
+       "n": 1
+      }
+     },
+     "칩 고유": {
+      "n": 7,
+      "truth_spread": 5,
+      "power_ex_mkt_pct": {
+       "mean": -2.041,
+       "median": -2.52,
+       "n": 7
+      },
+      "power_raw_pct": {
+       "mean": -2.893,
+       "median": -3.29,
+       "n": 7
+      },
+      "act19_e8": {
+       "mean": -0.515,
+       "median": -0.654,
+       "n": 7
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.163,
+       "median": -1.481,
+       "n": 7
+      },
+      "gap49_own_e8": {
+       "mean": -0.469,
+       "median": -0.487,
+       "n": 7
+      },
+      "gap638_m3_e8": {
+       "mean": -0.16,
+       "median": -0.51,
+       "n": 5
+      }
+     }
+    },
+    "by_verdict": {
+     "번진다": {
+      "n": 12,
+      "truth_spread": 11,
+      "power_ex_mkt_pct": {
+       "mean": -4.466,
+       "median": -3.995,
+       "n": 12
+      },
+      "power_raw_pct": {
+       "mean": -5.473,
+       "median": -4.73,
+       "n": 12
+      },
+      "act19_e8": {
+       "mean": -0.949,
+       "median": -0.887,
+       "n": 12
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.997,
+       "median": -2.034,
+       "n": 12
+      },
+      "gap49_own_e8": {
+       "mean": -1.04,
+       "median": -1.146,
+       "n": 12
+      },
+      "gap638_m3_e8": {
+       "mean": 0.507,
+       "median": 0.32,
+       "n": 11
+      }
+     },
+     "안 번진다": {
+      "n": 3,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -1.09,
+       "median": 0.31,
+       "n": 3
+      },
+      "power_raw_pct": {
+       "mean": 4.317,
+       "median": 0.75,
+       "n": 3
+      },
+      "act19_e8": {
+       "mean": 0.778,
+       "median": 0.186,
+       "n": 3
+      },
+      "gap49_mkt_e8": {
+       "mean": -0.775,
+       "median": -0.228,
+       "n": 3
+      },
+      "gap49_own_e8": {
+       "mean": -0.461,
+       "median": -0.088,
+       "n": 3
+      },
+      "gap638_m3_e8": {
+       "mean": 1.09,
+       "median": 1.09,
+       "n": 2
+      }
+     },
+     "넘김": {
+      "n": 10,
+      "truth_spread": 8,
+      "power_ex_mkt_pct": {
+       "mean": -2.387,
+       "median": -2.785,
+       "n": 10
+      },
+      "power_raw_pct": {
+       "mean": -3.048,
+       "median": -3.505,
+       "n": 10
+      },
+      "act19_e8": {
+       "mean": -0.536,
+       "median": -0.658,
+       "n": 10
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.35,
+       "median": -1.619,
+       "n": 10
+      },
+      "gap49_own_e8": {
+       "mean": -0.588,
+       "median": -0.847,
+       "n": 10
+      },
+      "gap638_m3_e8": {
+       "mean": -0.22,
+       "median": -0.225,
+       "n": 8
+      }
+     }
+    },
+    "ai_vs_chip": {
+     "power_ex_mkt_pct": {
+      "diff": -2.751,
+      "n_x": 11,
+      "n_y": 7,
+      "p_one_sided_x_lower": 0.0271,
+      "exact": true,
+      "perms": 31824
+     },
+     "power_raw_pct": {
+      "diff": -2.905,
+      "n_x": 11,
+      "n_y": 7,
+      "p_one_sided_x_lower": 0.0032,
+      "exact": true,
+      "perms": 31824
+     },
+     "gap49_mkt_e8": {
+      "diff": -0.961,
+      "n_x": 11,
+      "n_y": 7,
+      "p_one_sided_x_lower": 0.01,
+      "exact": true,
+      "perms": 31824
+     }
+    },
+    "yes_vs_rest": {
+     "power_ex_mkt_pct": {
+      "diff": -2.378,
+      "n_x": 12,
+      "n_y": 13,
+      "p_one_sided_x_lower": 0.0267,
+      "exact": false,
+      "perms": 20000
+     },
+     "power_raw_pct": {
+      "diff": -4.125,
+      "n_x": 12,
+      "n_y": 13,
+      "p_one_sided_x_lower": 0.0014,
+      "exact": false,
+      "perms": 20000
+     },
+     "gap49_mkt_e8": {
+      "diff": -0.78,
+      "n_x": 12,
+      "n_y": 13,
+      "p_one_sided_x_lower": 0.0111,
+      "exact": false,
+      "perms": 20000
+     }
+    },
+    "hedge": {
+     "days": 21,
+     "act_sum_e8": -13.18,
+     "dates": [
+      "2025-10-14",
+      "2025-12-12",
+      "2026-02-04",
+      "2026-03-03",
+      "2026-03-30",
+      "2026-05-18",
+      "2026-06-05",
+      "2026-06-16",
+      "2026-06-23",
+      "2026-07-01",
+      "2026-07-02",
+      "2026-07-07",
+      "2026-07-15",
+      "2026-07-16",
+      "2026-07-24",
+      "2026-07-28",
+      "2026-08-05",
+      "2026-08-18",
+      "2026-09-14",
+      "2026-10-08",
+      "2026-10-22"
+     ],
+     "늘 자기 업종 펀드": {
+      "left_pct_of_sum": 76.9,
+      "abs_left_pct": 75.1,
+      "smh_days": 0,
+      "still_loss_days": 20.0
+     },
+     "늘 반도체 펀드": {
+      "left_pct_of_sum": 12.9,
+      "abs_left_pct": 40.4,
+      "smh_days": 21,
+      "still_loss_days": 15.0
+     },
+     "지난 주가로 고르는 규칙": {
+      "left_pct_of_sum": 39.5,
+      "abs_left_pct": 47.5,
+      "smh_days": 15,
+      "still_loss_days": 18.0
+     },
+     "개체가 「번진다」로 읽은 날만 반도체": {
+      "left_pct_of_sum": 36.8,
+      "abs_left_pct": 45.8,
+      "smh_days": 11,
+      "still_loss_days": 17.0
+     },
+     "개체가 「AI 투자 전반」으로 읽은 날만 반도체": {
+      "left_pct_of_sum": 37.1,
+      "abs_left_pct": 45.1,
+      "smh_days": 10,
+      "still_loss_days": 18.0
+     },
+     "「번진다」 또는 「AI 투자 전반」인 날만 반도체": {
+      "left_pct_of_sum": 31.9,
+      "abs_left_pct": 41.1,
+      "smh_days": 12,
+      "still_loss_days": 17.0
+     },
+     "(견줌) 정답이 번짐인 날만 반도체": {
+      "left_pct_of_sum": 31.2,
+      "abs_left_pct": 32.8,
+      "smh_days": 17,
+      "still_loss_days": 18.0
+     }
+    }
+   },
+   "나": {
+    "by_cause": {
+     "AI 투자 전반": {
+      "n": 11,
+      "truth_spread": 10,
+      "power_ex_mkt_pct": {
+       "mean": -4.793,
+       "median": -4.09,
+       "n": 11
+      },
+      "power_raw_pct": {
+       "mean": -5.798,
+       "median": -4.88,
+       "n": 11
+      },
+      "act19_e8": {
+       "mean": -0.983,
+       "median": -0.86,
+       "n": 11
+      },
+      "gap49_mkt_e8": {
+       "mean": -2.124,
+       "median": -2.34,
+       "n": 11
+      },
+      "gap49_own_e8": {
+       "mean": -1.139,
+       "median": -1.152,
+       "n": 11
+      },
+      "gap638_m3_e8": {
+       "mean": 0.357,
+       "median": 0.14,
+       "n": 10
+      }
+     },
+     "규칙이 잘못 고른 날": {
+      "n": 5,
+      "truth_spread": 3,
+      "power_ex_mkt_pct": {
+       "mean": -1.7,
+       "median": -1.69,
+       "n": 5
+      },
+      "power_raw_pct": {
+       "mean": 1.52,
+       "median": 0.01,
+       "n": 5
+      },
+      "act19_e8": {
+       "mean": 0.25,
+       "median": -0.014,
+       "n": 5
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.185,
+       "median": -1.617,
+       "n": 5
+      },
+      "gap49_own_e8": {
+       "mean": -0.587,
+       "median": -0.762,
+       "n": 5
+      },
+      "gap638_m3_e8": {
+       "mean": 0.682,
+       "median": 0.805,
+       "n": 4
+      }
+     },
+     "시장 전체": {
+      "n": 1,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -3.92,
+       "median": -3.92,
+       "n": 1
+      },
+      "power_raw_pct": {
+       "mean": -4.85,
+       "median": -4.85,
+       "n": 1
+      },
+      "act19_e8": {
+       "mean": -0.913,
+       "median": -0.913,
+       "n": 1
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.725,
+       "median": -1.725,
+       "n": 1
+      },
+      "gap49_own_e8": {
+       "mean": -0.735,
+       "median": -0.735,
+       "n": 1
+      },
+      "gap638_m3_e8": {
+       "mean": 0.18,
+       "median": 0.18,
+       "n": 1
+      }
+     },
+     "전력 쪽 시작": {
+      "n": 1,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -1.3,
+       "median": -1.3,
+       "n": 1
+      },
+      "power_raw_pct": {
+       "mean": -1.93,
+       "median": -1.93,
+       "n": 1
+      },
+      "act19_e8": {
+       "mean": -0.32,
+       "median": -0.32,
+       "n": 1
+      },
+      "gap49_mkt_e8": {
+       "mean": -0.633,
+       "median": -0.633,
+       "n": 1
+      },
+      "gap49_own_e8": {
+       "mean": -0.256,
+       "median": -0.256,
+       "n": 1
+      },
+      "gap638_m3_e8": {
+       "mean": 0.32,
+       "median": 0.32,
+       "n": 1
+      }
+     },
+     "칩 고유": {
+      "n": 7,
+      "truth_spread": 5,
+      "power_ex_mkt_pct": {
+       "mean": -2.041,
+       "median": -2.52,
+       "n": 7
+      },
+      "power_raw_pct": {
+       "mean": -2.893,
+       "median": -3.29,
+       "n": 7
+      },
+      "act19_e8": {
+       "mean": -0.515,
+       "median": -0.654,
+       "n": 7
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.163,
+       "median": -1.481,
+       "n": 7
+      },
+      "gap49_own_e8": {
+       "mean": -0.469,
+       "median": -0.487,
+       "n": 7
+      },
+      "gap638_m3_e8": {
+       "mean": -0.16,
+       "median": -0.51,
+       "n": 5
+      }
+     }
+    },
+    "by_verdict": {
+     "번진다": {
+      "n": 12,
+      "truth_spread": 11,
+      "power_ex_mkt_pct": {
+       "mean": -4.466,
+       "median": -3.995,
+       "n": 12
+      },
+      "power_raw_pct": {
+       "mean": -5.473,
+       "median": -4.73,
+       "n": 12
+      },
+      "act19_e8": {
+       "mean": -0.949,
+       "median": -0.887,
+       "n": 12
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.997,
+       "median": -2.034,
+       "n": 12
+      },
+      "gap49_own_e8": {
+       "mean": -1.04,
+       "median": -1.146,
+       "n": 12
+      },
+      "gap638_m3_e8": {
+       "mean": 0.507,
+       "median": 0.32,
+       "n": 11
+      }
+     },
+     "안 번진다": {
+      "n": 3,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -1.09,
+       "median": 0.31,
+       "n": 3
+      },
+      "power_raw_pct": {
+       "mean": 4.317,
+       "median": 0.75,
+       "n": 3
+      },
+      "act19_e8": {
+       "mean": 0.778,
+       "median": 0.186,
+       "n": 3
+      },
+      "gap49_mkt_e8": {
+       "mean": -0.775,
+       "median": -0.228,
+       "n": 3
+      },
+      "gap49_own_e8": {
+       "mean": -0.461,
+       "median": -0.088,
+       "n": 3
+      },
+      "gap638_m3_e8": {
+       "mean": 1.09,
+       "median": 1.09,
+       "n": 2
+      }
+     },
+     "넘김": {
+      "n": 10,
+      "truth_spread": 8,
+      "power_ex_mkt_pct": {
+       "mean": -2.387,
+       "median": -2.785,
+       "n": 10
+      },
+      "power_raw_pct": {
+       "mean": -3.048,
+       "median": -3.505,
+       "n": 10
+      },
+      "act19_e8": {
+       "mean": -0.536,
+       "median": -0.658,
+       "n": 10
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.35,
+       "median": -1.619,
+       "n": 10
+      },
+      "gap49_own_e8": {
+       "mean": -0.588,
+       "median": -0.847,
+       "n": 10
+      },
+      "gap638_m3_e8": {
+       "mean": -0.22,
+       "median": -0.225,
+       "n": 8
+      }
+     }
+    },
+    "ai_vs_chip": {
+     "power_ex_mkt_pct": {
+      "diff": -2.751,
+      "n_x": 11,
+      "n_y": 7,
+      "p_one_sided_x_lower": 0.0271,
+      "exact": true,
+      "perms": 31824
+     },
+     "power_raw_pct": {
+      "diff": -2.905,
+      "n_x": 11,
+      "n_y": 7,
+      "p_one_sided_x_lower": 0.0032,
+      "exact": true,
+      "perms": 31824
+     },
+     "gap49_mkt_e8": {
+      "diff": -0.961,
+      "n_x": 11,
+      "n_y": 7,
+      "p_one_sided_x_lower": 0.01,
+      "exact": true,
+      "perms": 31824
+     }
+    },
+    "yes_vs_rest": {
+     "power_ex_mkt_pct": {
+      "diff": -2.378,
+      "n_x": 12,
+      "n_y": 13,
+      "p_one_sided_x_lower": 0.0267,
+      "exact": false,
+      "perms": 20000
+     },
+     "power_raw_pct": {
+      "diff": -4.125,
+      "n_x": 12,
+      "n_y": 13,
+      "p_one_sided_x_lower": 0.0014,
+      "exact": false,
+      "perms": 20000
+     },
+     "gap49_mkt_e8": {
+      "diff": -0.78,
+      "n_x": 12,
+      "n_y": 13,
+      "p_one_sided_x_lower": 0.0111,
+      "exact": false,
+      "perms": 20000
+     }
+    },
+    "hedge": {
+     "days": 21,
+     "act_sum_e8": -13.18,
+     "dates": [
+      "2025-10-14",
+      "2025-12-12",
+      "2026-02-04",
+      "2026-03-03",
+      "2026-03-30",
+      "2026-05-18",
+      "2026-06-05",
+      "2026-06-16",
+      "2026-06-23",
+      "2026-07-01",
+      "2026-07-02",
+      "2026-07-07",
+      "2026-07-15",
+      "2026-07-16",
+      "2026-07-24",
+      "2026-07-28",
+      "2026-08-05",
+      "2026-08-18",
+      "2026-09-14",
+      "2026-10-08",
+      "2026-10-22"
+     ],
+     "늘 자기 업종 펀드": {
+      "left_pct_of_sum": 76.9,
+      "abs_left_pct": 75.1,
+      "smh_days": 0,
+      "still_loss_days": 20.0
+     },
+     "늘 반도체 펀드": {
+      "left_pct_of_sum": 12.9,
+      "abs_left_pct": 40.4,
+      "smh_days": 21,
+      "still_loss_days": 15.0
+     },
+     "지난 주가로 고르는 규칙": {
+      "left_pct_of_sum": 39.5,
+      "abs_left_pct": 47.5,
+      "smh_days": 15,
+      "still_loss_days": 18.0
+     },
+     "개체가 「번진다」로 읽은 날만 반도체": {
+      "left_pct_of_sum": 36.8,
+      "abs_left_pct": 45.8,
+      "smh_days": 11,
+      "still_loss_days": 17.0
+     },
+     "개체가 「AI 투자 전반」으로 읽은 날만 반도체": {
+      "left_pct_of_sum": 37.1,
+      "abs_left_pct": 45.1,
+      "smh_days": 10,
+      "still_loss_days": 18.0
+     },
+     "「번진다」 또는 「AI 투자 전반」인 날만 반도체": {
+      "left_pct_of_sum": 31.9,
+      "abs_left_pct": 41.1,
+      "smh_days": 12,
+      "still_loss_days": 17.0
+     },
+     "(견줌) 정답이 번짐인 날만 반도체": {
+      "left_pct_of_sum": 31.2,
+      "abs_left_pct": 32.8,
+      "smh_days": 17,
+      "still_loss_days": 18.0
+     }
+    }
+   },
+   "다": {
+    "by_cause": {
+     "AI 투자 전반": {
+      "n": 11,
+      "truth_spread": 10,
+      "power_ex_mkt_pct": {
+       "mean": -4.793,
+       "median": -4.09,
+       "n": 11
+      },
+      "power_raw_pct": {
+       "mean": -5.798,
+       "median": -4.88,
+       "n": 11
+      },
+      "act19_e8": {
+       "mean": -0.983,
+       "median": -0.86,
+       "n": 11
+      },
+      "gap49_mkt_e8": {
+       "mean": -2.124,
+       "median": -2.34,
+       "n": 11
+      },
+      "gap49_own_e8": {
+       "mean": -1.139,
+       "median": -1.152,
+       "n": 11
+      },
+      "gap638_m3_e8": {
+       "mean": 0.357,
+       "median": 0.14,
+       "n": 10
+      }
+     },
+     "규칙이 잘못 고른 날": {
+      "n": 5,
+      "truth_spread": 3,
+      "power_ex_mkt_pct": {
+       "mean": -1.7,
+       "median": -1.69,
+       "n": 5
+      },
+      "power_raw_pct": {
+       "mean": 1.52,
+       "median": 0.01,
+       "n": 5
+      },
+      "act19_e8": {
+       "mean": 0.25,
+       "median": -0.014,
+       "n": 5
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.185,
+       "median": -1.617,
+       "n": 5
+      },
+      "gap49_own_e8": {
+       "mean": -0.587,
+       "median": -0.762,
+       "n": 5
+      },
+      "gap638_m3_e8": {
+       "mean": 0.682,
+       "median": 0.805,
+       "n": 4
+      }
+     },
+     "전력 쪽 시작": {
+      "n": 1,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -1.3,
+       "median": -1.3,
+       "n": 1
+      },
+      "power_raw_pct": {
+       "mean": -1.93,
+       "median": -1.93,
+       "n": 1
+      },
+      "act19_e8": {
+       "mean": -0.32,
+       "median": -0.32,
+       "n": 1
+      },
+      "gap49_mkt_e8": {
+       "mean": -0.633,
+       "median": -0.633,
+       "n": 1
+      },
+      "gap49_own_e8": {
+       "mean": -0.256,
+       "median": -0.256,
+       "n": 1
+      },
+      "gap638_m3_e8": {
+       "mean": 0.32,
+       "median": 0.32,
+       "n": 1
+      }
+     },
+     "칩 고유": {
+      "n": 6,
+      "truth_spread": 5,
+      "power_ex_mkt_pct": {
+       "mean": -2.293,
+       "median": -2.785,
+       "n": 6
+      },
+      "power_raw_pct": {
+       "mean": -2.827,
+       "median": -3.44,
+       "n": 6
+      },
+      "act19_e8": {
+       "mean": -0.492,
+       "median": -0.592,
+       "n": 6
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.264,
+       "median": -1.551,
+       "n": 6
+      },
+      "gap49_own_e8": {
+       "mean": -0.646,
+       "median": -0.71,
+       "n": 6
+      },
+      "gap638_m3_e8": {
+       "mean": -0.16,
+       "median": -0.51,
+       "n": 5
+      }
+     }
+    },
+    "by_verdict": {
+     "번진다": {
+      "n": 11,
+      "truth_spread": 10,
+      "power_ex_mkt_pct": {
+       "mean": -4.515,
+       "median": -4.07,
+       "n": 11
+      },
+      "power_raw_pct": {
+       "mean": -5.53,
+       "median": -4.61,
+       "n": 11
+      },
+      "act19_e8": {
+       "mean": -0.952,
+       "median": -0.86,
+       "n": 11
+      },
+      "gap49_mkt_e8": {
+       "mean": -2.022,
+       "median": -2.34,
+       "n": 11
+      },
+      "gap49_own_e8": {
+       "mean": -1.067,
+       "median": -1.152,
+       "n": 11
+      },
+      "gap638_m3_e8": {
+       "mean": 0.54,
+       "median": 0.34,
+       "n": 10
+      }
+     },
+     "안 번진다": {
+      "n": 3,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -1.09,
+       "median": 0.31,
+       "n": 3
+      },
+      "power_raw_pct": {
+       "mean": 4.317,
+       "median": 0.75,
+       "n": 3
+      },
+      "act19_e8": {
+       "mean": 0.778,
+       "median": 0.186,
+       "n": 3
+      },
+      "gap49_mkt_e8": {
+       "mean": -0.775,
+       "median": -0.228,
+       "n": 3
+      },
+      "gap49_own_e8": {
+       "mean": -0.461,
+       "median": -0.088,
+       "n": 3
+      },
+      "gap638_m3_e8": {
+       "mean": 1.09,
+       "median": 1.09,
+       "n": 2
+      }
+     },
+     "넘김": {
+      "n": 9,
+      "truth_spread": 8,
+      "power_ex_mkt_pct": {
+       "mean": -2.593,
+       "median": -3.05,
+       "n": 9
+      },
+      "power_raw_pct": {
+       "mean": -3.021,
+       "median": -3.72,
+       "n": 9
+      },
+      "act19_e8": {
+       "mean": -0.522,
+       "median": -0.661,
+       "n": 9
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.439,
+       "median": -1.621,
+       "n": 9
+      },
+      "gap49_own_e8": {
+       "mean": -0.718,
+       "median": -0.932,
+       "n": 9
+      },
+      "gap638_m3_e8": {
+       "mean": -0.22,
+       "median": -0.225,
+       "n": 8
+      }
+     }
+    },
+    "ai_vs_chip": {
+     "power_ex_mkt_pct": {
+      "diff": -2.499,
+      "n_x": 11,
+      "n_y": 6,
+      "p_one_sided_x_lower": 0.0549,
+      "exact": true,
+      "perms": 12376
+     },
+     "power_raw_pct": {
+      "diff": -2.972,
+      "n_x": 11,
+      "n_y": 6,
+      "p_one_sided_x_lower": 0.0058,
+      "exact": true,
+      "perms": 12376
+     },
+     "gap49_mkt_e8": {
+      "diff": -0.86,
+      "n_x": 11,
+      "n_y": 6,
+      "p_one_sided_x_lower": 0.0228,
+      "exact": true,
+      "perms": 12376
+     }
+    },
+    "yes_vs_rest": {
+     "power_ex_mkt_pct": {
+      "diff": -2.298,
+      "n_x": 11,
+      "n_y": 12,
+      "p_one_sided_x_lower": 0.0494,
+      "exact": false,
+      "perms": 20000
+     },
+     "power_raw_pct": {
+      "diff": -4.343,
+      "n_x": 11,
+      "n_y": 12,
+      "p_one_sided_x_lower": 0.0019,
+      "exact": false,
+      "perms": 20000
+     },
+     "gap49_mkt_e8": {
+      "diff": -0.749,
+      "n_x": 11,
+      "n_y": 12,
+      "p_one_sided_x_lower": 0.0215,
+      "exact": false,
+      "perms": 20000
+     }
+    },
+    "hedge": {
+     "days": 20,
+     "act_sum_e8": -12.27,
+     "dates": [
+      "2025-10-14",
+      "2025-12-12",
+      "2026-02-04",
+      "2026-03-03",
+      "2026-03-30",
+      "2026-05-18",
+      "2026-06-05",
+      "2026-06-16",
+      "2026-06-23",
+      "2026-07-01",
+      "2026-07-02",
+      "2026-07-07",
+      "2026-07-15",
+      "2026-07-16",
+      "2026-07-24",
+      "2026-07-28",
+      "2026-08-05",
+      "2026-09-14",
+      "2026-10-08",
+      "2026-10-22"
+     ],
+     "늘 자기 업종 펀드": {
+      "left_pct_of_sum": 78.5,
+      "abs_left_pct": 76.5,
+      "smh_days": 0,
+      "still_loss_days": 19.0
+     },
+     "늘 반도체 펀드": {
+      "left_pct_of_sum": 11.0,
+      "abs_left_pct": 40.5,
+      "smh_days": 20,
+      "still_loss_days": 14.0
+     },
+     "지난 주가로 고르는 규칙": {
+      "left_pct_of_sum": 39.6,
+      "abs_left_pct": 48.1,
+      "smh_days": 14,
+      "still_loss_days": 17.0
+     },
+     "개체가 「번진다」로 읽은 날만 반도체": {
+      "left_pct_of_sum": 36.6,
+      "abs_left_pct": 46.3,
+      "smh_days": 10,
+      "still_loss_days": 16.0
+     },
+     "개체가 「AI 투자 전반」으로 읽은 날만 반도체": {
+      "left_pct_of_sum": 35.7,
+      "abs_left_pct": 44.4,
+      "smh_days": 10,
+      "still_loss_days": 17.0
+     },
+     "「번진다」 또는 「AI 투자 전반」인 날만 반도체": {
+      "left_pct_of_sum": 31.4,
+      "abs_left_pct": 41.3,
+      "smh_days": 11,
+      "still_loss_days": 16.0
+     },
+     "(견줌) 정답이 번짐인 날만 반도체": {
+      "left_pct_of_sum": 30.7,
+      "abs_left_pct": 32.4,
+      "smh_days": 16,
+      "still_loss_days": 17.0
+     }
+    }
+   }
+  },
+  "해석2": {
+   "가": {
+    "by_cause": {
+     "AI 투자 전반": {
+      "n": 13,
+      "truth_spread": 11,
+      "power_ex_mkt_pct": {
+       "mean": -4.082,
+       "median": -4.07,
+       "n": 13
+      },
+      "power_raw_pct": {
+       "mean": -4.956,
+       "median": -4.61,
+       "n": 13
+      },
+      "act19_e8": {
+       "mean": -0.845,
+       "median": -0.84,
+       "n": 13
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.951,
+       "median": -1.838,
+       "n": 13
+      },
+      "gap49_own_e8": {
+       "mean": -0.988,
+       "median": -1.141,
+       "n": 13
+      },
+      "gap638_m3_e8": {
+       "mean": 0.432,
+       "median": 0.53,
+       "n": 12
+      }
+     },
+     "규칙이 잘못 고른 날": {
+      "n": 1,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -4.51,
+       "median": -4.51,
+       "n": 1
+      },
+      "power_raw_pct": {
+       "mean": 12.19,
+       "median": 12.19,
+       "n": 1
+      },
+      "act19_e8": {
+       "mean": 2.163,
+       "median": 2.163,
+       "n": 1
+      },
+      "gap49_mkt_e8": {
+       "mean": -2.085,
+       "median": -2.085,
+       "n": 1
+      },
+      "gap49_own_e8": {
+       "mean": -1.44,
+       "median": -1.44,
+       "n": 1
+      },
+      "gap638_m3_e8": null
+     },
+     "시장 전체": {
+      "n": 1,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -3.92,
+       "median": -3.92,
+       "n": 1
+      },
+      "power_raw_pct": {
+       "mean": -4.85,
+       "median": -4.85,
+       "n": 1
+      },
+      "act19_e8": {
+       "mean": -0.913,
+       "median": -0.913,
+       "n": 1
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.725,
+       "median": -1.725,
+       "n": 1
+      },
+      "gap49_own_e8": {
+       "mean": -0.735,
+       "median": -0.735,
+       "n": 1
+      },
+      "gap638_m3_e8": {
+       "mean": 0.18,
+       "median": 0.18,
+       "n": 1
+      }
+     },
+     "전력 쪽 시작": {
+      "n": 1,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -1.3,
+       "median": -1.3,
+       "n": 1
+      },
+      "power_raw_pct": {
+       "mean": -1.93,
+       "median": -1.93,
+       "n": 1
+      },
+      "act19_e8": {
+       "mean": -0.32,
+       "median": -0.32,
+       "n": 1
+      },
+      "gap49_mkt_e8": {
+       "mean": -0.633,
+       "median": -0.633,
+       "n": 1
+      },
+      "gap49_own_e8": {
+       "mean": -0.256,
+       "median": -0.256,
+       "n": 1
+      },
+      "gap638_m3_e8": {
+       "mean": 0.32,
+       "median": 0.32,
+       "n": 1
+      }
+     },
+     "칩 고유": {
+      "n": 9,
+      "truth_spread": 6,
+      "power_ex_mkt_pct": {
+       "mean": -1.992,
+       "median": -2.52,
+       "n": 9
+      },
+      "power_raw_pct": {
+       "mean": -2.688,
+       "median": -3.29,
+       "n": 9
+      },
+      "act19_e8": {
+       "mean": -0.484,
+       "median": -0.654,
+       "n": 9
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.11,
+       "median": -1.481,
+       "n": 9
+      },
+      "gap49_own_e8": {
+       "mean": -0.496,
+       "median": -0.487,
+       "n": 9
+      },
+      "gap638_m3_e8": {
+       "mean": 0.046,
+       "median": 0.06,
+       "n": 7
+      }
+     }
+    },
+    "by_verdict": {
+     "번진다": {
+      "n": 14,
+      "truth_spread": 13,
+      "power_ex_mkt_pct": {
+       "mean": -4.259,
+       "median": -3.995,
+       "n": 14
+      },
+      "power_raw_pct": {
+       "mean": -5.115,
+       "median": -4.73,
+       "n": 14
+      },
+      "act19_e8": {
+       "mean": -0.876,
+       "median": -0.85,
+       "n": 14
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.969,
+       "median": -1.798,
+       "n": 14
+      },
+      "gap49_own_e8": {
+       "mean": -1.02,
+       "median": -1.091,
+       "n": 14
+      },
+      "gap638_m3_e8": {
+       "mean": 0.367,
+       "median": 0.32,
+       "n": 13
+      }
+     },
+     "안 번진다": {
+      "n": 2,
+      "truth_spread": 0,
+      "power_ex_mkt_pct": {
+       "mean": 0.62,
+       "median": 0.62,
+       "n": 2
+      },
+      "power_raw_pct": {
+       "mean": 0.38,
+       "median": 0.38,
+       "n": 2
+      },
+      "act19_e8": {
+       "mean": 0.086,
+       "median": 0.086,
+       "n": 2
+      },
+      "gap49_mkt_e8": {
+       "mean": -0.12,
+       "median": -0.12,
+       "n": 2
+      },
+      "gap49_own_e8": {
+       "mean": 0.029,
+       "median": 0.029,
+       "n": 2
+      },
+      "gap638_m3_e8": {
+       "mean": 1.09,
+       "median": 1.09,
+       "n": 2
+      }
+     },
+     "넘김": {
+      "n": 9,
+      "truth_spread": 7,
+      "power_ex_mkt_pct": {
+       "mean": -2.482,
+       "median": -3.05,
+       "n": 9
+      },
+      "power_raw_pct": {
+       "mean": -1.373,
+       "median": -3.29,
+       "n": 9
+      },
+      "act19_e8": {
+       "mean": -0.257,
+       "median": -0.654,
+       "n": 9
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.332,
+       "median": -1.617,
+       "n": 9
+      },
+      "gap49_own_e8": {
+       "mean": -0.613,
+       "median": -0.932,
+       "n": 9
+      },
+      "gap638_m3_e8": {
+       "mean": -0.158,
+       "median": -0.225,
+       "n": 6
+      }
+     }
+    },
+    "ai_vs_chip": {
+     "power_ex_mkt_pct": {
+      "diff": -2.09,
+      "n_x": 13,
+      "n_y": 9,
+      "p_one_sided_x_lower": 0.0783,
+      "exact": false,
+      "perms": 20000
+     },
+     "power_raw_pct": {
+      "diff": -2.268,
+      "n_x": 13,
+      "n_y": 9,
+      "p_one_sided_x_lower": 0.047,
+      "exact": false,
+      "perms": 20000
+     },
+     "gap49_mkt_e8": {
+      "diff": -0.841,
+      "n_x": 13,
+      "n_y": 9,
+      "p_one_sided_x_lower": 0.0164,
+      "exact": false,
+      "perms": 20000
+     }
+    },
+    "yes_vs_rest": {
+     "power_ex_mkt_pct": {
+      "diff": -2.341,
+      "n_x": 14,
+      "n_y": 11,
+      "p_one_sided_x_lower": 0.0255,
+      "exact": false,
+      "perms": 20000
+     },
+     "power_raw_pct": {
+      "diff": -4.06,
+      "n_x": 14,
+      "n_y": 11,
+      "p_one_sided_x_lower": 0.0028,
+      "exact": false,
+      "perms": 20000
+     },
+     "gap49_mkt_e8": {
+      "diff": -0.857,
+      "n_x": 14,
+      "n_y": 11,
+      "p_one_sided_x_lower": 0.0074,
+      "exact": false,
+      "perms": 20000
+     }
+    },
+    "hedge": {
+     "days": 21,
+     "act_sum_e8": -13.18,
+     "dates": [
+      "2025-10-14",
+      "2025-12-12",
+      "2026-02-04",
+      "2026-03-03",
+      "2026-03-30",
+      "2026-05-18",
+      "2026-06-05",
+      "2026-06-16",
+      "2026-06-23",
+      "2026-07-01",
+      "2026-07-02",
+      "2026-07-07",
+      "2026-07-15",
+      "2026-07-16",
+      "2026-07-24",
+      "2026-07-28",
+      "2026-08-05",
+      "2026-08-18",
+      "2026-09-14",
+      "2026-10-08",
+      "2026-10-22"
+     ],
+     "늘 자기 업종 펀드": {
+      "left_pct_of_sum": 76.9,
+      "abs_left_pct": 75.1,
+      "smh_days": 0,
+      "still_loss_days": 20.0
+     },
+     "늘 반도체 펀드": {
+      "left_pct_of_sum": 12.9,
+      "abs_left_pct": 40.4,
+      "smh_days": 21,
+      "still_loss_days": 15.0
+     },
+     "지난 주가로 고르는 규칙": {
+      "left_pct_of_sum": 39.5,
+      "abs_left_pct": 47.5,
+      "smh_days": 15,
+      "still_loss_days": 18.0
+     },
+     "개체가 「번진다」로 읽은 날만 반도체": {
+      "left_pct_of_sum": 31.1,
+      "abs_left_pct": 40.3,
+      "smh_days": 13,
+      "still_loss_days": 17.0
+     },
+     "개체가 「AI 투자 전반」으로 읽은 날만 반도체": {
+      "left_pct_of_sum": 30.0,
+      "abs_left_pct": 48.4,
+      "smh_days": 12,
+      "still_loss_days": 17.0
+     },
+     "「번진다」 또는 「AI 투자 전반」인 날만 반도체": {
+      "left_pct_of_sum": 24.8,
+      "abs_left_pct": 44.4,
+      "smh_days": 14,
+      "still_loss_days": 16.0
+     },
+     "(견줌) 정답이 번짐인 날만 반도체": {
+      "left_pct_of_sum": 31.2,
+      "abs_left_pct": 32.8,
+      "smh_days": 17,
+      "still_loss_days": 18.0
+     }
+    }
+   },
+   "나": {
+    "by_cause": {
+     "AI 투자 전반": {
+      "n": 9,
+      "truth_spread": 8,
+      "power_ex_mkt_pct": {
+       "mean": -3.118,
+       "median": -2.97,
+       "n": 9
+      },
+      "power_raw_pct": {
+       "mean": -3.682,
+       "median": -4.17,
+       "n": 9
+      },
+      "act19_e8": {
+       "mean": -0.708,
+       "median": -0.84,
+       "n": 9
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.948,
+       "median": -2.34,
+       "n": 9
+      },
+      "gap49_own_e8": {
+       "mean": -0.959,
+       "median": -1.141,
+       "n": 9
+      },
+      "gap638_m3_e8": {
+       "mean": 0.356,
+       "median": 0.36,
+       "n": 9
+      }
+     },
+     "시장 전체": {
+      "n": 1,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -3.92,
+       "median": -3.92,
+       "n": 1
+      },
+      "power_raw_pct": {
+       "mean": -4.85,
+       "median": -4.85,
+       "n": 1
+      },
+      "act19_e8": {
+       "mean": -0.913,
+       "median": -0.913,
+       "n": 1
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.725,
+       "median": -1.725,
+       "n": 1
+      },
+      "gap49_own_e8": {
+       "mean": -0.735,
+       "median": -0.735,
+       "n": 1
+      },
+      "gap638_m3_e8": {
+       "mean": 0.18,
+       "median": 0.18,
+       "n": 1
+      }
+     },
+     "전력 쪽 시작": {
+      "n": 1,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -1.3,
+       "median": -1.3,
+       "n": 1
+      },
+      "power_raw_pct": {
+       "mean": -1.93,
+       "median": -1.93,
+       "n": 1
+      },
+      "act19_e8": {
+       "mean": -0.32,
+       "median": -0.32,
+       "n": 1
+      },
+      "gap49_mkt_e8": {
+       "mean": -0.633,
+       "median": -0.633,
+       "n": 1
+      },
+      "gap49_own_e8": {
+       "mean": -0.256,
+       "median": -0.256,
+       "n": 1
+      },
+      "gap638_m3_e8": {
+       "mean": 0.32,
+       "median": 0.32,
+       "n": 1
+      }
+     },
+     "칩 고유": {
+      "n": 7,
+      "truth_spread": 5,
+      "power_ex_mkt_pct": {
+       "mean": -2.466,
+       "median": -3.05,
+       "n": 7
+      },
+      "power_raw_pct": {
+       "mean": -3.203,
+       "median": -3.72,
+       "n": 7
+      },
+      "act19_e8": {
+       "mean": -0.577,
+       "median": -0.681,
+       "n": 7
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.304,
+       "median": -1.617,
+       "n": 7
+      },
+      "gap49_own_e8": {
+       "mean": -0.591,
+       "median": -0.932,
+       "n": 7
+      },
+      "gap638_m3_e8": {
+       "mean": -0.133,
+       "median": -0.225,
+       "n": 6
+      }
+     }
+    },
+    "by_verdict": {
+     "번진다": {
+      "n": 10,
+      "truth_spread": 10,
+      "power_ex_mkt_pct": {
+       "mean": -3.462,
+       "median": -3.445,
+       "n": 10
+      },
+      "power_raw_pct": {
+       "mean": -4.032,
+       "median": -4.39,
+       "n": 10
+      },
+      "act19_e8": {
+       "mean": -0.766,
+       "median": -0.85,
+       "n": 10
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.974,
+       "median": -2.089,
+       "n": 10
+      },
+      "gap49_own_e8": {
+       "mean": -1.006,
+       "median": -0.98,
+       "n": 10
+      },
+      "gap638_m3_e8": {
+       "mean": 0.279,
+       "median": 0.25,
+       "n": 10
+      }
+     },
+     "안 번진다": {
+      "n": 1,
+      "truth_spread": 0,
+      "power_ex_mkt_pct": {
+       "mean": 0.31,
+       "median": 0.31,
+       "n": 1
+      },
+      "power_raw_pct": {
+       "mean": 0.01,
+       "median": 0.01,
+       "n": 1
+      },
+      "act19_e8": {
+       "mean": -0.014,
+       "median": -0.014,
+       "n": 1
+      },
+      "gap49_mkt_e8": {
+       "mean": -0.228,
+       "median": -0.228,
+       "n": 1
+      },
+      "gap49_own_e8": {
+       "mean": -0.088,
+       "median": -0.088,
+       "n": 1
+      },
+      "gap638_m3_e8": {
+       "mean": 1.06,
+       "median": 1.06,
+       "n": 1
+      }
+     },
+     "넘김": {
+      "n": 7,
+      "truth_spread": 5,
+      "power_ex_mkt_pct": {
+       "mean": -2.319,
+       "median": -3.05,
+       "n": 7
+      },
+      "power_raw_pct": {
+       "mean": -3.147,
+       "median": -3.72,
+       "n": 7
+      },
+      "act19_e8": {
+       "mean": -0.567,
+       "median": -0.681,
+       "n": 7
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.294,
+       "median": -1.617,
+       "n": 7
+      },
+      "gap49_own_e8": {
+       "mean": -0.515,
+       "median": -0.932,
+       "n": 7
+      },
+      "gap638_m3_e8": {
+       "mean": -0.158,
+       "median": -0.225,
+       "n": 6
+      }
+     }
+    },
+    "ai_vs_chip": {
+     "power_ex_mkt_pct": {
+      "diff": -0.652,
+      "n_x": 9,
+      "n_y": 7,
+      "p_one_sided_x_lower": 0.2592,
+      "exact": true,
+      "perms": 11440
+     },
+     "power_raw_pct": {
+      "diff": -0.479,
+      "n_x": 9,
+      "n_y": 7,
+      "p_one_sided_x_lower": 0.3125,
+      "exact": true,
+      "perms": 11440
+     },
+     "gap49_mkt_e8": {
+      "diff": -0.645,
+      "n_x": 9,
+      "n_y": 7,
+      "p_one_sided_x_lower": 0.0601,
+      "exact": true,
+      "perms": 11440
+     }
+    },
+    "yes_vs_rest": {
+     "power_ex_mkt_pct": {
+      "diff": -1.472,
+      "n_x": 10,
+      "n_y": 8,
+      "p_one_sided_x_lower": 0.0503,
+      "exact": true,
+      "perms": 43758
+     },
+     "power_raw_pct": {
+      "diff": -1.28,
+      "n_x": 10,
+      "n_y": 8,
+      "p_one_sided_x_lower": 0.0761,
+      "exact": true,
+      "perms": 43758
+     },
+     "gap49_mkt_e8": {
+      "diff": -0.813,
+      "n_x": 10,
+      "n_y": 8,
+      "p_one_sided_x_lower": 0.0166,
+      "exact": true,
+      "perms": 43758
+     }
+    },
+    "hedge": {
+     "days": 17,
+     "act_sum_e8": -10.99,
+     "dates": [
+      "2026-03-03",
+      "2026-03-30",
+      "2026-05-18",
+      "2026-06-16",
+      "2026-06-23",
+      "2026-07-01",
+      "2026-07-02",
+      "2026-07-07",
+      "2026-07-15",
+      "2026-07-16",
+      "2026-07-24",
+      "2026-07-28",
+      "2026-08-05",
+      "2026-08-18",
+      "2026-09-14",
+      "2026-10-08",
+      "2026-10-22"
+     ],
+     "늘 자기 업종 펀드": {
+      "left_pct_of_sum": 73.2,
+      "abs_left_pct": 73.6,
+      "smh_days": 0,
+      "still_loss_days": 16.0
+     },
+     "늘 반도체 펀드": {
+      "left_pct_of_sum": 20.5,
+      "abs_left_pct": 37.3,
+      "smh_days": 17,
+      "still_loss_days": 13.0
+     },
+     "지난 주가로 고르는 규칙": {
+      "left_pct_of_sum": 43.7,
+      "abs_left_pct": 46.8,
+      "smh_days": 12,
+      "still_loss_days": 15.0
+     },
+     "개체가 「번진다」로 읽은 날만 반도체": {
+      "left_pct_of_sum": 37.2,
+      "abs_left_pct": 40.1,
+      "smh_days": 10,
+      "still_loss_days": 14.0
+     },
+     "개체가 「AI 투자 전반」으로 읽은 날만 반도체": {
+      "left_pct_of_sum": 35.8,
+      "abs_left_pct": 50.0,
+      "smh_days": 9,
+      "still_loss_days": 14.0
+     },
+     "「번진다」 또는 「AI 투자 전반」인 날만 반도체": {
+      "left_pct_of_sum": 29.6,
+      "abs_left_pct": 45.1,
+      "smh_days": 11,
+      "still_loss_days": 13.0
+     },
+     "(견줌) 정답이 번짐인 날만 반도체": {
+      "left_pct_of_sum": 28.7,
+      "abs_left_pct": 31.7,
+      "smh_days": 15,
+      "still_loss_days": 14.0
+     }
+    }
+   },
+   "다": {
+    "by_cause": {
+     "AI 투자 전반": {
+      "n": 6,
+      "truth_spread": 5,
+      "power_ex_mkt_pct": {
+       "mean": -2.623,
+       "median": -2.87,
+       "n": 6
+      },
+      "power_raw_pct": {
+       "mean": -2.745,
+       "median": -3.31,
+       "n": 6
+      },
+      "act19_e8": {
+       "mean": -0.507,
+       "median": -0.588,
+       "n": 6
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.894,
+       "median": -2.22,
+       "n": 6
+      },
+      "gap49_own_e8": {
+       "mean": -0.876,
+       "median": -0.98,
+       "n": 6
+      },
+      "gap638_m3_e8": {
+       "mean": 0.298,
+       "median": 0.53,
+       "n": 6
+      }
+     },
+     "칩 고유": {
+      "n": 7,
+      "truth_spread": 5,
+      "power_ex_mkt_pct": {
+       "mean": -2.466,
+       "median": -3.05,
+       "n": 7
+      },
+      "power_raw_pct": {
+       "mean": -3.203,
+       "median": -3.72,
+       "n": 7
+      },
+      "act19_e8": {
+       "mean": -0.577,
+       "median": -0.681,
+       "n": 7
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.304,
+       "median": -1.617,
+       "n": 7
+      },
+      "gap49_own_e8": {
+       "mean": -0.591,
+       "median": -0.932,
+       "n": 7
+      },
+      "gap638_m3_e8": {
+       "mean": -0.133,
+       "median": -0.225,
+       "n": 6
+      }
+     }
+    },
+    "by_verdict": {
+     "번진다": {
+      "n": 5,
+      "truth_spread": 5,
+      "power_ex_mkt_pct": {
+       "mean": -3.416,
+       "median": -2.97,
+       "n": 5
+      },
+      "power_raw_pct": {
+       "mean": -3.374,
+       "median": -3.72,
+       "n": 5
+      },
+      "act19_e8": {
+       "mean": -0.619,
+       "median": -0.632,
+       "n": 5
+      },
+      "gap49_mkt_e8": {
+       "mean": -2.242,
+       "median": -2.601,
+       "n": 5
+      },
+      "gap49_own_e8": {
+       "mean": -1.14,
+       "median": -1.141,
+       "n": 5
+      },
+      "gap638_m3_e8": {
+       "mean": 0.176,
+       "median": 0.36,
+       "n": 5
+      }
+     },
+     "안 번진다": {
+      "n": 1,
+      "truth_spread": 0,
+      "power_ex_mkt_pct": {
+       "mean": 0.31,
+       "median": 0.31,
+       "n": 1
+      },
+      "power_raw_pct": {
+       "mean": 0.01,
+       "median": 0.01,
+       "n": 1
+      },
+      "act19_e8": {
+       "mean": -0.014,
+       "median": -0.014,
+       "n": 1
+      },
+      "gap49_mkt_e8": {
+       "mean": -0.228,
+       "median": -0.228,
+       "n": 1
+      },
+      "gap49_own_e8": {
+       "mean": -0.088,
+       "median": -0.088,
+       "n": 1
+      },
+      "gap638_m3_e8": {
+       "mean": 1.06,
+       "median": 1.06,
+       "n": 1
+      }
+     },
+     "넘김": {
+      "n": 7,
+      "truth_spread": 5,
+      "power_ex_mkt_pct": {
+       "mean": -2.319,
+       "median": -3.05,
+       "n": 7
+      },
+      "power_raw_pct": {
+       "mean": -3.147,
+       "median": -3.72,
+       "n": 7
+      },
+      "act19_e8": {
+       "mean": -0.567,
+       "median": -0.681,
+       "n": 7
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.294,
+       "median": -1.617,
+       "n": 7
+      },
+      "gap49_own_e8": {
+       "mean": -0.515,
+       "median": -0.932,
+       "n": 7
+      },
+      "gap638_m3_e8": {
+       "mean": -0.158,
+       "median": -0.225,
+       "n": 6
+      }
+     }
+    },
+    "ai_vs_chip": {
+     "power_ex_mkt_pct": {
+      "diff": -0.158,
+      "n_x": 6,
+      "n_y": 7,
+      "p_one_sided_x_lower": 0.4487,
+      "exact": true,
+      "perms": 1716
+     },
+     "power_raw_pct": {
+      "diff": 0.458,
+      "n_x": 6,
+      "n_y": 7,
+      "p_one_sided_x_lower": 0.6632,
+      "exact": true,
+      "perms": 1716
+     },
+     "gap49_mkt_e8": {
+      "diff": -0.591,
+      "n_x": 6,
+      "n_y": 7,
+      "p_one_sided_x_lower": 0.1125,
+      "exact": true,
+      "perms": 1716
+     }
+    },
+    "yes_vs_rest": {
+     "power_ex_mkt_pct": {
+      "diff": -1.426,
+      "n_x": 5,
+      "n_y": 8,
+      "p_one_sided_x_lower": 0.1064,
+      "exact": true,
+      "perms": 1287
+     },
+     "power_raw_pct": {
+      "diff": -0.622,
+      "n_x": 5,
+      "n_y": 8,
+      "p_one_sided_x_lower": 0.2595,
+      "exact": true,
+      "perms": 1287
+     },
+     "gap49_mkt_e8": {
+      "diff": -1.081,
+      "n_x": 5,
+      "n_y": 8,
+      "p_one_sided_x_lower": 0.0109,
+      "exact": true,
+      "perms": 1287
+     }
+    },
+    "hedge": {
+     "days": 12,
+     "act_sum_e8": -6.43,
+     "dates": [
+      "2026-03-03",
+      "2026-03-30",
+      "2026-05-18",
+      "2026-06-16",
+      "2026-07-01",
+      "2026-07-02",
+      "2026-07-07",
+      "2026-07-15",
+      "2026-07-16",
+      "2026-07-24",
+      "2026-07-28",
+      "2026-08-05"
+     ],
+     "늘 자기 업종 펀드": {
+      "left_pct_of_sum": 77.0,
+      "abs_left_pct": 77.6,
+      "smh_days": 0,
+      "still_loss_days": 11.0
+     },
+     "늘 반도체 펀드": {
+      "left_pct_of_sum": 15.6,
+      "abs_left_pct": 42.2,
+      "smh_days": 12,
+      "still_loss_days": 9.0
+     },
+     "지난 주가로 고르는 규칙": {
+      "left_pct_of_sum": 49.2,
+      "abs_left_pct": 52.4,
+      "smh_days": 8,
+      "still_loss_days": 11.0
+     },
+     "개체가 「번진다」로 읽은 날만 반도체": {
+      "left_pct_of_sum": 44.1,
+      "abs_left_pct": 47.0,
+      "smh_days": 5,
+      "still_loss_days": 10.0
+     },
+     "개체가 「AI 투자 전반」으로 읽은 날만 반도체": {
+      "left_pct_of_sum": 31.2,
+      "abs_left_pct": 55.4,
+      "smh_days": 6,
+      "still_loss_days": 9.0
+     },
+     "「번진다」 또는 「AI 투자 전반」인 날만 반도체": {
+      "left_pct_of_sum": 31.2,
+      "abs_left_pct": 55.4,
+      "smh_days": 6,
+      "still_loss_days": 9.0
+     },
+     "(견줌) 정답이 번짐인 날만 반도체": {
+      "left_pct_of_sum": 29.6,
+      "abs_left_pct": 32.7,
+      "smh_days": 10,
+      "still_loss_days": 10.0
+     }
+    }
+   }
+  },
+  "점검2(해석2 를 점검)": {
+   "가": {
+    "by_cause": {
+     "AI 투자 전반": {
+      "n": 8,
+      "truth_spread": 8,
+      "power_ex_mkt_pct": {
+       "mean": -3.675,
+       "median": -3.52,
+       "n": 8
+      },
+      "power_raw_pct": {
+       "mean": -4.192,
+       "median": -4.39,
+       "n": 8
+      },
+      "act19_e8": {
+       "mean": -0.803,
+       "median": -0.85,
+       "n": 8
+      },
+      "gap49_mkt_e8": {
+       "mean": -2.172,
+       "median": -2.426,
+       "n": 8
+      },
+      "gap49_own_e8": {
+       "mean": -1.134,
+       "median": -1.236,
+       "n": 8
+      },
+      "gap638_m3_e8": {
+       "mean": 0.286,
+       "median": 0.14,
+       "n": 8
+      }
+     },
+     "규칙이 잘못 고른 날": {
+      "n": 1,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -4.51,
+       "median": -4.51,
+       "n": 1
+      },
+      "power_raw_pct": {
+       "mean": 12.19,
+       "median": 12.19,
+       "n": 1
+      },
+      "act19_e8": {
+       "mean": 2.163,
+       "median": 2.163,
+       "n": 1
+      },
+      "gap49_mkt_e8": {
+       "mean": -2.085,
+       "median": -2.085,
+       "n": 1
+      },
+      "gap49_own_e8": {
+       "mean": -1.44,
+       "median": -1.44,
+       "n": 1
+      },
+      "gap638_m3_e8": null
+     },
+     "못 정함": {
+      "n": 1,
+      "truth_spread": 0,
+      "power_ex_mkt_pct": {
+       "mean": 1.34,
+       "median": 1.34,
+       "n": 1
+      },
+      "power_raw_pct": {
+       "mean": 0.4,
+       "median": 0.4,
+       "n": 1
+      },
+      "act19_e8": {
+       "mean": 0.052,
+       "median": 0.052,
+       "n": 1
+      },
+      "gap49_mkt_e8": {
+       "mean": -0.158,
+       "median": -0.158,
+       "n": 1
+      },
+      "gap49_own_e8": {
+       "mean": 0.443,
+       "median": 0.443,
+       "n": 1
+      },
+      "gap638_m3_e8": {
+       "mean": 0.91,
+       "median": 0.91,
+       "n": 1
+      }
+     },
+     "시장 전체": {
+      "n": 1,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -3.92,
+       "median": -3.92,
+       "n": 1
+      },
+      "power_raw_pct": {
+       "mean": -4.85,
+       "median": -4.85,
+       "n": 1
+      },
+      "act19_e8": {
+       "mean": -0.913,
+       "median": -0.913,
+       "n": 1
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.725,
+       "median": -1.725,
+       "n": 1
+      },
+      "gap49_own_e8": {
+       "mean": -0.735,
+       "median": -0.735,
+       "n": 1
+      },
+      "gap638_m3_e8": {
+       "mean": 0.18,
+       "median": 0.18,
+       "n": 1
+      }
+     },
+     "전력 쪽 시작": {
+      "n": 1,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -1.3,
+       "median": -1.3,
+       "n": 1
+      },
+      "power_raw_pct": {
+       "mean": -1.93,
+       "median": -1.93,
+       "n": 1
+      },
+      "act19_e8": {
+       "mean": -0.32,
+       "median": -0.32,
+       "n": 1
+      },
+      "gap49_mkt_e8": {
+       "mean": -0.633,
+       "median": -0.633,
+       "n": 1
+      },
+      "gap49_own_e8": {
+       "mean": -0.256,
+       "median": -0.256,
+       "n": 1
+      },
+      "gap638_m3_e8": {
+       "mean": 0.32,
+       "median": 0.32,
+       "n": 1
+      }
+     },
+     "칩 고유": {
+      "n": 7,
+      "truth_spread": 5,
+      "power_ex_mkt_pct": {
+       "mean": -2.466,
+       "median": -3.05,
+       "n": 7
+      },
+      "power_raw_pct": {
+       "mean": -3.203,
+       "median": -3.72,
+       "n": 7
+      },
+      "act19_e8": {
+       "mean": -0.577,
+       "median": -0.681,
+       "n": 7
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.304,
+       "median": -1.617,
+       "n": 7
+      },
+      "gap49_own_e8": {
+       "mean": -0.591,
+       "median": -0.932,
+       "n": 7
+      },
+      "gap638_m3_e8": {
+       "mean": -0.133,
+       "median": -0.225,
+       "n": 6
+      }
+     }
+    },
+    "by_verdict": {
+     "번진다": {
+      "n": 10,
+      "truth_spread": 10,
+      "power_ex_mkt_pct": {
+       "mean": -3.462,
+       "median": -3.445,
+       "n": 10
+      },
+      "power_raw_pct": {
+       "mean": -4.032,
+       "median": -4.39,
+       "n": 10
+      },
+      "act19_e8": {
+       "mean": -0.766,
+       "median": -0.85,
+       "n": 10
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.974,
+       "median": -2.089,
+       "n": 10
+      },
+      "gap49_own_e8": {
+       "mean": -1.006,
+       "median": -0.98,
+       "n": 10
+      },
+      "gap638_m3_e8": {
+       "mean": 0.279,
+       "median": 0.25,
+       "n": 10
+      }
+     },
+     "안 번진다": {
+      "n": 0,
+      "truth_spread": 0,
+      "power_ex_mkt_pct": null,
+      "power_raw_pct": null,
+      "act19_e8": null,
+      "gap49_mkt_e8": null,
+      "gap49_own_e8": null,
+      "gap638_m3_e8": null
+     },
+     "넘김": {
+      "n": 9,
+      "truth_spread": 6,
+      "power_ex_mkt_pct": {
+       "mean": -2.27,
+       "median": -3.05,
+       "n": 9
+      },
+      "power_raw_pct": {
+       "mean": -1.092,
+       "median": -3.29,
+       "n": 9
+      },
+      "act19_e8": {
+       "mean": -0.202,
+       "median": -0.654,
+       "n": 9
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.263,
+       "median": -1.617,
+       "n": 9
+      },
+      "gap49_own_e8": {
+       "mean": -0.57,
+       "median": -0.932,
+       "n": 9
+      },
+      "gap638_m3_e8": {
+       "mean": 0.016,
+       "median": 0.06,
+       "n": 7
+      }
+     }
+    },
+    "ai_vs_chip": {
+     "power_ex_mkt_pct": {
+      "diff": -1.209,
+      "n_x": 8,
+      "n_y": 7,
+      "p_one_sided_x_lower": 0.0814,
+      "exact": true,
+      "perms": 6435
+     },
+     "power_raw_pct": {
+      "diff": -0.99,
+      "n_x": 8,
+      "n_y": 7,
+      "p_one_sided_x_lower": 0.1313,
+      "exact": true,
+      "perms": 6435
+     },
+     "gap49_mkt_e8": {
+      "diff": -0.869,
+      "n_x": 8,
+      "n_y": 7,
+      "p_one_sided_x_lower": 0.0085,
+      "exact": true,
+      "perms": 6435
+     }
+    },
+    "yes_vs_rest": {
+     "power_ex_mkt_pct": {
+      "diff": -1.192,
+      "n_x": 10,
+      "n_y": 9,
+      "p_one_sided_x_lower": 0.0851,
+      "exact": true,
+      "perms": 92378
+     },
+     "power_raw_pct": {
+      "diff": -2.94,
+      "n_x": 10,
+      "n_y": 9,
+      "p_one_sided_x_lower": 0.0361,
+      "exact": true,
+      "perms": 92378
+     },
+     "gap49_mkt_e8": {
+      "diff": -0.71,
+      "n_x": 10,
+      "n_y": 9,
+      "p_one_sided_x_lower": 0.0249,
+      "exact": true,
+      "perms": 92378
+     }
+    },
+    "hedge": {
+     "days": 17,
+     "act_sum_e8": -10.99,
+     "dates": [
+      "2026-03-03",
+      "2026-03-30",
+      "2026-05-18",
+      "2026-06-16",
+      "2026-06-23",
+      "2026-07-01",
+      "2026-07-02",
+      "2026-07-07",
+      "2026-07-15",
+      "2026-07-16",
+      "2026-07-24",
+      "2026-07-28",
+      "2026-08-05",
+      "2026-08-18",
+      "2026-09-14",
+      "2026-10-08",
+      "2026-10-22"
+     ],
+     "늘 자기 업종 펀드": {
+      "left_pct_of_sum": 73.2,
+      "abs_left_pct": 73.6,
+      "smh_days": 0,
+      "still_loss_days": 16.0
+     },
+     "늘 반도체 펀드": {
+      "left_pct_of_sum": 20.5,
+      "abs_left_pct": 37.3,
+      "smh_days": 17,
+      "still_loss_days": 13.0
+     },
+     "지난 주가로 고르는 규칙": {
+      "left_pct_of_sum": 43.7,
+      "abs_left_pct": 46.8,
+      "smh_days": 12,
+      "still_loss_days": 15.0
+     },
+     "개체가 「번진다」로 읽은 날만 반도체": {
+      "left_pct_of_sum": 37.2,
+      "abs_left_pct": 40.1,
+      "smh_days": 10,
+      "still_loss_days": 14.0
+     },
+     "개체가 「AI 투자 전반」으로 읽은 날만 반도체": {
+      "left_pct_of_sum": 43.3,
+      "abs_left_pct": 45.0,
+      "smh_days": 8,
+      "still_loss_days": 15.0
+     },
+     "「번진다」 또는 「AI 투자 전반」인 날만 반도체": {
+      "left_pct_of_sum": 37.2,
+      "abs_left_pct": 40.1,
+      "smh_days": 10,
+      "still_loss_days": 14.0
+     },
+     "(견줌) 정답이 번짐인 날만 반도체": {
+      "left_pct_of_sum": 28.7,
+      "abs_left_pct": 31.7,
+      "smh_days": 15,
+      "still_loss_days": 14.0
+     }
+    }
+   },
+   "나": {
+    "by_cause": {
+     "AI 투자 전반": {
+      "n": 8,
+      "truth_spread": 8,
+      "power_ex_mkt_pct": {
+       "mean": -3.675,
+       "median": -3.52,
+       "n": 8
+      },
+      "power_raw_pct": {
+       "mean": -4.192,
+       "median": -4.39,
+       "n": 8
+      },
+      "act19_e8": {
+       "mean": -0.803,
+       "median": -0.85,
+       "n": 8
+      },
+      "gap49_mkt_e8": {
+       "mean": -2.172,
+       "median": -2.426,
+       "n": 8
+      },
+      "gap49_own_e8": {
+       "mean": -1.134,
+       "median": -1.236,
+       "n": 8
+      },
+      "gap638_m3_e8": {
+       "mean": 0.286,
+       "median": 0.14,
+       "n": 8
+      }
+     },
+     "못 정함": {
+      "n": 1,
+      "truth_spread": 0,
+      "power_ex_mkt_pct": {
+       "mean": 1.34,
+       "median": 1.34,
+       "n": 1
+      },
+      "power_raw_pct": {
+       "mean": 0.4,
+       "median": 0.4,
+       "n": 1
+      },
+      "act19_e8": {
+       "mean": 0.052,
+       "median": 0.052,
+       "n": 1
+      },
+      "gap49_mkt_e8": {
+       "mean": -0.158,
+       "median": -0.158,
+       "n": 1
+      },
+      "gap49_own_e8": {
+       "mean": 0.443,
+       "median": 0.443,
+       "n": 1
+      },
+      "gap638_m3_e8": {
+       "mean": 0.91,
+       "median": 0.91,
+       "n": 1
+      }
+     },
+     "시장 전체": {
+      "n": 1,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -3.92,
+       "median": -3.92,
+       "n": 1
+      },
+      "power_raw_pct": {
+       "mean": -4.85,
+       "median": -4.85,
+       "n": 1
+      },
+      "act19_e8": {
+       "mean": -0.913,
+       "median": -0.913,
+       "n": 1
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.725,
+       "median": -1.725,
+       "n": 1
+      },
+      "gap49_own_e8": {
+       "mean": -0.735,
+       "median": -0.735,
+       "n": 1
+      },
+      "gap638_m3_e8": {
+       "mean": 0.18,
+       "median": 0.18,
+       "n": 1
+      }
+     },
+     "전력 쪽 시작": {
+      "n": 1,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -1.3,
+       "median": -1.3,
+       "n": 1
+      },
+      "power_raw_pct": {
+       "mean": -1.93,
+       "median": -1.93,
+       "n": 1
+      },
+      "act19_e8": {
+       "mean": -0.32,
+       "median": -0.32,
+       "n": 1
+      },
+      "gap49_mkt_e8": {
+       "mean": -0.633,
+       "median": -0.633,
+       "n": 1
+      },
+      "gap49_own_e8": {
+       "mean": -0.256,
+       "median": -0.256,
+       "n": 1
+      },
+      "gap638_m3_e8": {
+       "mean": 0.32,
+       "median": 0.32,
+       "n": 1
+      }
+     },
+     "칩 고유": {
+      "n": 7,
+      "truth_spread": 5,
+      "power_ex_mkt_pct": {
+       "mean": -2.466,
+       "median": -3.05,
+       "n": 7
+      },
+      "power_raw_pct": {
+       "mean": -3.203,
+       "median": -3.72,
+       "n": 7
+      },
+      "act19_e8": {
+       "mean": -0.577,
+       "median": -0.681,
+       "n": 7
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.304,
+       "median": -1.617,
+       "n": 7
+      },
+      "gap49_own_e8": {
+       "mean": -0.591,
+       "median": -0.932,
+       "n": 7
+      },
+      "gap638_m3_e8": {
+       "mean": -0.133,
+       "median": -0.225,
+       "n": 6
+      }
+     }
+    },
+    "by_verdict": {
+     "번진다": {
+      "n": 10,
+      "truth_spread": 10,
+      "power_ex_mkt_pct": {
+       "mean": -3.462,
+       "median": -3.445,
+       "n": 10
+      },
+      "power_raw_pct": {
+       "mean": -4.032,
+       "median": -4.39,
+       "n": 10
+      },
+      "act19_e8": {
+       "mean": -0.766,
+       "median": -0.85,
+       "n": 10
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.974,
+       "median": -2.089,
+       "n": 10
+      },
+      "gap49_own_e8": {
+       "mean": -1.006,
+       "median": -0.98,
+       "n": 10
+      },
+      "gap638_m3_e8": {
+       "mean": 0.279,
+       "median": 0.25,
+       "n": 10
+      }
+     },
+     "안 번진다": {
+      "n": 0,
+      "truth_spread": 0,
+      "power_ex_mkt_pct": null,
+      "power_raw_pct": null,
+      "act19_e8": null,
+      "gap49_mkt_e8": null,
+      "gap49_own_e8": null,
+      "gap638_m3_e8": null
+     },
+     "넘김": {
+      "n": 8,
+      "truth_spread": 5,
+      "power_ex_mkt_pct": {
+       "mean": -1.99,
+       "median": -2.785,
+       "n": 8
+      },
+      "power_raw_pct": {
+       "mean": -2.752,
+       "median": -3.505,
+       "n": 8
+      },
+      "act19_e8": {
+       "mean": -0.498,
+       "median": -0.668,
+       "n": 8
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.16,
+       "median": -1.549,
+       "n": 8
+      },
+      "gap49_own_e8": {
+       "mean": -0.462,
+       "median": -0.71,
+       "n": 8
+      },
+      "gap638_m3_e8": {
+       "mean": 0.016,
+       "median": 0.06,
+       "n": 7
+      }
+     }
+    },
+    "ai_vs_chip": {
+     "power_ex_mkt_pct": {
+      "diff": -1.209,
+      "n_x": 8,
+      "n_y": 7,
+      "p_one_sided_x_lower": 0.0814,
+      "exact": true,
+      "perms": 6435
+     },
+     "power_raw_pct": {
+      "diff": -0.99,
+      "n_x": 8,
+      "n_y": 7,
+      "p_one_sided_x_lower": 0.1313,
+      "exact": true,
+      "perms": 6435
+     },
+     "gap49_mkt_e8": {
+      "diff": -0.869,
+      "n_x": 8,
+      "n_y": 7,
+      "p_one_sided_x_lower": 0.0085,
+      "exact": true,
+      "perms": 6435
+     }
+    },
+    "yes_vs_rest": {
+     "power_ex_mkt_pct": {
+      "diff": -1.472,
+      "n_x": 10,
+      "n_y": 8,
+      "p_one_sided_x_lower": 0.0503,
+      "exact": true,
+      "perms": 43758
+     },
+     "power_raw_pct": {
+      "diff": -1.28,
+      "n_x": 10,
+      "n_y": 8,
+      "p_one_sided_x_lower": 0.0761,
+      "exact": true,
+      "perms": 43758
+     },
+     "gap49_mkt_e8": {
+      "diff": -0.813,
+      "n_x": 10,
+      "n_y": 8,
+      "p_one_sided_x_lower": 0.0166,
+      "exact": true,
+      "perms": 43758
+     }
+    },
+    "hedge": {
+     "days": 17,
+     "act_sum_e8": -10.99,
+     "dates": [
+      "2026-03-03",
+      "2026-03-30",
+      "2026-05-18",
+      "2026-06-16",
+      "2026-06-23",
+      "2026-07-01",
+      "2026-07-02",
+      "2026-07-07",
+      "2026-07-15",
+      "2026-07-16",
+      "2026-07-24",
+      "2026-07-28",
+      "2026-08-05",
+      "2026-08-18",
+      "2026-09-14",
+      "2026-10-08",
+      "2026-10-22"
+     ],
+     "늘 자기 업종 펀드": {
+      "left_pct_of_sum": 73.2,
+      "abs_left_pct": 73.6,
+      "smh_days": 0,
+      "still_loss_days": 16.0
+     },
+     "늘 반도체 펀드": {
+      "left_pct_of_sum": 20.5,
+      "abs_left_pct": 37.3,
+      "smh_days": 17,
+      "still_loss_days": 13.0
+     },
+     "지난 주가로 고르는 규칙": {
+      "left_pct_of_sum": 43.7,
+      "abs_left_pct": 46.8,
+      "smh_days": 12,
+      "still_loss_days": 15.0
+     },
+     "개체가 「번진다」로 읽은 날만 반도체": {
+      "left_pct_of_sum": 37.2,
+      "abs_left_pct": 40.1,
+      "smh_days": 10,
+      "still_loss_days": 14.0
+     },
+     "개체가 「AI 투자 전반」으로 읽은 날만 반도체": {
+      "left_pct_of_sum": 43.3,
+      "abs_left_pct": 45.0,
+      "smh_days": 8,
+      "still_loss_days": 15.0
+     },
+     "「번진다」 또는 「AI 투자 전반」인 날만 반도체": {
+      "left_pct_of_sum": 37.2,
+      "abs_left_pct": 40.1,
+      "smh_days": 10,
+      "still_loss_days": 14.0
+     },
+     "(견줌) 정답이 번짐인 날만 반도체": {
+      "left_pct_of_sum": 28.7,
+      "abs_left_pct": 31.7,
+      "smh_days": 15,
+      "still_loss_days": 14.0
+     }
+    }
+   },
+   "다": {
+    "by_cause": {
+     "AI 투자 전반": {
+      "n": 5,
+      "truth_spread": 5,
+      "power_ex_mkt_pct": {
+       "mean": -3.416,
+       "median": -2.97,
+       "n": 5
+      },
+      "power_raw_pct": {
+       "mean": -3.374,
+       "median": -3.72,
+       "n": 5
+      },
+      "act19_e8": {
+       "mean": -0.619,
+       "median": -0.632,
+       "n": 5
+      },
+      "gap49_mkt_e8": {
+       "mean": -2.242,
+       "median": -2.601,
+       "n": 5
+      },
+      "gap49_own_e8": {
+       "mean": -1.14,
+       "median": -1.141,
+       "n": 5
+      },
+      "gap638_m3_e8": {
+       "mean": 0.176,
+       "median": 0.36,
+       "n": 5
+      }
+     },
+     "못 정함": {
+      "n": 1,
+      "truth_spread": 0,
+      "power_ex_mkt_pct": {
+       "mean": 1.34,
+       "median": 1.34,
+       "n": 1
+      },
+      "power_raw_pct": {
+       "mean": 0.4,
+       "median": 0.4,
+       "n": 1
+      },
+      "act19_e8": {
+       "mean": 0.052,
+       "median": 0.052,
+       "n": 1
+      },
+      "gap49_mkt_e8": {
+       "mean": -0.158,
+       "median": -0.158,
+       "n": 1
+      },
+      "gap49_own_e8": {
+       "mean": 0.443,
+       "median": 0.443,
+       "n": 1
+      },
+      "gap638_m3_e8": {
+       "mean": 0.91,
+       "median": 0.91,
+       "n": 1
+      }
+     },
+     "칩 고유": {
+      "n": 5,
+      "truth_spread": 4,
+      "power_ex_mkt_pct": {
+       "mean": -2.656,
+       "median": -3.05,
+       "n": 5
+      },
+      "power_raw_pct": {
+       "mean": -3.194,
+       "median": -3.84,
+       "n": 5
+      },
+      "act19_e8": {
+       "mean": -0.579,
+       "median": -0.688,
+       "n": 5
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.382,
+       "median": -1.617,
+       "n": 5
+      },
+      "gap49_own_e8": {
+       "mean": -0.758,
+       "median": -1.063,
+       "n": 5
+      },
+      "gap638_m3_e8": {
+       "mean": 0.0,
+       "median": 0.06,
+       "n": 5
+      }
+     }
+    },
+    "by_verdict": {
+     "번진다": {
+      "n": 5,
+      "truth_spread": 5,
+      "power_ex_mkt_pct": {
+       "mean": -3.416,
+       "median": -2.97,
+       "n": 5
+      },
+      "power_raw_pct": {
+       "mean": -3.374,
+       "median": -3.72,
+       "n": 5
+      },
+      "act19_e8": {
+       "mean": -0.619,
+       "median": -0.632,
+       "n": 5
+      },
+      "gap49_mkt_e8": {
+       "mean": -2.242,
+       "median": -2.601,
+       "n": 5
+      },
+      "gap49_own_e8": {
+       "mean": -1.14,
+       "median": -1.141,
+       "n": 5
+      },
+      "gap638_m3_e8": {
+       "mean": 0.176,
+       "median": 0.36,
+       "n": 5
+      }
+     },
+     "안 번진다": {
+      "n": 0,
+      "truth_spread": 0,
+      "power_ex_mkt_pct": null,
+      "power_raw_pct": null,
+      "act19_e8": null,
+      "gap49_mkt_e8": null,
+      "gap49_own_e8": null,
+      "gap638_m3_e8": null
+     },
+     "넘김": {
+      "n": 6,
+      "truth_spread": 4,
+      "power_ex_mkt_pct": {
+       "mean": -1.99,
+       "median": -2.785,
+       "n": 6
+      },
+      "power_raw_pct": {
+       "mean": -2.595,
+       "median": -3.78,
+       "n": 6
+      },
+      "act19_e8": {
+       "mean": -0.474,
+       "median": -0.684,
+       "n": 6
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.178,
+       "median": -1.549,
+       "n": 6
+      },
+      "gap49_own_e8": {
+       "mean": -0.558,
+       "median": -0.775,
+       "n": 6
+      },
+      "gap638_m3_e8": {
+       "mean": 0.152,
+       "median": 0.32,
+       "n": 6
+      }
+     }
+    },
+    "ai_vs_chip": {
+     "power_ex_mkt_pct": {
+      "diff": -0.76,
+      "n_x": 5,
+      "n_y": 5,
+      "p_one_sided_x_lower": 0.2421,
+      "exact": true,
+      "perms": 252
+     },
+     "power_raw_pct": {
+      "diff": -0.18,
+      "n_x": 5,
+      "n_y": 5,
+      "p_one_sided_x_lower": 0.4167,
+      "exact": true,
+      "perms": 252
+     },
+     "gap49_mkt_e8": {
+      "diff": -0.86,
+      "n_x": 5,
+      "n_y": 5,
+      "p_one_sided_x_lower": 0.0397,
+      "exact": true,
+      "perms": 252
+     }
+    },
+    "yes_vs_rest": {
+     "power_ex_mkt_pct": {
+      "diff": -1.426,
+      "n_x": 5,
+      "n_y": 6,
+      "p_one_sided_x_lower": 0.132,
+      "exact": true,
+      "perms": 462
+     },
+     "power_raw_pct": {
+      "diff": -0.779,
+      "n_x": 5,
+      "n_y": 6,
+      "p_one_sided_x_lower": 0.2381,
+      "exact": true,
+      "perms": 462
+     },
+     "gap49_mkt_e8": {
+      "diff": -1.064,
+      "n_x": 5,
+      "n_y": 6,
+      "p_one_sided_x_lower": 0.0216,
+      "exact": true,
+      "perms": 462
+     }
+    },
+    "hedge": {
+     "days": 11,
+     "act_sum_e8": -5.94,
+     "dates": [
+      "2026-03-03",
+      "2026-03-30",
+      "2026-05-18",
+      "2026-06-16",
+      "2026-07-01",
+      "2026-07-02",
+      "2026-07-07",
+      "2026-07-15",
+      "2026-07-16",
+      "2026-07-28",
+      "2026-08-05"
+     ],
+     "늘 자기 업종 펀드": {
+      "left_pct_of_sum": 73.1,
+      "abs_left_pct": 73.7,
+      "smh_days": 0,
+      "still_loss_days": 10.0
+     },
+     "늘 반도체 펀드": {
+      "left_pct_of_sum": 16.0,
+      "abs_left_pct": 44.7,
+      "smh_days": 11,
+      "still_loss_days": 8.0
+     },
+     "지난 주가로 고르는 규칙": {
+      "left_pct_of_sum": 52.4,
+      "abs_left_pct": 55.7,
+      "smh_days": 7,
+      "still_loss_days": 10.0
+     },
+     "개체가 「번진다」로 읽은 날만 반도체": {
+      "left_pct_of_sum": 37.5,
+      "abs_left_pct": 40.7,
+      "smh_days": 5,
+      "still_loss_days": 9.0
+     },
+     "개체가 「AI 투자 전반」으로 읽은 날만 반도체": {
+      "left_pct_of_sum": 37.5,
+      "abs_left_pct": 40.7,
+      "smh_days": 5,
+      "still_loss_days": 9.0
+     },
+     "「번진다」 또는 「AI 투자 전반」인 날만 반도체": {
+      "left_pct_of_sum": 37.5,
+      "abs_left_pct": 40.7,
+      "smh_days": 5,
+      "still_loss_days": 9.0
+     },
+     "(견줌) 정답이 번짐인 날만 반도체": {
+      "left_pct_of_sum": 31.1,
+      "abs_left_pct": 34.4,
+      "smh_days": 9,
+      "still_loss_days": 9.0
+     }
+    }
+   }
+  },
+  "점검1(해석1 을 점검)": {
+   "가": {
+    "by_cause": {
+     "AI 투자 전반": {
+      "n": 8,
+      "truth_spread": 8,
+      "power_ex_mkt_pct": {
+       "mean": -5.753,
+       "median": -4.515,
+       "n": 8
+      },
+      "power_raw_pct": {
+       "mean": -6.596,
+       "median": -5.13,
+       "n": 8
+      },
+      "act19_e8": {
+       "mean": -1.087,
+       "median": -0.98,
+       "n": 8
+      },
+      "gap49_mkt_e8": {
+       "mean": -2.155,
+       "median": -2.05,
+       "n": 8
+      },
+      "gap49_own_e8": {
+       "mean": -1.266,
+       "median": -1.241,
+       "n": 8
+      },
+      "gap638_m3_e8": {
+       "mean": -0.024,
+       "median": -0.35,
+       "n": 7
+      }
+     },
+     "규칙이 잘못 고른 날": {
+      "n": 6,
+      "truth_spread": 4,
+      "power_ex_mkt_pct": {
+       "mean": -2.095,
+       "median": -2.82,
+       "n": 6
+      },
+      "power_raw_pct": {
+       "mean": 0.572,
+       "median": -0.52,
+       "n": 6
+      },
+      "act19_e8": {
+       "mean": 0.068,
+       "median": -0.116,
+       "n": 6
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.421,
+       "median": -1.728,
+       "n": 6
+      },
+      "gap49_own_e8": {
+       "mean": -0.679,
+       "median": -0.924,
+       "n": 6
+      },
+      "gap638_m3_e8": {
+       "mean": 0.702,
+       "median": 0.78,
+       "n": 5
+      }
+     },
+     "시장 전체": {
+      "n": 2,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -1.89,
+       "median": -1.89,
+       "n": 2
+      },
+      "power_raw_pct": {
+       "mean": -4.395,
+       "median": -4.395,
+       "n": 2
+      },
+      "act19_e8": {
+       "mean": -0.824,
+       "median": -0.824,
+       "n": 2
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.262,
+       "median": -1.262,
+       "n": 2
+      },
+      "gap49_own_e8": {
+       "mean": -0.174,
+       "median": -0.174,
+       "n": 2
+      },
+      "gap638_m3_e8": {
+       "mean": 1.39,
+       "median": 1.39,
+       "n": 2
+      }
+     },
+     "전력 쪽 시작": {
+      "n": 1,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -1.3,
+       "median": -1.3,
+       "n": 1
+      },
+      "power_raw_pct": {
+       "mean": -1.93,
+       "median": -1.93,
+       "n": 1
+      },
+      "act19_e8": {
+       "mean": -0.32,
+       "median": -0.32,
+       "n": 1
+      },
+      "gap49_mkt_e8": {
+       "mean": -0.633,
+       "median": -0.633,
+       "n": 1
+      },
+      "gap49_own_e8": {
+       "mean": -0.256,
+       "median": -0.256,
+       "n": 1
+      },
+      "gap638_m3_e8": {
+       "mean": 0.32,
+       "median": 0.32,
+       "n": 1
+      }
+     },
+     "칩 고유": {
+      "n": 8,
+      "truth_spread": 6,
+      "power_ex_mkt_pct": {
+       "mean": -2.132,
+       "median": -2.645,
+       "n": 8
+      },
+      "power_raw_pct": {
+       "mean": -2.894,
+       "median": -3.225,
+       "n": 8
+      },
+      "act19_e8": {
+       "mean": -0.519,
+       "median": -0.599,
+       "n": 8
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.359,
+       "median": -1.551,
+       "n": 8
+      },
+      "gap49_own_e8": {
+       "mean": -0.616,
+       "median": -0.71,
+       "n": 8
+      },
+      "gap638_m3_e8": {
+       "mean": -0.073,
+       "median": -0.075,
+       "n": 6
+      }
+     }
+    },
+    "by_verdict": {
+     "번진다": {
+      "n": 5,
+      "truth_spread": 5,
+      "power_ex_mkt_pct": {
+       "mean": -5.948,
+       "median": -4.09,
+       "n": 5
+      },
+      "power_raw_pct": {
+       "mean": -7.168,
+       "median": -5.6,
+       "n": 5
+      },
+      "act19_e8": {
+       "mean": -1.163,
+       "median": -0.983,
+       "n": 5
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.912,
+       "median": -1.729,
+       "n": 5
+      },
+      "gap49_own_e8": {
+       "mean": -1.125,
+       "median": -1.152,
+       "n": 5
+      },
+      "gap638_m3_e8": {
+       "mean": 0.743,
+       "median": 0.605,
+       "n": 4
+      }
+     },
+     "안 번진다": {
+      "n": 3,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -1.09,
+       "median": 0.31,
+       "n": 3
+      },
+      "power_raw_pct": {
+       "mean": 4.317,
+       "median": 0.75,
+       "n": 3
+      },
+      "act19_e8": {
+       "mean": 0.778,
+       "median": 0.186,
+       "n": 3
+      },
+      "gap49_mkt_e8": {
+       "mean": -0.775,
+       "median": -0.228,
+       "n": 3
+      },
+      "gap49_own_e8": {
+       "mean": -0.461,
+       "median": -0.088,
+       "n": 3
+      },
+      "gap638_m3_e8": {
+       "mean": 1.09,
+       "median": 1.09,
+       "n": 2
+      }
+     },
+     "넘김": {
+      "n": 17,
+      "truth_spread": 14,
+      "power_ex_mkt_pct": {
+       "mean": -2.807,
+       "median": -3.05,
+       "n": 17
+      },
+      "power_raw_pct": {
+       "mean": -3.548,
+       "median": -3.84,
+       "n": 17
+      },
+      "act19_e8": {
+       "mean": -0.643,
+       "median": -0.681,
+       "n": 17
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.642,
+       "median": -1.659,
+       "n": 17
+      },
+      "gap49_own_e8": {
+       "mean": -0.749,
+       "median": -0.932,
+       "n": 17
+      },
+      "gap638_m3_e8": {
+       "mean": 0.057,
+       "median": 0.06,
+       "n": 15
+      }
+     }
+    },
+    "ai_vs_chip": {
+     "power_ex_mkt_pct": {
+      "diff": -3.62,
+      "n_x": 8,
+      "n_y": 8,
+      "p_one_sided_x_lower": 0.0033,
+      "exact": true,
+      "perms": 12870
+     },
+     "power_raw_pct": {
+      "diff": -3.703,
+      "n_x": 8,
+      "n_y": 8,
+      "p_one_sided_x_lower": 0.0003,
+      "exact": true,
+      "perms": 12870
+     },
+     "gap49_mkt_e8": {
+      "diff": -0.796,
+      "n_x": 8,
+      "n_y": 8,
+      "p_one_sided_x_lower": 0.0341,
+      "exact": true,
+      "perms": 12870
+     }
+    },
+    "yes_vs_rest": {
+     "power_ex_mkt_pct": {
+      "diff": -3.399,
+      "n_x": 5,
+      "n_y": 20,
+      "p_one_sided_x_lower": 0.0545,
+      "exact": true,
+      "perms": 53130
+     },
+     "power_raw_pct": {
+      "diff": -4.8,
+      "n_x": 5,
+      "n_y": 20,
+      "p_one_sided_x_lower": 0.0093,
+      "exact": true,
+      "perms": 53130
+     },
+     "gap49_mkt_e8": {
+      "diff": -0.401,
+      "n_x": 5,
+      "n_y": 20,
+      "p_one_sided_x_lower": 0.1886,
+      "exact": true,
+      "perms": 53130
+     }
+    },
+    "hedge": {
+     "days": 21,
+     "act_sum_e8": -13.18,
+     "dates": [
+      "2025-10-14",
+      "2025-12-12",
+      "2026-02-04",
+      "2026-03-03",
+      "2026-03-30",
+      "2026-05-18",
+      "2026-06-05",
+      "2026-06-16",
+      "2026-06-23",
+      "2026-07-01",
+      "2026-07-02",
+      "2026-07-07",
+      "2026-07-15",
+      "2026-07-16",
+      "2026-07-24",
+      "2026-07-28",
+      "2026-08-05",
+      "2026-08-18",
+      "2026-09-14",
+      "2026-10-08",
+      "2026-10-22"
+     ],
+     "늘 자기 업종 펀드": {
+      "left_pct_of_sum": 76.9,
+      "abs_left_pct": 75.1,
+      "smh_days": 0,
+      "still_loss_days": 20.0
+     },
+     "늘 반도체 펀드": {
+      "left_pct_of_sum": 12.9,
+      "abs_left_pct": 40.4,
+      "smh_days": 21,
+      "still_loss_days": 15.0
+     },
+     "지난 주가로 고르는 규칙": {
+      "left_pct_of_sum": 39.5,
+      "abs_left_pct": 47.5,
+      "smh_days": 15,
+      "still_loss_days": 18.0
+     },
+     "개체가 「번진다」로 읽은 날만 반도체": {
+      "left_pct_of_sum": 61.8,
+      "abs_left_pct": 61.4,
+      "smh_days": 4,
+      "still_loss_days": 19.0
+     },
+     "개체가 「AI 투자 전반」으로 읽은 날만 반도체": {
+      "left_pct_of_sum": 53.0,
+      "abs_left_pct": 52.0,
+      "smh_days": 7,
+      "still_loss_days": 20.0
+     },
+     "「번진다」 또는 「AI 투자 전반」인 날만 반도체": {
+      "left_pct_of_sum": 49.0,
+      "abs_left_pct": 49.1,
+      "smh_days": 8,
+      "still_loss_days": 19.0
+     },
+     "(견줌) 정답이 번짐인 날만 반도체": {
+      "left_pct_of_sum": 31.2,
+      "abs_left_pct": 32.8,
+      "smh_days": 17,
+      "still_loss_days": 18.0
+     }
+    }
+   },
+   "나": {
+    "by_cause": {
+     "AI 투자 전반": {
+      "n": 7,
+      "truth_spread": 7,
+      "power_ex_mkt_pct": {
+       "mean": -4.187,
+       "median": -4.35,
+       "n": 7
+      },
+      "power_raw_pct": {
+       "mean": -5.129,
+       "median": -5.03,
+       "n": 7
+      },
+      "act19_e8": {
+       "mean": -0.924,
+       "median": -0.978,
+       "n": 7
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.957,
+       "median": -1.759,
+       "n": 7
+      },
+      "gap49_own_e8": {
+       "mean": -1.102,
+       "median": -1.152,
+       "n": 7
+      },
+      "gap638_m3_e8": {
+       "mean": -0.024,
+       "median": -0.35,
+       "n": 7
+      }
+     },
+     "규칙이 잘못 고른 날": {
+      "n": 6,
+      "truth_spread": 4,
+      "power_ex_mkt_pct": {
+       "mean": -2.095,
+       "median": -2.82,
+       "n": 6
+      },
+      "power_raw_pct": {
+       "mean": 0.572,
+       "median": -0.52,
+       "n": 6
+      },
+      "act19_e8": {
+       "mean": 0.068,
+       "median": -0.116,
+       "n": 6
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.421,
+       "median": -1.728,
+       "n": 6
+      },
+      "gap49_own_e8": {
+       "mean": -0.679,
+       "median": -0.924,
+       "n": 6
+      },
+      "gap638_m3_e8": {
+       "mean": 0.702,
+       "median": 0.78,
+       "n": 5
+      }
+     },
+     "시장 전체": {
+      "n": 2,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -1.89,
+       "median": -1.89,
+       "n": 2
+      },
+      "power_raw_pct": {
+       "mean": -4.395,
+       "median": -4.395,
+       "n": 2
+      },
+      "act19_e8": {
+       "mean": -0.824,
+       "median": -0.824,
+       "n": 2
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.262,
+       "median": -1.262,
+       "n": 2
+      },
+      "gap49_own_e8": {
+       "mean": -0.174,
+       "median": -0.174,
+       "n": 2
+      },
+      "gap638_m3_e8": {
+       "mean": 1.39,
+       "median": 1.39,
+       "n": 2
+      }
+     },
+     "전력 쪽 시작": {
+      "n": 1,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -1.3,
+       "median": -1.3,
+       "n": 1
+      },
+      "power_raw_pct": {
+       "mean": -1.93,
+       "median": -1.93,
+       "n": 1
+      },
+      "act19_e8": {
+       "mean": -0.32,
+       "median": -0.32,
+       "n": 1
+      },
+      "gap49_mkt_e8": {
+       "mean": -0.633,
+       "median": -0.633,
+       "n": 1
+      },
+      "gap49_own_e8": {
+       "mean": -0.256,
+       "median": -0.256,
+       "n": 1
+      },
+      "gap638_m3_e8": {
+       "mean": 0.32,
+       "median": 0.32,
+       "n": 1
+      }
+     },
+     "칩 고유": {
+      "n": 8,
+      "truth_spread": 6,
+      "power_ex_mkt_pct": {
+       "mean": -2.132,
+       "median": -2.645,
+       "n": 8
+      },
+      "power_raw_pct": {
+       "mean": -2.894,
+       "median": -3.225,
+       "n": 8
+      },
+      "act19_e8": {
+       "mean": -0.519,
+       "median": -0.599,
+       "n": 8
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.359,
+       "median": -1.551,
+       "n": 8
+      },
+      "gap49_own_e8": {
+       "mean": -0.616,
+       "median": -0.71,
+       "n": 8
+      },
+      "gap638_m3_e8": {
+       "mean": -0.073,
+       "median": -0.075,
+       "n": 6
+      }
+     }
+    },
+    "by_verdict": {
+     "번진다": {
+      "n": 4,
+      "truth_spread": 4,
+      "power_ex_mkt_pct": {
+       "mean": -3.257,
+       "median": -3.255,
+       "n": 4
+      },
+      "power_raw_pct": {
+       "mean": -4.742,
+       "median": -5.105,
+       "n": 4
+      },
+      "act19_e8": {
+       "mean": -0.896,
+       "median": -0.98,
+       "n": 4
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.505,
+       "median": -1.523,
+       "n": 4
+      },
+      "gap49_own_e8": {
+       "mean": -0.804,
+       "median": -0.704,
+       "n": 4
+      },
+      "gap638_m3_e8": {
+       "mean": 0.743,
+       "median": 0.605,
+       "n": 4
+      }
+     },
+     "안 번진다": {
+      "n": 3,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -1.09,
+       "median": 0.31,
+       "n": 3
+      },
+      "power_raw_pct": {
+       "mean": 4.317,
+       "median": 0.75,
+       "n": 3
+      },
+      "act19_e8": {
+       "mean": 0.778,
+       "median": 0.186,
+       "n": 3
+      },
+      "gap49_mkt_e8": {
+       "mean": -0.775,
+       "median": -0.228,
+       "n": 3
+      },
+      "gap49_own_e8": {
+       "mean": -0.461,
+       "median": -0.088,
+       "n": 3
+      },
+      "gap638_m3_e8": {
+       "mean": 1.09,
+       "median": 1.09,
+       "n": 2
+      }
+     },
+     "넘김": {
+      "n": 17,
+      "truth_spread": 14,
+      "power_ex_mkt_pct": {
+       "mean": -2.807,
+       "median": -3.05,
+       "n": 17
+      },
+      "power_raw_pct": {
+       "mean": -3.548,
+       "median": -3.84,
+       "n": 17
+      },
+      "act19_e8": {
+       "mean": -0.643,
+       "median": -0.681,
+       "n": 17
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.642,
+       "median": -1.659,
+       "n": 17
+      },
+      "gap49_own_e8": {
+       "mean": -0.749,
+       "median": -0.932,
+       "n": 17
+      },
+      "gap638_m3_e8": {
+       "mean": 0.057,
+       "median": 0.06,
+       "n": 15
+      }
+     }
+    },
+    "ai_vs_chip": {
+     "power_ex_mkt_pct": {
+      "diff": -2.055,
+      "n_x": 7,
+      "n_y": 8,
+      "p_one_sided_x_lower": 0.0065,
+      "exact": true,
+      "perms": 6435
+     },
+     "power_raw_pct": {
+      "diff": -2.235,
+      "n_x": 7,
+      "n_y": 8,
+      "p_one_sided_x_lower": 0.0006,
+      "exact": true,
+      "perms": 6435
+     },
+     "gap49_mkt_e8": {
+      "diff": -0.598,
+      "n_x": 7,
+      "n_y": 8,
+      "p_one_sided_x_lower": 0.0678,
+      "exact": true,
+      "perms": 6435
+     }
+    },
+    "yes_vs_rest": {
+     "power_ex_mkt_pct": {
+      "diff": -0.708,
+      "n_x": 4,
+      "n_y": 20,
+      "p_one_sided_x_lower": 0.2724,
+      "exact": true,
+      "perms": 10626
+     },
+     "power_raw_pct": {
+      "diff": -2.374,
+      "n_x": 4,
+      "n_y": 20,
+      "p_one_sided_x_lower": 0.0463,
+      "exact": true,
+      "perms": 10626
+     },
+     "gap49_mkt_e8": {
+      "diff": 0.007,
+      "n_x": 4,
+      "n_y": 20,
+      "p_one_sided_x_lower": 0.5147,
+      "exact": true,
+      "perms": 10626
+     }
+    },
+    "hedge": {
+     "days": 21,
+     "act_sum_e8": -13.18,
+     "dates": [
+      "2025-10-14",
+      "2025-12-12",
+      "2026-02-04",
+      "2026-03-03",
+      "2026-03-30",
+      "2026-05-18",
+      "2026-06-05",
+      "2026-06-16",
+      "2026-06-23",
+      "2026-07-01",
+      "2026-07-02",
+      "2026-07-07",
+      "2026-07-15",
+      "2026-07-16",
+      "2026-07-24",
+      "2026-07-28",
+      "2026-08-05",
+      "2026-08-18",
+      "2026-09-14",
+      "2026-10-08",
+      "2026-10-22"
+     ],
+     "늘 자기 업종 펀드": {
+      "left_pct_of_sum": 76.9,
+      "abs_left_pct": 75.1,
+      "smh_days": 0,
+      "still_loss_days": 20.0
+     },
+     "늘 반도체 펀드": {
+      "left_pct_of_sum": 12.9,
+      "abs_left_pct": 40.4,
+      "smh_days": 21,
+      "still_loss_days": 15.0
+     },
+     "지난 주가로 고르는 규칙": {
+      "left_pct_of_sum": 39.5,
+      "abs_left_pct": 47.5,
+      "smh_days": 15,
+      "still_loss_days": 18.0
+     },
+     "개체가 「번진다」로 읽은 날만 반도체": {
+      "left_pct_of_sum": 61.8,
+      "abs_left_pct": 61.4,
+      "smh_days": 4,
+      "still_loss_days": 19.0
+     },
+     "개체가 「AI 투자 전반」으로 읽은 날만 반도체": {
+      "left_pct_of_sum": 53.0,
+      "abs_left_pct": 52.0,
+      "smh_days": 7,
+      "still_loss_days": 20.0
+     },
+     "「번진다」 또는 「AI 투자 전반」인 날만 반도체": {
+      "left_pct_of_sum": 49.0,
+      "abs_left_pct": 49.1,
+      "smh_days": 8,
+      "still_loss_days": 19.0
+     },
+     "(견줌) 정답이 번짐인 날만 반도체": {
+      "left_pct_of_sum": 31.2,
+      "abs_left_pct": 32.8,
+      "smh_days": 17,
+      "still_loss_days": 18.0
+     }
+    }
+   },
+   "다": {
+    "by_cause": {
+     "AI 투자 전반": {
+      "n": 7,
+      "truth_spread": 7,
+      "power_ex_mkt_pct": {
+       "mean": -4.187,
+       "median": -4.35,
+       "n": 7
+      },
+      "power_raw_pct": {
+       "mean": -5.129,
+       "median": -5.03,
+       "n": 7
+      },
+      "act19_e8": {
+       "mean": -0.924,
+       "median": -0.978,
+       "n": 7
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.957,
+       "median": -1.759,
+       "n": 7
+      },
+      "gap49_own_e8": {
+       "mean": -1.102,
+       "median": -1.152,
+       "n": 7
+      },
+      "gap638_m3_e8": {
+       "mean": -0.024,
+       "median": -0.35,
+       "n": 7
+      }
+     },
+     "규칙이 잘못 고른 날": {
+      "n": 6,
+      "truth_spread": 4,
+      "power_ex_mkt_pct": {
+       "mean": -2.095,
+       "median": -2.82,
+       "n": 6
+      },
+      "power_raw_pct": {
+       "mean": 0.572,
+       "median": -0.52,
+       "n": 6
+      },
+      "act19_e8": {
+       "mean": 0.068,
+       "median": -0.116,
+       "n": 6
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.421,
+       "median": -1.728,
+       "n": 6
+      },
+      "gap49_own_e8": {
+       "mean": -0.679,
+       "median": -0.924,
+       "n": 6
+      },
+      "gap638_m3_e8": {
+       "mean": 0.702,
+       "median": 0.78,
+       "n": 5
+      }
+     },
+     "시장 전체": {
+      "n": 1,
+      "truth_spread": 0,
+      "power_ex_mkt_pct": {
+       "mean": 0.14,
+       "median": 0.14,
+       "n": 1
+      },
+      "power_raw_pct": {
+       "mean": -3.94,
+       "median": -3.94,
+       "n": 1
+      },
+      "act19_e8": {
+       "mean": -0.736,
+       "median": -0.736,
+       "n": 1
+      },
+      "gap49_mkt_e8": {
+       "mean": -0.798,
+       "median": -0.798,
+       "n": 1
+      },
+      "gap49_own_e8": {
+       "mean": 0.388,
+       "median": 0.388,
+       "n": 1
+      },
+      "gap638_m3_e8": {
+       "mean": 2.6,
+       "median": 2.6,
+       "n": 1
+      }
+     },
+     "전력 쪽 시작": {
+      "n": 1,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -1.3,
+       "median": -1.3,
+       "n": 1
+      },
+      "power_raw_pct": {
+       "mean": -1.93,
+       "median": -1.93,
+       "n": 1
+      },
+      "act19_e8": {
+       "mean": -0.32,
+       "median": -0.32,
+       "n": 1
+      },
+      "gap49_mkt_e8": {
+       "mean": -0.633,
+       "median": -0.633,
+       "n": 1
+      },
+      "gap49_own_e8": {
+       "mean": -0.256,
+       "median": -0.256,
+       "n": 1
+      },
+      "gap638_m3_e8": {
+       "mean": 0.32,
+       "median": 0.32,
+       "n": 1
+      }
+     },
+     "칩 고유": {
+      "n": 6,
+      "truth_spread": 5,
+      "power_ex_mkt_pct": {
+       "mean": -2.18,
+       "median": -2.645,
+       "n": 6
+      },
+      "power_raw_pct": {
+       "mean": -2.783,
+       "median": -3.31,
+       "n": 6
+      },
+      "act19_e8": {
+       "mean": -0.502,
+       "median": -0.612,
+       "n": 6
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.442,
+       "median": -1.551,
+       "n": 6
+      },
+      "gap49_own_e8": {
+       "mean": -0.765,
+       "median": -0.775,
+       "n": 6
+      },
+      "gap638_m3_e8": {
+       "mean": 0.072,
+       "median": 0.36,
+       "n": 5
+      }
+     }
+    },
+    "by_verdict": {
+     "번진다": {
+      "n": 4,
+      "truth_spread": 4,
+      "power_ex_mkt_pct": {
+       "mean": -3.257,
+       "median": -3.255,
+       "n": 4
+      },
+      "power_raw_pct": {
+       "mean": -4.742,
+       "median": -5.105,
+       "n": 4
+      },
+      "act19_e8": {
+       "mean": -0.896,
+       "median": -0.98,
+       "n": 4
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.505,
+       "median": -1.523,
+       "n": 4
+      },
+      "gap49_own_e8": {
+       "mean": -0.804,
+       "median": -0.704,
+       "n": 4
+      },
+      "gap638_m3_e8": {
+       "mean": 0.743,
+       "median": 0.605,
+       "n": 4
+      }
+     },
+     "안 번진다": {
+      "n": 3,
+      "truth_spread": 1,
+      "power_ex_mkt_pct": {
+       "mean": -1.09,
+       "median": 0.31,
+       "n": 3
+      },
+      "power_raw_pct": {
+       "mean": 4.317,
+       "median": 0.75,
+       "n": 3
+      },
+      "act19_e8": {
+       "mean": 0.778,
+       "median": 0.186,
+       "n": 3
+      },
+      "gap49_mkt_e8": {
+       "mean": -0.775,
+       "median": -0.228,
+       "n": 3
+      },
+      "gap49_own_e8": {
+       "mean": -0.461,
+       "median": -0.088,
+       "n": 3
+      },
+      "gap638_m3_e8": {
+       "mean": 1.09,
+       "median": 1.09,
+       "n": 2
+      }
+     },
+     "넘김": {
+      "n": 14,
+      "truth_spread": 12,
+      "power_ex_mkt_pct": {
+       "mean": -2.844,
+       "median": -3.01,
+       "n": 14
+      },
+      "power_raw_pct": {
+       "mean": -3.501,
+       "median": -3.89,
+       "n": 14
+      },
+      "act19_e8": {
+       "mean": -0.634,
+       "median": -0.684,
+       "n": 14
+      },
+      "gap49_mkt_e8": {
+       "mean": -1.712,
+       "median": -1.69,
+       "n": 14
+      },
+      "gap49_own_e8": {
+       "mean": -0.832,
+       "median": -1.052,
+       "n": 14
+      },
+      "gap638_m3_e8": {
+       "mean": 0.113,
+       "median": 0.06,
+       "n": 13
+      }
+     }
+    },
+    "ai_vs_chip": {
+     "power_ex_mkt_pct": {
+      "diff": -2.007,
+      "n_x": 7,
+      "n_y": 6,
+      "p_one_sided_x_lower": 0.0134,
+      "exact": true,
+      "perms": 1716
+     },
+     "power_raw_pct": {
+      "diff": -2.345,
+      "n_x": 7,
+      "n_y": 6,
+      "p_one_sided_x_lower": 0.0023,
+      "exact": true,
+      "perms": 1716
+     },
+     "gap49_mkt_e8": {
+      "diff": -0.515,
+      "n_x": 7,
+      "n_y": 6,
+      "p_one_sided_x_lower": 0.1247,
+      "exact": true,
+      "perms": 1716
+     }
+    },
+    "yes_vs_rest": {
+     "power_ex_mkt_pct": {
+      "diff": -0.723,
+      "n_x": 4,
+      "n_y": 17,
+      "p_one_sided_x_lower": 0.2762,
+      "exact": true,
+      "perms": 5985
+     },
+     "power_raw_pct": {
+      "diff": -2.621,
+      "n_x": 4,
+      "n_y": 17,
+      "p_one_sided_x_lower": 0.049,
+      "exact": true,
+      "perms": 5985
+     },
+     "gap49_mkt_e8": {
+      "diff": 0.042,
+      "n_x": 4,
+      "n_y": 17,
+      "p_one_sided_x_lower": 0.5442,
+      "exact": true,
+      "perms": 5985
+     }
+    },
+    "hedge": {
+     "days": 19,
+     "act_sum_e8": -11.79,
+     "dates": [
+      "2025-10-14",
+      "2025-12-12",
+      "2026-02-04",
+      "2026-03-03",
+      "2026-03-30",
+      "2026-05-18",
+      "2026-06-05",
+      "2026-06-16",
+      "2026-06-23",
+      "2026-07-01",
+      "2026-07-02",
+      "2026-07-07",
+      "2026-07-15",
+      "2026-07-16",
+      "2026-07-28",
+      "2026-08-05",
+      "2026-09-14",
+      "2026-10-08",
+      "2026-10-22"
+     ],
+     "늘 자기 업종 펀드": {
+      "left_pct_of_sum": 76.6,
+      "abs_left_pct": 74.6,
+      "smh_days": 0,
+      "still_loss_days": 18.0
+     },
+     "늘 반도체 펀드": {
+      "left_pct_of_sum": 11.0,
+      "abs_left_pct": 41.7,
+      "smh_days": 19,
+      "still_loss_days": 13.0
+     },
+     "지난 주가로 고르는 규칙": {
+      "left_pct_of_sum": 40.7,
+      "abs_left_pct": 49.6,
+      "smh_days": 13,
+      "still_loss_days": 16.0
+     },
+     "개체가 「번진다」로 읽은 날만 반도체": {
+      "left_pct_of_sum": 59.6,
+      "abs_left_pct": 59.3,
+      "smh_days": 4,
+      "still_loss_days": 17.0
+     },
+     "개체가 「AI 투자 전반」으로 읽은 날만 반도체": {
+      "left_pct_of_sum": 49.8,
+      "abs_left_pct": 48.8,
+      "smh_days": 7,
+      "still_loss_days": 18.0
+     },
+     "「번진다」 또는 「AI 투자 전반」인 날만 반도체": {
+      "left_pct_of_sum": 45.3,
+      "abs_left_pct": 45.6,
+      "smh_days": 8,
+      "still_loss_days": 17.0
+     },
+     "(견줌) 정답이 번짐인 날만 반도체": {
+      "left_pct_of_sum": 31.5,
+      "abs_left_pct": 33.3,
+      "smh_days": 15,
+      "still_loss_days": 16.0
+     }
+    }
+   }
+  }
+ }
+}

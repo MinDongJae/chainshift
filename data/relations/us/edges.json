@@ -1,0 +1,2018 @@
+[
+ {
+  "edge_id": "US-001",
+  "from": {
+   "name": "Taiwan Semiconductor Manufacturing (TSMC)",
+   "id": "TICKER:TSM"
+  },
+  "to": {
+   "name": "NVIDIA",
+   "id": "TICKER:NVDA"
+  },
+  "relation": "supplies_to",
+  "what": "NVIDIA 반도체 웨이퍼 생산(파운드리)",
+  "evidence": [
+   {
+    "quote": "We utilize foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-02-25",
+    "retrieved_at": "2026-11-10T01:41:33.504998+00:00",
+    "raw_file": "relations/us/raw/sec/75dfb4ca31320e81d4f9184888afef19638eb2566e20f59de8ada117131b8676.sec.bin",
+    "text_sha256": "75dfb4ca31320e81d4f9184888afef19638eb2566e20f59de8ada117131b8676"
+   }
+  ],
+  "as_of": "2026-01-25",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "칩 단계의 상류. TSMC 는 KIC 미국 13F 에 없음. 이번 급락에서 이 관계를 탄 움직임은 확인 못 함(unknown)"
+ },
+ {
+  "edge_id": "US-002",
+  "from": {
+   "name": "Samsung Electronics",
+   "id": "TICKER:005930.KS"
+  },
+  "to": {
+   "name": "NVIDIA",
+   "id": "TICKER:NVDA"
+  },
+  "relation": "supplies_to",
+  "what": "웨이퍼 생산과 메모리 공급",
+  "evidence": [
+   {
+    "quote": "We utilize foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-02-25",
+    "retrieved_at": "2026-11-10T01:41:33.504998+00:00",
+    "raw_file": "relations/us/raw/sec/75dfb4ca31320e81d4f9184888afef19638eb2566e20f59de8ada117131b8676.sec.bin",
+    "text_sha256": "75dfb4ca31320e81d4f9184888afef19638eb2566e20f59de8ada117131b8676"
+   }
+  ],
+  "as_of": "2026-01-25",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "unknown — 한국 상장사라 미국 13F 보유 판정 대상 밖(false 는 「KIC 미국 공개 보유에 없음」의 뜻)"
+ },
+ {
+  "edge_id": "US-003",
+  "from": {
+   "name": "SK hynix",
+   "id": "TICKER:000660.KS"
+  },
+  "to": {
+   "name": "NVIDIA",
+   "id": "TICKER:NVDA"
+  },
+  "relation": "supplies_to",
+  "what": "메모리 공급",
+  "evidence": [
+   {
+    "quote": "We utilize foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-02-25",
+    "retrieved_at": "2026-11-10T01:41:33.504998+00:00",
+    "raw_file": "relations/us/raw/sec/75dfb4ca31320e81d4f9184888afef19638eb2566e20f59de8ada117131b8676.sec.bin",
+    "text_sha256": "75dfb4ca31320e81d4f9184888afef19638eb2566e20f59de8ada117131b8676"
+   }
+  ],
+  "as_of": "2026-01-25",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "unknown — 한국 상장사라 미국 13F 보유 판정 대상 밖(false 는 「KIC 미국 공개 보유에 없음」의 뜻). 국내 갈래와 이어지는 다리 후보"
+ },
+ {
+  "edge_id": "US-004",
+  "from": {
+   "name": "Micron Technology",
+   "id": "TICKER:MU"
+  },
+  "to": {
+   "name": "NVIDIA",
+   "id": "TICKER:NVDA"
+  },
+  "relation": "supplies_to",
+  "what": "메모리 공급",
+  "evidence": [
+   {
+    "quote": "We utilize foundries, such as Taiwan Semiconductor Manufacturing Company Limited, or TSMC, and Samsung Electronics Co., Ltd., or Samsung, to produce our semiconductor wafers. We purchase memory from SK Hynix Inc., Micron Technology, Inc., and Samsung.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-02-25",
+    "retrieved_at": "2026-11-10T01:41:33.504998+00:00",
+    "raw_file": "relations/us/raw/sec/75dfb4ca31320e81d4f9184888afef19638eb2566e20f59de8ada117131b8676.sec.bin",
+    "text_sha256": "75dfb4ca31320e81d4f9184888afef19638eb2566e20f59de8ada117131b8676"
+   }
+  ],
+  "as_of": "2026-01-25",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. 11/5 Micron -17.46 · NVDA -9.26 로 같이 떨어짐. Micron 은 대만 공장 보도가 겹쳐 이 관계만의 몫은 못 가림"
+ },
+ {
+  "edge_id": "US-005",
+  "from": {
+   "name": "Hon Hai Precision Industry",
+   "id": "TICKER:2317.TW"
+  },
+  "to": {
+   "name": "NVIDIA",
+   "id": "TICKER:NVDA"
+  },
+  "relation": "supplies_to",
+  "what": "조립·시험·포장 위탁 생산",
+  "evidence": [
+   {
+    "quote": "We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-02-25",
+    "retrieved_at": "2026-11-10T01:41:33.504998+00:00",
+    "raw_file": "relations/us/raw/sec/75dfb4ca31320e81d4f9184888afef19638eb2566e20f59de8ada117131b8676.sec.bin",
+    "text_sha256": "75dfb4ca31320e81d4f9184888afef19638eb2566e20f59de8ada117131b8676"
+   }
+  ],
+  "as_of": "2026-01-25",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "unknown — 대만 상장사라 미국 13F 보유 판정 대상 밖(false 는 「KIC 미국 공개 보유에 없음」의 뜻)"
+ },
+ {
+  "edge_id": "US-006",
+  "from": {
+   "name": "Wistron",
+   "id": "TICKER:3231.TW"
+  },
+  "to": {
+   "name": "NVIDIA",
+   "id": "TICKER:NVDA"
+  },
+  "relation": "supplies_to",
+  "what": "조립·시험·포장 위탁 생산",
+  "evidence": [
+   {
+    "quote": "We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-02-25",
+    "retrieved_at": "2026-11-10T01:41:33.504998+00:00",
+    "raw_file": "relations/us/raw/sec/75dfb4ca31320e81d4f9184888afef19638eb2566e20f59de8ada117131b8676.sec.bin",
+    "text_sha256": "75dfb4ca31320e81d4f9184888afef19638eb2566e20f59de8ada117131b8676"
+   }
+  ],
+  "as_of": "2026-01-25",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "unknown — 대만 상장사라 미국 13F 보유 판정 대상 밖(false 는 「KIC 미국 공개 보유에 없음」의 뜻)"
+ },
+ {
+  "edge_id": "US-007",
+  "from": {
+   "name": "Fabrinet",
+   "id": "TICKER:FN"
+  },
+  "to": {
+   "name": "NVIDIA",
+   "id": "TICKER:NVDA"
+  },
+  "relation": "supplies_to",
+  "what": "조립·시험·포장 위탁 생산. Fabrinet 매출의 16.3%(회계연도 2026)가 NVIDIA",
+  "evidence": [
+   {
+    "quote": "We engage with independent subcontractors and contract manufacturers such as Hon Hai Precision Industry Co., Ltd., Wistron Corporation, and Fabrinet to perform assembly, testing and packaging of our final products.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-02-25",
+    "retrieved_at": "2026-11-10T01:41:33.504998+00:00",
+    "raw_file": "relations/us/raw/sec/75dfb4ca31320e81d4f9184888afef19638eb2566e20f59de8ada117131b8676.sec.bin",
+    "text_sha256": "75dfb4ca31320e81d4f9184888afef19638eb2566e20f59de8ada117131b8676"
+   },
+   {
+    "quote": "Total revenues, by percentage, from individual customers representing 10% or more of total revenues in the respective periods were as follows: Years Ended June 26, 2026 June 27, 2025 June 28, 2024 Cisco Systems, Inc. 19.9 % 18.2 % 13.4 % NVIDIA Corporation 16.3 % 27.6 % 35.1 % Nokia Corporation 10.7 % * * Amazon.com, Inc. 10.5 %",
+    "url": "https://www.sec.gov/Archives/edgar/data/1408710/000140871026000028/fn-20260626.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-08-18",
+    "retrieved_at": "2026-11-10T01:45:42.661979+00:00",
+    "raw_file": "relations/us/raw/sec/d06b988840f4200745ea0fcede7ee7808b3d5c079c87f793c363a4ada41444fd.sec.bin",
+    "text_sha256": "d06b988840f4200745ea0fcede7ee7808b3d5c079c87f793c363a4ada41444fd"
+   }
+  ],
+  "as_of": "2026-06-26",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유, 양쪽 공시가 서로 이름을 댐. 11/5 Fabrinet -14.25 · NVDA -9.26"
+ },
+ {
+  "edge_id": "US-008",
+  "from": {
+   "name": "Fabrinet",
+   "id": "TICKER:FN"
+  },
+  "to": {
+   "name": "Cisco Systems",
+   "id": "TICKER:CSCO"
+  },
+  "relation": "supplies_to",
+  "what": "위탁 생산. Fabrinet 매출의 19.9%(회계연도 2026)",
+  "evidence": [
+   {
+    "quote": "Total revenues, by percentage, from individual customers representing 10% or more of total revenues in the respective periods were as follows: Years Ended June 26, 2026 June 27, 2025 June 28, 2024 Cisco Systems, Inc. 19.9 % 18.2 % 13.4 % NVIDIA Corporation 16.3 % 27.6 % 35.1 % Nokia Corporation 10.7 % * * Amazon.com, Inc. 10.5 %",
+    "url": "https://www.sec.gov/Archives/edgar/data/1408710/000140871026000028/fn-20260626.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-08-18",
+    "retrieved_at": "2026-11-10T01:45:42.661979+00:00",
+    "raw_file": "relations/us/raw/sec/d06b988840f4200745ea0fcede7ee7808b3d5c079c87f793c363a4ada41444fd.sec.bin",
+    "text_sha256": "d06b988840f4200745ea0fcede7ee7808b3d5c079c87f793c363a4ada41444fd"
+   }
+  ],
+  "as_of": "2026-06-26",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. Cisco 의 11/4~11/5 등락은 이번 조사에서 안 잼(unknown)"
+ },
+ {
+  "edge_id": "US-009",
+  "from": {
+   "name": "Fabrinet",
+   "id": "TICKER:FN"
+  },
+  "to": {
+   "name": "Nokia",
+   "id": "TICKER:NOK"
+  },
+  "relation": "supplies_to",
+  "what": "위탁 생산. Fabrinet 매출의 10.7%(회계연도 2026)",
+  "evidence": [
+   {
+    "quote": "Total revenues, by percentage, from individual customers representing 10% or more of total revenues in the respective periods were as follows: Years Ended June 26, 2026 June 27, 2025 June 28, 2024 Cisco Systems, Inc. 19.9 % 18.2 % 13.4 % NVIDIA Corporation 16.3 % 27.6 % 35.1 % Nokia Corporation 10.7 % * * Amazon.com, Inc. 10.5 %",
+    "url": "https://www.sec.gov/Archives/edgar/data/1408710/000140871026000028/fn-20260626.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-08-18",
+    "retrieved_at": "2026-11-10T01:45:42.661979+00:00",
+    "raw_file": "relations/us/raw/sec/d06b988840f4200745ea0fcede7ee7808b3d5c079c87f793c363a4ada41444fd.sec.bin",
+    "text_sha256": "d06b988840f4200745ea0fcede7ee7808b3d5c079c87f793c363a4ada41444fd"
+   }
+  ],
+  "as_of": "2026-06-26",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": false
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "US-010",
+  "from": {
+   "name": "Fabrinet",
+   "id": "TICKER:FN"
+  },
+  "to": {
+   "name": "Amazon (AWS 포함)",
+   "id": "TICKER:AMZN"
+  },
+  "relation": "supplies_to",
+  "what": "위탁 생산. Fabrinet 매출의 10.5%(회계연도 2026), 매출채권의 11.5%(2026-06-26)",
+  "evidence": [
+   {
+    "quote": "Total revenues, by percentage, from individual customers representing 10% or more of total revenues in the respective periods were as follows: Years Ended June 26, 2026 June 27, 2025 June 28, 2024 Cisco Systems, Inc. 19.9 % 18.2 % 13.4 % NVIDIA Corporation 16.3 % 27.6 % 35.1 % Nokia Corporation 10.7 % * * Amazon.com, Inc. 10.5 %",
+    "url": "https://www.sec.gov/Archives/edgar/data/1408710/000140871026000028/fn-20260626.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-08-18",
+    "retrieved_at": "2026-11-10T01:45:42.661979+00:00",
+    "raw_file": "relations/us/raw/sec/d06b988840f4200745ea0fcede7ee7808b3d5c079c87f793c363a4ada41444fd.sec.bin",
+    "text_sha256": "d06b988840f4200745ea0fcede7ee7808b3d5c079c87f793c363a4ada41444fd"
+   },
+   {
+    "quote": "Accounts receivable from individual customers representing 10% or more of accounts receivable as of June 26, 2026 and June 27, 2025, respectively, were as follows: As of June 26, 2026 As of June 27, 2025 Cisco Systems, Inc. 16.1 % 13.7 % Nokia Corporation 14.2 % 12.0 % Amazon.com, Inc. 11.5 %",
+    "url": "https://www.sec.gov/Archives/edgar/data/1408710/000140871026000028/fn-20260626.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-08-18",
+    "retrieved_at": "2026-11-10T01:45:42.661979+00:00",
+    "raw_file": "relations/us/raw/sec/d06b988840f4200745ea0fcede7ee7808b3d5c079c87f793c363a4ada41444fd.sec.bin",
+    "text_sha256": "d06b988840f4200745ea0fcede7ee7808b3d5c079c87f793c363a4ada41444fd"
+   }
+  ],
+  "as_of": "2026-06-26",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. 광부품이 빅테크로 직접 가는 경로. 11/4 Amazon +6.12 · Fabrinet -5.97 로 방향 반대"
+ },
+ {
+  "edge_id": "US-011",
+  "from": {
+   "name": "Taiwan Semiconductor Manufacturing (TSMC)",
+   "id": "TICKER:TSM"
+  },
+  "to": {
+   "name": "Advanced Micro Devices",
+   "id": "TICKER:AMD"
+  },
+  "relation": "supplies_to",
+  "what": "HPC·FPGA·적응형 SoC 웨이퍼 생산",
+  "evidence": [
+   {
+    "quote": "We utilize Taiwan Semiconductor Manufacturing Company Limited (TSMC) for the production of wafers for our HPC, FPGA and adaptive SoC products and GLOBALFOUNDRIES Inc. (GF), with respect to wafer purchases for our HPC products at the 12 nm and 14 nm technology nodes. Additionally, we utilize TSMC, United Microelectronics Corporation (UMC) and Samsung Electronics Co., Ltd. for the production of our ICs in the form of programmable logic devices.",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-02-04",
+    "retrieved_at": "2026-11-10T01:42:04.014113+00:00",
+    "raw_file": "relations/us/raw/sec/1e6ec11917c14f91f9d5e64214899b5daab8b5ea8549b2baaec3789055877c4b.sec.bin",
+    "text_sha256": "1e6ec11917c14f91f9d5e64214899b5daab8b5ea8549b2baaec3789055877c4b"
+   }
+  ],
+  "as_of": "2025-12-27",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "US-012",
+  "from": {
+   "name": "GlobalFoundries",
+   "id": "TICKER:GFS"
+  },
+  "to": {
+   "name": "Advanced Micro Devices",
+   "id": "TICKER:AMD"
+  },
+  "relation": "supplies_to",
+  "what": "12nm·14nm HPC 웨이퍼 공급",
+  "evidence": [
+   {
+    "quote": "We utilize Taiwan Semiconductor Manufacturing Company Limited (TSMC) for the production of wafers for our HPC, FPGA and adaptive SoC products and GLOBALFOUNDRIES Inc. (GF), with respect to wafer purchases for our HPC products at the 12 nm and 14 nm technology nodes.",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-02-04",
+    "retrieved_at": "2026-11-10T01:42:04.014113+00:00",
+    "raw_file": "relations/us/raw/sec/1e6ec11917c14f91f9d5e64214899b5daab8b5ea8549b2baaec3789055877c4b.sec.bin",
+    "text_sha256": "1e6ec11917c14f91f9d5e64214899b5daab8b5ea8549b2baaec3789055877c4b"
+   }
+  ],
+  "as_of": "2025-12-27",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "US-013",
+  "from": {
+   "name": "OpenAI",
+   "id": "PRIVATE:OpenAI"
+  },
+  "to": {
+   "name": "Advanced Micro Devices",
+   "id": "TICKER:AMD"
+  },
+  "relation": "customer_of",
+  "what": "AMD GPU 6GW 배치 제품 구매 계약(2025-10, 첫 1GW 는 MI450)",
+  "evidence": [
+   {
+    "quote": "In October 2025, we entered into a product purchase agreement with OpenAI OpCo, LLC, (OpenAI) to deploy 6 gigawatts of AMD GPUs, with the deployment of the first gigawatt of capacity powered by our AMD Instinct MI450 series products.",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/amd-20251227.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-02-04",
+    "retrieved_at": "2026-11-10T01:42:04.014113+00:00",
+    "raw_file": "relations/us/raw/sec/1e6ec11917c14f91f9d5e64214899b5daab8b5ea8549b2baaec3789055877c4b.sec.bin",
+    "text_sha256": "1e6ec11917c14f91f9d5e64214899b5daab8b5ea8549b2baaec3789055877c4b"
+   }
+  ],
+  "as_of": "2025-10",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "AMD 데이터센터 수요가 AI 회사 한 곳에 크게 묶인 자리. 11/5 AMD -17.26(전날 실적 호조 뒤). 이 계약의 변경은 확인 못 함"
+ },
+ {
+  "edge_id": "US-014",
+  "from": {
+   "name": "Taiwan Semiconductor Manufacturing (TSMC)",
+   "id": "TICKER:TSM"
+  },
+  "to": {
+   "name": "Broadcom",
+   "id": "TICKER:AVGO"
+  },
+  "relation": "supplies_to",
+  "what": "웨이퍼 생산 — 위탁 웨이퍼의 약 95%(회계연도 2025)",
+  "evidence": [
+   {
+    "quote": "During fiscal year 2025, approximately 95% of the wafers manufactured by our CMs were produced by TSMC.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/avgo-20251102.htm",
+    "source_kind": "SEC",
+    "published_at": "2025-12-18",
+    "retrieved_at": "2026-11-10T01:42:11.593903+00:00",
+    "raw_file": "relations/us/raw/sec/7b94908bf0e9aa46ca578f06f7d5e62d8a6de604c7b4282a121c2f839eae57a4.sec.bin",
+    "text_sha256": "7b94908bf0e9aa46ca578f06f7d5e62d8a6de604c7b4282a121c2f839eae57a4"
+   }
+  ],
+  "as_of": "2025-11-02",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "US-015",
+  "from": {
+   "name": "Taiwan Semiconductor Manufacturing (TSMC)",
+   "id": "TICKER:TSM"
+  },
+  "to": {
+   "name": "Astera Labs",
+   "id": "TICKER:ALAB"
+  },
+  "relation": "supplies_to",
+  "what": "모든 집적회로 생산, 유일한 제조사(대체 공급처 미확보)",
+  "evidence": [
+   {
+    "quote": "We currently partner with TSMC to manufacture our integrated circuits. TSMC is our sole manufacturing partner for our integrated circuits and we currently have not qualified another source.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629726000010/alab-20251231.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-02-20",
+    "retrieved_at": "2026-11-10T01:42:22.721727+00:00",
+    "raw_file": "relations/us/raw/sec/b48f85e583479ee6f5a9a9c6a98e330c5e8833420af124b9c3ee050c6cf5cf87.sec.bin",
+    "text_sha256": "b48f85e583479ee6f5a9a9c6a98e330c5e8833420af124b9c3ee050c6cf5cf87"
+   }
+  ],
+  "as_of": "2025-12-31",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "US-016",
+  "from": {
+   "name": "NVIDIA",
+   "id": "TICKER:NVDA"
+  },
+  "to": {
+   "name": "Intel",
+   "id": "TICKER:INTC"
+  },
+  "relation": "owns_stake_in",
+  "what": "Intel 보통주 214,776,632주(13F 2026-06-30, 신고액 29,989,261,126달러)",
+  "evidence": [
+   {
+    "quote": "gains from our previously announced investment in Intel’s common stock.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-02-25",
+    "retrieved_at": "2026-11-10T01:41:33.504998+00:00",
+    "raw_file": "relations/us/raw/sec/75dfb4ca31320e81d4f9184888afef19638eb2566e20f59de8ada117131b8676.sec.bin",
+    "text_sha256": "75dfb4ca31320e81d4f9184888afef19638eb2566e20f59de8ada117131b8676"
+   },
+   {
+    "quote": "INTEL CORP COM 458140100 29989261126 214776632 SH",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000065/information_table.xml",
+    "source_kind": "SEC",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T01:48:01.779754+00:00",
+    "raw_file": "relations/us/raw/sec/82b6070ef760ccf7944af329e4dd1c79cf36bed29e3d345ba2dcf769e0e0c1c3.sec.bin",
+    "text_sha256": "82b6070ef760ccf7944af329e4dd1c79cf36bed29e3d345ba2dcf769e0e0c1c3"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. Intel 의 11/4~11/5 등락은 이번 조사에서 안 잼(unknown)"
+ },
+ {
+  "edge_id": "US-017",
+  "from": {
+   "name": "NVIDIA",
+   "id": "TICKER:NVDA"
+  },
+  "to": {
+   "name": "CoreWeave",
+   "id": "TICKER:CRWV"
+  },
+  "relation": "owns_stake_in",
+  "what": "CoreWeave A주 47,213,353주(13F 2026-06-30). 2026-01 에 20억 달러(주당 87.20달러) 투자",
+  "evidence": [
+   {
+    "quote": "In January 2026, NVIDIA Corporation invested $ 2 billion in the Company's Class A common stock at a purchase price of $ 87.20 per share",
+    "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-03-02",
+    "retrieved_at": "2026-11-10T01:43:54.991326+00:00",
+    "raw_file": "relations/us/raw/sec/ab53865b1c9e18abfc9d650c7c701b8e10c5a02d80f943c553808de13611092f.sec.bin",
+    "text_sha256": "ab53865b1c9e18abfc9d650c7c701b8e10c5a02d80f943c553808de13611092f"
+   },
+   {
+    "quote": "COREWEAVE INC COM CL A 21873S108 4699617158 47213353 SH",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000065/information_table.xml",
+    "source_kind": "SEC",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T01:48:01.779754+00:00",
+    "raw_file": "relations/us/raw/sec/82b6070ef760ccf7944af329e4dd1c79cf36bed29e3d345ba2dcf769e0e0c1c3.sec.bin",
+    "text_sha256": "82b6070ef760ccf7944af329e4dd1c79cf36bed29e3d345ba2dcf769e0e0c1c3"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. 칩 회사가 네오클라우드 주주 — 11/5 CoreWeave -9.83 이 NVIDIA 보유 평가액에도 닿는 자리"
+ },
+ {
+  "edge_id": "US-018",
+  "from": {
+   "name": "NVIDIA",
+   "id": "TICKER:NVDA"
+  },
+  "to": {
+   "name": "Nebius Group",
+   "id": "TICKER:NBIS"
+  },
+  "relation": "owns_stake_in",
+  "what": "Nebius A주 1,190,476주(13F 2026-06-30)",
+  "evidence": [
+   {
+    "quote": "NEBIUS GROUP N.V. SHS CLASS A N97284108 328773757 1190476 SH",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000065/information_table.xml",
+    "source_kind": "SEC",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T01:48:01.779754+00:00",
+    "raw_file": "relations/us/raw/sec/82b6070ef760ccf7944af329e4dd1c79cf36bed29e3d345ba2dcf769e0e0c1c3.sec.bin",
+    "text_sha256": "82b6070ef760ccf7944af329e4dd1c79cf36bed29e3d345ba2dcf769e0e0c1c3"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. 11/5 Nebius -14.94"
+ },
+ {
+  "edge_id": "US-019",
+  "from": {
+   "name": "NVIDIA",
+   "id": "TICKER:NVDA"
+  },
+  "to": {
+   "name": "Coherent",
+   "id": "TICKER:COHR"
+  },
+  "relation": "owns_stake_in",
+  "what": "Coherent 보통주 7,788,161주(13F 2026-06-30)",
+  "evidence": [
+   {
+    "quote": "COHERENT CORP COM 19247G107 3072195870 7788161 SH",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000065/information_table.xml",
+    "source_kind": "SEC",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T01:48:01.779754+00:00",
+    "raw_file": "relations/us/raw/sec/82b6070ef760ccf7944af329e4dd1c79cf36bed29e3d345ba2dcf769e0e0c1c3.sec.bin",
+    "text_sha256": "82b6070ef760ccf7944af329e4dd1c79cf36bed29e3d345ba2dcf769e0e0c1c3"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. 11/5 Coherent -12.98(광통신 단계)"
+ },
+ {
+  "edge_id": "US-020",
+  "from": {
+   "name": "NVIDIA",
+   "id": "TICKER:NVDA"
+  },
+  "to": {
+   "name": "Synopsys",
+   "id": "TICKER:SNPS"
+  },
+  "relation": "owns_stake_in",
+  "what": "Synopsys 보통주 4,821,717주(13F 2026-06-30)",
+  "evidence": [
+   {
+    "quote": "SYNOPSYS INC COM 871607107 2150823302 4821717 SH",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000065/information_table.xml",
+    "source_kind": "SEC",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T01:48:01.779754+00:00",
+    "raw_file": "relations/us/raw/sec/82b6070ef760ccf7944af329e4dd1c79cf36bed29e3d345ba2dcf769e0e0c1c3.sec.bin",
+    "text_sha256": "82b6070ef760ccf7944af329e4dd1c79cf36bed29e3d345ba2dcf769e0e0c1c3"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "unknown — 체인 밖(설계 소프트웨어)"
+ },
+ {
+  "edge_id": "US-021",
+  "from": {
+   "name": "NVIDIA",
+   "id": "TICKER:NVDA"
+  },
+  "to": {
+   "name": "Nokia",
+   "id": "TICKER:NOK"
+  },
+  "relation": "owns_stake_in",
+  "what": "Nokia ADR 166,389,351주(13F 2026-06-30)",
+  "evidence": [
+   {
+    "quote": "NOKIA CORP SPONSORED ADR 654902204 2209650581 166389351 SH",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000065/information_table.xml",
+    "source_kind": "SEC",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T01:48:01.779754+00:00",
+    "raw_file": "relations/us/raw/sec/82b6070ef760ccf7944af329e4dd1c79cf36bed29e3d345ba2dcf769e0e0c1c3.sec.bin",
+    "text_sha256": "82b6070ef760ccf7944af329e4dd1c79cf36bed29e3d345ba2dcf769e0e0c1c3"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": false
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "US-022",
+  "from": {
+   "name": "NVIDIA",
+   "id": "TICKER:NVDA"
+  },
+  "to": {
+   "name": "Space Exploration Technologies (SpaceX)",
+   "id": "TICKER:SPCX"
+  },
+  "relation": "owns_stake_in",
+  "what": "SpaceX A주 122,764,805주(13F 2026-06-30)",
+  "evidence": [
+   {
+    "quote": "SPACE EXPLORATION TECHN CORP CLASS A COM STK 84615Q103 20975594582 122764805 SH",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000065/information_table.xml",
+    "source_kind": "SEC",
+    "published_at": "2026-08-14",
+    "retrieved_at": "2026-11-10T01:48:01.779754+00:00",
+    "raw_file": "relations/us/raw/sec/82b6070ef760ccf7944af329e4dd1c79cf36bed29e3d345ba2dcf769e0e0c1c3.sec.bin",
+    "text_sha256": "82b6070ef760ccf7944af329e4dd1c79cf36bed29e3d345ba2dcf769e0e0c1c3"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. SpaceX 11/5 「nearly 10%」 하락은 머스크 정치 노출 경로로 보도됨(데이터센터 경로 아님)"
+ },
+ {
+  "edge_id": "US-023",
+  "from": {
+   "name": "NVIDIA",
+   "id": "TICKER:NVDA"
+  },
+  "to": {
+   "name": "CoreWeave",
+   "id": "TICKER:CRWV"
+  },
+  "relation": "contract_counterparty",
+  "what": "CoreWeave–NVIDIA 기본 서비스 계약(2023-04-10, 10-K 첨부 목록)",
+  "evidence": [
+   {
+    "quote": "Master Services Agreement between CoreWeave, Inc. and NVIDIA Corporation, dated April 10, 2023",
+    "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-03-02",
+    "retrieved_at": "2026-11-10T01:43:54.991326+00:00",
+    "raw_file": "relations/us/raw/sec/ab53865b1c9e18abfc9d650c7c701b8e10c5a02d80f943c553808de13611092f.sec.bin",
+    "text_sha256": "ab53865b1c9e18abfc9d650c7c701b8e10c5a02d80f943c553808de13611092f"
+   }
+  ],
+  "as_of": "2023-04-10",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "unknown — 이 인용에는 계약 내용(누가 무엇을 사나)이 없음. 지분 관계(US-017)와 별개"
+ },
+ {
+  "edge_id": "US-024",
+  "from": {
+   "name": "Microsoft",
+   "id": "TICKER:MSFT"
+  },
+  "to": {
+   "name": "CoreWeave",
+   "id": "TICKER:CRWV"
+  },
+  "relation": "customer_of",
+  "what": "CoreWeave 2025년 매출의 약 67%가 최대 고객 Microsoft",
+  "evidence": [
+   {
+    "quote": "We recognized an aggregate of approximately 67% of our revenue from our top customer, Microsoft, for the year ended December 31, 2025.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-03-02",
+    "retrieved_at": "2026-11-10T01:43:54.991326+00:00",
+    "raw_file": "relations/us/raw/sec/ab53865b1c9e18abfc9d650c7c701b8e10c5a02d80f943c553808de13611092f.sec.bin",
+    "text_sha256": "ab53865b1c9e18abfc9d650c7c701b8e10c5a02d80f943c553808de13611092f"
+   }
+  ],
+  "as_of": "2025-12-31",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유, 이번 사건의 가장 직접 경로. 11/5 「Microsoft sours on neoclouds」 보도(Bloomberg, 본문 잠김) 날 CoreWeave -9.83, 11/4 Microsoft +6.68 · CoreWeave -9.90 으로 방향 반대"
+ },
+ {
+  "edge_id": "US-025",
+  "from": {
+   "name": "Meta Platforms",
+   "id": "TICKER:META"
+  },
+  "to": {
+   "name": "CoreWeave",
+   "id": "TICKER:CRWV"
+  },
+  "relation": "customer_of",
+  "what": "Meta 가 2031-12 까지 최대 약 142억 달러 지급 약정(2025-09 주문서)",
+  "evidence": [
+   {
+    "quote": "Similarly, in September 2025, we entered into an order form under an existing master services agreement pursuant to which Meta Platforms, Inc. (\"Meta\") initially committed to pay us up to approximately $14.2 billion through December 2031 and, as a result, we also expect Meta to be a significant customer in future periods.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-03-02",
+    "retrieved_at": "2026-11-10T01:43:54.991326+00:00",
+    "raw_file": "relations/us/raw/sec/ab53865b1c9e18abfc9d650c7c701b8e10c5a02d80f943c553808de13611092f.sec.bin",
+    "text_sha256": "ab53865b1c9e18abfc9d650c7c701b8e10c5a02d80f943c553808de13611092f"
+   }
+  ],
+  "as_of": "2025-09",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. 메타 사장 「harder」 발언(11/4 저녁) 뒤 11/5 Meta -3.96 · CoreWeave -9.83"
+ },
+ {
+  "edge_id": "US-026",
+  "from": {
+   "name": "OpenAI",
+   "id": "PRIVATE:OpenAI"
+  },
+  "to": {
+   "name": "CoreWeave",
+   "id": "TICKER:CRWV"
+  },
+  "relation": "customer_of",
+  "what": "OpenAI 가 2031-05 까지 최대 약 65억 달러 추가 지급 약정(2025-09 주문서)",
+  "evidence": [
+   {
+    "quote": "In May 2025, we entered into a master services agreement with OpenAI OpCo, LLC (\"OpenAI\") and in September 2025, we entered into an order form under this master services agreement pursuant to which OpenAI has committed to pay us up to approximately $6.5 billion through May 31, 2031 and, as a result, we expect OpenAI to be a significant customer in future periods.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-03-02",
+    "retrieved_at": "2026-11-10T01:43:54.991326+00:00",
+    "raw_file": "relations/us/raw/sec/ab53865b1c9e18abfc9d650c7c701b8e10c5a02d80f943c553808de13611092f.sec.bin",
+    "text_sha256": "ab53865b1c9e18abfc9d650c7c701b8e10c5a02d80f943c553808de13611092f"
+   }
+  ],
+  "as_of": "2025-09",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "OpenAI 의 내년 용량 조정 논의는 2차 기사로만 전해짐(원 보도 미확인)"
+ },
+ {
+  "edge_id": "US-027",
+  "from": {
+   "name": "CoreWeave",
+   "id": "TICKER:CRWV"
+  },
+  "to": {
+   "name": "Galaxy Digital",
+   "id": "TICKER:GLXY"
+  },
+  "relation": "lessee_of",
+  "what": "텍사스 Helios I 1단계 임차, IT 부하 133MW 전량 인도(2026 2분기 말)",
+  "evidence": [
+   {
+    "quote": "reflecting the first full quarter of revenue-generating operations under the Helios I, Phase I lease, with all 133 MW of critical IT load delivered to CoreWeave by the end of the second quarter.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1859392/000185939226000108/glxy-20260930xpressrelease.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-10-27",
+    "retrieved_at": "2026-11-10T01:43:20.418179+00:00",
+    "raw_file": "relations/us/raw/sec/2fffa1db9fdaf61b680cd686a8ca924e9095588fe734975b3ba78f7043a74dba.sec.bin",
+    "text_sha256": "2fffa1db9fdaf61b680cd686a8ca924e9095588fe734975b3ba78f7043a74dba"
+   }
+  ],
+  "as_of": "2026-06-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": false
+  },
+  "case_relevance": "보유(CoreWeave)↔보유 밖(Galaxy). 텍사스 규제 걱정이 닿은 자리: 11/4 Galaxy -16.99 · CoreWeave -9.90"
+ },
+ {
+  "edge_id": "US-028",
+  "from": {
+   "name": "CoreWeave",
+   "id": "TICKER:CRWV"
+  },
+  "to": {
+   "name": "Applied Digital",
+   "id": "TICKER:APLD"
+  },
+  "relation": "lessee_of",
+  "what": "노스다코타 Ellendale Polaris Forge 1 추가 150MW 임차(2025-08-28 계약)",
+  "evidence": [
+   {
+    "quote": "CoreWeave, Inc. (“CoreWeave”) exercised its option for an additional 150MW of hosting capacity at Applied Digital Corporation’s (the “Company”) 400 MW Ellendale, North Dakota datacenter campus (“Polaris Forge 1”).",
+    "url": "https://www.sec.gov/Archives/edgar/data/1144879/000149315225012458/form8-k.htm",
+    "source_kind": "SEC",
+    "published_at": "2025-08-29",
+    "retrieved_at": "2026-11-10T01:45:17.082987+00:00",
+    "raw_file": "relations/us/raw/sec/911a650d34a321f82c5d2c353b5dd5832fa077472e08358a28c1170bfb1a249c.sec.bin",
+    "text_sha256": "911a650d34a321f82c5d2c353b5dd5832fa077472e08358a28c1170bfb1a249c"
+   }
+  ],
+  "as_of": "2025-08-28",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": false
+  },
+  "case_relevance": "보유↔보유 밖. 텍사스 밖 시설. Applied Digital 11/4 -6.74 · 11/5 -14.69"
+ },
+ {
+  "edge_id": "US-029",
+  "from": {
+   "name": "CoreWeave",
+   "id": "TICKER:CRWV"
+  },
+  "to": {
+   "name": "Core Scientific",
+   "id": "TICKER:CORZ"
+  },
+  "relation": "contract_counterparty",
+  "what": "Core Scientific 의 첫 고밀도 데이터센터(HDC) 계약 상대(2024)",
+  "evidence": [
+   {
+    "quote": "In 2024, the Company announced its first HDC contract with CoreWeave, a provider of HPC services. In July 2026, the Company announced its second HDC contract with AMD and a Neocloud counterparty, further establishing the Company's strategic shift to its current HDC business.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1839341/000183934126000030/core-20260930.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-11-05",
+    "retrieved_at": "2026-11-10T01:47:06.108875+00:00",
+    "raw_file": "relations/us/raw/sec/1c28d5868569411985d53d8b23cff631ea6866705fddd6bbb06990b4fee98baf.sec.bin",
+    "text_sha256": "1c28d5868569411985d53d8b23cff631ea6866705fddd6bbb06990b4fee98baf"
+   }
+  ],
+  "as_of": "2026-09-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": false
+  },
+  "case_relevance": "보유↔보유 밖. Core Scientific 11/4 -10.39 · 11/5 -10.82(텍사스 개발사로 함께 거론)"
+ },
+ {
+  "edge_id": "US-030",
+  "from": {
+   "name": "Advanced Micro Devices",
+   "id": "TICKER:AMD"
+  },
+  "to": {
+   "name": "Core Scientific",
+   "id": "TICKER:CORZ"
+  },
+  "relation": "contract_counterparty",
+  "what": "Core Scientific 두 번째 HDC 계약(2026-07, AMD 와 이름 가려진 네오클라우드)",
+  "evidence": [
+   {
+    "quote": "In 2024, the Company announced its first HDC contract with CoreWeave, a provider of HPC services. In July 2026, the Company announced its second HDC contract with AMD and a Neocloud counterparty, further establishing the Company's strategic shift to its current HDC business.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1839341/000183934126000030/core-20260930.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-11-05",
+    "retrieved_at": "2026-11-10T01:47:06.108875+00:00",
+    "raw_file": "relations/us/raw/sec/1c28d5868569411985d53d8b23cff631ea6866705fddd6bbb06990b4fee98baf.sec.bin",
+    "text_sha256": "1c28d5868569411985d53d8b23cff631ea6866705fddd6bbb06990b4fee98baf"
+   }
+  ],
+  "as_of": "2026-07",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": false
+  },
+  "case_relevance": "보유↔보유 밖. 다른 계약 상대는 「a Neocloud counterparty」로 가려짐"
+ },
+ {
+  "edge_id": "US-031",
+  "from": {
+   "name": "Advanced Micro Devices",
+   "id": "TICKER:AMD"
+  },
+  "to": {
+   "name": "Riot Platforms",
+   "id": "TICKER:RIOT"
+  },
+  "relation": "lessee_of",
+  "what": "텍사스 Rockdale 데이터센터 임차, 첫 25MW(2026-01~05 단계 인도)",
+  "evidence": [
+   {
+    "quote": "The signing of a Data Center Lease and Services Agreement (“Data Center Lease”) with Advanced Micro Devices, Inc. (“AMD”), a leading innovator in high-performance computing, graphics and visualization technologies, at the Rockdale Site, which includes an initial deployment of 25 MW of critical IT load capacity to be delivered in phases beginning in January 2026 and completing in May 2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926004551/riot-20260116xex99d1.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-01-16",
+    "retrieved_at": "2026-11-10T01:43:20.735063+00:00",
+    "raw_file": "relations/us/raw/sec/c0d73818bb817257fba8ba6a358b6c3edd4af24041387074231fdff7f7ce6f5a.sec.bin",
+    "text_sha256": "c0d73818bb817257fba8ba6a358b6c3edd4af24041387074231fdff7f7ce6f5a"
+   }
+  ],
+  "as_of": "2026-01-16",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. Riot 은 승인된 전력을 가진 쪽이라 11/4 +9.63 으로 오름, AMD 는 11/5 -17.26"
+ },
+ {
+  "edge_id": "US-032",
+  "from": {
+   "name": "Microsoft",
+   "id": "TICKER:MSFT"
+  },
+  "to": {
+   "name": "IREN",
+   "id": "TICKER:IREN"
+  },
+  "relation": "customer_of",
+  "what": "텍사스 Childress Horizon 시설 GPU 클라우드 5년 계약 약 97억 달러(2025-11-02), 2026-09 분기에 Horizon 1 가동",
+  "evidence": [
+   {
+    "quote": "On November 2, 2025, IE US Hardware 3 Inc. (“IE US Hardware 3”), a wholly owned subsidiary of IREN Limited (the “Company”), and Microsoft Corporation (“Microsoft”) entered into a Partner Statement of Work (the “Microsoft Agreement”) , pursuant to which IE US Hardware 3 will provide Microsoft access to dedicated GPU infrastructure capacity in tranches (each, a “GPU Service”) at “Horizon” data center facilities located in Childress, Texas",
+    "url": "https://www.sec.gov/Archives/edgar/data/1878848/000114036125040072/ef20058139_8k.htm",
+    "source_kind": "SEC",
+    "published_at": "2025-11-03",
+    "retrieved_at": "2026-11-10T01:43:29.415264+00:00",
+    "raw_file": "relations/us/raw/sec/4786339fa6c261055c1d737bafd302f746eb6e16e465c287a82c5142e3cd6fc9.sec.bin",
+    "text_sha256": "4786339fa6c261055c1d737bafd302f746eb6e16e465c287a82c5142e3cd6fc9"
+   },
+   {
+    "quote": "This quarter Horizon 1 went into service for Microsoft with NVIDIA Exemplar status, AI Cloud revenue nearly tripled to $200 million, and operating ARR doubled to a billion,",
+    "url": "https://www.sec.gov/Archives/edgar/data/1878848/000187884826000065/irenreportsq1-fy27result.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-11-05",
+    "retrieved_at": "2026-11-10T01:43:30.002643+00:00",
+    "raw_file": "relations/us/raw/sec/8431d3f27595253f2212e35620c2342dd4b63028e4dfea54ec2d548e80c28a33.sec.bin",
+    "text_sha256": "8431d3f27595253f2212e35620c2342dd4b63028e4dfea54ec2d548e80c28a33"
+   }
+  ],
+  "as_of": "2026-11-05",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. 11/5 실적 공시가 ERCOT 감사·매출 목표 지연을 함께 밝힌 날 IREN -16.95(11/4 -11.24)"
+ },
+ {
+  "edge_id": "US-033",
+  "from": {
+   "name": "Dell Technologies",
+   "id": "TICKER:DELL"
+  },
+  "to": {
+   "name": "IREN",
+   "id": "TICKER:IREN"
+  },
+  "relation": "supplies_to",
+  "what": "Microsoft 계약용 GPU 와 부대 장비 구매 계약",
+  "evidence": [
+   {
+    "quote": "IREN has also entered into an agreement with Dell Technologies to purchase the GPUs and ancillary equipment",
+    "url": "https://www.sec.gov/Archives/edgar/data/1878848/000114036125040072/ef20058139_ex99-1.htm",
+    "source_kind": "SEC",
+    "published_at": "2025-11-03",
+    "retrieved_at": "2026-11-10T01:43:29.737220+00:00",
+    "raw_file": "relations/us/raw/sec/b99bdda44af2db800f55593f2109f152179cac048bcc8cd2f043e9127c9976db.sec.bin",
+    "text_sha256": "b99bdda44af2db800f55593f2109f152179cac048bcc8cd2f043e9127c9976db"
+   }
+  ],
+  "as_of": "2025-11-03",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. 서버 단계→네오클라우드 경로. 11/5 Dell -14.89 · IREN -16.95"
+ },
+ {
+  "edge_id": "US-034",
+  "from": {
+   "name": "Microsoft",
+   "id": "TICKER:MSFT"
+  },
+  "to": {
+   "name": "Nebius Group",
+   "id": "TICKER:NBIS"
+  },
+  "relation": "customer_of",
+  "what": "뉴저지 Vineland 데이터센터 GPU 용량 5년 계약(2025-09-08), 주주 서한상 174억~194억 달러",
+  "evidence": [
+   {
+    "quote": "On September 8, 2025, Nebius, Inc. (the “Company”), a wholly owned subsidiary of Nebius Group N.V. (“Nebius Group”), entered into a commercial agreement (the \"Agreement\") with Microsoft, pursuant to which the Company will provide Microsoft access to dedicated GPU infrastructure capacity in tranches (each, a “GPU Service”) at its new data center in Vineland, New Jersey (the “Data Center”) over a five-year term.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465925088312/tm2525580d1_6k.htm",
+    "source_kind": "SEC",
+    "published_at": "2025-09-08",
+    "retrieved_at": "2026-11-10T01:43:46.500608+00:00",
+    "raw_file": "relations/us/raw/sec/8f7f8a432c797874c8e88d4630aa7ff20132126d8e7f2a12f5a6ff9c33d3497f.sec.bin",
+    "text_sha256": "8f7f8a432c797874c8e88d4630aa7ff20132126d8e7f2a12f5a6ff9c33d3497f"
+   },
+   {
+    "quote": "our first large enterprise AI infrastructure win, with Microsoft, valued between $17.4 billion and $19.4 billion.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465925109806/tm2530882d1_ex99-2.htm",
+    "source_kind": "SEC",
+    "published_at": "2025-11-12",
+    "retrieved_at": "2026-11-10T01:43:47.036989+00:00",
+    "raw_file": "relations/us/raw/sec/2f0dcb158037265745ede731ff1b655d858915b2efd16bd6b3b328cc918461e5.sec.bin",
+    "text_sha256": "2f0dcb158037265745ede731ff1b655d858915b2efd16bd6b3b328cc918461e5"
+   }
+  ],
+  "as_of": "2025-09-08",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. 11/5 Microsoft 네오클라우드 감독 강화 보도 날 Nebius -14.94"
+ },
+ {
+  "edge_id": "US-035",
+  "from": {
+   "name": "Meta Platforms",
+   "id": "TICKER:META"
+  },
+  "to": {
+   "name": "Nebius Group",
+   "id": "TICKER:NBIS"
+  },
+  "relation": "customer_of",
+  "what": "약 30억 달러·5년 AI 인프라 계약(2025-11 발표)",
+  "evidence": [
+   {
+    "quote": "this time with Meta. Our agreement with Meta is valued at approximately $3 billion, with a five-year term.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465925109806/tm2530882d1_ex99-2.htm",
+    "source_kind": "SEC",
+    "published_at": "2025-11-12",
+    "retrieved_at": "2026-11-10T01:43:47.036989+00:00",
+    "raw_file": "relations/us/raw/sec/2f0dcb158037265745ede731ff1b655d858915b2efd16bd6b3b328cc918461e5.sec.bin",
+    "text_sha256": "2f0dcb158037265745ede731ff1b655d858915b2efd16bd6b3b328cc918461e5"
+   }
+  ],
+  "as_of": "2025-11-12",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유"
+ },
+ {
+  "edge_id": "US-036",
+  "from": {
+   "name": "Microsoft",
+   "id": "TICKER:MSFT"
+  },
+  "to": {
+   "name": "Nscale (상장 신청 중)",
+   "id": "SEC_CIK:0002110365"
+  },
+  "relation": "customer_of",
+  "what": "2033-12 까지 최대 약 438억 달러 작업 계약(2025-09~2026-04 체결)",
+  "evidence": [
+   {
+    "quote": "Between September 2025 and April 2026, we entered into statements of work with Microsoft that provide for payments to us of up to approximately $43.8 billion through December 2033, not including the optional extensions, which are subject to the satisfaction of delivery and availability of service requirements.",
+    "url": "https://www.sec.gov/Archives/edgar/data/2110365/000119312526395475/ck0002110365-20260918.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-09-18",
+    "retrieved_at": "2026-11-10T01:46:46.257276+00:00",
+    "raw_file": "relations/us/raw/sec/7b00ba82af0f97aecefb4a75fbff427c245c955f30e77c9f6158956d945744ea.sec.bin",
+    "text_sha256": "7b00ba82af0f97aecefb4a75fbff427c245c955f30e77c9f6158956d945744ea"
+   }
+  ],
+  "as_of": "2026-09-18",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": false
+  },
+  "case_relevance": "보유↔보유 밖(상장 전). 11/5 「Microsoft 가 Nscale 텍사스 계약 확대 옵션을 안 씀」 보도(Bloomberg·biggo, 언론)가 이 관계. 같은 기사가 그 결정은 선거 전이라고 적음"
+ },
+ {
+  "edge_id": "US-037",
+  "from": {
+   "name": "Anthropic",
+   "id": "PRIVATE:Anthropic"
+  },
+  "to": {
+   "name": "Nscale (상장 신청 중)",
+   "id": "SEC_CIK:0002110365"
+  },
+  "relation": "customer_of",
+  "what": "Anthropic 서비스 계약 4건, 최대 약 446억 달러(2026-08-25)",
+  "evidence": [
+   {
+    "quote": "In addition, on August 25, 2026, we entered into the Anthropic Services Agreements, which provide for aggregate payments to us of up to approximately $44.6 billion, subject to our satisfaction of specified delivery and service availability requirements.",
+    "url": "https://www.sec.gov/Archives/edgar/data/2110365/000119312526395475/ck0002110365-20260918.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-09-18",
+    "retrieved_at": "2026-11-10T01:46:46.257276+00:00",
+    "raw_file": "relations/us/raw/sec/7b00ba82af0f97aecefb4a75fbff427c245c955f30e77c9f6158956d945744ea.sec.bin",
+    "text_sha256": "7b00ba82af0f97aecefb4a75fbff427c245c955f30e77c9f6158956d945744ea"
+   }
+  ],
+  "as_of": "2026-08-25",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": false
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "US-038",
+  "from": {
+   "name": "Amazon (AWS 포함)",
+   "id": "TICKER:AMZN"
+  },
+  "to": {
+   "name": "Cipher Mining",
+   "id": "TICKER:CIFR"
+  },
+  "relation": "lessee_of",
+  "what": "AWS 가 AI 용 데이터센터 캠퍼스를 15년 임차",
+  "evidence": [
+   {
+    "quote": "Executed 15-Year data center campus lease with Amazon Web Services to support AI workloads",
+    "url": "https://www.sec.gov/Archives/edgar/data/1819989/000181998925000110/nov3_earningspressreleasex.htm",
+    "source_kind": "SEC",
+    "published_at": "2025-11-03",
+    "retrieved_at": "2026-11-10T01:45:16.729407+00:00",
+    "raw_file": "relations/us/raw/sec/8cb2a6618f0d57b0513c637ff78868e4af2a77ec9d639a8f42512ea1a337b5e3.sec.bin",
+    "text_sha256": "8cb2a6618f0d57b0513c637ff78868e4af2a77ec9d639a8f42512ea1a337b5e3"
+   }
+  ],
+  "as_of": "2025-11-03",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": false
+  },
+  "case_relevance": "보유↔보유 밖. 11/4 Cipher -19.95(ERCOT 의존 큼) · Amazon +6.12 로 방향 반대"
+ },
+ {
+  "edge_id": "US-039",
+  "from": {
+   "name": "Anthropic",
+   "id": "PRIVATE:Anthropic"
+  },
+  "to": {
+   "name": "TeraWulf",
+   "id": "TICKER:WULF"
+  },
+  "relation": "lessee_of",
+  "what": "켄터키 Hawesville 약 401MW 20년 임차(2026-07)",
+  "evidence": [
+   {
+    "quote": "in July 2026, the Company’s subsidiary Raylan Data LLC (“Raylan”) entered into a 20-year lease agreement with Anthropic, PBC (“Anthropic”), as tenant, to provide Anthropic with approximately 401 MW of critical IT load for high-performance computing (“HPC”) operations at the Company’s data center campus located in Hawesville, Kentucky.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1083301/000162828026069810/wulf-20261104.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-11-04",
+    "retrieved_at": "2026-11-10T01:46:46.944677+00:00",
+    "raw_file": "relations/us/raw/sec/081e2786a629fbd552283a5992ba7bf3801b774e22d45f0fb3ab9727a193c7fd.sec.bin",
+    "text_sha256": "081e2786a629fbd552283a5992ba7bf3801b774e22d45f0fb3ab9727a193c7fd"
+   }
+  ],
+  "as_of": "2026-07",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": false
+  },
+  "case_relevance": "텍사스 밖이라 「수혜 쪽」으로 거론된 회사. 11/6 TeraWulf +12.80"
+ },
+ {
+  "edge_id": "US-040",
+  "from": {
+   "name": "Alphabet (Google)",
+   "id": "TICKER:GOOGL"
+  },
+  "to": {
+   "name": "TeraWulf",
+   "id": "TICKER:WULF"
+  },
+  "relation": "contract_counterparty",
+  "what": "Anthropic 임대 의무에 대한 Google 지급 보증(신용 지원 계약 3건, 2026-11-04 체결)",
+  "evidence": [
+   {
+    "quote": "In connection with the Justified Leases, on November 4, 2026, the Company entered into three Credit Support Agreements for CB-1, CB-2 and CB-3, respectively (each a “Google Credit Support Agreement” and collectively, the “Google Credit Support Agreements”), with Raylan, Justified DataPower LLC, a wholly owned subsidiary of the Company, Anthropic and Google LLC (“Google”), pursuant to which Google agreed to backstop (the “Justified Google Backstop”) certain obligations of Anthropic under the Justified Leases.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1083301/000162828026069810/wulf-20261104.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-11-04",
+    "retrieved_at": "2026-11-10T01:46:46.944677+00:00",
+    "raw_file": "relations/us/raw/sec/081e2786a629fbd552283a5992ba7bf3801b774e22d45f0fb3ab9727a193c7fd.sec.bin",
+    "text_sha256": "081e2786a629fbd552283a5992ba7bf3801b774e22d45f0fb3ab9727a193c7fd"
+   }
+  ],
+  "as_of": "2026-11-04",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": false
+  },
+  "case_relevance": "보유↔보유 밖. 급락 첫날(11/4) 체결 — 빅테크가 텍사스 밖 임대를 받쳐 준 사례"
+ },
+ {
+  "edge_id": "US-041",
+  "from": {
+   "name": "Constellation Energy",
+   "id": "TICKER:CEG"
+  },
+  "to": {
+   "name": "Microsoft",
+   "id": "TICKER:MSFT"
+  },
+  "relation": "supplies_to",
+  "what": "Crane 원전(옛 TMI 1호기) 재가동 전력 구매 계약, 약 835MW",
+  "evidence": [
+   {
+    "quote": "Constellation signs its largest-ever power purchase agreement with Microsoft, a deal that will restore TMI Unit 1 to service and keep it online for decades; add approximately 835 megawatts of carbon-free energy to the grid",
+    "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827524000058/ceg-202409208kexh991.htm",
+    "source_kind": "SEC",
+    "published_at": "2024-09-20",
+    "retrieved_at": "2026-11-10T01:45:15.422571+00:00",
+    "raw_file": "relations/us/raw/sec/056b465fdf7a936270ba6fd154df3bc701e320fc4528f09fa3950e089891f266.sec.bin",
+    "text_sha256": "056b465fdf7a936270ba6fd154df3bc701e320fc4528f09fa3950e089891f266"
+   }
+  ],
+  "as_of": "2024-09-20",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. 발전→빅테크. Constellation 은 지역 분산이라 11/4 -6.71 로 텍사스 발전사보다 덜 빠짐"
+ },
+ {
+  "edge_id": "US-042",
+  "from": {
+   "name": "Constellation Energy",
+   "id": "TICKER:CEG"
+  },
+  "to": {
+   "name": "Meta Platforms",
+   "id": "TICKER:META"
+  },
+  "relation": "supplies_to",
+  "what": "Clinton 원전 전체 출력 20년 계약",
+  "evidence": [
+   {
+    "quote": "Signed 20-year deal with Meta for full output of Clinton Clean Energy Center",
+    "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827525000070/ceg-20250807991.htm",
+    "source_kind": "SEC",
+    "published_at": "2025-08-07",
+    "retrieved_at": "2026-11-10T01:45:16.045894+00:00",
+    "raw_file": "relations/us/raw/sec/7ee8e4d5f19ecc1fe352b6df2054c1388a132b35390834b8724ee2bd53ef8b09.sec.bin",
+    "text_sha256": "7ee8e4d5f19ecc1fe352b6df2054c1388a132b35390834b8724ee2bd53ef8b09"
+   }
+  ],
+  "as_of": "2025-08-07",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유"
+ },
+ {
+  "edge_id": "US-043",
+  "from": {
+   "name": "Talen Energy",
+   "id": "TICKER:TLN"
+  },
+  "to": {
+   "name": "Amazon (AWS 포함)",
+   "id": "TICKER:AMZN"
+  },
+  "relation": "supplies_to",
+  "what": "무탄소 전력 1,920MW 구매 계약",
+  "evidence": [
+   {
+    "quote": "Talen enters power purchase agreement for 1,920 megawatts of carbon-free electricity at full quantity to support Amazon operations",
+    "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162828025030559/a20250611pressreleasebusin.htm",
+    "source_kind": "SEC",
+    "published_at": "2025-06-11",
+    "retrieved_at": "2026-11-10T01:45:16.400191+00:00",
+    "raw_file": "relations/us/raw/sec/0d0181a73e4d68827842d38c66cf94f6dfedfa07b59320678d0f52f3852b4156.sec.bin",
+    "text_sha256": "0d0181a73e4d68827842d38c66cf94f6dfedfa07b59320678d0f52f3852b4156"
+   }
+  ],
+  "as_of": "2025-06-11",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "보유 밖(Talen)↔보유(Amazon). 11/4 Talen -8.54 · Amazon +6.12"
+ },
+ {
+  "edge_id": "US-044",
+  "from": {
+   "name": "Vistra",
+   "id": "TICKER:VST"
+  },
+  "to": {
+   "name": "Microsoft",
+   "id": "TICKER:MSFT"
+  },
+  "relation": "supplies_to",
+  "what": "일리노이 Pulaski 태양광 405MW 전력 구매 계약(가동 시작)",
+  "evidence": [
+   {
+    "quote": "405 MW Pulaski Solar Facility in Illinois, under a power purchase agreement with Microsoft",
+    "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000023/vistra-20260930xearningsre.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-11-06",
+    "retrieved_at": "2026-11-10T01:44:34.917414+00:00",
+    "raw_file": "relations/us/raw/sec/6b99ae560b5f8b0eb9ffffbed89caa086e4875f565b0183faecb7b1274122013.sec.bin",
+    "text_sha256": "6b99ae560b5f8b0eb9ffffbed89caa086e4875f565b0183faecb7b1274122013"
+   }
+  ],
+  "as_of": "2026-09-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. 11/4 Vistra -13.83(텍사스 비중) · Microsoft +6.68"
+ },
+ {
+  "edge_id": "US-045",
+  "from": {
+   "name": "Vistra",
+   "id": "TICKER:VST"
+  },
+  "to": {
+   "name": "New Era Energy & Digital",
+   "id": "SEC_CIK:0002028336"
+  },
+  "relation": "supplies_to",
+  "what": "텍사스 Odessa 가스복합 207MW 20년 전력 구매 계약",
+  "evidence": [
+   {
+    "quote": "Announced a 20-year 207 MW power purchase agreement with New Era Energy and Digital at our Odessa combined cycle gas plant in Texas.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000023/vistra-20260930xearningsre.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-11-06",
+    "retrieved_at": "2026-11-10T01:44:34.917414+00:00",
+    "raw_file": "relations/us/raw/sec/6b99ae560b5f8b0eb9ffffbed89caa086e4875f565b0183faecb7b1274122013.sec.bin",
+    "text_sha256": "6b99ae560b5f8b0eb9ffffbed89caa086e4875f565b0183faecb7b1274122013"
+   }
+  ],
+  "as_of": "2026-11-06",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": false
+  },
+  "case_relevance": "보유↔보유 밖. 급락 직후(11/6) 텍사스 데이터센터 전력 계약 발표, 그날 Vistra +10.55. 공시에 선거·유예 언급 없음"
+ },
+ {
+  "edge_id": "US-046",
+  "from": {
+   "name": "Sempra",
+   "id": "TICKER:SRE"
+  },
+  "to": {
+   "name": "Oncor Electric Delivery",
+   "id": "SEC_CIK:0001193311"
+  },
+  "relation": "owns_stake_in",
+  "what": "Oncor 지분 80.25%(Oncor Electric Delivery Holdings 경유)",
+  "evidence": [
+   {
+    "quote": "Includes 100% of the electric deliveries and customer meters of Oncor, in which we hold an 80.25% interest through our investment in Oncor Electric Delivery Holdings Company LLC.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1032208/000103220826000051/ex99_1x20260930xearningsta.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-11-05",
+    "retrieved_at": "2026-11-10T01:44:36.490699+00:00",
+    "raw_file": "relations/us/raw/sec/c35b6dd54fc86df0176abc52c72409c3066a5f8b43f8cbe951e589c3e3bf852c.sec.bin",
+    "text_sha256": "c35b6dd54fc86df0176abc52c72409c3066a5f8b43f8cbe951e589c3e3bf852c"
+   }
+  ],
+  "as_of": "2026-09-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": false
+  },
+  "case_relevance": "보유↔보유 밖(Oncor 주식은 상장 안 됨). 텍사스 송배전 대형 부하 경로. Sempra 11/4 -2.88 · 11/5 -3.70"
+ },
+ {
+  "edge_id": "US-047",
+  "from": {
+   "name": "Texas Pacific Land",
+   "id": "TICKER:TPL"
+  },
+  "to": {
+   "name": "Chevron",
+   "id": "TICKER:CVX"
+  },
+  "relation": "supplies_to",
+  "what": "Project Kilby 발전소용 땅과 기수(brackish water) 공급 계약",
+  "evidence": [
+   {
+    "quote": "today announced an agreement with Chevron U.S.A. Inc., a subsidiary of Chevron Corporation (NYSE: CVX) ( “Chevron”) to provide land and brackish water resources for Chevron’s recently announced development known as Project Kilby, involving a large-scale power generation facility Chevron is developing to support a customer data center in Reeves County, Texas.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107426000045/exhibit991tplannouncesag.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-06-23",
+    "retrieved_at": "2026-11-10T01:43:21.292270+00:00",
+    "raw_file": "relations/us/raw/sec/4547e20c428d6b6b80bee7ee9da38171dba2c99729f7d63d8aa4f2127fbebf37.sec.bin",
+    "text_sha256": "4547e20c428d6b6b80bee7ee9da38171dba2c99729f7d63d8aa4f2127fbebf37"
+   },
+   {
+    "quote": "Announced an agreement with Chevron U.S.A. Inc., a subsidiary of Chevron Corporation (NYSE: CVX) (“Chevron”) to provide land and brackish water resources for Chevron’s recently announced development known as Project Kilby, involving a large-scale power generation facility Chevron is developing to support a customer data center in Reeves County, Texas.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1811074/000181107426000075/exhibit991q32026earningsre.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-11-04",
+    "retrieved_at": "2026-11-10T01:51:27.281388+00:00",
+    "raw_file": "relations/us/raw/sec/82db759886cbbdcae1ac7554193a2c9f85ea42b255826447420a4bb9e3d8886e.sec.bin",
+    "text_sha256": "82db759886cbbdcae1ac7554193a2c9f85ea42b255826447420a4bb9e3d8886e"
+   }
+  ],
+  "as_of": "2026-06-23",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. 공시는 데이터센터 주인을 「a customer」로만 적음. 11/4 TPL -13.36(같은 날 실적 발표) · Chevron -3.69(유가 겹침)"
+ },
+ {
+  "edge_id": "US-048",
+  "from": {
+   "name": "Chevron",
+   "id": "TICKER:CVX"
+  },
+  "to": {
+   "name": "Microsoft",
+   "id": "TICKER:MSFT"
+  },
+  "relation": "supplies_to",
+  "what": "텍사스 Pecos 의 Microsoft 데이터센터 전용 가스발전 20년 전력 구매 계약, 약 2.67GW(Project Kilby)",
+  "evidence": [
+   {
+    "quote": "Chevron announced that Energy Forge One, a wholly owned subsidiary, signed an agreement with Microsoft to develop a co-located power facility in West Texas that will provide dedicated electricity to a Microsoft-operated data center under a 20-year power purchase agreement.",
+    "url": "https://pulse2.com/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center/",
+    "source_kind": "press",
+    "published_at": "2026-06-23",
+    "retrieved_at": "2026-11-10T01:48:58.692859+00:00",
+    "raw_file": "relations/us/raw/web/a6c20d4ba633dbcdc462c71a5e21152348e238599f2ea302d91ab92be27a89fa.bin",
+    "text_sha256": "a6c20d4ba633dbcdc462c71a5e21152348e238599f2ea302d91ab92be27a89fa"
+   }
+  ],
+  "as_of": "2026-06-22",
+  "status": "press_report",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. 셰브론 원 보도자료(Business Wire·chevron.com)는 403 이라 못 받았고 SEC 에서는 TPL 공시가 「a customer」로만 적어 언론 등급. 최종 투자 결정 2026년 말 예정"
+ },
+ {
+  "edge_id": "US-049",
+  "from": {
+   "name": "GE Vernova",
+   "id": "TICKER:GEV"
+  },
+  "to": {
+   "name": "Chevron",
+   "id": "TICKER:CVX"
+  },
+  "relation": "supplies_to",
+  "what": "Kilby 발전 대부분을 GE Vernova 대형 터빈이 맡을 예정",
+  "evidence": [
+   {
+    "quote": "Most of the generation is expected to come from large GE Vernova turbines and associated electrical infrastructure, with additional capacity from Solar Turbines, a wholly owned subsidiary of Caterpillar.",
+    "url": "https://pulse2.com/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center/",
+    "source_kind": "press",
+    "published_at": "2026-06-23",
+    "retrieved_at": "2026-11-10T01:48:58.692859+00:00",
+    "raw_file": "relations/us/raw/web/a6c20d4ba633dbcdc462c71a5e21152348e238599f2ea302d91ab92be27a89fa.bin",
+    "text_sha256": "a6c20d4ba633dbcdc462c71a5e21152348e238599f2ea302d91ab92be27a89fa"
+   }
+  ],
+  "as_of": "2026-06-22",
+  "status": "press_report",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. 「expected」— 확정 공급 계약 공시는 못 찾음(SEC 전문 검색에서 GE Vernova 공시 안 Chevron·Crusoe 0건). 11/4 GE Vernova -9.30"
+ },
+ {
+  "edge_id": "US-050",
+  "from": {
+   "name": "Caterpillar (Solar Turbines)",
+   "id": "TICKER:CAT"
+  },
+  "to": {
+   "name": "Chevron",
+   "id": "TICKER:CVX"
+  },
+  "relation": "supplies_to",
+  "what": "Kilby 추가 발전 용량을 자회사 Solar Turbines 가 맡을 예정",
+  "evidence": [
+   {
+    "quote": "Most of the generation is expected to come from large GE Vernova turbines and associated electrical infrastructure, with additional capacity from Solar Turbines, a wholly owned subsidiary of Caterpillar.",
+    "url": "https://pulse2.com/chevron-signs-20-year-power-agreement-with-microsoft-for-west-texas-data-center/",
+    "source_kind": "press",
+    "published_at": "2026-06-23",
+    "retrieved_at": "2026-11-10T01:48:58.692859+00:00",
+    "raw_file": "relations/us/raw/web/a6c20d4ba633dbcdc462c71a5e21152348e238599f2ea302d91ab92be27a89fa.bin",
+    "text_sha256": "a6c20d4ba633dbcdc462c71a5e21152348e238599f2ea302d91ab92be27a89fa"
+   }
+  ],
+  "as_of": "2026-06-22",
+  "status": "press_report",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. 11/4 Caterpillar -5.23"
+ },
+ {
+  "edge_id": "US-051",
+  "from": {
+   "name": "Oracle",
+   "id": "TICKER:ORCL"
+  },
+  "to": {
+   "name": "Bloom Energy",
+   "id": "TICKER:BE"
+  },
+  "relation": "contract_counterparty",
+  "what": "AI 데이터센터 현장 연료전지 전력 협력(2025-10-28)",
+  "evidence": [
+   {
+    "quote": "On October 28, 2025, in connection with the partnership between the Company and Oracle Corporation (“Oracle”) to provide on-site solid state power for AI data centers",
+    "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066931/be-20260930.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-10-22",
+    "retrieved_at": "2026-11-10T01:46:22.739178+00:00",
+    "raw_file": "relations/us/raw/sec/45d76211f960c89296f310c5854e55856491a87cf508cb0d93396b0bfdfb50dd.sec.bin",
+    "text_sha256": "45d76211f960c89296f310c5854e55856491a87cf508cb0d93396b0bfdfb50dd"
+   }
+  ],
+  "as_of": "2025-10-28",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. 11/5 Bloom -16.41 · Oracle -6.93"
+ },
+ {
+  "edge_id": "US-052",
+  "from": {
+   "name": "Oracle",
+   "id": "TICKER:ORCL"
+  },
+  "to": {
+   "name": "Bloom Energy",
+   "id": "TICKER:BE"
+  },
+  "relation": "owns_stake_in",
+  "what": "신주인수권 무상 행사로 Bloom 보통주 1,905,433주 취득(2026-05-01). 그 뒤 계속 갖고 있는지는 공시에 없음",
+  "evidence": [
+   {
+    "quote": "On May 1, 2026 (the “Exercise Date”), Oracle completed a cashless exercise of the Warrant, resulting in the issuance of 1,905,433 shares of our common stock.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026066931/be-20260930.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-10-22",
+    "retrieved_at": "2026-11-10T01:46:22.739178+00:00",
+    "raw_file": "relations/us/raw/sec/45d76211f960c89296f310c5854e55856491a87cf508cb0d93396b0bfdfb50dd.sec.bin",
+    "text_sha256": "45d76211f960c89296f310c5854e55856491a87cf508cb0d93396b0bfdfb50dd"
+   }
+  ],
+  "as_of": "2026-05-01",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. 그 뒤 매도 여부 미확인"
+ },
+ {
+  "edge_id": "US-053",
+  "from": {
+   "name": "Marvell Technology",
+   "id": "TICKER:MRVL"
+  },
+  "to": {
+   "name": "Lumentum",
+   "id": "TICKER:LITE"
+  },
+  "relation": "contract_counterparty",
+  "what": "Marvell 의 Lumentum 인수 합병 계약(2026-11-01 체결, 주식 교환)",
+  "evidence": [
+   {
+    "quote": "On November 1, 2026, Marvell Technology, Inc., a Delaware corporation (“ Marvell ”) entered into an Agreement and Plan of Merger (the “ Merger Agreement ”) with Lumentum Holdings Inc.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1835632/000119312526442717/d352474d8k.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-11-02",
+    "retrieved_at": "2026-11-10T01:44:44.591913+00:00",
+    "raw_file": "relations/us/raw/sec/afec36cab2bc6622eca5cf589a1831756dbc57709412953711d16d16a59eb0c1.sec.bin",
+    "text_sha256": "afec36cab2bc6622eca5cf589a1831756dbc57709412953711d16d16a59eb0c1"
+   }
+  ],
+  "as_of": "2026-11-01",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. 11/5 Lumentum -18.68 은 대부분 Marvell -16.43 에 교환비율로 묶인 몫(us/findings.md 계산)"
+ },
+ {
+  "edge_id": "US-054",
+  "from": {
+   "name": "Microsoft",
+   "id": "TICKER:MSFT"
+  },
+  "to": {
+   "name": "OpenAI",
+   "id": "PRIVATE:OpenAI"
+  },
+  "relation": "owns_stake_in",
+  "what": "OpenAI 지분 약 24%(전환 기준, 지분법)",
+  "evidence": [
+   {
+    "quote": "We have a long-term strategic partnership with OpenAI. We have an investment accounted for under the equity method that represents an approximate 24 % interest on an as-converted basis.",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/msft-20260930.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-10-28",
+    "retrieved_at": "2026-11-10T01:47:07.075870+00:00",
+    "raw_file": "relations/us/raw/sec/12b4d31fa08082a099a5b097c4b24ddf1b676d4ec6edef70f0b2f8820e064ce2.sec.bin",
+    "text_sha256": "12b4d31fa08082a099a5b097c4b24ddf1b676d4ec6edef70f0b2f8820e064ce2"
+   }
+  ],
+  "as_of": "2026-09-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": false
+  },
+  "case_relevance": "OpenAI 가 데이터센터 용량 계획을 줄이면 Microsoft 지분 가치와 매출에 함께 닿는 자리(축소 자체는 확인 못 함)"
+ },
+ {
+  "edge_id": "US-055",
+  "from": {
+   "name": "OpenAI",
+   "id": "PRIVATE:OpenAI"
+  },
+  "to": {
+   "name": "Microsoft",
+   "id": "TICKER:MSFT"
+  },
+  "relation": "customer_of",
+  "what": "2026-09 분기 OpenAI 와의 거래 매출 100억 달러(수익 배분 포함)",
+  "evidence": [
+   {
+    "quote": "For the three months ended September 30, 2026, we recorded revenue from commercial arrangements with OpenAI, inclusive of revenue-sharing payments, of $ 10.0 billion.",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/msft-20260930.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-10-28",
+    "retrieved_at": "2026-11-10T01:47:07.075870+00:00",
+    "raw_file": "relations/us/raw/sec/12b4d31fa08082a099a5b097c4b24ddf1b676d4ec6edef70f0b2f8820e064ce2.sec.bin",
+    "text_sha256": "12b4d31fa08082a099a5b097c4b24ddf1b676d4ec6edef70f0b2f8820e064ce2"
+   }
+  ],
+  "as_of": "2026-09-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "US-056",
+  "from": {
+   "name": "Amazon (AWS 포함)",
+   "id": "TICKER:AMZN"
+  },
+  "to": {
+   "name": "Anthropic",
+   "id": "PRIVATE:Anthropic"
+  },
+  "relation": "owns_stake_in",
+  "what": "Anthropic 전환사채 투자 일부를 무의결권 우선주로 전환",
+  "evidence": [
+   {
+    "quote": "are primarily from the portions of our convertible notes investments in Anthropic, PBC (“Anthropic”) that were converted to nonvoting preferred stock during Q3 2025 and the nine months ended September 30, 2025 and 2026.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/amzn-20260930.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-10-30",
+    "retrieved_at": "2026-11-10T01:47:24.625434+00:00",
+    "raw_file": "relations/us/raw/sec/7d38b6632acd953e59a58681d4b0a305cbddffaab78071465ee36c006969fc7c.sec.bin",
+    "text_sha256": "7d38b6632acd953e59a58681d4b0a305cbddffaab78071465ee36c006969fc7c"
+   }
+  ],
+  "as_of": "2026-09-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": false
+  },
+  "case_relevance": "unknown — Anthropic 은 Nscale·TeraWulf 의 고객이기도 함"
+ },
+ {
+  "edge_id": "US-057",
+  "from": {
+   "name": "Alphabet (Google)",
+   "id": "TICKER:GOOGL"
+  },
+  "to": {
+   "name": "Space Exploration Technologies (SpaceX)",
+   "id": "TICKER:SPCX"
+  },
+  "relation": "owns_stake_in",
+  "what": "SpaceX 주식 752억 달러(단기 매각 제한, 2026-09-30)",
+  "evidence": [
+   {
+    "quote": "Includes $ 75.2 billion of Space Exploration Technologies Corp. (\"SpaceX\") shares subject to short-term restrictions on the ability to sell.",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/goog-20260930.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-10-29",
+    "retrieved_at": "2026-11-10T01:47:25.477061+00:00",
+    "raw_file": "relations/us/raw/sec/ca5e898277e399cfb57a87e7b789aa094cf9b8a59f27ce1142bbf8a552302821.sec.bin",
+    "text_sha256": "ca5e898277e399cfb57a87e7b789aa094cf9b8a59f27ce1142bbf8a552302821"
+   }
+  ],
+  "as_of": "2026-09-30",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. 데이터센터 경로가 아니라 SpaceX 11/5 하락(머스크 정치 노출 보도)이 Alphabet 평가액에 닿는 경로"
+ },
+ {
+  "edge_id": "US-058",
+  "from": {
+   "name": "Vertiv",
+   "id": "TICKER:VRT"
+  },
+  "to": {
+   "name": "NVIDIA",
+   "id": "TICKER:NVDA"
+  },
+  "relation": "contract_counterparty",
+  "what": "800VDC 전원 설계 협력(공급 계약 아님, Rubin Ultra 대응 2026 하반기 출시 예정)",
+  "evidence": [
+   {
+    "quote": "today announced a milestone in its collaboration with NVIDIA to accelerate the next generation of AI factories, detailing its design maturity for 800 VDC power architectures",
+    "url": "https://www.vertiv.com/en-emea/about/news-and-events/news-releases/from-vision-to-readiness-vertiv-collaborates-with-nvidia-to-advance-800-vdc-platform-designs-to-power-the-next-generation-of-ai-factories/",
+    "source_kind": "IR",
+    "published_at": "2025-10-20",
+    "retrieved_at": "2026-11-10T01:49:09.448287+00:00",
+    "raw_file": "relations/us/raw/web/1f94ef67a3c0d79d3b03f74651b174cc2f79bcaea787bd8f3fe57291387f013b.bin",
+    "text_sha256": "1f94ef67a3c0d79d3b03f74651b174cc2f79bcaea787bd8f3fe57291387f013b"
+   }
+  ],
+  "as_of": "2025-10-20",
+  "status": "company_statement",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. 전력·냉각 단계가 칩 로드맵에 묶인 자리. 11/4 Vertiv -12.89 · 11/5 -14.02"
+ },
+ {
+  "edge_id": "US-059",
+  "from": {
+   "name": "Microsoft",
+   "id": "TICKER:MSFT"
+  },
+  "to": {
+   "name": "Oracle",
+   "id": "TICKER:ORCL"
+  },
+  "relation": "customer_of",
+  "what": "Oracle 에서 임차한 AI 연산 일부를 끄고 갱신 안 함(언론 보도)",
+  "evidence": [
+   {
+    "quote": "Microsoft has in recent months deactivated some of the AI compute capacity it leased from Oracle and decided not to renew, mainly because Oracle's servers run older-generation NVIDIA chips.",
+    "url": "https://finance.biggo.com/news/b75b8b6d-2213-4ae9-a45d-b6f67d3df4ed",
+    "source_kind": "press",
+    "published_at": "2026-11-06",
+    "retrieved_at": "2026-11-10T01:49:37.740526+00:00",
+    "raw_file": "relations/us/raw/web/32fc03ba6a59728c21bc7cbe5ba372c8d71202a4ebea3bcabd2972a06be64367.bin",
+    "text_sha256": "32fc03ba6a59728c21bc7cbe5ba372c8d71202a4ebea3bcabd2972a06be64367"
+   }
+  ],
+  "as_of": "2026-11-06",
+  "status": "press_report",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. 11/6 보도, BigGo 가 옮긴 원 보도는 미확인. Oracle 11/5 -6.93 · 11/6 +0.82"
+ },
+ {
+  "edge_id": "US-060",
+  "from": {
+   "name": "OpenAI",
+   "id": "PRIVATE:OpenAI"
+  },
+  "to": {
+   "name": "Oracle",
+   "id": "TICKER:ORCL"
+  },
+  "relation": "customer_of",
+  "what": "Oracle 계약 잔고 6,640억 달러 중 약 절반이 OpenAI(언론 보도. Oracle 10-Q 는 잔고 6,640억 달러만 적고 고객 이름 없음)",
+  "evidence": [
+   {
+    "quote": "Oracle's contracted revenue backlog reached $664 billion as of Aug. 31, with OpenAI accounting for roughly half,",
+    "url": "https://finance.biggo.com/news/b75b8b6d-2213-4ae9-a45d-b6f67d3df4ed",
+    "source_kind": "press",
+    "published_at": "2026-11-06",
+    "retrieved_at": "2026-11-10T01:49:37.740526+00:00",
+    "raw_file": "relations/us/raw/web/32fc03ba6a59728c21bc7cbe5ba372c8d71202a4ebea3bcabd2972a06be64367.bin",
+    "text_sha256": "32fc03ba6a59728c21bc7cbe5ba372c8d71202a4ebea3bcabd2972a06be64367"
+   }
+  ],
+  "as_of": "2026-08-31",
+  "status": "press_report",
+  "kic_held": {
+   "from": false,
+   "to": true
+  },
+  "case_relevance": "unknown"
+ },
+ {
+  "edge_id": "US-061",
+  "from": {
+   "name": "Bloom Energy",
+   "id": "TICKER:BE"
+  },
+  "to": {
+   "name": "Alphabet (Google)",
+   "id": "TICKER:GOOGL"
+  },
+  "relation": "supplies_to",
+  "what": "Google 와이오밍 데이터센터용 702MW 연료전지 공급 예정(Reuters 보도)",
+  "evidence": [
+   {
+    "quote": "The project will be powered in part by a planned 702-megawatt fuel-cell development equipped with carbon capture and storage technology. The fuel cells will be supplied by Bloom Energy.",
+    "url": "https://www.aol.com/articles/google-plans-17-billion-wyoming-204551000.html",
+    "source_kind": "press",
+    "published_at": "2026-11-05",
+    "retrieved_at": "2026-11-10T01:49:38.592685+00:00",
+    "raw_file": "relations/us/raw/web/332461e3b26c751e7c18de1b1cc5d29fff0a6869fc3e9c5d85d5c91afa99d18d.bin",
+    "text_sha256": "332461e3b26c751e7c18de1b1cc5d29fff0a6869fc3e9c5d85d5c91afa99d18d"
+   }
+  ],
+  "as_of": "2026-11-05",
+  "status": "press_report",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. 공급 소식에도 11/5 Bloom -16.41 — 같은 기사 「on worries that any potential restrictions could hit the industry」"
+ },
+ {
+  "edge_id": "US-062",
+  "from": {
+   "name": "American Electric Power",
+   "id": "TICKER:AEP"
+  },
+  "to": {
+   "name": "Alphabet (Google)",
+   "id": "TICKER:GOOGL"
+  },
+  "relation": "contract_counterparty",
+  "what": "Google 와이오밍 데이터센터 협력사(Tallgrass·Black Hills·AEP·Related Digital)",
+  "evidence": [
+   {
+    "quote": "Google's facility will be built in partnership with Tallgrass Energy, Black Hills Energy, American Electric Power and Related Digital.",
+    "url": "https://www.aol.com/articles/google-plans-17-billion-wyoming-204551000.html",
+    "source_kind": "press",
+    "published_at": "2026-11-05",
+    "retrieved_at": "2026-11-10T01:49:38.592685+00:00",
+    "raw_file": "relations/us/raw/web/332461e3b26c751e7c18de1b1cc5d29fff0a6869fc3e9c5d85d5c91afa99d18d.bin",
+    "text_sha256": "332461e3b26c751e7c18de1b1cc5d29fff0a6869fc3e9c5d85d5c91afa99d18d"
+   }
+  ],
+  "as_of": "2026-11-05",
+  "status": "press_report",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. 텍사스·오하이오 밖(와이오밍)으로 자리를 옮긴 투자. AEP 의 11/4~11/5 등락은 안 잼"
+ },
+ {
+  "edge_id": "US-063",
+  "from": {
+   "name": "NVIDIA",
+   "id": "TICKER:NVDA"
+  },
+  "to": {
+   "name": "Advanced Micro Devices",
+   "id": "TICKER:AMD"
+  },
+  "relation": "competitor_of",
+  "what": "GPU·가속 컴퓨팅 경쟁사로 AMD·Huawei·Intel 을 이름으로 듦",
+  "evidence": [
+   {
+    "quote": "such as Advanced Micro Devices, Inc., or AMD, Huawei Technologies Co. Ltd., or Huawei, and Intel Corporation, or Intel;",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+    "source_kind": "SEC",
+    "published_at": "2026-02-25",
+    "retrieved_at": "2026-11-10T01:41:33.504998+00:00",
+    "raw_file": "relations/us/raw/sec/75dfb4ca31320e81d4f9184888afef19638eb2566e20f59de8ada117131b8676.sec.bin",
+    "text_sha256": "75dfb4ca31320e81d4f9184888afef19638eb2566e20f59de8ada117131b8676"
+   }
+  ],
+  "as_of": "2026-01-25",
+  "status": "verified_original",
+  "kic_held": {
+   "from": true,
+   "to": true
+  },
+  "case_relevance": "보유↔보유. 11/5 둘 다 급락(NVDA -9.26, AMD -17.26) — 경쟁 관계로 갈린 움직임은 아님"
+ }
+]

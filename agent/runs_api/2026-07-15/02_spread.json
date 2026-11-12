@@ -1,0 +1,116 @@
+{
+ "date": "2026-07-15",
+ "원문 확인된 관계 전체": 111,
+ "그날 앞에 공개돼 쓸 수 있는 관계": 25,
+ "같이 볼 회사(보유 중)": [
+  {
+   "회사": "CRWV",
+   "보유 금액(백만 달러)": 7.5,
+   "그날 등락(%)": -3.53,
+   "재현 손익(백만 달러)": -0.3,
+   "까닭(공시)": [
+    {
+     "관계 번호": "US-017",
+     "58종목 안": "NVDA",
+     "밖": "CRWV",
+     "관계": "owns_stake_in",
+     "공개일": "2026-03-02",
+     "공시 문장": "In January 2026, NVIDIA Corporation invested $ 2 billion in the Company's Class A common stock at a purchase price of $ 87.20 per share",
+     "주소": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm"
+    },
+    {
+     "관계 번호": "US-023",
+     "58종목 안": "NVDA",
+     "밖": "CRWV",
+     "관계": "contract_counterparty",
+     "공개일": "2026-03-02",
+     "공시 문장": "Master Services Agreement between CoreWeave, Inc. and NVIDIA Corporation, dated April 10, 2023",
+     "주소": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm"
+    }
+   ]
+  },
+  {
+   "회사": "RIOT",
+   "보유 금액(백만 달러)": 8.4,
+   "그날 등락(%)": -0.45,
+   "재현 손익(백만 달러)": -0.0,
+   "까닭(공시)": [
+    {
+     "관계 번호": "US-031",
+     "58종목 안": "AMD",
+     "밖": "RIOT",
+     "관계": "lessee_of",
+     "공개일": "2026-01-16",
+     "공시 문장": "The signing of a Data Center Lease and Services Agreement (“Data Center Lease”) with Advanced Micro Devices, Inc. (“AMD”), a leading innovator in high-performance computing, graphics and visualization technologies, at the Rockdale Site, which includes an initi",
+     "주소": "https://www.sec.gov/Archives/edgar/data/1167419/000110465926004551/riot-20260116xex99d1.htm"
+    }
+   ]
+  },
+  {
+   "회사": "IREN",
+   "보유 금액(백만 달러)": 6.3,
+   "그날 등락(%)": -0.8,
+   "재현 손익(백만 달러)": -0.1,
+   "까닭(공시)": [
+    {
+     "관계 번호": "US-033",
+     "58종목 안": "DELL",
+     "밖": "IREN",
+     "관계": "supplies_to",
+     "공개일": "2025-11-03",
+     "공시 문장": "IREN has also entered into an agreement with Dell Technologies to purchase the GPUs and ancillary equipment",
+     "주소": "https://www.sec.gov/Archives/edgar/data/1878848/000114036125040072/ef20058139_ex99-1.htm"
+    }
+   ]
+  },
+  {
+   "회사": "MSFT",
+   "보유 금액(백만 달러)": 1873.8,
+   "그날 등락(%)": 2.78,
+   "재현 손익(백만 달러)": 52.1,
+   "까닭(공시)": [
+    {
+     "관계 번호": "US-041",
+     "58종목 안": "CEG",
+     "밖": "MSFT",
+     "관계": "supplies_to",
+     "공개일": "2024-09-20",
+     "공시 문장": "Constellation signs its largest-ever power purchase agreement with Microsoft, a deal that will restore TMI Unit 1 to service and keep it online for decades; add approximately 835 megawatts of carbon-free energy to the grid",
+     "주소": "https://www.sec.gov/Archives/edgar/data/1868275/000186827524000058/ceg-202409208kexh991.htm"
+    }
+   ]
+  },
+  {
+   "회사": "META",
+   "보유 금액(백만 달러)": 883.1,
+   "그날 등락(%)": 3.07,
+   "재현 손익(백만 달러)": 27.1,
+   "까닭(공시)": [
+    {
+     "관계 번호": "US-042",
+     "58종목 안": "CEG",
+     "밖": "META",
+     "관계": "supplies_to",
+     "공개일": "2025-08-07",
+     "공시 문장": "Signed 20-year deal with Meta for full output of Clinton Clean Energy Center",
+     "주소": "https://www.sec.gov/Archives/edgar/data/1868275/000186827525000070/ceg-20250807991.htm"
+    }
+   ]
+  }
+ ],
+ "더한 재현 손익(백만 달러)": 78.8,
+ "보유 밖 회사(이름만)": [
+  "000660",
+  "000660.KS",
+  "005930.KS",
+  "007660",
+  "010120",
+  "062040",
+  "2317.TW",
+  "3231.TW",
+  "GFS",
+  "OpenAI",
+  "TSM"
+ ],
+ "주가": "net/returns.csv.gz (~2026-10-29)"
+}

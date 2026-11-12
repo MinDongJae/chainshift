@@ -1,0 +1,341 @@
+{
+ "window_utc": [
+  "20260716000000",
+  "20260716234500"
+ ],
+ "files": 96,
+ "missing": [],
+ "records": 123961,
+ "hit_records": 530,
+ "by_stage": {
+  "데이터센터 공사": {
+   "n": 8,
+   "tone": 1.26,
+   "dc": 0
+  },
+  "반도체 장비·소재": {
+   "n": 41,
+   "tone": 0.18,
+   "dc": 0
+  },
+  "발전": {
+   "n": 7,
+   "tone": 0.2,
+   "dc": 1
+  },
+  "서버·네트워크·부품": {
+   "n": 108,
+   "tone": 0.06,
+   "dc": 0
+  },
+  "전력·냉각 설비": {
+   "n": 27,
+   "tone": -0.45,
+   "dc": 5
+  },
+  "칩": {
+   "n": 408,
+   "tone": 1.25,
+   "dc": 1
+  }
+ },
+ "by_company": {
+  "NVDA": 196,
+  "MU": 147,
+  "WDC": 89,
+  "AMD": 27,
+  "INTC": 23,
+  "LRCX": 21,
+  "AMAT": 19,
+  "AVGO": 18,
+  "MRVL": 15,
+  "STX": 15,
+  "CMI": 10,
+  "BE": 9,
+  "PWR": 8,
+  "TSEM": 7,
+  "CEG": 6,
+  "ANET": 5,
+  "ETN": 4,
+  "SMCI": 4,
+  "TER": 4,
+  "CAT": 4,
+  "CRDO": 2,
+  "LOGI": 1,
+  "SEI": 1,
+  "Q": 1,
+  "CSCO": 1,
+  "CLS": 1
+ },
+ "dc_hit_records": 7,
+ "unique_titles": 332,
+ "top": [
+  {
+   "t": "20260716221500",
+   "title": "Stocks Supported By Favorable Inflation News",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-supported-favorable-inflation-news-141442584.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "LRCX",
+    "WDC"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 0.29,
+   "dc": false,
+   "score": 9
+  },
+  {
+   "t": "20260716180000",
+   "title": "Cramer: A nightmare from my hedge fund days informs my current view",
+   "url": "https://www.cnbc.com/2026/07/16/cramer-a-nightmare-from-my-hedge-fund-days-informs-my-current-view.html",
+   "src": "cnbc.com",
+   "ticks": [
+    "AMD",
+    "AMAT",
+    "WDC"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -2.87,
+   "dc": false,
+   "score": 9
+  },
+  {
+   "t": "20260716200000",
+   "title": "Tech-heavy indexes fall globally as investors offload chip stocks",
+   "url": "https://www.irishtimes.com/business/2026/07/16/tech-heavy-indexes-fall-globally-as-investors-offload-chip-stocks/",
+   "src": "irishtimes.com",
+   "ticks": [
+    "MU",
+    "WDC",
+    "STX"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -1.61,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260716181500",
+   "title": "FinancialContent - Teradyne and Intel Shares Are Falling, What You Need To Know",
+   "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-7-16-teradyne-and-intel-shares-are-falling-what-you-need-to-know",
+   "src": "financialcontent.com",
+   "ticks": [
+    "INTC",
+    "TSEM",
+    "TER"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.72,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260716144500",
+   "title": "S&P 500, Nasdaq fall as chip stocks weaken; earnings and data in focus",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-pause-two-095159760.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "WDC",
+    "STX"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -1.36,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260716093000",
+   "title": "U.S. stock indexes rose on economic data and corporate earnings",
+   "url": "https://news.am/en/news/1050113",
+   "src": "news.am",
+   "ticks": [
+    "MU",
+    "AMD",
+    "AMAT"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 1.56,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260716041500",
+   "title": "Baystreet.ca - Futures Edge Higher",
+   "url": "http://baystreet.ca/articles/marketupdates/122254/Futures-Edge-Higher",
+   "src": "baystreet.ca",
+   "ticks": [
+    "MU",
+    "AMD",
+    "STX"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": -1.24,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260716024500",
+   "title": "SK Hynix Drops Near 11% as KOSPI Hits 37th Sidecar of 2026",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-drops-near-11-015930141.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "MRVL",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -4.78,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260716020000",
+   "title": "SK Hynix falls amid Asia tech rout, tracking U.S. semiconductor losses",
+   "url": "https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html",
+   "src": "cnbc.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": -5.5,
+   "dc": false,
+   "score": 8
+  },
+  {
+   "t": "20260716211500",
+   "title": "Steven Cress' Top 2 Stocks H2 2026 (undefined:CRDO)",
+   "url": "https://seekingalpha.com/article/4922783-steven-cress-top-2-stocks-h2-2026",
+   "src": "seekingalpha.com",
+   "ticks": [
+    "MU",
+    "AMD",
+    "CRDO"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 0.96,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20260716210000",
+   "title": "AI and chip stocks continue to slide sending the Nasdaq down near -1.5%",
+   "url": "https://investinglive.com:443/stocks/ai-and-chip-stocks-continue-to-slide-sending-the-nasdaq-down-near-1-5",
+   "src": "investinglive.com",
+   "ticks": [
+    "MU",
+    "MRVL",
+    "CRDO"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": 0.18,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20260716170000",
+   "title": "Marvell Drops 8% as AI Capex Slowdown Fears Weigh on Chips; Broadcom, AMD, and Intel Slide",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-drops-8-ai-capex-161207073.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "AVGO",
+    "INTC",
+    "MRVL"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -0.86,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20260716061500",
+   "title": "South Korea's KOSPI Plunges 6.49% as Chip Selloff Triggers Trading Halt and Wipes Out Prior Day's Rally",
+   "url": "https://www.ibtimes.com.au/kospi-index-plummets-semiconductor-selloff-1872397",
+   "src": "ibtimes.com.au",
+   "ticks": [
+    "MU",
+    "AMD",
+    "MRVL"
+   ],
+   "stages": [
+    "칩"
+   ],
+   "tone": -3.71,
+   "dc": false,
+   "score": 7
+  },
+  {
+   "t": "20260716231500",
+   "title": "Stocks Mixed on Favorable Inflation News and Chipmaker Weakness",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-mixed-favorable-inflation-news-151216218.html",
+   "src": "yahoo.com",
+   "ticks": [
+    "MU",
+    "LRCX"
+   ],
+   "stages": [
+    "반도체 장비·소재",
+    "칩"
+   ],
+   "tone": 0.39,
+   "dc": false,
+   "score": 6
+  },
+  {
+   "t": "20260716220000",
+   "title": "Slumping AI stocks drag down markets around the world",
+   "url": "https://www.latimes.com/business/story/2026-07-16/slumping-ai-stocks-drag-down-markets-around-world",
+   "src": "latimes.com",
+   "ticks": [
+    "MU",
+    "WDC"
+   ],
+   "stages": [
+    "서버·네트워크·부품",
+    "칩"
+   ],
+   "tone": 0.13,
+   "dc": false,
+   "score": 6
+  }
+ ],
+ "seconds": 282
+}

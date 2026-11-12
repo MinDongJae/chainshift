@@ -1,0 +1,77 @@
+{
+ "date": "2026-08-05",
+ "seen": [
+  {
+   "name": "pack(cases/2026-08-05/materials.md)",
+   "date": "2026-08-05"
+  },
+  {
+   "name": "mid(prices_long.csv.gz)",
+   "date": "2026-08-05"
+  },
+  {
+   "name": "newsstat(news/2026-08-05.json)",
+   "date": "2026-08-05"
+  },
+  {
+   "name": "news_search 'Eaton earnings data center Bloom Energy' → Seeking Alpha 1건(제목만, 까닭과 무관)",
+   "date": "2026-08-05"
+  }
+ ],
+ "tools": [
+  {
+   "tool": "newsstat",
+   "why": "숫자가 '규칙이 잘못 고른 날'(칩 내린 종목 5/9)을 가리켜 (d)(e)가 찼으므로 반대 근거 한 번 확인"
+  },
+  {
+   "tool": "news_search",
+   "why": "newsstat 에서 전력·냉각 설비 기사가 110건·논조 -1.87(이튼 56건, 블룸에너지 36건)로 튀어, 전력 쪽에 따로 나쁜 소식이 있었는지 확인(before=2026-08-06)"
+  }
+ ],
+ "cause": "규칙이 잘못 고른 날",
+ "evidence": [
+  {
+   "text": "칩 9종목 중 내린 것은 5개. 아스테라랩스 -12.0·타워 -11.9·AMD -7.0 이 평균(-4.02%)을 끌어내렸고 엔비디아 +3.4, 인텔 +0.2, 마이크론 +0.1",
+   "src": "mid 계산",
+   "pub": "2026-08-05"
+  },
+  {
+   "text": "S&P 500, Dow at record highs on Mideast deal hopes; SpaceX, AMD drag",
+   "src": "spokesman.com N10",
+   "pub": "2026-08-05"
+  },
+  {
+   "text": "Stock Market Midday, Aug. 5: Eli Lilly Pops and AMD Drops in Mixed Morning Markets",
+   "src": "fool.com(newsstat, 18:45 UTC)",
+   "pub": "2026-08-05"
+  },
+  {
+   "text": "AMD·아스테라랩스 모두 전날(08-04) 실적 발표 — 실적 뒤 반응",
+   "src": "pack F1·F4 (8-K 2026-08-04 제출)",
+   "pub": "2026-08-04"
+  },
+  {
+   "text": "서버·부품 시장 대비 -0.95%p 로 -1%p 안",
+   "src": "mid 계산",
+   "pub": "2026-08-05"
+  },
+  {
+   "text": "Morning Bid: Semis fly again as AI capex shoots the moon",
+   "src": "yahoo.com N7",
+   "pub": "2026-08-05"
+  }
+ ],
+ "conditions": {
+  "a": false,
+  "b": false,
+  "c": false,
+  "d": true,
+  "e": true
+ },
+ "verdict": "안 번진다",
+ "confidence": "중간",
+ "counter": "그날 전력·냉각 설비 기사가 110건으로 평소의 서너 배이고 논조가 -1.87(이튼 56건·블룸에너지 36건) — 전력 쪽에 자기 까닭(실적 등)으로 나쁜 소식이 있었을 수 있고, 그렇다면 칩 충격이 번진 것은 아니어도 숫자로는 전력 쪽이 함께 빠진 날로 잡힐 수 있음. 제목은 확인하지 못함. 서버·부품도 16/22 가 시장보다 덜 올라 (e)는 선에 가까움.",
+ "dropped": 0,
+ "note": "칩 쪽 하락은 실적 뒤 세 종목의 일로 읽음. 전력 쪽 자체 소식은 까닭을 못 밝힘.",
+ "written_at": "2026-11-12T00:49:56+09:00"
+}
